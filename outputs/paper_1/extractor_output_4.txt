@@ -1,0 +1,497 @@
+[
+  {
+    "document_metadata": {
+      "title": "Critical Potentials for Pitting Corrosion of Ni, Cr-Ni, Cr-Fe, and Related Stainless Steels",
+      "thermodynamic_reference_data": [
+        {
+          "species_name": "CrCl3 (c)",
+          "physical_state": "crystalline",
+          "property": "Gibbs free energy of formation",
+          "value": -85.2,
+          "unit": "Kcal",
+          "conditions": {
+            "temperature_value": 25.0,
+            "temperature_unit": "°C"
+          }
+        },
+        {
+          "species_name": "NiCl2 (c)",
+          "physical_state": "crystalline",
+          "property": "Gibbs free energy of formation",
+          "value": -65.1,
+          "unit": "Kcal",
+          "conditions": {
+            "temperature_value": 25.0,
+            "temperature_unit": "°C"
+          }
+        },
+        {
+          "species_name": "MoCl3 (c)",
+          "physical_state": "crystalline",
+          "property": "Gibbs free energy of formation",
+          "value": -34.6,
+          "unit": "Kcal",
+          "conditions": {
+            "temperature_value": 25.0,
+            "temperature_unit": "°C"
+          }
+        },
+        {
+          "species_name": "MoO4-- (aq.)",
+          "physical_state": "aqueous",
+          "property": "Gibbs free energy of formation",
+          "value": -218.8,
+          "unit": "Kcal",
+          "conditions": {
+            "temperature_value": 25.0,
+            "temperature_unit": "°C"
+          }
+        },
+        {
+          "species_name": "CrO4-- (aq.)",
+          "physical_state": "aqueous",
+          "property": "Gibbs free energy of formation",
+          "value": -176.1,
+          "unit": "Kcal",
+          "conditions": {
+            "temperature_value": 25.0,
+            "temperature_unit": "°C"
+          }
+        }
+      ]
+    },
+    "extracted_samples": [
+      {
+        "alloy_identity": {
+          "alloy_name": "Aluminum (Al)",
+          "material_class": "Pure Metal",
+          "is_experimental_melt": false,
+          "is_literature_reference": true,
+          "data_source_location": "Table I"
+        },
+        "composition": {
+          "elements": [
+            {
+              "element": "Al",
+              "value": 100.0,
+              "unit": "wt%",
+              "is_nominal": true
+            }
+          ],
+          "balance_element": "Al"
+        },
+        "experimental_conditions": {
+          "electrolyte": {
+            "base_salt": "NaCl",
+            "concentration": {
+              "value": 0.1,
+              "unit": "N"
+            },
+            "aggressive_ion": "Cl-"
+          },
+          "test_temperature": {
+            "value": 25.0,
+            "unit": "°C"
+          }
+        },
+        "results": {
+          "pitting_potential": {
+            "value": 0.45,
+            "unit": "V",
+            "sign": "-"
+          }
+        }
+      },
+      {
+        "alloy_identity": {
+          "alloy_name": "Pure Nickel (Ni)",
+          "material_class": "Pure Metal",
+          "is_experimental_melt": true,
+          "is_literature_reference": false,
+          "data_source_location": "Table I"
+        },
+        "composition": {
+          "elements": [
+            {
+              "element": "Ni",
+              "value": 100.0,
+              "unit": "wt%",
+              "is_nominal": true
+            }
+          ],
+          "balance_element": "Ni"
+        },
+        "thermomechanical_processing": [
+          {
+            "step_name": "Cold rolling",
+            "temperature": null,
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": null
+          },
+          {
+            "step_name": "Annealing",
+            "temperature": {
+              "value": 1000.0,
+              "unit": "°C"
+            },
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": "Water quenched"
+          }
+        ],
+        "surface_treatment": {
+          "final_grit_finish": "3/0 emery paper",
+          "chemical_treatments": [
+            {
+              "reagent_name": "HNO3 + HF pickle",
+              "concentration": {
+                "value": 15.0,
+                "unit": "% HNO3"
+              },
+              "temperature": {
+                "value": 80.0,
+                "unit": "°C"
+              },
+              "duration": {
+                "value": 5.0,
+                "unit": "min"
+              }
+            }
+          ]
+        },
+        "experimental_conditions": {
+          "electrolyte": {
+            "base_salt": "NaCl",
+            "concentration": {
+              "value": 0.1,
+              "unit": "N"
+            },
+            "aggressive_ion": "Cl-"
+          },
+          "test_temperature": {
+            "value": 25.0,
+            "unit": "°C"
+          },
+          "gas_environment": {
+            "gas_type": "Nitrogen",
+            "is_deaerated": true,
+            "purification_method": {
+              "reagent": "Copper",
+              "temperature": {
+                "value": 450.0,
+                "unit": "°C"
+              }
+            },
+            "active_during_test": false
+          }
+        },
+        "electrochemical_protocol": {
+          "potential_scale": {
+            "reference_electrode": "SHE",
+            "reported_scale_text": "Volts, H2 Scale",
+            "is_corrected_to_she": true
+          },
+          "measurement_method": {
+            "type": "potentiostatic-step",
+            "step_magnitude": {
+              "value": 50.0,
+              "unit": "mV"
+            },
+            "is_steady_state": true,
+            "steady_state_criterion": "10-hr or longer period of constant polarization"
+          }
+        },
+        "results": {
+          "pitting_potential": {
+            "value": 0.28,
+            "unit": "V",
+            "sign": "+",
+            "uncertainty_type": "Reproducibility ± 5 mv"
+          }
+        }
+      },
+      {
+        "alloy_identity": {
+          "alloy_name": "15% Cr, 13% Ni Stainless Steel",
+          "material_class": "Stainless Steel",
+          "is_experimental_melt": true,
+          "is_literature_reference": false,
+          "data_source_location": "Figure 6 (at 25°C)"
+        },
+        "composition": {
+          "elements": [
+            {
+              "element": "Cr",
+              "value": 15.0,
+              "unit": "wt%",
+              "is_nominal": true
+            },
+            {
+              "element": "Ni",
+              "value": 13.0,
+              "unit": "wt%",
+              "is_nominal": true
+            },
+            {
+              "element": "Mo",
+              "value": 0.0,
+              "unit": "wt%",
+              "is_nominal": true
+            }
+          ],
+          "trace_impurities": [
+            {
+              "element": "C",
+              "value_min": 0.001,
+              "value_max": 0.002,
+              "unit": "%"
+            }
+          ],
+          "balance_element": "Fe"
+        },
+        "experimental_conditions": {
+          "electrolyte": {
+            "base_salt": "NaCl",
+            "concentration": {
+              "value": 0.1,
+              "unit": "N"
+            },
+            "aggressive_ion": "Cl-"
+          },
+          "test_temperature": {
+            "value": 25.0,
+            "unit": "°C"
+          }
+        },
+        "results": {
+          "pitting_potential": {
+            "value": 0.26,
+            "unit": "V",
+            "sign": "+"
+          }
+        }
+      },
+      {
+        "alloy_identity": {
+          "alloy_name": "15% Cr, 13% Ni Stainless Steel (0C)",
+          "material_class": "Stainless Steel",
+          "is_experimental_melt": true,
+          "is_literature_reference": false,
+          "data_source_location": "Figure 6 (at 0°C)"
+        },
+        "composition": {
+          "elements": [
+            {
+              "element": "Cr",
+              "value": 15.0,
+              "unit": "wt%",
+              "is_nominal": true
+            },
+            {
+              "element": "Ni",
+              "value": 13.0,
+              "unit": "wt%",
+              "is_nominal": true
+            }
+          ],
+          "balance_element": "Fe"
+        },
+        "experimental_conditions": {
+          "electrolyte": {
+            "base_salt": "NaCl",
+            "concentration": {
+              "value": 0.1,
+              "unit": "N"
+            },
+            "aggressive_ion": "Cl-"
+          },
+          "test_temperature": {
+            "value": 0.0,
+            "unit": "°C"
+          }
+        },
+        "results": {
+          "pitting_potential": {
+            "value": 0.78,
+            "unit": "V",
+            "sign": "+"
+          }
+        }
+      },
+      {
+        "alloy_identity": {
+          "alloy_name": "15% Cr, 13% Ni Stainless Steel in Bromide",
+          "material_class": "Stainless Steel",
+          "is_experimental_melt": true,
+          "is_literature_reference": false,
+          "data_source_location": "Figure 8 (at 25°C)"
+        },
+        "composition": {
+          "elements": [
+            {
+              "element": "Cr",
+              "value": 15.0,
+              "unit": "wt%",
+              "is_nominal": true
+            },
+            {
+              "element": "Ni",
+              "value": 13.0,
+              "unit": "wt%",
+              "is_nominal": true
+            }
+          ],
+          "balance_element": "Fe"
+        },
+        "experimental_conditions": {
+          "electrolyte": {
+            "base_salt": "NaBr",
+            "concentration": {
+              "value": 0.1,
+              "unit": "N"
+            },
+            "aggressive_ion": "Br-"
+          },
+          "test_temperature": {
+            "value": 25.0,
+            "unit": "°C"
+          }
+        },
+        "results": {
+          "pitting_potential": {
+            "value": 0.54,
+            "unit": "V",
+            "sign": "+"
+          }
+        }
+      },
+      {
+        "alloy_identity": {
+          "alloy_name": "Cr-Fe Binary (12% Cr)",
+          "material_class": "Binary Alloy",
+          "is_experimental_melt": true,
+          "is_literature_reference": false,
+          "data_source_location": "Figure 1 (estimated)"
+        },
+        "composition": {
+          "elements": [
+            {
+              "element": "Cr",
+              "value": 12.0,
+              "unit": "wt%",
+              "is_nominal": true
+            }
+          ],
+          "balance_element": "Fe"
+        },
+        "experimental_conditions": {
+          "electrolyte": {
+            "base_salt": "NaCl",
+            "concentration": {
+              "value": 0.1,
+              "unit": "N"
+            },
+            "aggressive_ion": "Cl-"
+          },
+          "test_temperature": {
+            "value": 25.0,
+            "unit": "°C"
+          }
+        },
+        "results": {
+          "pitting_potential": {
+            "value": 0.22,
+            "unit": "V",
+            "sign": "+",
+            "observation_notes": "Lowest Cr composition exhibiting passivity and localized breakdown"
+          }
+        }
+      },
+      {
+        "alloy_identity": {
+          "alloy_name": "Cr-Fe Binary (48.8% Cr)",
+          "material_class": "Binary Alloy",
+          "is_experimental_melt": true,
+          "is_literature_reference": false,
+          "data_source_location": "Figure 1 (estimated)"
+        },
+        "composition": {
+          "elements": [
+            {
+              "element": "Cr",
+              "value": 48.8,
+              "unit": "wt%",
+              "is_nominal": true
+            }
+          ],
+          "balance_element": "Fe"
+        },
+        "experimental_conditions": {
+          "electrolyte": {
+            "base_salt": "NaCl",
+            "concentration": {
+              "value": 0.1,
+              "unit": "N"
+            },
+            "aggressive_ion": "Cl-"
+          },
+          "test_temperature": {
+            "value": 25.0,
+            "unit": "°C"
+          }
+        },
+        "results": {
+          "pitting_potential": {
+            "value": 0.95,
+            "unit": "V",
+            "sign": "+"
+          },
+          "failure_mode": "pitting"
+        }
+      },
+      {
+        "alloy_identity": {
+          "alloy_name": "Ni-Mo Binary (3.2% Mo)",
+          "material_class": "Binary Alloy",
+          "is_experimental_melt": true,
+          "is_literature_reference": false,
+          "data_source_location": "Figure 3"
+        },
+        "composition": {
+          "elements": [
+            {
+              "element": "Mo",
+              "value": 3.2,
+              "unit": "wt%",
+              "is_nominal": true
+            }
+          ],
+          "balance_element": "Ni"
+        },
+        "experimental_conditions": {
+          "electrolyte": {
+            "base_salt": "NaCl",
+            "concentration": {
+              "value": 0.1,
+              "unit": "N"
+            },
+            "aggressive_ion": "Cl-"
+          },
+          "test_temperature": {
+            "value": 25.0,
+            "unit": "°C"
+          }
+        },
+        "results": {
+          "pitting_potential": {
+            "value": 0.2,
+            "unit": "V",
+            "sign": "+",
+            "observation_notes": "Lower critical potential than pure Ni"
+          }
+        }
+      }
+    ]
+  }
+]

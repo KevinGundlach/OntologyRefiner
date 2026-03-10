@@ -1,0 +1,661 @@
+[
+  {
+    "alloy_identifier": "Aluminum (Pure)",
+    "material_class": "Pure Metal",
+    "chemical_composition": {
+      "elements": [
+        {
+          "element": "Al",
+          "value": 100,
+          "unit": "wt%"
+        }
+      ],
+      "balance_element": "Al"
+    },
+    "microstructure": null,
+    "heat_treatment": null,
+    "sample_preparation": {
+      "surface_finish": "3/0 emery paper",
+      "sample_geometry": "cylindrical bar (0.4 cm diam) or flat coupon (0.5 cm wide)",
+      "pre_passivation_steps": "pickled in 15% HNO3, 5% HF at 80 C for 5 min"
+    },
+    "corrosion_tests": [
+      {
+        "test_type": "Potentiostatic Pitting Test (Steady-state)",
+        "test_temperature": "25 C",
+        "test_solution": {
+          "electrolyte_base": "NaCl",
+          "description": "0.1N NaCl",
+          "chlorine_concentration": "0.1 N",
+          "ph_value": null,
+          "aggressive_ions": {
+            "Cl-": "0.1 N"
+          },
+          "dissolved_oxygen": "deaerated with purified N2"
+        },
+        "electrochemical_parameters": {
+          "methodology": "Potentiostatic steps of 50 mV, 5 min intervals; steady-state observed over 10+ hours",
+          "reference_electrode": "Hydrogen Scale (SHE)",
+          "scan_rate": null
+        },
+        "results": {
+          "pitting_potential": {
+            "average": -0.45,
+            "minimum": null,
+            "maximum": null,
+            "unit": "V"
+          },
+          "repassivation_potential": null,
+          "critical_passivation_current_density": null,
+          "notes": "Estimated from data for various Cl- concentrations",
+          "additional_metrics": {
+            "pren": null,
+            "corrosion_rate_mpy": null,
+            "other": "Table I"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "alloy_identifier": "Nickel (Pure)",
+    "material_class": "Pure Metal",
+    "chemical_composition": {
+      "elements": [
+        {
+          "element": "Ni",
+          "value": 100,
+          "unit": "wt%"
+        }
+      ],
+      "balance_element": "Ni"
+    },
+    "microstructure": "Passive",
+    "heat_treatment": {
+      "description": "Annealed and water quenched",
+      "temperature": "1000 C",
+      "duration": null,
+      "cooling_method": "water quench"
+    },
+    "sample_preparation": {
+      "surface_finish": "3/0 emery paper",
+      "sample_geometry": "cylindrical bar or flat coupon",
+      "pre_passivation_steps": "pickled in 15% HNO3, 5% HF at 80 C for 5 min"
+    },
+    "corrosion_tests": [
+      {
+        "test_type": "Potentiostatic Pitting Test (Steady-state)",
+        "test_temperature": "25 C",
+        "test_solution": {
+          "electrolyte_base": "NaCl",
+          "description": "0.1N NaCl",
+          "chlorine_concentration": "0.1 N",
+          "ph_value": null,
+          "aggressive_ions": {
+            "Cl-": "0.1 N"
+          },
+          "dissolved_oxygen": "deaerated with purified N2"
+        },
+        "electrochemical_parameters": {
+          "methodology": "Potentiostatic steps of 50 mV, 5 min intervals; steady-state observed over 10+ hours",
+          "reference_electrode": "Hydrogen Scale (SHE)",
+          "scan_rate": null
+        },
+        "results": {
+          "pitting_potential": {
+            "average": 0.28,
+            "minimum": null,
+            "maximum": null,
+            "unit": "V"
+          },
+          "repassivation_potential": null,
+          "critical_passivation_current_density": null,
+          "notes": "Normal critical potential above which pitting occurs",
+          "additional_metrics": {
+            "pren": null,
+            "corrosion_rate_mpy": null,
+            "other": "Table I and Fig 2"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "alloy_identifier": "18-8 Stainless Steel (Commercial)",
+    "material_class": "Austenitic Stainless Steel",
+    "chemical_composition": {
+      "elements": [
+        {
+          "element": "Cr",
+          "value": 18,
+          "unit": "wt%"
+        },
+        {
+          "element": "Ni",
+          "value": 8,
+          "unit": "wt%"
+        }
+      ],
+      "balance_element": "Fe"
+    },
+    "microstructure": null,
+    "heat_treatment": null,
+    "sample_preparation": {
+      "surface_finish": "3/0 emery paper",
+      "sample_geometry": "cylindrical bar or flat coupon",
+      "pre_passivation_steps": "pickled"
+    },
+    "corrosion_tests": [
+      {
+        "test_type": "Potentiostatic Pitting Test (Steady-state)",
+        "test_temperature": "25 C",
+        "test_solution": {
+          "electrolyte_base": "NaCl",
+          "description": "0.1N NaCl",
+          "chlorine_concentration": "0.1 N",
+          "ph_value": null,
+          "aggressive_ions": {
+            "Cl-": "0.1 N"
+          },
+          "dissolved_oxygen": "deaerated with purified N2"
+        },
+        "electrochemical_parameters": {
+          "methodology": "Potentiostatic steady-state",
+          "reference_electrode": "Hydrogen Scale (SHE)",
+          "scan_rate": null
+        },
+        "results": {
+          "pitting_potential": {
+            "average": 0.26,
+            "minimum": null,
+            "maximum": null,
+            "unit": "V"
+          },
+          "repassivation_potential": null,
+          "critical_passivation_current_density": null,
+          "notes": "Value characteristic of one commercial composition. Higher values obtained for pure alloys.",
+          "additional_metrics": {
+            "pren": null,
+            "corrosion_rate_mpy": null,
+            "other": "Table I"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "alloy_identifier": "Cr-Fe Binary Alloys",
+    "material_class": "Ferritic Stainless Steel",
+    "chemical_composition": {
+      "elements": [
+        {
+          "element": "Cr",
+          "value": 12,
+          "unit": "wt%"
+        }
+      ],
+      "balance_element": "Fe"
+    },
+    "microstructure": "Lower alloys (<12% Cr) exhibited less or no passivity",
+    "heat_treatment": {
+      "description": "Homogenized at 1050 C, cold rolled, annealed at 1000 C and water quenched",
+      "temperature": "1000 C",
+      "duration": null,
+      "cooling_method": "water quench"
+    },
+    "sample_preparation": {
+      "surface_finish": "3/0 emery paper",
+      "sample_geometry": "0.25 cm thickness flat or rods",
+      "pre_passivation_steps": "pickled in 15% HNO3, 5% HF"
+    },
+    "corrosion_tests": [
+      {
+        "test_type": "Potentiostatic Pitting Test (Steady-state)",
+        "test_temperature": "25 C",
+        "test_solution": {
+          "electrolyte_base": "NaCl",
+          "description": "0.1N NaCl",
+          "chlorine_concentration": "0.1 N",
+          "ph_value": null,
+          "aggressive_ions": {
+            "Cl-": "0.1 N"
+          },
+          "dissolved_oxygen": "deaerated"
+        },
+        "electrochemical_parameters": {
+          "methodology": "Stages of 50 mV, 5 min intervals; steady-state observed over 10-hr period",
+          "reference_electrode": "Hydrogen Scale (SHE)",
+          "scan_rate": null
+        },
+        "results": {
+          "pitting_potential": {
+            "average": 0.23,
+            "minimum": null,
+            "maximum": 0.93,
+            "unit": "V"
+          },
+          "repassivation_potential": null,
+          "critical_passivation_current_density": null,
+          "notes": "Vc rises rapidly in region of 25-40% Cr. At 12% Cr, Vc is approx 0.23 V. At 40% Cr, Vc is approx 0.88 V. Alloys with 57.8% Cr and pure Cr do not pit (transpassive).",
+          "additional_metrics": {
+            "pren": null,
+            "corrosion_rate_mpy": null,
+            "other": "Data extracted from Figure 1"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "alloy_identifier": "Cr-Ni Binary Alloys",
+    "material_class": "Binary Alloy",
+    "chemical_composition": {
+      "elements": [
+        {
+          "element": "Cr",
+          "value": 0,
+          "unit": "wt%"
+        }
+      ],
+      "balance_element": "Ni"
+    },
+    "microstructure": "Single phase below ~29% Cr",
+    "heat_treatment": {
+      "description": "Homogenized, cold rolled, annealed at 1000 C and water quenched",
+      "temperature": "1000 C",
+      "duration": null,
+      "cooling_method": "water quench"
+    },
+    "sample_preparation": {
+      "surface_finish": "3/0 emery paper",
+      "sample_geometry": "flat or rods",
+      "pre_passivation_steps": "pickled"
+    },
+    "corrosion_tests": [
+      {
+        "test_type": "Potentiostatic Pitting Test (Steady-state)",
+        "test_temperature": "25 C",
+        "test_solution": {
+          "electrolyte_base": "NaCl",
+          "description": "0.1N NaCl",
+          "chlorine_concentration": "0.1 N",
+          "ph_value": null,
+          "aggressive_ions": {
+            "Cl-": "0.1 N"
+          },
+          "dissolved_oxygen": "deaerated"
+        },
+        "electrochemical_parameters": {
+          "methodology": "Potentiostatic steady-state",
+          "reference_electrode": "Hydrogen Scale (SHE)",
+          "scan_rate": null
+        },
+        "results": {
+          "pitting_potential": {
+            "average": 0.28,
+            "minimum": 0.28,
+            "maximum": 0.82,
+            "unit": "V"
+          },
+          "repassivation_potential": null,
+          "critical_passivation_current_density": null,
+          "notes": "Vc rises from 0.28 V (0% Cr) to approx 0.82 V (29.4% Cr). Pitting observed for all compositions tested in this series.",
+          "additional_metrics": {
+            "pren": null,
+            "corrosion_rate_mpy": null,
+            "other": "Data extracted from Figure 2"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "alloy_identifier": "Mo-Ni Binary Alloys",
+    "material_class": "Binary Alloy",
+    "chemical_composition": {
+      "elements": [
+        {
+          "element": "Mo",
+          "value": 3.2,
+          "unit": "wt%"
+        }
+      ],
+      "balance_element": "Ni"
+    },
+    "microstructure": "Passive",
+    "heat_treatment": {
+      "description": "Annealed and water quenched",
+      "temperature": "1000 C",
+      "duration": null,
+      "cooling_method": "water quench"
+    },
+    "sample_preparation": {
+      "surface_finish": "3/0 emery paper",
+      "sample_geometry": "rods or coupons",
+      "pre_passivation_steps": "pickled"
+    },
+    "corrosion_tests": [
+      {
+        "test_type": "Potentiodynamic Anodic Polarization",
+        "test_temperature": "25 C",
+        "test_solution": {
+          "electrolyte_base": "NaCl",
+          "description": "0.1N NaCl",
+          "chlorine_concentration": "0.1 N",
+          "ph_value": null,
+          "aggressive_ions": {
+            "Cl-": "0.1 N"
+          },
+          "dissolved_oxygen": "deaerated"
+        },
+        "electrochemical_parameters": {
+          "methodology": "Potentiostatic current density monitoring",
+          "reference_electrode": "Hydrogen Scale (SHE)",
+          "scan_rate": null
+        },
+        "results": {
+          "pitting_potential": {
+            "average": 0.2,
+            "minimum": null,
+            "maximum": null,
+            "unit": "V"
+          },
+          "repassivation_potential": null,
+          "critical_passivation_current_density": null,
+          "notes": "Addition of 3.2% Mo lowers Vc from 0.3V (for pure Ni) to 0.2V. Alloys with 6.8% Mo or higher show no pitting and enter transpassive region (molybdate formation).",
+          "additional_metrics": {
+            "pren": null,
+            "corrosion_rate_mpy": null,
+            "other": "Data extracted from Figure 3"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "alloy_identifier": "15% Cr, 13% Ni Stainless Steel Base",
+    "material_class": "Austenitic Stainless Steel",
+    "chemical_composition": {
+      "elements": [
+        {
+          "element": "Cr",
+          "value": 15,
+          "unit": "wt%"
+        },
+        {
+          "element": "Ni",
+          "value": 13,
+          "unit": "wt%"
+        },
+        {
+          "element": "C",
+          "value": 0.0015,
+          "unit": "wt%"
+        }
+      ],
+      "balance_element": "Fe"
+    },
+    "microstructure": "Single-phase austenitic",
+    "heat_treatment": {
+      "description": "Homogenized, swaged to rods, annealed and water quenched",
+      "temperature": "1050 C",
+      "duration": null,
+      "cooling_method": "water quench"
+    },
+    "sample_preparation": {
+      "surface_finish": "3/0 emery paper",
+      "sample_geometry": "0.45 cm diam rods",
+      "pre_passivation_steps": "pickled in 15% HNO3, 5% HF at 80 C"
+    },
+    "corrosion_tests": [
+      {
+        "test_type": "Potentiostatic Pitting Test (Steady-state)",
+        "test_temperature": "25 C",
+        "test_solution": {
+          "electrolyte_base": "NaCl",
+          "description": "0.1N NaCl",
+          "chlorine_concentration": "0.1 N",
+          "ph_value": null,
+          "aggressive_ions": {
+            "Cl-": "0.1 N"
+          },
+          "dissolved_oxygen": "deaerated"
+        },
+        "electrochemical_parameters": {
+          "methodology": "Steady-state (10+ hours)",
+          "reference_electrode": "Hydrogen Scale (SHE)",
+          "scan_rate": null
+        },
+        "results": {
+          "pitting_potential": {
+            "average": 0.26,
+            "minimum": null,
+            "maximum": null,
+            "unit": "V"
+          },
+          "repassivation_potential": null,
+          "critical_passivation_current_density": null,
+          "notes": "Base composition for Mo addition studies. Exhibits current oscillations in 0.7-1.55V range due to chromate formation.",
+          "additional_metrics": {
+            "pren": null,
+            "corrosion_rate_mpy": null,
+            "other": "Fig 4, Fig 6"
+          }
+        }
+      },
+      {
+        "test_type": "Potentiostatic Pitting Test (Steady-state)",
+        "test_temperature": "0 C",
+        "test_solution": {
+          "electrolyte_base": "NaCl",
+          "description": "0.1N NaCl",
+          "chlorine_concentration": "0.1 N",
+          "ph_value": null,
+          "aggressive_ions": {
+            "Cl-": "0.1 N"
+          },
+          "dissolved_oxygen": "deaerated"
+        },
+        "electrochemical_parameters": {
+          "methodology": "Steady-state (10+ hours)",
+          "reference_electrode": "Hydrogen Scale (SHE)",
+          "scan_rate": null
+        },
+        "results": {
+          "pitting_potential": {
+            "average": 0.78,
+            "minimum": null,
+            "maximum": null,
+            "unit": "V"
+          },
+          "repassivation_potential": null,
+          "critical_passivation_current_density": null,
+          "notes": "Large noble shift at 0 C compared to 25 C.",
+          "additional_metrics": {
+            "pren": null,
+            "corrosion_rate_mpy": null,
+            "other": "Fig 6"
+          }
+        }
+      },
+      {
+        "test_type": "Potentiostatic Pitting Test (Steady-state)",
+        "test_temperature": "25 C",
+        "test_solution": {
+          "electrolyte_base": "NaBr",
+          "description": "0.1N NaBr",
+          "chlorine_concentration": "0",
+          "ph_value": null,
+          "aggressive_ions": {
+            "Br-": "0.1 N"
+          },
+          "dissolved_oxygen": "deaerated"
+        },
+        "electrochemical_parameters": {
+          "methodology": "Steady-state",
+          "reference_electrode": "Hydrogen Scale (SHE)",
+          "scan_rate": null
+        },
+        "results": {
+          "pitting_potential": {
+            "average": 0.54,
+            "minimum": null,
+            "maximum": null,
+            "unit": "V"
+          },
+          "repassivation_potential": null,
+          "critical_passivation_current_density": null,
+          "notes": "More noble in bromide than in chloride at 25 C.",
+          "additional_metrics": {
+            "pren": null,
+            "corrosion_rate_mpy": null,
+            "other": "Fig 8"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "alloy_identifier": "15% Cr, 13% Ni, 2.4% Mo Stainless Steel",
+    "material_class": "Austenitic Stainless Steel",
+    "chemical_composition": {
+      "elements": [
+        {
+          "element": "Cr",
+          "value": 15,
+          "unit": "wt%"
+        },
+        {
+          "element": "Ni",
+          "value": 13,
+          "unit": "wt%"
+        },
+        {
+          "element": "Mo",
+          "value": 2.4,
+          "unit": "wt%"
+        }
+      ],
+      "balance_element": "Fe"
+    },
+    "microstructure": "Single-phase",
+    "heat_treatment": {
+      "description": "Annealed and water quenched",
+      "temperature": "1050 C",
+      "duration": null,
+      "cooling_method": "water quench"
+    },
+    "sample_preparation": {
+      "surface_finish": "3/0 emery paper",
+      "sample_geometry": "rods",
+      "pre_passivation_steps": "pickled"
+    },
+    "corrosion_tests": [
+      {
+        "test_type": "Potentiostatic Pitting Test (Steady-state)",
+        "test_temperature": "25 C",
+        "test_solution": {
+          "electrolyte_base": "NaCl",
+          "description": "0.1N NaCl",
+          "chlorine_concentration": "0.1 N",
+          "ph_value": null,
+          "aggressive_ions": {
+            "Cl-": "0.1 N"
+          },
+          "dissolved_oxygen": "deaerated"
+        },
+        "electrochemical_parameters": {
+          "methodology": "Steady-state",
+          "reference_electrode": "Hydrogen Scale (SHE)",
+          "scan_rate": null
+        },
+        "results": {
+          "pitting_potential": {
+            "average": 0.45,
+            "minimum": null,
+            "maximum": null,
+            "unit": "V"
+          },
+          "repassivation_potential": null,
+          "critical_passivation_current_density": null,
+          "notes": "Mo shift potential in noble direction in NaCl at 25 C.",
+          "additional_metrics": {
+            "pren": null,
+            "corrosion_rate_mpy": null,
+            "other": "Fig 6"
+          }
+        }
+      },
+      {
+        "test_type": "Potentiostatic Pitting Test (Steady-state)",
+        "test_temperature": "0 C",
+        "test_solution": {
+          "electrolyte_base": "NaCl",
+          "description": "0.1N NaCl",
+          "chlorine_concentration": "0.1 N",
+          "ph_value": null,
+          "aggressive_ions": {
+            "Cl-": "0.1 N"
+          },
+          "dissolved_oxygen": "deaerated"
+        },
+        "electrochemical_parameters": {
+          "methodology": "Steady-state",
+          "reference_electrode": "Hydrogen Scale (SHE)",
+          "scan_rate": null
+        },
+        "results": {
+          "pitting_potential": {
+            "average": null,
+            "minimum": null,
+            "maximum": null,
+            "unit": "V"
+          },
+          "repassivation_potential": null,
+          "critical_passivation_current_density": null,
+          "notes": "At 0 C, the 2.4% Mo alloy reaches transpassive state with no definite critical potential; corrodes uniformly unless polarized to ~0.6V.",
+          "additional_metrics": {
+            "pren": null,
+            "corrosion_rate_mpy": null,
+            "other": "Fig 6"
+          }
+        }
+      },
+      {
+        "test_type": "Potentiostatic Pitting Test (Steady-state)",
+        "test_temperature": "25 C",
+        "test_solution": {
+          "electrolyte_base": "NaBr",
+          "description": "0.1N NaBr",
+          "chlorine_concentration": "0",
+          "ph_value": null,
+          "aggressive_ions": {
+            "Br-": "0.1 N"
+          },
+          "dissolved_oxygen": "deaerated"
+        },
+        "electrochemical_parameters": {
+          "methodology": "Steady-state",
+          "reference_electrode": "Hydrogen Scale (SHE)",
+          "scan_rate": null
+        },
+        "results": {
+          "pitting_potential": {
+            "average": 0.47,
+            "minimum": null,
+            "maximum": null,
+            "unit": "V"
+          },
+          "repassivation_potential": null,
+          "critical_passivation_current_density": null,
+          "notes": "Mo shifts Vc in the active direction in NaBr, contrary to NaCl. Extrapolated from Fig 8 (approx 0.47V for 2% Mo).",
+          "additional_metrics": {
+            "pren": null,
+            "corrosion_rate_mpy": null,
+            "other": "Fig 8"
+          }
+        }
+      }
+    ]
+  }
+]

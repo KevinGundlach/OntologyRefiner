@@ -1,0 +1,111 @@
+
+<Attach papers 49, 3, and 9>
+
+We would like to build a self-refining agentic framework for the extraction of information on metal alloy corrosion testing. 
+
+Our ultimate goal is to construct an LLM agent capable of converting a research paper into a complete detailed knowledge graph from which we can train a graph-neural-network to predict corrosion pitting potentials, given things like alloy composition, microstructure, test methodology, heat treatment methodology, and other such relevant information. I've attached a few example research papers for reference.
+
+The agentic framework will consist of three agents:
+
+1. Extractor Agent: Given a PDF research paper in materials science, generate a JSON object containing all information extracted from that paper relevant to the testing for corrosion pitting potential. 
+
+2. Critic Agent: Given a PDF research paper and the Extractor Agent's output from that paper, evaluates the output according to a set of criteria:
+    
+    - Ensure the Extractor Agent's output is a valid JSON object.
+    
+    - Ensure all extracted values are accurate and *not* hallucinated. Double check exactly where in the paper each piece of information came from.
+    
+    - Ensure units are provided for all numerical values, as separate fields. 
+    
+    - Ensure fields aren't needlessly formatted as plain text. For example, instead of:
+        
+        "heat_treatment": "heated sample to 1500 C for two hours"
+    
+    it would be better to generate a more structured object:
+        
+        "heat_treatment": {
+            "temperature": 1500,
+            "temperature_unit": "C",
+            "duration": 2,
+            "duration_unit": "hours
+        }
+    
+    - Ensure the Extractor Agent didn't skip over any important information that was mentioned in the paper. 
+              
+The Critic Agent will then generate a report of its findings, detailing how the Extractor Agent either fulfills or fails to fulfill each point of this criteria. 
+        
+3. Refiner Agent: Given the Extractor Agent's current prompt and the Critic Agent's report, generate a completely new and better prompt for the Extractor Agent. Notably, it is the Refiner Agent's job to choose the schema for the JSON object that the Extractor Agent will be instructed to populate. 
+
+To begin, we need a good initial prompt for the extractor. 
+
+Please engineer a prompt to instruct the Extractor Agent to scan a given research paper (in pdf format) and to output all information relevant to the corrosion resistance and pitting potential of all metal alloys studied.
+
+Instruct the Extractor Agent to not merely scan the text, but also to extract relevant values from any provided tables/plots/figures. Figure 1 from the Pessall and Nurminen paper, for example, plots the pitting potentials of several alloys, which need to be extrapolated from the vertical axis. It is acceptable if such values can only be estimated/approximated, since the Critic Agent will flag any unreasonable/misread values.
+
+Instruct the Extractor Agent to structure its output according to the following JSON schema:
+
+### REQUIRED JSON SCHEMA:
+[{
+  "alloy_identifier": "Exact name or designation of the alloy as reported (e.g., '304L', 'CF-4')",
+  "material_class": "Class of the material (e.g., 'Austenitic Stainless Steel', 'Cast Duplex')",
+  "chemical_composition": {
+    "elements": [
+      {
+        "element": "Chemical symbol (e.g., 'Cr', 'Ni', 'N')",
+        "value": "Numeric value",
+        "unit": "Unit reported (e.g., 'wt%', 'at%', 'ppm')"
+      }
+    ],
+    "balance_element": "The base metal (e.g., 'Fe'), if stated"
+  },
+  "microstructure": "Description of phases and grain structure (e.g., 'fully austenitic', 'ferrite-austenite boundaries', 'inclusions present')",
+  "heat_treatment": {
+    "description": "Full description of the treatment",
+    "temperature": "Numeric value and unit (e.g., '1120 C')",
+    "duration": "Time duration (e.g., '1 hour')",
+    "cooling_method": "e.g., 'water quench', 'furnace cool'"
+  },
+  "sample_preparation": {
+    "surface_finish": "e.g., '9-µm diamond paste', 'electropolished'",
+    "sample_geometry": "e.g., 'wire loop', 'flat coupon', 'cylindrical bar'",
+    "pre_passivation_steps": "Any chemical pre-treatments (e.g., '50% HNO3 for 30 min')"
+  },
+  "corrosion_tests": [
+    {
+      "test_type": "e.g., 'Potentiodynamic Anodic Polarization', 'Cyclic Polarization Pitting Test (CPPT)'",
+      "test_temperature": "Numeric value and unit (e.g., '27 C', 'Ambient')",
+      "test_solution": {
+        "electrolyte_base": "string or null",
+        "description": "Overall description (e.g., 'Synthetic seawater', '1N sulfuric acid')",
+        "chlorine_concentration": "Value and unit (e.g., '0.5 M', '3.5 wt%')",
+        "ph_value": "Numeric value or range (e.g., 7.2)",
+        "aggressive_ions": {
+          "ion_type": "concentration and units or null"
+        },
+        "dissolved_oxygen": "e.g., 'deaerated with N2', '200 ppb'"
+      },
+      "electrochemical_parameters": {
+        "methodology": "string or null",
+        "reference_electrode": "e.g., 'SCE', 'SHE'"
+        "scan_rate": "Value and unit (e.g., '3 V/h', '60 mV/min')",
+      },
+
+      "results": {
+        "pitting_potential": {
+          "average": "Numeric value",
+          "minimum": "Numeric value",
+          "maximum": "Numeric value",
+          "unit": "Unit (e.g., 'mV')"
+        },
+        "repassivation_potential": "Numeric value and unit, if reported",
+        "critical_passivation_current_density": "Numeric value and unit, if reported",
+        "notes": "Any other relevant findings (e.g., 'crevice attack observed instead of pitting', 'pit initiation at ferrite boundaries')",
+        "additional_metrics": {
+          "pren": "number or null",
+          "corrosion_rate_mpy": "number or null",
+          "other": "string or null"
+        }
+      }
+    }
+  ]
+}]

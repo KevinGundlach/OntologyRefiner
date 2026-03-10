@@ -1,0 +1,1152 @@
+[
+  {
+    "document_metadata": {
+      "title": "Critical Potentials for Pitting Corrosion of Ni, Cr-Ni, Cr-Fe, and Related Stainless Steels",
+      "supporting_thermodynamic_data": [
+        {
+          "species": "CrCl3 (c)",
+          "property": "Free energy of formation",
+          "value": -85.2,
+          "unit": "kcal/mole",
+          "conditions": "25 C"
+        },
+        {
+          "species": "NiCl2 (c)",
+          "property": "Free energy of formation",
+          "value": -65.1,
+          "unit": "kcal/mole",
+          "conditions": "25 C"
+        },
+        {
+          "species": "MoCl3 (c)",
+          "property": "Free energy of formation",
+          "value": -34.6,
+          "unit": "kcal/mole",
+          "conditions": "25 C"
+        },
+        {
+          "species": "MoO4-- (aq.)",
+          "property": "Free energy of formation",
+          "value": -218.8,
+          "unit": "kcal/mole",
+          "conditions": "25 C"
+        },
+        {
+          "species": "CrO4-- (aq.)",
+          "property": "Free energy of formation",
+          "value": -176.1,
+          "unit": "kcal/mole",
+          "conditions": "25 C"
+        }
+      ]
+    },
+    "extracted_samples": [
+      {
+        "alloy_metadata": {
+          "alloy_identifier": "Aluminum (Al)",
+          "material_class": "Pure Metal",
+          "is_experimental_melt": false,
+          "data_source": "Table I"
+        },
+        "chemical_composition": {
+          "elements": [
+            {
+              "element": "Al",
+              "value": 100.0,
+              "unit": "wt%",
+              "is_nominal": true
+            }
+          ],
+          "balance_element": "Al"
+        },
+        "sample_geometry": {
+          "shape": "cylindrical rod",
+          "dimensions": {
+            "diameter": {
+              "value": 0.45,
+              "unit": "cm"
+            },
+            "width": {
+              "value": null,
+              "unit": "cm"
+            },
+            "thickness": {
+              "value": null,
+              "unit": "cm"
+            },
+            "length": {
+              "value": 2.0,
+              "unit": "cm"
+            }
+          },
+          "mounting_method": "threaded member attachment to nickel wire against glass tube with Teflon gasket"
+        },
+        "thermomechanical_history": [
+          {
+            "step_description": "swaged to rod",
+            "temperature": null,
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": null
+          },
+          {
+            "step_description": "Annealed",
+            "temperature": {
+              "value": 1050.0,
+              "unit": "C"
+            },
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": "Water Quench"
+          }
+        ],
+        "surface_preparation": {
+          "final_finish": "3/0 emery paper",
+          "pre_test_treatments": [
+            {
+              "type": "pickling",
+              "reagents": [
+                {
+                  "name": "HNO3",
+                  "concentration_value": 15.0,
+                  "concentration_unit": "%"
+                },
+                {
+                  "name": "HF",
+                  "concentration_value": 5.0,
+                  "concentration_unit": "%"
+                }
+              ],
+              "temperature": {
+                "value": 80.0,
+                "unit": "C"
+              },
+              "duration": {
+                "value": 5.0,
+                "unit": "min"
+              }
+            }
+          ]
+        },
+        "corrosion_test": {
+          "test_type": "Potentiostatic Pitting Test",
+          "test_temperature": {
+            "value": 25.0,
+            "unit": "C"
+          },
+          "environment": {
+            "electrolyte": {
+              "base": "NaCl",
+              "molarity": {
+                "value": 0.1,
+                "unit": "N"
+              },
+              "ph": null
+            },
+            "purging": {
+              "gas": "Nitrogen",
+              "purification_method": {
+                "reagent": "Cu",
+                "temperature": {
+                  "value": 450.0,
+                  "unit": "C"
+                }
+              },
+              "is_active_during_measurement": false
+            }
+          },
+          "electrochemical_protocol": {
+            "potential_scale": "Volts, H2 Scale",
+            "pre_polarization_step": {
+              "description": "polarize potentiostatically at the least noble potential in passive region",
+              "potential": {
+                "value": null,
+                "unit": "v"
+              },
+              "duration": {
+                "value": 15.0,
+                "unit": "min"
+              }
+            },
+            "method": "potentiostatic-step",
+            "step_potential_increment": {
+              "value": 50.0,
+              "unit": "mv"
+            },
+            "step_duration": {
+              "value": 5.0,
+              "unit": "min"
+            },
+            "steady_state_definition": "10-hr or longer period of constant polarization"
+          },
+          "results": {
+            "failure_mode": "pitting",
+            "pitting_potential": {
+              "value": -0.45,
+              "unit": "v",
+              "uncertainty_type": "min"
+            },
+            "repassivation_potential": {
+              "value": null,
+              "unit": "v"
+            },
+            "pit_validation_method": "low power microscope examination",
+            "notes": "Table I. Estimated from data for various Cl- concentrations."
+          }
+        }
+      },
+      {
+        "alloy_metadata": {
+          "alloy_identifier": "Binary 12% Cr-Fe",
+          "material_class": "Binary Cr-Fe Alloy",
+          "is_experimental_melt": true,
+          "data_source": "Figure 1 (estimated)"
+        },
+        "chemical_composition": {
+          "elements": [
+            {
+              "element": "Cr",
+              "value": 12.0,
+              "unit": "wt%",
+              "is_nominal": false
+            },
+            {
+              "element": "Fe",
+              "value": 88.0,
+              "unit": "wt%",
+              "is_nominal": false
+            }
+          ],
+          "balance_element": "Fe"
+        },
+        "sample_geometry": {
+          "shape": "cylindrical rod",
+          "dimensions": {
+            "diameter": {
+              "value": 0.45,
+              "unit": "cm"
+            },
+            "width": {
+              "value": null,
+              "unit": "cm"
+            },
+            "thickness": {
+              "value": null,
+              "unit": "cm"
+            },
+            "length": {
+              "value": 2.0,
+              "unit": "cm"
+            }
+          },
+          "mounting_method": "threaded member attachment to nickel wire against glass tube with Teflon gasket"
+        },
+        "thermomechanical_history": [
+          {
+            "step_description": "Vacuum melting",
+            "temperature": null,
+            "duration": null,
+            "atmosphere": "Argon or Helium",
+            "cooling_method": "Water Quench"
+          },
+          {
+            "step_description": "Homogenization",
+            "temperature": {
+              "value": 1050.0,
+              "unit": "C"
+            },
+            "duration": {
+              "value": 3.0,
+              "unit": "hr"
+            },
+            "atmosphere": "Argon or Helium",
+            "cooling_method": null
+          },
+          {
+            "step_description": "Annealed",
+            "temperature": {
+              "value": 1050.0,
+              "unit": "C"
+            },
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": "Water Quench"
+          }
+        ],
+        "surface_preparation": {
+          "final_finish": "3/0 emery paper",
+          "pre_test_treatments": [
+            {
+              "type": "pickling",
+              "reagents": [
+                {
+                  "name": "HNO3",
+                  "concentration_value": 15.0,
+                  "concentration_unit": "%"
+                },
+                {
+                  "name": "HF",
+                  "concentration_value": 5.0,
+                  "concentration_unit": "%"
+                }
+              ],
+              "temperature": {
+                "value": 80.0,
+                "unit": "C"
+              },
+              "duration": {
+                "value": 5.0,
+                "unit": "min"
+              }
+            }
+          ]
+        },
+        "corrosion_test": {
+          "test_type": "Potentiostatic Pitting Test",
+          "test_temperature": {
+            "value": 25.0,
+            "unit": "C"
+          },
+          "environment": {
+            "electrolyte": {
+              "base": "NaCl",
+              "molarity": {
+                "value": 0.1,
+                "unit": "N"
+              },
+              "ph": null
+            },
+            "purging": {
+              "gas": "Nitrogen",
+              "purification_method": {
+                "reagent": "Cu",
+                "temperature": {
+                  "value": 450.0,
+                  "unit": "C"
+                }
+              },
+              "is_active_during_measurement": false
+            }
+          },
+          "electrochemical_protocol": {
+            "potential_scale": "Volts, H2 Scale",
+            "pre_polarization_step": {
+              "description": "polarize potentiostatically at the least noble potential in passive region",
+              "potential": {
+                "value": null,
+                "unit": "v"
+              },
+              "duration": {
+                "value": 15.0,
+                "unit": "min"
+              }
+            },
+            "method": "potentiostatic-step",
+            "step_potential_increment": {
+              "value": 50.0,
+              "unit": "mv"
+            },
+            "step_duration": {
+              "value": 5.0,
+              "unit": "min"
+            },
+            "steady_state_definition": "current constant for 10 hours or longer"
+          },
+          "results": {
+            "failure_mode": "pitting",
+            "pitting_potential": {
+              "value": 0.2,
+              "unit": "v",
+              "uncertainty_type": "min"
+            },
+            "repassivation_potential": {
+              "value": null,
+              "unit": "v"
+            },
+            "pit_validation_method": "low power microscope examination",
+            "notes": "Estimated from Figure 1. Alloys below 12% Cr exhibited less or no passivity."
+          }
+        }
+      },
+      {
+        "alloy_metadata": {
+          "alloy_identifier": "Binary 25% Cr-Fe",
+          "material_class": "Binary Cr-Fe Alloy",
+          "is_experimental_melt": true,
+          "data_source": "Figure 1 (estimated)"
+        },
+        "chemical_composition": {
+          "elements": [
+            {
+              "element": "Cr",
+              "value": 25.0,
+              "unit": "wt%",
+              "is_nominal": false
+            }
+          ],
+          "balance_element": "Fe"
+        },
+        "sample_geometry": {
+          "shape": "cylindrical rod",
+          "dimensions": {
+            "diameter": {
+              "value": 0.45,
+              "unit": "cm"
+            },
+            "width": {
+              "value": null,
+              "unit": "cm"
+            },
+            "thickness": {
+              "value": null,
+              "unit": "cm"
+            },
+            "length": {
+              "value": 2.0,
+              "unit": "cm"
+            }
+          },
+          "mounting_method": "threaded member attachment to nickel wire against glass tube with Teflon gasket"
+        },
+        "thermomechanical_history": [
+          {
+            "step_description": "Vacuum melting",
+            "temperature": null,
+            "duration": null,
+            "atmosphere": "Argon or Helium",
+            "cooling_method": "Water Quench"
+          },
+          {
+            "step_description": "Homogenization",
+            "temperature": {
+              "value": 1050.0,
+              "unit": "C"
+            },
+            "duration": {
+              "value": 3.0,
+              "unit": "hr"
+            },
+            "atmosphere": "Argon or Helium",
+            "cooling_method": null
+          },
+          {
+            "step_description": "Annealed",
+            "temperature": {
+              "value": 1050.0,
+              "unit": "C"
+            },
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": "Water Quench"
+          }
+        ],
+        "surface_preparation": {
+          "final_finish": "3/0 emery paper",
+          "pre_test_treatments": [
+            {
+              "type": "pickling",
+              "reagents": [
+                {
+                  "name": "HNO3",
+                  "concentration_value": 15.0,
+                  "concentration_unit": "%"
+                },
+                {
+                  "name": "HF",
+                  "concentration_value": 5.0,
+                  "concentration_unit": "%"
+                }
+              ],
+              "temperature": {
+                "value": 80.0,
+                "unit": "C"
+              },
+              "duration": {
+                "value": 5.0,
+                "unit": "min"
+              }
+            }
+          ]
+        },
+        "corrosion_test": {
+          "test_type": "Potentiostatic Pitting Test",
+          "test_temperature": {
+            "value": 25.0,
+            "unit": "C"
+          },
+          "environment": {
+            "electrolyte": {
+              "base": "NaCl",
+              "molarity": {
+                "value": 0.1,
+                "unit": "N"
+              },
+              "ph": null
+            },
+            "purging": {
+              "gas": "Nitrogen",
+              "purification_method": {
+                "reagent": "Cu",
+                "temperature": {
+                  "value": 450.0,
+                  "unit": "C"
+                }
+              },
+              "is_active_during_measurement": false
+            }
+          },
+          "electrochemical_protocol": {
+            "potential_scale": "Volts, H2 Scale",
+            "pre_polarization_step": {
+              "description": "polarize potentiostatically at the least noble potential in passive region",
+              "potential": {
+                "value": null,
+                "unit": "v"
+              },
+              "duration": {
+                "value": 15.0,
+                "unit": "min"
+              }
+            },
+            "method": "potentiostatic-step",
+            "step_potential_increment": {
+              "value": 50.0,
+              "unit": "mv"
+            },
+            "step_duration": {
+              "value": 5.0,
+              "unit": "min"
+            },
+            "steady_state_definition": "lowest potential for which pitting not observed after 10-hr"
+          },
+          "results": {
+            "failure_mode": "pitting",
+            "pitting_potential": {
+              "value": 0.45,
+              "unit": "v",
+              "uncertainty_type": "min"
+            },
+            "repassivation_potential": {
+              "value": null,
+              "unit": "v"
+            },
+            "pit_validation_method": "low power microscope examination",
+            "notes": "Estimated from Figure 1. Start of rapid rise in critical potential."
+          }
+        }
+      },
+      {
+        "alloy_metadata": {
+          "alloy_identifier": "Binary 57.8% Cr-Fe",
+          "material_class": "Binary Cr-Fe Alloy",
+          "is_experimental_melt": true,
+          "data_source": "Figure 1 and Abstract"
+        },
+        "chemical_composition": {
+          "elements": [
+            {
+              "element": "Cr",
+              "value": 57.8,
+              "unit": "wt%",
+              "is_nominal": false
+            }
+          ],
+          "balance_element": "Fe"
+        },
+        "sample_geometry": {
+          "shape": "machined electrode",
+          "dimensions": {
+            "diameter": {
+              "value": 0.4,
+              "unit": "cm"
+            },
+            "width": {
+              "value": null,
+              "unit": "cm"
+            },
+            "thickness": {
+              "value": null,
+              "unit": "cm"
+            },
+            "length": {
+              "value": 2.0,
+              "unit": "cm"
+            }
+          },
+          "mounting_method": "threaded member attachment to nickel wire against glass tube with Teflon gasket"
+        },
+        "thermomechanical_history": [
+          {
+            "step_description": "Vacuum melting",
+            "temperature": null,
+            "duration": null,
+            "atmosphere": "Argon or Helium",
+            "cooling_method": "Water Quench"
+          },
+          {
+            "step_description": "Homogenization",
+            "temperature": {
+              "value": 1050.0,
+              "unit": "C"
+            },
+            "duration": {
+              "value": 3.0,
+              "unit": "hr"
+            },
+            "atmosphere": "Argon or Helium",
+            "cooling_method": null
+          },
+          {
+            "step_description": "Machined from ingot",
+            "temperature": null,
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": null
+          }
+        ],
+        "surface_preparation": {
+          "final_finish": "3/0 emery paper",
+          "pre_test_treatments": [
+            {
+              "type": "pickling",
+              "reagents": [
+                {
+                  "name": "HNO3",
+                  "concentration_value": 15.0,
+                  "concentration_unit": "%"
+                },
+                {
+                  "name": "HF",
+                  "concentration_value": 5.0,
+                  "concentration_unit": "%"
+                }
+              ],
+              "temperature": {
+                "value": 80.0,
+                "unit": "C"
+              },
+              "duration": {
+                "value": 5.0,
+                "unit": "min"
+              }
+            }
+          ]
+        },
+        "corrosion_test": {
+          "test_type": "Potentiostatic Polarization",
+          "test_temperature": {
+            "value": 25.0,
+            "unit": "C"
+          },
+          "environment": {
+            "electrolyte": {
+              "base": "NaCl",
+              "molarity": {
+                "value": 0.1,
+                "unit": "N"
+              },
+              "ph": null
+            },
+            "purging": {
+              "gas": "Nitrogen",
+              "purification_method": {
+                "reagent": "Cu",
+                "temperature": {
+                  "value": 450.0,
+                  "unit": "C"
+                }
+              },
+              "is_active_during_measurement": false
+            }
+          },
+          "electrochemical_protocol": {
+            "potential_scale": "Volts, H2 Scale",
+            "pre_polarization_step": null,
+            "method": "potentiostatic-step",
+            "step_potential_increment": {
+              "value": 50.0,
+              "unit": "mv"
+            },
+            "step_duration": {
+              "value": 5.0,
+              "unit": "min"
+            },
+            "steady_state_definition": null
+          },
+          "results": {
+            "failure_mode": "transpassive uniform corrosion",
+            "pitting_potential": {
+              "value": null,
+              "unit": "v",
+              "uncertainty_type": null
+            },
+            "repassivation_potential": {
+              "value": null,
+              "unit": "v"
+            },
+            "pit_validation_method": "low power microscope examination",
+            "notes": "No pitting observed. Electrodes corroded uniformly with production of CrO4--."
+          }
+        }
+      },
+      {
+        "alloy_metadata": {
+          "alloy_identifier": "Binary 15% Cr-Ni",
+          "material_class": "Binary Cr-Ni Alloy",
+          "is_experimental_melt": true,
+          "data_source": "Figure 2 (estimated)"
+        },
+        "chemical_composition": {
+          "elements": [
+            {
+              "element": "Cr",
+              "value": 15.0,
+              "unit": "wt%",
+              "is_nominal": false
+            },
+            {
+              "element": "Ni",
+              "value": 85.0,
+              "unit": "wt%",
+              "is_nominal": false
+            }
+          ],
+          "balance_element": "Ni"
+        },
+        "sample_geometry": {
+          "shape": "cold rolled sheet",
+          "dimensions": {
+            "diameter": {
+              "value": null,
+              "unit": "cm"
+            },
+            "width": {
+              "value": 0.5,
+              "unit": "cm"
+            },
+            "thickness": {
+              "value": 0.2,
+              "unit": "cm"
+            },
+            "length": {
+              "value": 2.0,
+              "unit": "cm"
+            }
+          },
+          "mounting_method": "threaded member attachment to nickel wire against glass tube with Teflon gasket"
+        },
+        "thermomechanical_history": [
+          {
+            "step_description": "Cold rolled to 0.25 cm",
+            "temperature": null,
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": null
+          },
+          {
+            "step_description": "Annealed",
+            "temperature": {
+              "value": 1000.0,
+              "unit": "C"
+            },
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": "Water Quench"
+          }
+        ],
+        "surface_preparation": {
+          "final_finish": "3/0 emery paper",
+          "pre_test_treatments": [
+            {
+              "type": "pickling",
+              "reagents": [
+                {
+                  "name": "HNO3",
+                  "concentration_value": 15.0,
+                  "concentration_unit": "%"
+                },
+                {
+                  "name": "HF",
+                  "concentration_value": 5.0,
+                  "concentration_unit": "%"
+                }
+              ],
+              "temperature": {
+                "value": 80.0,
+                "unit": "C"
+              },
+              "duration": {
+                "value": 5.0,
+                "unit": "min"
+              }
+            }
+          ]
+        },
+        "corrosion_test": {
+          "test_type": "Potentiostatic Pitting Test",
+          "test_temperature": {
+            "value": 25.0,
+            "unit": "C"
+          },
+          "environment": {
+            "electrolyte": {
+              "base": "NaCl",
+              "molarity": {
+                "value": 0.1,
+                "unit": "N"
+              },
+              "ph": null
+            },
+            "purging": {
+              "gas": "Nitrogen",
+              "purification_method": {
+                "reagent": "Cu",
+                "temperature": {
+                  "value": 450.0,
+                  "unit": "C"
+                }
+              },
+              "is_active_during_measurement": false
+            }
+          },
+          "electrochemical_protocol": {
+            "potential_scale": "Volts, H2 Scale",
+            "pre_polarization_step": {
+              "description": "polarize potentiostatically at least noble potential in passive region",
+              "potential": {
+                "value": null,
+                "unit": "v"
+              },
+              "duration": {
+                "value": 15.0,
+                "unit": "min"
+              }
+            },
+            "method": "potentiostatic-step",
+            "step_potential_increment": {
+              "value": 50.0,
+              "unit": "mv"
+            },
+            "step_duration": {
+              "value": 5.0,
+              "unit": "min"
+            },
+            "steady_state_definition": "lowest potential for which pitting not observed after 10-hr or longer"
+          },
+          "results": {
+            "failure_mode": "pitting",
+            "pitting_potential": {
+              "value": 0.48,
+              "unit": "v",
+              "uncertainty_type": "min"
+            },
+            "repassivation_potential": {
+              "value": null,
+              "unit": "v"
+            },
+            "pit_validation_method": "low power microscope examination",
+            "notes": "Estimated from Figure 2. Vc steady state value."
+          }
+        }
+      },
+      {
+        "alloy_metadata": {
+          "alloy_identifier": "15% Cr, 13% Ni, 2.4% Mo Stainless Steel (at 25C)",
+          "material_class": "Quaternary Mo-containing Stainless Steel",
+          "is_experimental_melt": true,
+          "data_source": "Figure 6 (estimated)"
+        },
+        "chemical_composition": {
+          "elements": [
+            {
+              "element": "Cr",
+              "value": 15.0,
+              "unit": "wt%",
+              "is_nominal": false
+            },
+            {
+              "element": "Ni",
+              "value": 13.0,
+              "unit": "wt%",
+              "is_nominal": false
+            },
+            {
+              "element": "Mo",
+              "value": 2.4,
+              "unit": "wt%",
+              "is_nominal": false
+            }
+          ],
+          "balance_element": "Fe"
+        },
+        "sample_geometry": {
+          "shape": "cylindrical rod",
+          "dimensions": {
+            "diameter": {
+              "value": 0.45,
+              "unit": "cm"
+            },
+            "width": {
+              "value": null,
+              "unit": "cm"
+            },
+            "thickness": {
+              "value": null,
+              "unit": "cm"
+            },
+            "length": {
+              "value": 2.0,
+              "unit": "cm"
+            }
+          },
+          "mounting_method": "threaded member attachment to nickel wire against glass tube with Teflon gasket"
+        },
+        "thermomechanical_history": [
+          {
+            "step_description": "Annealed",
+            "temperature": {
+              "value": 1050.0,
+              "unit": "C"
+            },
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": "Water Quench"
+          }
+        ],
+        "surface_preparation": {
+          "final_finish": "3/0 emery paper",
+          "pre_test_treatments": [
+            {
+              "type": "pickling",
+              "reagents": [
+                {
+                  "name": "HNO3",
+                  "concentration_value": 15.0,
+                  "concentration_unit": "%"
+                },
+                {
+                  "name": "HF",
+                  "concentration_value": 5.0,
+                  "concentration_unit": "%"
+                }
+              ],
+              "temperature": {
+                "value": 80.0,
+                "unit": "C"
+              },
+              "duration": {
+                "value": 5.0,
+                "unit": "min"
+              }
+            }
+          ]
+        },
+        "corrosion_test": {
+          "test_type": "Potentiostatic Pitting Test",
+          "test_temperature": {
+            "value": 25.0,
+            "unit": "C"
+          },
+          "environment": {
+            "electrolyte": {
+              "base": "NaCl",
+              "molarity": {
+                "value": 0.1,
+                "unit": "N"
+              },
+              "ph": null
+            },
+            "purging": {
+              "gas": "Nitrogen",
+              "purification_method": {
+                "reagent": "Cu",
+                "temperature": {
+                  "value": 450.0,
+                  "unit": "C"
+                }
+              },
+              "is_active_during_measurement": false
+            }
+          },
+          "electrochemical_protocol": {
+            "potential_scale": "Volts, H2 Scale",
+            "pre_polarization_step": null,
+            "method": "potentiostatic-step",
+            "step_potential_increment": {
+              "value": 50.0,
+              "unit": "mv"
+            },
+            "step_duration": {
+              "value": 5.0,
+              "unit": "min"
+            },
+            "steady_state_definition": "10-hr constant polarization"
+          },
+          "results": {
+            "failure_mode": "pitting",
+            "pitting_potential": {
+              "value": 0.48,
+              "unit": "v",
+              "uncertainty_type": "min"
+            },
+            "repassivation_potential": {
+              "value": null,
+              "unit": "v"
+            },
+            "pit_validation_method": "low power microscope examination",
+            "notes": "Estimated from Figure 6. Mo addition shifts potential toward noble direction at 25C."
+          }
+        }
+      },
+      {
+        "alloy_metadata": {
+          "alloy_identifier": "15% Cr, 13% Ni, 2.4% Mo Stainless Steel (at 0C)",
+          "material_class": "Quaternary Mo-containing Stainless Steel",
+          "is_experimental_melt": true,
+          "data_source": "Figure 6 (estimated)"
+        },
+        "chemical_composition": {
+          "elements": [
+            {
+              "element": "Cr",
+              "value": 15.0,
+              "unit": "wt%",
+              "is_nominal": false
+            },
+            {
+              "element": "Ni",
+              "value": 13.0,
+              "unit": "wt%",
+              "is_nominal": false
+            },
+            {
+              "element": "Mo",
+              "value": 2.4,
+              "unit": "wt%",
+              "is_nominal": false
+            }
+          ],
+          "balance_element": "Fe"
+        },
+        "sample_geometry": {
+          "shape": "cylindrical rod",
+          "dimensions": {
+            "diameter": {
+              "value": 0.45,
+              "unit": "cm"
+            },
+            "width": {
+              "value": null,
+              "unit": "cm"
+            },
+            "thickness": {
+              "value": null,
+              "unit": "cm"
+            },
+            "length": {
+              "value": 2.0,
+              "unit": "cm"
+            }
+          },
+          "mounting_method": "threaded member attachment to nickel wire against glass tube with Teflon gasket"
+        },
+        "thermomechanical_history": [
+          {
+            "step_description": "Annealed",
+            "temperature": {
+              "value": 1050.0,
+              "unit": "C"
+            },
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": "Water Quench"
+          }
+        ],
+        "surface_preparation": {
+          "final_finish": "3/0 emery paper",
+          "pre_test_treatments": [
+            {
+              "type": "pickling",
+              "reagents": [
+                {
+                  "name": "HNO3",
+                  "concentration_value": 15.0,
+                  "concentration_unit": "%"
+                },
+                {
+                  "name": "HF",
+                  "concentration_value": 5.0,
+                  "concentration_unit": "%"
+                }
+              ],
+              "temperature": {
+                "value": 80.0,
+                "unit": "C"
+              },
+              "duration": {
+                "value": 5.0,
+                "unit": "min"
+              }
+            }
+          ]
+        },
+        "corrosion_test": {
+          "test_type": "Potentiostatic Polarization",
+          "test_temperature": {
+            "value": 0.0,
+            "unit": "C"
+          },
+          "environment": {
+            "electrolyte": {
+              "base": "NaCl",
+              "molarity": {
+                "value": 0.1,
+                "unit": "N"
+              },
+              "ph": null
+            },
+            "purging": {
+              "gas": "Nitrogen",
+              "purification_method": {
+                "reagent": "Cu",
+                "temperature": {
+                  "value": 450.0,
+                  "unit": "C"
+                }
+              },
+              "is_active_during_measurement": false
+            }
+          },
+          "electrochemical_protocol": {
+            "potential_scale": "Volts, H2 Scale",
+            "pre_polarization_step": null,
+            "method": "potentiostatic-step",
+            "step_potential_increment": {
+              "value": 50.0,
+              "unit": "mv"
+            },
+            "step_duration": {
+              "value": 5.0,
+              "unit": "min"
+            },
+            "steady_state_definition": null
+          },
+          "results": {
+            "failure_mode": "transpassive uniform corrosion",
+            "pitting_potential": {
+              "value": null,
+              "unit": "v",
+              "uncertainty_type": null
+            },
+            "repassivation_potential": {
+              "value": null,
+              "unit": "v"
+            },
+            "pit_validation_method": "low power microscope examination",
+            "notes": "Estimated from Figure 6 (No Breakdown region). Alloy reaches transpassive state with no definite critical potential observed at 0C. Pitting can be induced if polarized near 0.6v."
+          }
+        }
+      }
+    ]
+  }
+]

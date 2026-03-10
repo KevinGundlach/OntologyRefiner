@@ -1,0 +1,383 @@
+{
+  "document_metadata": {
+    "title": "Critical Potentials for Pitting Corrosion of Ni, Cr-Ni, Cr-Fe, and Related Stainless Steels",
+    "supporting_thermodynamic_data": [
+      {
+        "species": "CrCl3 (c)",
+        "property": "Free energy of formation",
+        "value": -85.2,
+        "unit_text": "Kcal",
+        "standardized_unit": "kcal/mol",
+        "conditions": "25°C"
+      },
+      {
+        "species": "NiCl2 (c)",
+        "property": "Free energy of formation",
+        "value": -65.1,
+        "unit_text": "Kcal",
+        "standardized_unit": "kcal/mol",
+        "conditions": "25°C"
+      },
+      {
+        "species": "MoCl3 (c)",
+        "property": "Free energy of formation",
+        "value": -34.6,
+        "unit_text": "Kcal",
+        "standardized_unit": "kcal/mol",
+        "conditions": "25°C"
+      },
+      {
+        "species": "MoO4-- (aq.)",
+        "property": "Free energy of formation",
+        "value": -218.8,
+        "unit_text": "Kcal",
+        "standardized_unit": "kcal/mol",
+        "conditions": "25°C"
+      },
+      {
+        "species": "CrO4-- (aq.)",
+        "property": "Free energy of formation",
+        "value": -176.1,
+        "unit_text": "Kcal",
+        "standardized_unit": "kcal/mol",
+        "conditions": "25°C"
+      }
+    ]
+  },
+  "extracted_samples": [
+    {
+      "alloy_metadata": {
+        "alloy_identifier": "Aluminum (Ref 3)",
+        "material_class": "Pure Metal",
+        "is_experimental_melt": false,
+        "is_literature_reference": true,
+        "data_source": "Table I"
+      },
+      "chemical_composition": {
+        "elements": [
+          {
+            "element": "Al",
+            "value": 100.0,
+            "unit": "wt%",
+            "is_nominal": true
+          }
+        ],
+        "balance_element": "Al"
+      },
+      "corrosion_test": {
+        "test_type": "Critical Pitting Potential",
+        "test_temperature": {
+          "value": 25.0,
+          "unit": "°C"
+        },
+        "environment": {
+          "electrolyte_base": "NaCl",
+          "molarity": {
+            "value": 0.1,
+            "unit": "N"
+          },
+          "primary_aggressive_anion": "Cl-"
+        },
+        "electrochemical_protocol": {
+          "potential_scale": {
+            "text_description": "Volts, H2 Scale",
+            "reference_electrode_type": "SHE",
+            "is_corrected_to_hydrogen_scale": true
+          },
+          "method": "Literature Reference"
+        },
+        "results": {
+          "failure_mode": "pitting",
+          "pitting_potential": {
+            "value": 0.45,
+            "unit": "V"
+          }
+        }
+      }
+    },
+    {
+      "alloy_metadata": {
+        "alloy_identifier": "Binary 15% Cr-Fe",
+        "material_class": "Chromium-Iron Alloy",
+        "is_experimental_melt": true,
+        "is_literature_reference": false,
+        "data_source": "Figure 1"
+      },
+      "chemical_composition": {
+        "elements": [
+          {
+            "element": "Cr",
+            "value": 15.0,
+            "unit": "wt%",
+            "is_nominal": false
+          }
+        ],
+        "trace_impurities": [
+          {
+            "element": "C",
+            "min_value": 0.001,
+            "max_value": 0.002,
+            "unit": "wt%"
+          }
+        ],
+        "balance_element": "Fe"
+      },
+      "sample_geometry": {
+        "shape": "rod",
+        "dimensions": {
+          "diameter": {
+            "value": 0.45,
+            "unit": "cm"
+          },
+          "length": {
+            "value": 2.0,
+            "unit": "cm"
+          }
+        },
+        "mounting_and_cell": {
+          "electrical_contact": "nickel wire",
+          "seal_type": "Teflon gasket",
+          "cell_interface": "glass tube"
+        }
+      },
+      "thermomechanical_history": [
+        {
+          "step": "homogenization",
+          "temperature": {
+            "value": 1050.0,
+            "unit": "°C"
+          },
+          "duration": 4.0,
+          "atmosphere": "Argon or Helium"
+        },
+        {
+          "step": "annealing",
+          "temperature": {
+            "value": 1050.0,
+            "unit": "°C"
+          },
+          "cooling_method": "water quench"
+        }
+      ],
+      "surface_preparation": {
+        "final_finish": "3/0 emery paper",
+        "pre_test_treatments": [
+          {
+            "type": "pickling",
+            "reagents": [
+              {
+                "name": "HNO3",
+                "concentration": {
+                  "value": 15.0,
+                  "unit": "%"
+                }
+              },
+              {
+                "name": "HF",
+                "concentration": {
+                  "value": 5.0,
+                  "unit": "%"
+                }
+              }
+            ],
+            "temperature": {
+              "value": 80.0,
+              "unit": "°C"
+            },
+            "duration": {
+              "value": 5.0,
+              "unit": "min"
+            }
+          }
+        ]
+      },
+      "corrosion_test": {
+        "test_type": "potentiostatic-step",
+        "test_temperature": {
+          "value": 25.0,
+          "unit": "°C"
+        },
+        "environment": {
+          "electrolyte_base": "NaCl",
+          "molarity": {
+            "value": 0.1,
+            "unit": "N"
+          },
+          "primary_aggressive_anion": "Cl-",
+          "purging": {
+            "gas": "Nitrogen",
+            "purification_temp": {
+              "value": 450.0,
+              "unit": "°C"
+            },
+            "is_active_during_measurement": false
+          }
+        },
+        "electrochemical_protocol": {
+          "potential_scale": {
+            "text_description": "Volts, H2 Scale",
+            "reference_electrode_type": "SHE",
+            "is_corrected_to_hydrogen_scale": true
+          },
+          "pre_polarization_step": {
+            "description": "potentiostatically at least noble potential within passive region",
+            "duration": {
+              "value": 15.0,
+              "unit": "min"
+            }
+          },
+          "method": "potentiostatic-step",
+          "step_increment": {
+            "value": 50.0,
+            "unit": "mV"
+          },
+          "step_duration": {
+            "value": 5.0,
+            "unit": "min"
+          },
+          "steady_state": {
+            "is_steady_state_measurement": true,
+            "duration_threshold": {
+              "value": 10.0,
+              "unit": "hr"
+            }
+          }
+        },
+        "results": {
+          "failure_mode": "pitting",
+          "pitting_potential": {
+            "value": 0.28,
+            "unit": "V",
+            "uncertainty_type": "range_lower"
+          }
+        }
+      }
+    },
+    {
+      "alloy_metadata": {
+        "alloy_identifier": "15% Cr, 13% Ni, 2.4% Mo Stainless Steel",
+        "material_class": "Austenitic Stainless Steel",
+        "is_experimental_melt": true,
+        "is_literature_reference": false,
+        "data_source": "Figure 6"
+      },
+      "chemical_composition": {
+        "elements": [
+          {
+            "element": "Cr",
+            "value": 15.0,
+            "unit": "wt%",
+            "is_nominal": false
+          },
+          {
+            "element": "Ni",
+            "value": 13.0,
+            "unit": "wt%",
+            "is_nominal": false
+          },
+          {
+            "element": "Mo",
+            "value": 2.4,
+            "unit": "wt%",
+            "is_nominal": false
+          }
+        ],
+        "trace_impurities": [
+          {
+            "element": "C",
+            "min_value": 0.001,
+            "max_value": 0.002,
+            "unit": "wt%"
+          }
+        ],
+        "balance_element": "Fe"
+      },
+      "corrosion_test": {
+        "test_type": "potentiostatic-step",
+        "test_temperature": {
+          "value": 25.0,
+          "unit": "°C"
+        },
+        "environment": {
+          "electrolyte_base": "NaCl",
+          "molarity": {
+            "value": 0.1,
+            "unit": "N"
+          },
+          "primary_aggressive_anion": "Cl-"
+        },
+        "results": {
+          "failure_mode": "pitting",
+          "pitting_potential": {
+            "value": 0.9,
+            "unit": "V"
+          },
+          "notes": "Mo addition significantly shifts potential in noble direction compared to Mo-free alloy in chloride solution."
+        }
+      }
+    },
+    {
+      "alloy_metadata": {
+        "alloy_identifier": "15% Cr, 13% Ni, 2.4% Mo Stainless Steel (NaBr)",
+        "material_class": "Austenitic Stainless Steel",
+        "is_experimental_melt": true,
+        "is_literature_reference": false,
+        "data_source": "Figure 8"
+      },
+      "chemical_composition": {
+        "elements": [
+          {
+            "element": "Cr",
+            "value": 15.0,
+            "unit": "wt%",
+            "is_nominal": false
+          },
+          {
+            "element": "Ni",
+            "value": 13.0,
+            "unit": "wt%",
+            "is_nominal": false
+          },
+          {
+            "element": "Mo",
+            "value": 2.4,
+            "unit": "wt%",
+            "is_nominal": false
+          }
+        ],
+        "balance_element": "Fe"
+      },
+      "corrosion_test": {
+        "test_type": "potentiostatic-step",
+        "test_temperature": {
+          "value": 25.0,
+          "unit": "°C"
+        },
+        "environment": {
+          "electrolyte_base": "NaBr",
+          "molarity": {
+            "value": 0.1,
+            "unit": "N"
+          },
+          "primary_aggressive_anion": "Br-"
+        },
+        "results": {
+          "failure_mode": "pitting",
+          "pitting_potential": {
+            "value": 0.42,
+            "unit": "V"
+          },
+          "notes": "In NaBr, alloyed Mo shifts potentials slightly in active direction, opposite to the shift in NaCl."
+        }
+      }
+    }
+  ],
+  "calculated_benchmarks": [
+    {
+      "description": "Reversible oxygen electrode potential",
+      "value": 0.8,
+      "unit": "V",
+      "significance": "Threshold for pitting in aerated halide solutions"
+    }
+  ]
+}

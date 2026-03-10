@@ -1,0 +1,41 @@
+
+<Attach papers 49, 3, and 9>
+
+We would like to build a self-refining agentic framework for the extraction of information on metal alloy corrosion testing. 
+
+Our ultimate goal is to construct an LLM agent capable of converting a research paper into a complete detailed knowledge graph from which we can train a graph-neural-network to predict corrosion pitting potentials, given things like alloy composition, microstructure, test methodology, heat treatment methodology, and other such relevant information. I've attached a few example research papers for reference.
+
+The agentic framework will consist of three agents:
+
+1. Extractor Agent: Given a PDF research paper in materials science, generate a JSON object containing all information extracted from that paper relevant to the testing for corrosion pitting potential. 
+
+2. Critic Agent: Given a PDF research paper and the Extractor Agent's output from that paper, evaluates the output according to a set of criteria:
+    
+    - Ensure the Extractor Agent's output is a valid JSON object.
+    
+    - Ensure all extracted values are accurate and *not* hallucinated. Double check exactly where in the paper each piece of information came from.
+    
+    - Ensure units are provided for all numerical values, as separate fields. 
+    
+    - Ensure fields aren't needlessly formatted as plain text. For example, instead of:
+        
+        "heat_treatment": "heated sample to 1500 C for two hours"
+    
+    it would be better to generate a more structured object:
+        
+        "heat_treatment": {
+            "temperature": 1500,
+            "temperature_unit": "C",
+            "duration": 2,
+            "duration_unit": "hours
+        }
+    
+    - Ensure the Extractor Agent didn't skip over any important information that was mentioned in the paper. 
+              
+The Critic Agent will then generate a report of its findings, detailing how the Extractor Agent either fulfills or fails to fulfill each point of this criteria. 
+        
+3. Refiner Agent: Given the Extractor Agent's current prompt and the Critic Agent's report, generate a completely new and better prompt for the Extractor Agent. Notably, it is the Refiner Agent's job to choose the schema for the JSON object that the Extractor Agent will be instructed to populate. 
+
+We already have a good prompt for the Critic Agent and the initial prompt for the Extractor Agent. 
+
+Please engineer for me a suitable prompt for the Refiner Agent.

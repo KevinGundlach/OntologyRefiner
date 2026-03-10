@@ -1,0 +1,904 @@
+[
+  {
+    "alloy_metadata": {
+      "alloy_identifier": "Pure Aluminum",
+      "material_class": "Pure Metal",
+      "is_experimental_melt": false
+    },
+    "chemical_composition": {
+      "elements": [
+        {
+          "element": "Al",
+          "value": 100.0,
+          "unit": "wt%",
+          "is_nominal": true
+        }
+      ],
+      "balance_element": "Al"
+    },
+    "microstructure": {
+      "description": null,
+      "phases_present": [],
+      "grain_size": null
+    },
+    "thermomechanical_history": [],
+    "sample_preparation": {
+      "surface_finish": null,
+      "geometry": {
+        "type": null,
+        "dimensions": null
+      },
+      "pre_test_treatments": []
+    },
+    "corrosion_tests": [
+      {
+        "test_type": "Pitting Potential Measurement",
+        "test_temperature": {
+          "value": 25.0,
+          "unit": "C"
+        },
+        "environment": {
+          "electrolyte_base": "NaCl",
+          "description": "0.1 N NaCl",
+          "ph": null,
+          "aggressive_ions": [
+            {
+              "ion": "Cl-",
+              "concentration_value": 0.1,
+              "concentration_unit": "N"
+            }
+          ],
+          "dissolved_oxygen": {
+            "status": "deaerated",
+            "purging_gas": "N2",
+            "gas_purification_method": "passed over Cu at 450 C"
+          }
+        },
+        "electrochemical_protocol": {
+          "reference_electrode": "SHE",
+          "method": "potentiostatic-step",
+          "step_potential": {
+            "value": 50.0,
+            "unit": "mV"
+          },
+          "step_duration": {
+            "value": 5.0,
+            "unit": "min"
+          },
+          "scan_rate": null,
+          "steady_state_threshold": {
+            "value": 10.0,
+            "unit": "hr"
+          }
+        },
+        "results": {
+          "pitting_potential": {
+            "average": -0.45,
+            "min": null,
+            "max": null,
+            "unit": "V"
+          },
+          "repassivation_potential": null,
+          "critical_current_density": null,
+          "additional_metrics": {
+            "pren": null,
+            "notes": "Data source: Table I"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "alloy_metadata": {
+      "alloy_identifier": "Pure Chromium",
+      "material_class": "Pure Metal",
+      "is_experimental_melt": true
+    },
+    "chemical_composition": {
+      "elements": [
+        {
+          "element": "Cr",
+          "value": 100.0,
+          "unit": "wt%",
+          "is_nominal": false
+        },
+        {
+          "element": "C",
+          "value": 0.002,
+          "unit": "wt%",
+          "is_nominal": false
+        }
+      ],
+      "balance_element": "Cr"
+    },
+    "microstructure": {
+      "description": "Homogenized",
+      "phases_present": [],
+      "grain_size": null
+    },
+    "thermomechanical_history": [
+      {
+        "step_description": "Vacuum Melting",
+        "temperature": null,
+        "duration": null,
+        "atmosphere": "Argon or Helium",
+        "cooling_method": "Water Quench"
+      },
+      {
+        "step_description": "Homogenization",
+        "temperature": {
+          "value": 1050.0,
+          "unit": "C"
+        },
+        "duration": {
+          "value": null,
+          "unit": "hours"
+        },
+        "atmosphere": "Argon or Helium",
+        "cooling_method": null
+      }
+    ],
+    "sample_preparation": {
+      "surface_finish": "3/0 emery paper",
+      "geometry": {
+        "type": "cylindrical rod",
+        "dimensions": "0.4 cm diameter or 0.5 cm wide by 0.2 cm thick"
+      },
+      "pre_test_treatments": [
+        {
+          "type": "pickling",
+          "reagents": [
+            {
+              "name": "HNO3",
+              "concentration_value": 15.0,
+              "concentration_unit": "%"
+            },
+            {
+              "name": "HF",
+              "concentration_value": 5.0,
+              "concentration_unit": "%"
+            }
+          ],
+          "temperature": {
+            "value": 80.0,
+            "unit": "C"
+          },
+          "duration": {
+            "value": 5.0,
+            "unit": "min"
+          }
+        }
+      ]
+    },
+    "corrosion_tests": [
+      {
+        "test_type": "Pitting Potential Measurement",
+        "test_temperature": {
+          "value": 25.0,
+          "unit": "C"
+        },
+        "environment": {
+          "electrolyte_base": "NaCl",
+          "description": "0.1 N NaCl",
+          "ph": null,
+          "aggressive_ions": [
+            {
+              "ion": "Cl-",
+              "concentration_value": 0.1,
+              "concentration_unit": "N"
+            }
+          ],
+          "dissolved_oxygen": {
+            "status": "deaerated",
+            "purging_gas": "N2",
+            "gas_purification_method": "passed over Cu at 450 C"
+          }
+        },
+        "electrochemical_protocol": {
+          "reference_electrode": "SHE",
+          "method": "potentiostatic-step",
+          "step_potential": {
+            "value": 50.0,
+            "unit": "mV"
+          },
+          "step_duration": {
+            "value": 5.0,
+            "unit": "min"
+          },
+          "scan_rate": null,
+          "steady_state_threshold": {
+            "value": 10.0,
+            "unit": "hr"
+          }
+        },
+        "results": {
+          "pitting_potential": {
+            "average": null,
+            "min": 1.0,
+            "max": null,
+            "unit": "V"
+          },
+          "repassivation_potential": null,
+          "critical_current_density": null,
+          "additional_metrics": {
+            "pren": null,
+            "notes": "Table I lists > 1.0V. Text notes uniform corrosion with production of CrO4-- (transpassivity) instead of pitting."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "alloy_metadata": {
+      "alloy_identifier": "Binary 12% Cr-Fe Alloy",
+      "material_class": "Binary Cr-Fe Alloy",
+      "is_experimental_melt": true
+    },
+    "chemical_composition": {
+      "elements": [
+        {
+          "element": "Cr",
+          "value": 12.0,
+          "unit": "wt%",
+          "is_nominal": false
+        },
+        {
+          "element": "C",
+          "value": 0.002,
+          "unit": "wt%",
+          "is_nominal": false
+        }
+      ],
+      "balance_element": "Fe"
+    },
+    "microstructure": {
+      "description": "Homogenized",
+      "phases_present": [],
+      "grain_size": null
+    },
+    "thermomechanical_history": [
+      {
+        "step_description": "Homogenization",
+        "temperature": {
+          "value": 1050.0,
+          "unit": "C"
+        },
+        "duration": null,
+        "atmosphere": "Argon or Helium",
+        "cooling_method": "Water Quench"
+      }
+    ],
+    "sample_preparation": {
+      "surface_finish": "3/0 emery paper",
+      "geometry": {
+        "type": "cylindrical rod",
+        "dimensions": null
+      },
+      "pre_test_treatments": [
+        {
+          "type": "pickling",
+          "reagents": [
+            {
+              "name": "HNO3",
+              "concentration_value": 15.0,
+              "concentration_unit": "%"
+            },
+            {
+              "name": "HF",
+              "concentration_value": 5.0,
+              "concentration_unit": "%"
+            }
+          ],
+          "temperature": {
+            "value": 80.0,
+            "unit": "C"
+          },
+          "duration": {
+            "value": 5.0,
+            "unit": "min"
+          }
+        }
+      ]
+    },
+    "corrosion_tests": [
+      {
+        "test_type": "Potentiostatic Pitting Test",
+        "test_temperature": {
+          "value": 25.0,
+          "unit": "C"
+        },
+        "environment": {
+          "electrolyte_base": "NaCl",
+          "description": "0.1 N NaCl",
+          "ph": null,
+          "aggressive_ions": [
+            {
+              "ion": "Cl-",
+              "concentration_value": 0.1,
+              "concentration_unit": "N"
+            }
+          ],
+          "dissolved_oxygen": {
+            "status": "deaerated",
+            "purging_gas": "N2",
+            "gas_purification_method": "passed over Cu at 450 C"
+          }
+        },
+        "electrochemical_protocol": {
+          "reference_electrode": "SHE",
+          "method": "potentiostatic-step",
+          "step_potential": {
+            "value": 50.0,
+            "unit": "mV"
+          },
+          "step_duration": {
+            "value": 5.0,
+            "unit": "min"
+          },
+          "scan_rate": null,
+          "steady_state_threshold": {
+            "value": 10.0,
+            "unit": "hr"
+          }
+        },
+        "results": {
+          "pitting_potential": {
+            "average": 0.22,
+            "min": null,
+            "max": null,
+            "unit": "V"
+          },
+          "repassivation_potential": null,
+          "critical_current_density": null,
+          "additional_metrics": {
+            "pren": null,
+            "notes": "Estimated from Figure 1. Lowest %Cr tested for pitting in this series."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "alloy_metadata": {
+      "alloy_identifier": "Binary 30% Cr-Fe Alloy",
+      "material_class": "Binary Cr-Fe Alloy",
+      "is_experimental_melt": true
+    },
+    "chemical_composition": {
+      "elements": [
+        {
+          "element": "Cr",
+          "value": 30.0,
+          "unit": "wt%",
+          "is_nominal": false
+        },
+        {
+          "element": "C",
+          "value": 0.002,
+          "unit": "wt%",
+          "is_nominal": false
+        }
+      ],
+      "balance_element": "Fe"
+    },
+    "microstructure": {
+      "description": "Homogenized",
+      "phases_present": [],
+      "grain_size": null
+    },
+    "thermomechanical_history": [
+      {
+        "step_description": "Homogenization",
+        "temperature": {
+          "value": 1050.0,
+          "unit": "C"
+        },
+        "duration": null,
+        "atmosphere": "Argon or Helium",
+        "cooling_method": "Water Quench"
+      }
+    ],
+    "sample_preparation": {
+      "surface_finish": "3/0 emery paper",
+      "geometry": {
+        "type": "cylindrical rod",
+        "dimensions": null
+      },
+      "pre_test_treatments": []
+    },
+    "corrosion_tests": [
+      {
+        "test_type": "Potentiostatic Pitting Test",
+        "test_temperature": {
+          "value": 25.0,
+          "unit": "C"
+        },
+        "environment": {
+          "electrolyte_base": "NaCl",
+          "description": "0.1 N NaCl",
+          "ph": null,
+          "aggressive_ions": [
+            {
+              "ion": "Cl-",
+              "concentration_value": 0.1,
+              "concentration_unit": "N"
+            }
+          ],
+          "dissolved_oxygen": {
+            "status": "deaerated",
+            "purging_gas": "N2",
+            "gas_purification_method": "passed over Cu at 450 C"
+          }
+        },
+        "electrochemical_protocol": {
+          "reference_electrode": "SHE",
+          "method": "potentiostatic-step",
+          "step_potential": {
+            "value": 50.0,
+            "unit": "mV"
+          },
+          "step_duration": {
+            "value": 5.0,
+            "unit": "min"
+          },
+          "scan_rate": null,
+          "steady_state_threshold": {
+            "value": 10.0,
+            "unit": "hr"
+          }
+        },
+        "results": {
+          "pitting_potential": {
+            "average": 0.72,
+            "min": null,
+            "max": null,
+            "unit": "V"
+          },
+          "repassivation_potential": null,
+          "critical_current_density": null,
+          "additional_metrics": {
+            "pren": null,
+            "notes": "Estimated from Figure 1."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "alloy_metadata": {
+      "alloy_identifier": "Binary 3.2% Mo-Ni Alloy",
+      "material_class": "Binary Ni-Mo Alloy",
+      "is_experimental_melt": true
+    },
+    "chemical_composition": {
+      "elements": [
+        {
+          "element": "Mo",
+          "value": 3.2,
+          "unit": "wt%",
+          "is_nominal": false
+        },
+        {
+          "element": "C",
+          "value": 0.002,
+          "unit": "wt%",
+          "is_nominal": false
+        }
+      ],
+      "balance_element": "Ni"
+    },
+    "microstructure": {
+      "description": "Homogenized",
+      "phases_present": [],
+      "grain_size": null
+    },
+    "thermomechanical_history": [
+      {
+        "step_description": "Cold rolling and annealing",
+        "temperature": {
+          "value": 1000.0,
+          "unit": "C"
+        },
+        "duration": null,
+        "atmosphere": null,
+        "cooling_method": "Water Quench"
+      }
+    ],
+    "sample_preparation": {
+      "surface_finish": "3/0 emery paper",
+      "geometry": {
+        "type": "flat coupon",
+        "dimensions": "0.25 cm thick"
+      },
+      "pre_test_treatments": []
+    },
+    "corrosion_tests": [
+      {
+        "test_type": "Potentiostatic Pitting Test",
+        "test_temperature": {
+          "value": 25.0,
+          "unit": "C"
+        },
+        "environment": {
+          "electrolyte_base": "NaCl",
+          "description": "0.1 N NaCl",
+          "ph": null,
+          "aggressive_ions": [
+            {
+              "ion": "Cl-",
+              "concentration_value": 0.1,
+              "concentration_unit": "N"
+            }
+          ],
+          "dissolved_oxygen": {
+            "status": "deaerated",
+            "purging_gas": "N2",
+            "gas_purification_method": "passed over Cu at 450 C"
+          }
+        },
+        "electrochemical_protocol": {
+          "reference_electrode": "SHE",
+          "method": "potentiostatic-step",
+          "step_potential": {
+            "value": 50.0,
+            "unit": "mV"
+          },
+          "step_duration": {
+            "value": 5.0,
+            "unit": "min"
+          },
+          "scan_rate": null,
+          "steady_state_threshold": {
+            "value": 10.0,
+            "unit": "hr"
+          }
+        },
+        "results": {
+          "pitting_potential": {
+            "average": 0.2,
+            "min": null,
+            "max": null,
+            "unit": "V"
+          },
+          "repassivation_potential": null,
+          "critical_current_density": null,
+          "additional_metrics": {
+            "pren": null,
+            "notes": "Estimated from Figure 3. Shows more active potential than pure Ni."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "alloy_metadata": {
+      "alloy_identifier": "15% Cr, 13% Ni Stainless Steel",
+      "material_class": "Austenitic Stainless Steel",
+      "is_experimental_melt": true
+    },
+    "chemical_composition": {
+      "elements": [
+        {
+          "element": "Cr",
+          "value": 15.0,
+          "unit": "wt%",
+          "is_nominal": false
+        },
+        {
+          "element": "Ni",
+          "value": 13.0,
+          "unit": "wt%",
+          "is_nominal": false
+        },
+        {
+          "element": "C",
+          "value": 0.002,
+          "unit": "wt%",
+          "is_nominal": false
+        }
+      ],
+      "balance_element": "Fe"
+    },
+    "microstructure": {
+      "description": "Austenitic",
+      "phases_present": [
+        "austenite"
+      ],
+      "grain_size": null
+    },
+    "thermomechanical_history": [
+      {
+        "step_description": "Annealing",
+        "temperature": {
+          "value": 1050.0,
+          "unit": "C"
+        },
+        "duration": null,
+        "atmosphere": null,
+        "cooling_method": "Water Quench"
+      }
+    ],
+    "sample_preparation": {
+      "surface_finish": "3/0 emery paper",
+      "geometry": {
+        "type": "cylindrical rod",
+        "dimensions": "0.45 cm diam"
+      },
+      "pre_test_treatments": []
+    },
+    "corrosion_tests": [
+      {
+        "test_type": "Potentiostatic Pitting Test",
+        "test_temperature": {
+          "value": 25.0,
+          "unit": "C"
+        },
+        "environment": {
+          "electrolyte_base": "NaCl",
+          "description": "0.1 N NaCl",
+          "ph": null,
+          "aggressive_ions": [
+            {
+              "ion": "Cl-",
+              "concentration_value": 0.1,
+              "concentration_unit": "N"
+            }
+          ],
+          "dissolved_oxygen": {
+            "status": "deaerated",
+            "purging_gas": "N2",
+            "gas_purification_method": "passed over Cu at 450 C"
+          }
+        },
+        "electrochemical_protocol": {
+          "reference_electrode": "SHE",
+          "method": "potentiostatic-step",
+          "step_potential": {
+            "value": 50.0,
+            "unit": "mV"
+          },
+          "step_duration": {
+            "value": 5.0,
+            "unit": "min"
+          },
+          "scan_rate": null,
+          "steady_state_threshold": {
+            "value": 10.0,
+            "unit": "hr"
+          }
+        },
+        "results": {
+          "pitting_potential": {
+            "average": 0.26,
+            "min": null,
+            "max": null,
+            "unit": "V"
+          },
+          "repassivation_potential": null,
+          "critical_current_density": null,
+          "additional_metrics": {
+            "pren": null,
+            "notes": "Data source: Figure 6. Potentials at 25 C."
+          }
+        }
+      },
+      {
+        "test_type": "Potentiostatic Pitting Test",
+        "test_temperature": {
+          "value": 0.0,
+          "unit": "C"
+        },
+        "environment": {
+          "electrolyte_base": "NaCl",
+          "description": "0.1 N NaCl"
+        },
+        "results": {
+          "pitting_potential": {
+            "average": 0.78,
+            "min": null,
+            "max": null,
+            "unit": "V"
+          },
+          "additional_metrics": {
+            "notes": "Data source: Figure 6. Significant noble shift at 0 C compared to 25 C."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "alloy_metadata": {
+      "alloy_identifier": "15% Cr, 13% Ni, 2.4% Mo Stainless Steel",
+      "material_class": "Austenitic Stainless Steel",
+      "is_experimental_melt": true
+    },
+    "chemical_composition": {
+      "elements": [
+        {
+          "element": "Cr",
+          "value": 15.0,
+          "unit": "wt%",
+          "is_nominal": false
+        },
+        {
+          "element": "Ni",
+          "value": 13.0,
+          "unit": "wt%",
+          "is_nominal": false
+        },
+        {
+          "element": "Mo",
+          "value": 2.4,
+          "unit": "wt%",
+          "is_nominal": false
+        },
+        {
+          "element": "C",
+          "value": 0.002,
+          "unit": "wt%",
+          "is_nominal": false
+        }
+      ],
+      "balance_element": "Fe"
+    },
+    "microstructure": {
+      "description": "Austenitic",
+      "phases_present": [
+        "austenite"
+      ],
+      "grain_size": null
+    },
+    "thermomechanical_history": [
+      {
+        "step_description": "Annealing",
+        "temperature": {
+          "value": 1050.0,
+          "unit": "C"
+        },
+        "duration": null,
+        "atmosphere": null,
+        "cooling_method": "Water Quench"
+      }
+    ],
+    "sample_preparation": {
+      "surface_finish": "3/0 emery paper",
+      "geometry": {
+        "type": "cylindrical rod",
+        "dimensions": "0.45 cm diam"
+      },
+      "pre_test_treatments": []
+    },
+    "corrosion_tests": [
+      {
+        "test_type": "Potentiostatic Pitting Test",
+        "test_temperature": {
+          "value": 25.0,
+          "unit": "C"
+        },
+        "environment": {
+          "electrolyte_base": "NaCl",
+          "description": "0.1 N NaCl"
+        },
+        "results": {
+          "pitting_potential": {
+            "average": 0.42,
+            "min": null,
+            "max": null,
+            "unit": "V"
+          },
+          "additional_metrics": {
+            "notes": "Estimated from Figure 6."
+          }
+        }
+      },
+      {
+        "test_type": "Potentiostatic Pitting Test",
+        "test_temperature": {
+          "value": 0.0,
+          "unit": "C"
+        },
+        "environment": {
+          "electrolyte_base": "NaCl",
+          "description": "0.1 N NaCl"
+        },
+        "results": {
+          "pitting_potential": {
+            "average": null,
+            "min": null,
+            "max": null,
+            "unit": "V"
+          },
+          "additional_metrics": {
+            "notes": "No definite critical potential observed at 0 C in NaCl for 2.4% Mo alloy; reaches transpassive state."
+          }
+        }
+      },
+      {
+        "test_type": "Potentiostatic Pitting Test",
+        "test_temperature": {
+          "value": 25.0,
+          "unit": "C"
+        },
+        "environment": {
+          "electrolyte_base": "NaBr",
+          "description": "0.1 N NaBr"
+        },
+        "results": {
+          "pitting_potential": {
+            "average": 0.46,
+            "min": null,
+            "max": null,
+            "unit": "V"
+          },
+          "additional_metrics": {
+            "notes": "Estimated from Figure 8."
+          }
+        }
+      }
+    ]
+  },
+  {
+    "alloy_metadata": {
+      "alloy_identifier": "Type 18-8",
+      "material_class": "Austenitic Stainless Steel",
+      "is_experimental_melt": false
+    },
+    "chemical_composition": {
+      "elements": [
+        {
+          "element": "Cr",
+          "value": 18.0,
+          "unit": "wt%",
+          "is_nominal": true
+        },
+        {
+          "element": "Ni",
+          "value": 8.0,
+          "unit": "wt%",
+          "is_nominal": true
+        }
+      ],
+      "balance_element": "Fe"
+    },
+    "microstructure": {
+      "description": "Commercial composition",
+      "phases_present": [
+        "austenite"
+      ],
+      "grain_size": null
+    },
+    "thermomechanical_history": [],
+    "sample_preparation": {
+      "surface_finish": null,
+      "geometry": {
+        "type": null,
+        "dimensions": null
+      },
+      "pre_test_treatments": []
+    },
+    "corrosion_tests": [
+      {
+        "test_type": "Pitting Potential Measurement",
+        "test_temperature": {
+          "value": 25.0,
+          "unit": "C"
+        },
+        "environment": {
+          "electrolyte_base": "NaCl",
+          "description": "0.1 N NaCl"
+        },
+        "results": {
+          "pitting_potential": {
+            "average": 0.26,
+            "min": null,
+            "max": null,
+            "unit": "V"
+          },
+          "additional_metrics": {
+            "notes": "Table I value. Reported as characteristic of one commercial composition."
+          }
+        }
+      }
+    ]
+  }
+]
