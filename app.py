@@ -8,6 +8,7 @@ import time
 PAPER_LIMIT = 10
 
 def read_file(filename):
+
     with open(filename) as f:
         return f.read()
 
@@ -54,12 +55,12 @@ def iterate(paper:Paper, generation:int):
     
     with gh.make_client() as client:
         
-        prior_prompt = read_file(f"refined_prompt_{generation - 1}.txt")
-        prior_output = read_file(f"extractor_output_{generation - 1}.txt")
-        prior_report = read_file(f"critic_report_{generation - 1}.txt")
+        prior_prompt = read_file(f"outputs\\paper_{paper.reference}\\refined_prompt_{generation - 1}.txt")
+        prior_output = read_file(f"outputs\\paper_{paper.reference}\\extractor_output_{generation - 1}.txt")
+        prior_report = read_file(f"outputs\\paper_{paper.reference}\\critic_report_{generation - 1}.txt")
 
         print("Running refiner...")
-        new_prompt = run_refiner(client, prior_prompt, prior_output, prior_report, f"refined_prompt_{generation}.txt")
+        new_prompt = run_refiner(client, paper, prior_prompt, prior_output, prior_report, f"refined_prompt_{generation}.txt")
         
         print("Running extractor...")
         new_output = run_extractor(client, paper, new_prompt, f"extractor_output_{generation}.txt")
