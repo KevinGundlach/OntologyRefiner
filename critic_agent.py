@@ -54,6 +54,6 @@ class CriticAgent:
         full_prompt = f"{PROMPT}\n\n**Extractor Agent Output to Evaluate:**\n{extraction_json}"
         
         # We use a standard text response for the report
-        report = gh.generate_content(client, full_prompt, descriptor, "text", f"Critic Agent: {paper.file_name}")
+        report = gh.generate_content(client, full_prompt, descriptor, "text/plain", f"Critic Agent: {paper.file_name}")
         return report
 

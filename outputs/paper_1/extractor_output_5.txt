@@ -1,0 +1,892 @@
+[
+  {
+    "document_metadata": {
+      "title": "Critical Potentials for Pitting Corrosion of Ni, Cr-Ni, Cr-Fe, and Related Stainless Steels",
+      "doi": null
+    },
+    "extracted_samples": [
+      {
+        "alloy_identity": {
+          "alloy_name": "Pure Aluminum",
+          "material_class": "Pure Metal",
+          "is_experimental_melt": false,
+          "is_literature_reference": true,
+          "data_source_location": "Table I"
+        },
+        "specimen_geometry": null,
+        "composition": {
+          "elements": [
+            {
+              "element": "Al",
+              "value": 100.0,
+              "unit": "wt%",
+              "is_nominal": true
+            }
+          ],
+          "trace_impurities": [],
+          "balance_element": "Al"
+        },
+        "thermomechanical_processing": [],
+        "surface_treatment": null,
+        "experimental_conditions": {
+          "electrolyte": {
+            "base_salt": "NaCl",
+            "concentration": {
+              "value": 0.1,
+              "unit": "N"
+            },
+            "aggressive_ion": "Cl-",
+            "ph": null
+          },
+          "test_temperature": {
+            "value": 25.0,
+            "unit": "°C"
+          },
+          "gas_environment": {
+            "gas_type": "air",
+            "is_deaerated": false,
+            "purification_method": null,
+            "purification_temp": null,
+            "flow_status_during_test": "stagnant"
+          }
+        },
+        "electrochemical_protocol": {
+          "reference_electrode": "Hydrogen scale",
+          "potential_scale_reported": "V, H2 Scale",
+          "measurement_method": {
+            "type": "literature estimate",
+            "step_magnitude": null,
+            "step_duration": null,
+            "steady_state_criterion": null
+          }
+        },
+        "results": {
+          "pitting_potential": {
+            "value": -0.45,
+            "unit": "V",
+            "uncertainty": "estimated from Cl- concentrations"
+          },
+          "pitting_onset_current_density": null,
+          "repassivation_potential": null,
+          "dissolution_mode": "pitting",
+          "observation_notes": "Reference data from Kaesche (1962)."
+        }
+      },
+      {
+        "alloy_identity": {
+          "alloy_name": "Pure Nickel",
+          "material_class": "Pure Metal",
+          "is_experimental_melt": true,
+          "is_literature_reference": false,
+          "data_source_location": "Table I, Figure 3"
+        },
+        "specimen_geometry": {
+          "shape": "rod",
+          "dimensions": [
+            {
+              "parameter": "diameter",
+              "value": 0.45,
+              "unit": "cm"
+            },
+            {
+              "parameter": "length",
+              "value": 2.0,
+              "unit": "cm"
+            }
+          ],
+          "exposure_method": "Teflon gasket"
+        },
+        "composition": {
+          "elements": [
+            {
+              "element": "Ni",
+              "value": 100.0,
+              "unit": "wt%",
+              "is_nominal": true
+            }
+          ],
+          "trace_impurities": [
+            {
+              "element": "C",
+              "value_min": 0.001,
+              "value_max": 0.002,
+              "unit": "wt%"
+            }
+          ],
+          "balance_element": "Ni"
+        },
+        "thermomechanical_processing": [
+          {
+            "step_order": 1,
+            "process_type": "homogenization",
+            "temperature": {
+              "value": 1050.0,
+              "unit": "°C"
+            },
+            "duration": {
+              "value": 4.0,
+              "unit": "h"
+            },
+            "atmosphere": "Argon or Helium",
+            "cooling_method": "water quench"
+          },
+          {
+            "step_order": 2,
+            "process_type": "cold rolling",
+            "temperature": null,
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": null
+          },
+          {
+            "step_order": 3,
+            "process_type": "annealing",
+            "temperature": {
+              "value": 1000.0,
+              "unit": "°C"
+            },
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": "water quench"
+          }
+        ],
+        "surface_treatment": {
+          "mechanical_finish": "3/0 emery",
+          "chemical_treatments": [
+            {
+              "treatment_name": "pickling",
+              "reagents": [
+                {
+                  "name": "HNO3",
+                  "concentration_value": 15.0,
+                  "concentration_unit": "%"
+                },
+                {
+                  "name": "HF",
+                  "concentration_value": 5.0,
+                  "concentration_unit": "%"
+                }
+              ],
+              "temperature": {
+                "value": 80.0,
+                "unit": "°C"
+              },
+              "duration": {
+                "value": 5.0,
+                "unit": "min"
+              }
+            }
+          ]
+        },
+        "experimental_conditions": {
+          "electrolyte": {
+            "base_salt": "NaCl",
+            "concentration": {
+              "value": 0.1,
+              "unit": "N"
+            },
+            "aggressive_ion": "Cl-",
+            "ph": 7.0
+          },
+          "test_temperature": {
+            "value": 25.0,
+            "unit": "°C"
+          },
+          "gas_environment": {
+            "gas_type": "N2",
+            "is_deaerated": true,
+            "purification_method": "passed over Cu",
+            "purification_temp": {
+              "value": 450.0,
+              "unit": "°C"
+            },
+            "flow_status_during_test": "stagnant"
+          }
+        },
+        "electrochemical_protocol": {
+          "reference_electrode": "Hydrogen scale",
+          "potential_scale_reported": "V, H2 Scale",
+          "measurement_method": {
+            "type": "potentiostatic-step",
+            "step_magnitude": {
+              "value": 50.0,
+              "unit": "mV"
+            },
+            "step_duration": {
+              "value": 5.0,
+              "unit": "min"
+            },
+            "steady_state_criterion": {
+              "value": 10.0,
+              "unit": "h",
+              "parameter": "time"
+            }
+          }
+        },
+        "results": {
+          "pitting_potential": {
+            "value": 0.28,
+            "unit": "V",
+            "uncertainty": "±5 mV"
+          },
+          "pitting_onset_current_density": 0.4,
+          "repassivation_potential": null,
+          "dissolution_mode": "pitting",
+          "observation_notes": "Lowest potential where pitting was not observed after 10-hr polarization."
+        }
+      },
+      {
+        "alloy_identity": {
+          "alloy_name": "Cr-Fe Binary Alloy (30% Cr)",
+          "material_class": "Ferritic Alloy",
+          "is_experimental_melt": true,
+          "is_literature_reference": false,
+          "data_source_location": "Figure 1"
+        },
+        "specimen_geometry": {
+          "shape": "rod",
+          "dimensions": [
+            {
+              "parameter": "diameter",
+              "value": 0.45,
+              "unit": "cm"
+            }
+          ],
+          "exposure_method": "Teflon gasket"
+        },
+        "composition": {
+          "elements": [
+            {
+              "element": "Cr",
+              "value": 30.0,
+              "unit": "wt%",
+              "is_nominal": false
+            }
+          ],
+          "trace_impurities": [
+            {
+              "element": "C",
+              "value_min": 0.001,
+              "value_max": 0.002,
+              "unit": "wt%"
+            }
+          ],
+          "balance_element": "Fe"
+        },
+        "thermomechanical_processing": [
+          {
+            "step_order": 1,
+            "process_type": "homogenization",
+            "temperature": {
+              "value": 1050.0,
+              "unit": "°C"
+            },
+            "duration": null,
+            "atmosphere": "Argon or Helium",
+            "cooling_method": "water quench"
+          },
+          {
+            "step_order": 2,
+            "process_type": "swaging",
+            "temperature": null,
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": null
+          },
+          {
+            "step_order": 3,
+            "process_type": "annealing",
+            "temperature": {
+              "value": 1050.0,
+              "unit": "°C"
+            },
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": "water quench"
+          }
+        ],
+        "surface_treatment": {
+          "mechanical_finish": "3/0 emery",
+          "chemical_treatments": [
+            {
+              "treatment_name": "pickling",
+              "reagents": [
+                {
+                  "name": "HNO3",
+                  "concentration_value": 15.0,
+                  "concentration_unit": "%"
+                },
+                {
+                  "name": "HF",
+                  "concentration_value": 5.0,
+                  "concentration_unit": "%"
+                }
+              ],
+              "temperature": {
+                "value": 80.0,
+                "unit": "°C"
+              },
+              "duration": {
+                "value": 5.0,
+                "unit": "min"
+              }
+            }
+          ]
+        },
+        "experimental_conditions": {
+          "electrolyte": {
+            "base_salt": "NaCl",
+            "concentration": {
+              "value": 0.1,
+              "unit": "N"
+            },
+            "aggressive_ion": "Cl-",
+            "ph": 7.0
+          },
+          "test_temperature": {
+            "value": 25.0,
+            "unit": "°C"
+          },
+          "gas_environment": {
+            "gas_type": "N2",
+            "is_deaerated": true,
+            "purification_method": "passed over Cu",
+            "purification_temp": {
+              "value": 450.0,
+              "unit": "°C"
+            },
+            "flow_status_during_test": "stagnant"
+          }
+        },
+        "electrochemical_protocol": {
+          "reference_electrode": "Hydrogen scale",
+          "potential_scale_reported": "V, H2 Scale",
+          "measurement_method": {
+            "type": "potentiostatic-step",
+            "step_magnitude": {
+              "value": 50.0,
+              "unit": "mV"
+            },
+            "step_duration": {
+              "value": 5.0,
+              "unit": "min"
+            },
+            "steady_state_criterion": {
+              "value": 10.0,
+              "unit": "h",
+              "parameter": "time"
+            }
+          }
+        },
+        "results": {
+          "pitting_potential": {
+            "value": 0.65,
+            "unit": "V",
+            "uncertainty": null
+          },
+          "pitting_onset_current_density": null,
+          "repassivation_potential": null,
+          "dissolution_mode": "pitting",
+          "observation_notes": "Critical potential rises rapidly in the 25-40% Cr region."
+        }
+      },
+      {
+        "alloy_identity": {
+          "alloy_name": "15Cr-13Ni-2.4Mo Stainless Steel",
+          "material_class": "Austenitic Stainless Steel",
+          "is_experimental_melt": true,
+          "is_literature_reference": false,
+          "data_source_location": "Figure 6"
+        },
+        "specimen_geometry": {
+          "shape": "rod",
+          "dimensions": [
+            {
+              "parameter": "diameter",
+              "value": 0.45,
+              "unit": "cm"
+            }
+          ],
+          "exposure_method": "Teflon gasket"
+        },
+        "composition": {
+          "elements": [
+            {
+              "element": "Cr",
+              "value": 15.0,
+              "unit": "wt%",
+              "is_nominal": true
+            },
+            {
+              "element": "Ni",
+              "value": 13.0,
+              "unit": "wt%",
+              "is_nominal": true
+            },
+            {
+              "element": "Mo",
+              "value": 2.4,
+              "unit": "wt%",
+              "is_nominal": true
+            }
+          ],
+          "trace_impurities": [
+            {
+              "element": "C",
+              "value_min": 0.001,
+              "value_max": 0.002,
+              "unit": "wt%"
+            }
+          ],
+          "balance_element": "Fe"
+        },
+        "thermomechanical_processing": [
+          {
+            "step_order": 1,
+            "process_type": "homogenization",
+            "temperature": {
+              "value": 1050.0,
+              "unit": "°C"
+            },
+            "duration": null,
+            "atmosphere": "Argon or Helium",
+            "cooling_method": "water quench"
+          },
+          {
+            "step_order": 2,
+            "process_type": "swaging",
+            "temperature": null,
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": null
+          },
+          {
+            "step_order": 3,
+            "process_type": "annealing",
+            "temperature": {
+              "value": 1050.0,
+              "unit": "°C"
+            },
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": "water quench"
+          }
+        ],
+        "surface_treatment": {
+          "mechanical_finish": "3/0 emery",
+          "chemical_treatments": [
+            {
+              "treatment_name": "pickling",
+              "reagents": [
+                {
+                  "name": "HNO3",
+                  "concentration_value": 15.0,
+                  "concentration_unit": "%"
+                },
+                {
+                  "name": "HF",
+                  "concentration_value": 5.0,
+                  "concentration_unit": "%"
+                }
+              ],
+              "temperature": {
+                "value": 80.0,
+                "unit": "°C"
+              },
+              "duration": {
+                "value": 5.0,
+                "unit": "min"
+              }
+            }
+          ]
+        },
+        "experimental_conditions": {
+          "electrolyte": {
+            "base_salt": "NaCl",
+            "concentration": {
+              "value": 0.1,
+              "unit": "N"
+            },
+            "aggressive_ion": "Cl-",
+            "ph": 7.0
+          },
+          "test_temperature": {
+            "value": 25.0,
+            "unit": "°C"
+          },
+          "gas_environment": {
+            "gas_type": "N2",
+            "is_deaerated": true,
+            "purification_method": "passed over Cu",
+            "purification_temp": {
+              "value": 450.0,
+              "unit": "°C"
+            },
+            "flow_status_during_test": "stagnant"
+          }
+        },
+        "electrochemical_protocol": {
+          "reference_electrode": "Hydrogen scale",
+          "potential_scale_reported": "V, H2 Scale",
+          "measurement_method": {
+            "type": "potentiostatic-step",
+            "step_magnitude": {
+              "value": 50.0,
+              "unit": "mV"
+            },
+            "step_duration": {
+              "value": 5.0,
+              "unit": "min"
+            },
+            "steady_state_criterion": {
+              "value": 10.0,
+              "unit": "h",
+              "parameter": "time"
+            }
+          }
+        },
+        "results": {
+          "pitting_potential": {
+            "value": 0.45,
+            "unit": "V",
+            "uncertainty": null
+          },
+          "pitting_onset_current_density": null,
+          "repassivation_potential": null,
+          "dissolution_mode": "pitting",
+          "observation_notes": "Critical potentials at 0°C are below those at 25°C for alloys containing 1.5% Mo or higher."
+        }
+      },
+      {
+        "alloy_identity": {
+          "alloy_name": "15Cr-13Ni-2.4Mo Stainless Steel (0°C)",
+          "material_class": "Austenitic Stainless Steel",
+          "is_experimental_melt": true,
+          "is_literature_reference": false,
+          "data_source_location": "Figure 6"
+        },
+        "specimen_geometry": {
+          "shape": "rod",
+          "dimensions": [
+            {
+              "parameter": "diameter",
+              "value": 0.45,
+              "unit": "cm"
+            }
+          ],
+          "exposure_method": "Teflon gasket"
+        },
+        "composition": {
+          "elements": [
+            {
+              "element": "Cr",
+              "value": 15.0,
+              "unit": "wt%",
+              "is_nominal": true
+            },
+            {
+              "element": "Ni",
+              "value": 13.0,
+              "unit": "wt%",
+              "is_nominal": true
+            },
+            {
+              "element": "Mo",
+              "value": 2.4,
+              "unit": "wt%",
+              "is_nominal": true
+            }
+          ],
+          "trace_impurities": [
+            {
+              "element": "C",
+              "value_min": 0.001,
+              "value_max": 0.002,
+              "unit": "wt%"
+            }
+          ],
+          "balance_element": "Fe"
+        },
+        "thermomechanical_processing": [
+          {
+            "step_order": 1,
+            "process_type": "homogenization",
+            "temperature": {
+              "value": 1050.0,
+              "unit": "°C"
+            },
+            "duration": null,
+            "atmosphere": "Argon or Helium",
+            "cooling_method": "water quench"
+          },
+          {
+            "step_order": 2,
+            "process_type": "swaging",
+            "temperature": null,
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": null
+          },
+          {
+            "step_order": 3,
+            "process_type": "annealing",
+            "temperature": {
+              "value": 1050.0,
+              "unit": "°C"
+            },
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": "water quench"
+          }
+        ],
+        "surface_treatment": {
+          "mechanical_finish": "3/0 emery",
+          "chemical_treatments": [
+            {
+              "treatment_name": "pickling",
+              "reagents": [
+                {
+                  "name": "HNO3",
+                  "concentration_value": 15.0,
+                  "concentration_unit": "%"
+                },
+                {
+                  "name": "HF",
+                  "concentration_value": 5.0,
+                  "concentration_unit": "%"
+                }
+              ],
+              "temperature": {
+                "value": 80.0,
+                "unit": "°C"
+              },
+              "duration": {
+                "value": 5.0,
+                "unit": "min"
+              }
+            }
+          ]
+        },
+        "experimental_conditions": {
+          "electrolyte": {
+            "base_salt": "NaCl",
+            "concentration": {
+              "value": 0.1,
+              "unit": "N"
+            },
+            "aggressive_ion": "Cl-",
+            "ph": 7.0
+          },
+          "test_temperature": {
+            "value": 0.0,
+            "unit": "°C"
+          },
+          "gas_environment": {
+            "gas_type": "N2",
+            "is_deaerated": true,
+            "purification_method": "passed over Cu",
+            "purification_temp": {
+              "value": 450.0,
+              "unit": "°C"
+            },
+            "flow_status_during_test": "stagnant"
+          }
+        },
+        "electrochemical_protocol": {
+          "reference_electrode": "Hydrogen scale",
+          "potential_scale_reported": "V, H2 Scale",
+          "measurement_method": {
+            "type": "potentiostatic-step",
+            "step_magnitude": {
+              "value": 50.0,
+              "unit": "mV"
+            },
+            "step_duration": {
+              "value": 5.0,
+              "unit": "min"
+            },
+            "steady_state_criterion": {
+              "value": 10.0,
+              "unit": "h",
+              "parameter": "time"
+            }
+          }
+        },
+        "results": {
+          "pitting_potential": null,
+          "pitting_onset_current_density": null,
+          "repassivation_potential": null,
+          "dissolution_mode": "transpassive",
+          "observation_notes": "No definite critical potential observed; alloy reaches transpassive state with continuous current increase."
+        }
+      },
+      {
+        "alloy_identity": {
+          "alloy_name": "15Cr-13Ni-0Mo Stainless Steel",
+          "material_class": "Austenitic Stainless Steel",
+          "is_experimental_melt": true,
+          "is_literature_reference": false,
+          "data_source_location": "Figure 8"
+        },
+        "specimen_geometry": {
+          "shape": "rod",
+          "dimensions": [
+            {
+              "parameter": "diameter",
+              "value": 0.45,
+              "unit": "cm"
+            }
+          ],
+          "exposure_method": "Teflon gasket"
+        },
+        "composition": {
+          "elements": [
+            {
+              "element": "Cr",
+              "value": 15.0,
+              "unit": "wt%",
+              "is_nominal": true
+            },
+            {
+              "element": "Ni",
+              "value": 13.0,
+              "unit": "wt%",
+              "is_nominal": true
+            },
+            {
+              "element": "Mo",
+              "value": 0.0,
+              "unit": "wt%",
+              "is_nominal": true
+            }
+          ],
+          "trace_impurities": [
+            {
+              "element": "C",
+              "value_min": 0.001,
+              "value_max": 0.002,
+              "unit": "wt%"
+            }
+          ],
+          "balance_element": "Fe"
+        },
+        "thermomechanical_processing": [
+          {
+            "step_order": 1,
+            "process_type": "homogenization",
+            "temperature": {
+              "value": 1050.0,
+              "unit": "°C"
+            },
+            "duration": null,
+            "atmosphere": "Argon or Helium",
+            "cooling_method": "water quench"
+          },
+          {
+            "step_order": 2,
+            "process_type": "swaging",
+            "temperature": null,
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": null
+          },
+          {
+            "step_order": 3,
+            "process_type": "annealing",
+            "temperature": {
+              "value": 1050.0,
+              "unit": "°C"
+            },
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": "water quench"
+          }
+        ],
+        "surface_treatment": {
+          "mechanical_finish": "3/0 emery",
+          "chemical_treatments": [
+            {
+              "treatment_name": "pickling",
+              "reagents": [
+                {
+                  "name": "HNO3",
+                  "concentration_value": 15.0,
+                  "concentration_unit": "%"
+                },
+                {
+                  "name": "HF",
+                  "concentration_value": 5.0,
+                  "concentration_unit": "%"
+                }
+              ],
+              "temperature": {
+                "value": 80.0,
+                "unit": "°C"
+              },
+              "duration": {
+                "value": 5.0,
+                "unit": "min"
+              }
+            }
+          ]
+        },
+        "experimental_conditions": {
+          "electrolyte": {
+            "base_salt": "NaBr",
+            "concentration": {
+              "value": 0.1,
+              "unit": "N"
+            },
+            "aggressive_ion": "Br-",
+            "ph": 7.0
+          },
+          "test_temperature": {
+            "value": 25.0,
+            "unit": "°C"
+          },
+          "gas_environment": {
+            "gas_type": "N2",
+            "is_deaerated": true,
+            "purification_method": "passed over Cu",
+            "purification_temp": {
+              "value": 450.0,
+              "unit": "°C"
+            },
+            "flow_status_during_test": "stagnant"
+          }
+        },
+        "electrochemical_protocol": {
+          "reference_electrode": "Hydrogen scale",
+          "potential_scale_reported": "V, H2 Scale",
+          "measurement_method": {
+            "type": "potentiostatic-step",
+            "step_magnitude": {
+              "value": 50.0,
+              "unit": "mV"
+            },
+            "step_duration": {
+              "value": 5.0,
+              "unit": "min"
+            },
+            "steady_state_criterion": {
+              "value": 10.0,
+              "unit": "h",
+              "parameter": "time"
+            }
+          }
+        },
+        "results": {
+          "pitting_potential": {
+            "value": 0.54,
+            "unit": "V",
+            "uncertainty": null
+          },
+          "pitting_onset_current_density": null,
+          "repassivation_potential": null,
+          "dissolution_mode": "pitting",
+          "observation_notes": "Pitting potential in 0.1N NaBr is 0.26v more noble than in 0.1N NaCl for this alloy."
+        }
+      }
+    ]
+  }
+]
