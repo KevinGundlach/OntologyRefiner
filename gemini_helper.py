@@ -20,20 +20,42 @@ def next_usage_id():
     else:
         return max(ids) + 1
 
-def generate_content(client:genai.Client, prompt:str, file:File|None=None, response_mime_type:str|None=None, usage_notes:str|None=None):
+def generate_content(
+        client:genai.Client, 
+        prompt:str, 
+        file:File|None=None, 
+        response_json_schema:str|None=None, 
+        usage_notes:str|None=None, 
+        use_pro:bool=False):
 
     if file is None:
         contents = [prompt]        
     else:
         contents = [file, prompt]
 
+    if use_pro:
+        model = "gemini-3.1-pro-preview"
+    else:
+        model = "gemini-3-flash-preview"
+
+    thinking_config = types.ThinkingConfig(thinking_level="high")
+    
+    if response_json_schema is not None:
+        content_config = types.GenerateContentConfig(
+            thinking_config=thinking_config,
+            response_json_schema=response_json_schema,
+            response_mime_type="application/json"
+        )
+    else:
+        content_config = types.GenerateContentConfig(
+            thinking_config=thinking_config,
+            response_mime_type="text/plain"
+        )
+
     response = client.models.generate_content(
-        model="gemini-3-flash-preview",
+        model=model,
         contents=contents,
-        config=types.GenerateContentConfig(
-            thinking_config=types.ThinkingConfig(thinking_level="high"),
-            response_mime_type=response_mime_type,
-        ),
+        config=content_config
     )
 
     with open(f"usage/{next_usage_id()}.txt", "w") as f:        

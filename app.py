@@ -1,6 +1,8 @@
 from extractor_agent import ExtractorAgent, INITIAL_PROMPT
 from critic_agent import CriticAgent
 from refiner_agent import RefinerAgent
+from data_extractor_agent import DataExtractorAgent
+from data_formatter_agent import DataFormatterAgent
 from paper_collection import PaperCollection, Paper
 import gemini_helper as gh 
 import time
@@ -61,7 +63,7 @@ def iterate(paper:Paper, generation:int):
 
         print("Running refiner...")
         new_prompt = run_refiner(client, paper, prior_prompt, prior_output, prior_report, f"refined_prompt_{generation}.txt")
-        
+
         print("Running extractor...")
         new_output = run_extractor(client, paper, new_prompt, f"extractor_output_{generation}.txt")
         
@@ -70,12 +72,75 @@ def iterate(paper:Paper, generation:int):
         
         print("New Critic Report Generated.")
 
+
+def generate_transcript():
+
+    transcript = []
+
+    for gen in range(0, 8):
+
+        transcript.append(f"# Extractor Generation {gen} Prompt:\n")        
+        if gen == 0:
+            transcript.append(INITIAL_PROMPT)
+        else:
+            transcript.append(read_file(f"outputs\\paper_1\\refined_prompt_{gen}.txt"))
+        transcript.append("\n\n")
+
+        transcript.append(f"# Extractor Generation {gen} Output:\n")
+        transcript.append(read_file("outputs\\paper_1\\extractor_output_0.txt"))
+        transcript.append("\n\n")
+        
+        transcript.append(f"# Critic Report For Generation {gen}:\n")
+        transcript.append(read_file("outputs\\paper_1\\critic_report_0.txt"))
+        transcript.append("\n\n")
+
+    with open("transcript.txt", "w") as f:
+        f.write('\n'.join(transcript))
+
+# The above functions are for running the original unrestricted extractor->critic->refinement loop.
+# 
+# Below are for the data extractor -> data formatter process. 
+
+def run_data_extractor(paper, output_file):
+
+    data_extractor = DataExtractorAgent()
+    
+    with gh.make_client() as client:
+        text = data_extractor.extract_from_paper(client, paper)
+        with open(output_file, "w", encoding="utf-8") as f:
+            f.write(text)
+
+    return text 
+
+def run_data_formatter(extractor_text, output_file):
+
+    print(output_file)
+
+    data_formatter = DataFormatterAgent()
+    
+    with gh.make_client() as client:
+        text = data_formatter.format_text(client, extractor_text)
+        with open(output_file, "w", encoding="utf-8") as f:
+            f.write(text)
+
+    return text 
+
+
 def main():
 
-    collection = PaperCollection(from_folder="papers", limit=PAPER_LIMIT) 
-    paper = collection.papers[0]    # Just test with paper 1 for the time being.
+    extracted_texts = [
+        read_file("outputs\\paper_1_data_web.txt"),
+        read_file("outputs\\paper_2_data_web.txt"),
+        read_file("outputs\\paper_3_data_web.txt"),
+        read_file("outputs\\paper_9_data_web.txt"),
+        read_file("outputs\\paper_49_data_web.txt"),
+    ]
+
+    run_data_formatter(extracted_texts[1], "outputs\\paper_2_json.txt")
+    run_data_formatter(extracted_texts[2], "outputs\\paper_3_json.txt")
+    run_data_formatter(extracted_texts[3], "outputs\\paper_9_json.txt")
+    run_data_formatter(extracted_texts[4], "outputs\\paper_49_json.txt")
     
-    iterate(paper, 5)
 
 
 if __name__ == "__main__":

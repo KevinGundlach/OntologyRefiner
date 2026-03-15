@@ -1,0 +1,425 @@
+Here is the detailed, structured extraction of the metal alloy corrosion testing data from the provided research paper.
+
+### Binary Cr-Fe Alloys
+
+#### Experiment: Potentiostatic Polarization in NaCl
+
+* 1. Alloy Name/Identifier: Binary Cr-Fe alloys.
+
+
+* 2. Alloy Type: Binary iron-chromium alloys.
+
+
+* 3. Alloy Composition: 12% to 57.8% Cr by weight, Fe balance. Carbon content ranges from 0.001-0.002%.
+
+
+* 4. Alloy Description & Processing: Vacuum melted from pure electrolytic iron (deoxidized and decarburized) and high purity chromium in dense alumina crucibles. The melt was drawn into 7 mm diameter Vycor tubes and water quenched. Ingots were homogenized in argon or helium at 1050-1100°C for several hours. Alloys containing less than 40% Cr were cold rolled to 0.25 cm or swaged to roughly 0.45 cm rods. Alloys with more than 40% Cr were difficult to roll and were machined directly from the ingot.
+
+
+* **5. Microstructure**: Not specified.
+* 6. Heat Treatment: Annealed at 1000-1050°C and water quenched. A subsequent anneal was not necessary due to the low carbon content.
+
+
+* 7. Surface Preparation & Geometry: Electrodes measured approximately 2 cm long and were either 0.4 cm in diameter or 0.5 cm wide by 0.2 cm thick. They were abraded to 3/0 emery paper and pickled in 15% HNO3 with 5% HF at 80°C for 5 minutes. The electrodes were mounted with a threaded member and pressed against a glass tube separated by a Teflon gasket.
+
+
+* **8. Test Procedure & Environment**:
+* 
+**Methodology**: Potentiostatic anodic polarization.
+
+
+* 
+**Electrolyte**: 0.1N NaCl.
+
+
+* 
+**Chloride/Halide Concentration**: 0.1N Cl-.
+
+
+* **pH**: Not specified.
+* 
+**Temperature**: 25°C.
+
+
+* 
+**Aeration**: Deaerated with purified nitrogen prior to testing, but with no gas flow during actual measurements.
+
+
+* 
+**Scan Rate**: Steady-state values ($V_{c}$) were obtained by holding the potential at a fixed value for 10 hours or longer.
+
+
+
+
+* 9. Pitting Potential ($E_{pit}$): All values vs. H2 Scale. ~0.2V for 12% Cr (estimated from Figure 1); ~0.24V for 23% Cr (estimated from Figure 1); ~0.58V for 29% Cr (estimated from Figure 1); ~0.89V for 39% Cr (estimated from Figure 1); ~0.91V for 48.8% Cr (estimated from Figure 1). Values >0.9V (transpassive, no pitting) for 57.8% Cr and pure Cr.
+
+
+* **10. Other Relevant Metrics**: Not specified.
+
+---
+
+### Binary Cr-Ni Alloys
+
+#### Experiment: Potentiostatic Polarization in NaCl
+
+* 1. Alloy Name/Identifier: Binary Cr-Ni alloys.
+
+
+* 2. Alloy Type: Binary nickel-chromium alloys.
+
+
+* 3. Alloy Composition: 0% to 29.4% Cr by weight, Ni balance. Carbon content 0.001-0.002%.
+
+
+* 4. Alloy Description & Processing: Vacuum melted from carbonyl nickel and high purity chromium in dense alumina crucibles. Drawn into 7 mm diameter Vycor tubes and water quenched. Homogenized in argon or helium at 1050-1100°C for several hours. Ingots were cold rolled to 0.25 cm.
+
+
+* 5. Microstructure: Solid solutions, though alloys were not formulated beyond 29.4% Cr to avoid entering a two-phase alloy region.
+
+
+* 6. Heat Treatment: Annealed at 1000-1050°C and water quenched.
+
+
+* 7. Surface Preparation & Geometry: ~2 cm long, either 0.4 cm in diameter or 0.5 cm wide by 0.2 cm thick. Abraded to 3/0 emery paper and pickled in 15% HNO3 with 5% HF at 80°C for 5 minutes. Mounted with a Teflon gasket.
+
+
+* **8. Test Procedure & Environment**:
+* 
+**Methodology**: Potentiostatic anodic polarization.
+
+
+* 
+**Electrolyte**: 0.1N NaCl.
+
+
+* 
+**Chloride/Halide Concentration**: 0.1N Cl-.
+
+
+* **pH**: Not specified.
+* 
+**Temperature**: 25°C.
+
+
+* 
+**Aeration**: Deaerated with purified nitrogen prior to testing.
+
+
+* 
+**Scan Rate**: Steady-state values obtained by holding the potential at a fixed value for 10 hours or longer.
+
+
+
+
+* 9. Pitting Potential ($E_{pit}$): All values vs. H2 Scale. ~0.28V for 0% Cr (estimated from Figure 2); ~0.28V for 2% Cr (estimated from Figure 2); ~0.29V for 5% Cr (estimated from Figure 2); ~0.37V for 11% Cr (estimated from Figure 2); ~0.55V for 15% Cr (estimated from Figure 2); ~0.73V for 18% Cr (estimated from Figure 2); ~0.78V for 25% Cr (estimated from Figure 2); ~0.79V for 29.4% Cr (estimated from Figure 2).
+
+
+* **10. Other Relevant Metrics**: Not specified.
+
+---
+
+### Binary Mo-Ni Alloys
+
+#### Experiment: Potentiostatic Polarization in NaCl
+
+* 1. Alloy Name/Identifier: Binary Mo-Ni alloys.
+
+
+* 2. Alloy Type: Binary nickel-molybdenum alloys.
+
+
+* 3. Alloy Composition: 0%, 3.2%, 6.8%, 19.9%, and 24.9% Mo by weight, Ni balance. Carbon content 0.001-0.002%.
+
+
+* 4. Alloy Description & Processing: Vacuum melted from pure components in dense alumina crucibles. Drawn into 7 mm diameter Vycor tubes and water quenched. Homogenized in argon or helium at 1050-1100°C for several hours. Cold rolled to 0.25 cm.
+
+
+* **5. Microstructure**: Not specified.
+* 6. Heat Treatment: Annealed at 1000-1050°C and water quenched.
+
+
+* 7. Surface Preparation & Geometry: ~2 cm long, either 0.4 cm in diameter or 0.5 cm wide by 0.2 cm thick. Abraded to 3/0 emery paper and pickled in 15% HNO3 with 5% HF at 80°C for 5 minutes. Mounted with a Teflon gasket.
+
+
+* **8. Test Procedure & Environment**:
+* 
+**Methodology**: Potentiostatic anodic polarization.
+
+
+* 
+**Electrolyte**: 0.1N NaCl.
+
+
+* 
+**Chloride/Halide Concentration**: 0.1N Cl-.
+
+
+* **pH**: Not specified.
+* 
+**Temperature**: 25°C.
+
+
+* 
+**Aeration**: Deaerated with purified nitrogen prior to testing.
+
+
+* **Scan Rate**: Not specified.
+
+
+* 9. Pitting Potential ($E_{pit}$): All values vs. H2 Scale. ~0.3V for pure Ni (estimated from Figure 3). ~0.2V for 3.2% Mo (estimated from Figure 3). No pitting was observed for alloys containing 6.8%, 19.9%, and 24.9% Mo.
+
+
+* 10. Other Relevant Metrics: Current oscillations were observed between 0 and 0.9V for the higher Mo alloys, attributed to molybdate formation and periodic passive breakdown.
+
+
+
+---
+
+### Ternary Cr-Ni-Fe Stainless Steels
+
+#### Experiment: Potentiostatic Polarization in NaCl
+
+* 1. Alloy Name/Identifier: 15% Cr-Fe-Ni alloys.
+
+
+* 2. Alloy Type: Ternary solid solution austenitic stainless steels.
+
+
+* 3. Alloy Composition: 15% Cr by weight, with increasing Ni additions (0%, ~14%, 20%, 40%, 50%, 60%), Fe balance. Carbon content 0.001-0.002%.
+
+
+* 4. Alloy Description & Processing: Vacuum melted from pure components. Swaged to approximately 0.45 cm diameter rods.
+
+
+* 5. Microstructure: Solid solution structure.
+
+
+* 6. Heat Treatment: Annealed at 1050°C and water quenched.
+
+
+* 7. Surface Preparation & Geometry: ~2 cm long, 0.4 cm in diameter. Abraded to 3/0 emery paper and pickled in 15% HNO3 with 5% HF at 80°C for 5 minutes. Mounted with a Teflon gasket.
+
+
+* **8. Test Procedure & Environment**:
+* 
+**Methodology**: Potentiostatic anodic polarization.
+
+
+* 
+**Electrolyte**: 0.1N NaCl.
+
+
+* 
+**Chloride/Halide Concentration**: 0.1N Cl-.
+
+
+* **pH**: Not specified.
+* 
+**Temperature**: 25°C.
+
+
+* 
+**Aeration**: Deaerated with purified nitrogen prior to testing.
+
+
+* 
+**Scan Rate**: Steady-state long-term holds.
+
+
+
+
+* 9. Pitting Potential ($E_{pit}$): All values vs. H2 Scale. ~0.2V for 0% Ni (estimated from Figure 5); ~0.28V for ~14% Ni (estimated from Figure 5); ~0.28V for 20% Ni (estimated from Figure 5); ~0.34V for 40% Ni (estimated from Figure 5); ~0.35V for 50% Ni (estimated from Figure 5); ~0.38V for 60% Ni (estimated from Figure 5).
+
+
+* **10. Other Relevant Metrics**: Not specified.
+
+---
+
+### Quaternary Cr-Ni-Mo-Fe Stainless Steels
+
+#### Experiment A: Potentiostatic Polarization in NaCl
+
+* 1. Alloy Name/Identifier: 15% Cr, 13% Ni, Mo stainless steels.
+
+
+* 2. Alloy Type: Quaternary single-phase stainless steels.
+
+
+* 3. Alloy Composition: 15% Cr, 13% Ni, with increasing Mo content (0%, 0.43%, 1%, 1.43%, 2%, 2.4%) by weight, Fe balance. Carbon content 0.001-0.002%.
+
+
+* 4. Alloy Description & Processing: Vacuum melted from pure components. Swaged to approximately 0.45 cm diameter rods.
+
+
+* 5. Microstructure: Single-phase structure as confirmed by metallographic examination.
+
+
+* 6. Heat Treatment: Annealed at 1050°C and water quenched.
+
+
+* 7. Surface Preparation & Geometry: ~2 cm long, 0.4 cm in diameter. Abraded to 3/0 emery paper and pickled in 15% HNO3 with 5% HF at 80°C for 5 minutes. Mounted with a Teflon gasket.
+
+
+* **8. Test Procedure & Environment**:
+* 
+**Methodology**: Potentiostatic anodic polarization.
+
+
+* 
+**Electrolyte**: 0.1N NaCl.
+
+
+* 
+**Chloride/Halide Concentration**: 0.1N Cl-.
+
+
+* **pH**: Not specified.
+* 
+**Temperature**: Tested at 0°C, 25°C, and 40°C.
+
+
+* 
+**Aeration**: Deaerated with purified nitrogen prior to testing.
+
+
+* 
+**Scan Rate**: Steady-state values obtained by long-term holds.
+
+
+
+
+* 9. Pitting Potential ($E_{pit}$): All values vs. H2 Scale.
+
+
+* 
+**At 25°C**: ~0.28V for 0% Mo (estimated from Figure 6); ~0.3V for 0.43% Mo (estimated from Figure 6); ~0.35V for 1% Mo (estimated from Figure 6); ~0.4V for 1.43% Mo (estimated from Figure 6); ~0.53V for 2% Mo (estimated from Figure 6); ~0.75V for 2.4% Mo (estimated from Figure 6).
+
+
+* 
+**At 0°C**: ~0.78V for 0% Mo (estimated from Figure 6); ~0.5V for 0.43% Mo (estimated from Figure 6); ~0.42V for 1% Mo (estimated from Figure 6); ~0.38V for 1.43% Mo (estimated from Figure 6); ~0.32V for 2% Mo (estimated from Figure 6). For 2.4% Mo, there was no definite critical potential (it reached the transpassive state), though pitting could be artificially induced near 0.6V.
+
+
+* 
+**At 40°C**: Values approximately match those at 25°C.
+
+
+
+
+* 10. Other Relevant Metrics: Current oscillations were observed for the 1.43% Mo alloy starting at 0.55V up to 1.5V, and for the 0% Mo alloy starting at 0.7V, attributed to molybdate and chromate formation.
+
+
+
+#### Experiment B: Potentiostatic Polarization in NaBr
+
+* **1-7. Alloy Identity and Prep**: Identical to Experiment A above.
+* **8. Test Procedure & Environment**:
+* 
+**Methodology**: Potentiostatic anodic polarization.
+
+
+* 
+**Electrolyte**: 0.1N NaBr.
+
+
+* 
+**Chloride/Halide Concentration**: 0.1N Br-.
+
+
+* **pH**: Not specified.
+* 
+**Temperature**: Tested at 0°C and 25°C.
+
+
+* 
+**Aeration**: Deaerated with purified nitrogen prior to testing.
+
+
+* 
+**Scan Rate**: Steady-state values obtained by long-term holds.
+
+
+
+
+* 9. Pitting Potential ($E_{pit}$): All values vs. H2 Scale.
+
+
+* 
+**At 25°C**: 0.54V for 0% Mo (estimated from Figure 8); ~0.53V for 0.43% Mo (estimated from Figure 8); ~0.51V for 1.43% Mo (estimated from Figure 8); ~0.48V for 2.4% Mo (estimated from Figure 8).
+
+
+* 
+**At 0°C**: ~0.42V for 0% Mo (estimated from Figure 8); ~0.31V for 0.43% Mo (estimated from Figure 8). The results were indefinite for 1.43% Mo and above as no established critical potential was observed.
+
+
+
+
+* **10. Other Relevant Metrics**: Not specified.
+
+#### Experiment C: Immersion Pitting Tests
+
+* **1-7. Alloy Identity and Prep**: Identical to Experiment A above.
+* **8. Test Procedure & Environment**:
+* 
+**Methodology**: Two-day exposure immersion tests.
+
+
+* 
+**Electrolyte**: 10% FeCl3 and 10% FeBr3.
+
+
+* 
+**Temperature**: Tested at 0°C and 25°C.
+
+
+
+
+* **9. Pitting Potential ($E_{pit}$)**: Not applicable (exposure test).
+* **10. Other Relevant Metrics**:
+* 
+**In 10% FeCl3**: At 0°C, the 0% Mo alloy was free of pitting, but the 2.4% Mo alloy showed definite pitting after two days. At 25°C, the 0% Mo alloy was pitted, while the 2.4% Mo alloy did not pit within two days.
+
+
+* 
+**In 10% FeBr3**: Pitting occurred at both 0°C and 25°C for the 0%, 1.4%, and 2.4% Mo alloys.
+
+
+
+
+
+---
+
+### Additional Pure Metals and Commercial Alloys
+
+#### Experiment: Reference Potentials
+
+* 1. Alloy Name/Identifier: Al, Ni, 18-8, Zr, Cr, Ti.
+
+
+* 2. Alloy Type: Various pure metals and commercial 18-8 stainless steel.
+
+
+* 3. Alloy Composition: "18-8" is characteristic of one commercial composition; others are assumed pure metals.
+
+
+* 4-7. Alloy Identity and Prep: Not specified in detail within this reference table.
+
+
+* **8. Test Procedure & Environment**:
+* 
+**Methodology**: Potentiostatic (referenced from literature and present data).
+
+
+* 
+**Electrolyte**: 0.1N NaCl.
+
+
+* 
+**Temperature**: 25°C.
+
+
+
+
+* **9. Pitting Potential ($E_{pit}$)**: All values vs. H2 Scale (assumed based on table context). -0.45V for Al; 0.28V for Ni; 0.26V for 18-8 (estimated from various Cl- concentrations); 0.46V for Zr; >1.0V for Cr; >1.0V for Ti.
+
+
+* **10. Other Relevant Metrics**: Not specified.

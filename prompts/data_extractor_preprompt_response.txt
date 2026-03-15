@@ -1,0 +1,52 @@
+This is a fantastic initiative! Extracting structured data from dense materials science papers to train a Graph Neural Network (GNN) is exactly the kind of high-value workflow Large Language Models excel at.
+
+Before diving into the prompt, let's address the shortcomings in your initial list of variables. In corrosion science, pitting potential ($E_{pit}$) is highly sensitive to several environmental and methodological factors. If you train a model without these, it will struggle to generalize.
+
+### Critical Missing Variables to Add:
+
+* **Temperature:** Pitting potential drops drastically as temperature increases. (e.g., testing at 25°C vs. 90°C yields completely different results).
+* **Reference Electrode:** A potential of "56 mV" is meaningless unless we know what it is measured against (e.g., SCE, Ag/AgCl, SHE).
+* **Surface Finish/Preparation:** Roughness and passivation steps dictate oxide stability. A specimen polished to 600-grit SiC will behave differently than a wheel-ground or acid-passivated specimen.
+* **Electrode Geometry/Crevice Configuration:** As highlighted in the provided papers, whether a sample is a "wire loop," a "flat coupon with a Teflon washer," or "mounted in epoxy" drastically affects whether you are measuring true pitting or crevice corrosion.
+* **Deaeration/Oxygen Content:** Was the solution aerated, or purged with nitrogen/argon? Oxygen reduction acts as a competing cathodic reaction.
+
+Here is the engineered prompt, incorporating your requirements and the critical additions:
+
+---
+
+### The Engineered Prompt
+
+**Copy and paste the text below into your LLM agent:**
+
+```text
+You are an expert materials scientist and data extraction agent. Your task is to extract detailed, structured information regarding metal alloy corrosion testing from the provided research paper. 
+
+For EVERY distinct metal alloy and EACH specific experiment performed on that alloy, extract the following fields. Format your output clearly using markdown headers for each alloy and sub-headers for each experiment. 
+
+If a specific piece of information is not mentioned, explicitly state "Not specified." You must scan the main text, as well as all tables, figures, and plots. If exact numerical values (e.g., pitting potentials) are not provided in the text or tables, carefully estimate them from the relevant plots and indicate that it is an estimated value (e.g., "~250 mV (estimated from Figure 3)").
+
+Extract the following information:
+
+1. Alloy Name/Identifier: (e.g., 316L, E-Brite 26-1, W5)
+2. Alloy Type: Provide a brief description of the type of alloy (e.g., austenitic stainless steel, duplex, ferritic, martensitic, Ni-base superalloy).
+3. Alloy Composition: Extract the precise chemical composition. List all elements (including trace elements). Crucially, indicate the unit of measurement (e.g., weight %, atomic %, ppm) and state the balance element (e.g., Fe balance).
+4. Alloy Description & Processing: Provide a brief paragraph describing how the alloy was prepared, manufactured, melted, or physically processed (e.g., vacuum induction melting, hot rolled, cold rolled).
+5. Microstructure: Provide a brief paragraph describing the alloy's microstructure (e.g., fully recrystallized, sigma-phase precipitates, elongated grains, martensitic).
+6. Heat Treatment: Provide a brief paragraph describing any thermal treatments applied (e.g., annealed at 1093°C for 1 hour followed by water quench).
+7. Surface Preparation & Geometry: Detail the physical shape of the electrode (e.g., 0.25 mm wire loop, flat coupon) and its surface finish (e.g., ground to 180 grit SiC, electropolished, pickled in HNO3). Note if any crevice formers (like Teflon washers) were used.
+8. Test Procedure & Environment:
+    * Methodology: (e.g., potentiodynamic polarization, potentiostatic, salt spray, exposure test)
+    * Electrolyte: Exact composition of the solution (e.g., Synthetic seawater, 1.0 M NaCl + 0.5 M Na2SO4).
+    * Chloride/Halide Concentration: Specific concentration of aggressive ions (e.g., 24,000 ppm Cl-, 1.0 M Br-).
+    * pH: The pH of the test solution.
+    * Temperature: The temperature of the test solution (e.g., 50°C, ambient).
+    * Aeration: Was the solution deaerated (e.g., purged with N2) or aerated? Mention specific dissolved oxygen levels if given.
+    * Scan Rate: (e.g., 10 mV/min, 60 mV/min).
+9. Pitting Potential (E_pit): Extract the measured pitting potential values. You MUST include the unit of measure and the reference electrode used (e.g., 344 mV vs. SCE). If multiple tests were run (e.g., at different chloride concentrations), list the specific condition alongside the corresponding E_pit value.
+10. Other Relevant Metrics (Optional but helpful): Extract any other provided corrosion metrics, such as Corrosion Potential (E_corr), Crevice Breakdown Potential (E_crev), or Pitting Resistance Equivalent Number (PREN).
+
+```
+
+---
+
+Would you like me to run this prompt on one of the provided context papers (like the Pessall & Nurminen paper on ferritic steels) so we can review the output quality together?

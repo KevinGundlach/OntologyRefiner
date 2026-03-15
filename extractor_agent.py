@@ -95,6 +95,13 @@ class ExtractorAgent:
         self.prompt = INITIAL_PROMPT if prompt is None else prompt 
 
     def extract_from_paper(self, client:Client, paper:Paper) -> str:
+        
         descriptor = paper.get_gemini_file_descriptor(client)
-        text = gh.generate_content(client, self.prompt, descriptor, "application/json", f"Extractor Agent: {paper.file_name}")
+        
+        text = gh.generate_content(
+            client = client, 
+            prompt = self.prompt, 
+            file = descriptor,
+            usage_notes = f"Extractor Agent: {paper.file_name}")
+        
         return text

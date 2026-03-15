@@ -1,0 +1,38 @@
+This evaluation report assesses the Extractor Agent's JSON output derived from the paper **"Critical Potentials for Pitting Corrosion of Ni, Cr-Ni, Cr-Fe, and Related Stainless Steels" (1968)**.
+
+### 1. JSON Validity: Pass
+The output is a well-formatted, valid JSON array.
+
+### 2. Hallucinations & Inaccuracies
+*   **Sample 2 (12% Cr-Fe) - Incorrect Potential Value:** The JSON lists a `critical_pitting_potential` value of `0.28 V`. This is a hallucination/mapping error. 
+    *   **Source Text:** Table I (page 791) lists **Ni** as having a critical potential of **0.28 V**. Figure 1 (page 792) shows the data point for 12% Cr-Fe at approximately **0.3 V**. The agent erroneously assigned the value for pure Nickel to the 12% Chromium-Iron alloy.
+*   **Sample 2 (12% Cr-Fe) - Thermomechanical Duration:** The JSON lists a homogenization duration of `3.0 h`.
+    *   **Source Text:** Page 791 (Experimental Procedure) states alloys were homogenized "usually at 1050°-1100° for **several hours**." The specific value "3.0" is an assumption/hallucination.
+*   **Sample 5 (15Cr-13Ni) - Potential Comparison Note:** The `observation_notes` state: "0.26v more noble than in 0.1N NaCl."
+    *   **Source Text:** Page 794 states: "The value of Vc (0.54v) for the 15% Cr, 13% Ni alloy in 0.1N NaBr at 25°C is **0.26v more noble than in 0.1N NaCl**." While the note is correct, the JSON value for $V_c$ in 0.1N NaCl (which would be 0.28V) is not explicitly captured as its own sample, leaving the comparison contextless in the structured data.
+
+### 3. Formatting & Structure Violations
+*   **Flat String in `measurement_method.description`:** The agent uses a long sentence to describe the steady-state criteria: *"Lowest potential for which pitting could not be observed after a 10-hr or longer period of constant polarization."* This should be structured into specific metadata fields like `pitting_detection_method: "microscopy"` and `steady_state_definition`.
+*   **Combined Atmosphere String:** In `specimen_preparation.melting.atmosphere`, the value is `"Argon or Helium"`. This should be a structured list: `["Argon", "Helium"]`.
+*   **Missing Specificity in `potential_scale_reported`:** The agent correctly identifies "H2 Scale" but fails to map this to the standard term **SHE** (Standard Hydrogen Electrode), which is the standard materials science convention for the Hydrogen scale.
+
+### 4. Missing Information
+*   **Critical Missing Sample (Ni-3.2Mo):** The abstract and results (page 792) highlight that adding 3.2% Mo to Nickel *lowers* the critical potential to **0.2 V** (compared to 0.28 V for pure Ni). This is a key finding for the paper’s thesis on alloying effects and was omitted.
+*   **Quasi-Stationary Scan Rate:** The agent left `step_magnitude` and `step_duration` as null.
+    *   **Source Text:** Page 792 states: "The potential was then advanced in **stages of 50 mv**, allowing **5 min** between each change." This defines a quasi-stationary scan rate of **10 mV/min**.
+*   **Purge Gas Details:** For sample 3, the agent noted "N2" but missed the specific purification detail provided in the text: *"passed over Cu at 450°C"* (page 792).
+*   **Sample Geometry:** Dimensions for the swaged rods (0.45 cm diam) and the specific electrode surface area calculations mentioned in the text (approx 2 cm long) are missing.
+
+### 5. Schema Recommendations for the Refiner Agent
+1.  **Implement Step-wise Polarization Structure:** Add a nested object under `electrochemical_protocol` to handle quasi-stationary tests:
+    ```json
+    "polarization_steps": {
+      "increment_value": 50,
+      "increment_unit": "mV",
+      "hold_duration_value": 5,
+      "hold_duration_unit": "min"
+    }
+    ```
+2.  **Standardize Reference Electrodes:** Create a lookup or mapping for potential scales. If "H2 Scale" is found, the schema should explicitly allow for `reference_electrode_standard: "SHE"`.
+3.  **De-duplicate Alloy Series:** The paper presents entire series (Cr-Fe, Cr-Ni). The Refiner should look for "Figures 1, 2, 5, 6, 8" and generate discrete samples for each major data point on the curves to ensure the GNN has the full compositional gradient.
+4.  **Refine Passivity Observation:** Add a boolean `is_transpassive_limitation` to the `results` object to distinguish between alloys that pit and those that reach transpassivity (like the 57.8% Cr-Fe alloy) before pitting can occur.

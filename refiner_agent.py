@@ -47,7 +47,10 @@ class RefinerAgent:
                              .replace("[Insert Current Output Here]", current_extractor_output)
                              .replace("[Insert Critic Report Here]", critic_report))
         
-        response = gh.generate_content(client, full_prompt, usage_notes="Refiner Agent")
+        response = gh.generate_content(
+            client = client, 
+            prompt = full_prompt, 
+            usage_notes="Refiner Agent")
         
         match = re.search(r"<new_extractor_prompt>(.*?)</new_extractor_prompt>", response, re.DOTALL)
         

@@ -1,0 +1,609 @@
+[
+  {
+    "document_metadata": {
+      "title": "Critical Potentials for Pitting Corrosion of Ni, Cr-Ni, Cr-Fe, and Related Stainless Steels",
+      "doi": null
+    },
+    "extracted_samples": [
+      {
+        "alloy_identity": {
+          "alloy_name": "Aluminum (Pure)",
+          "material_class": "Metal",
+          "is_experimental_melt": false,
+          "data_origin": {
+            "is_original_to_paper": false,
+            "citation_key": "(3)"
+          },
+          "data_source_location": "Table I"
+        },
+        "specimen_preparation": null,
+        "composition": {
+          "elements": [
+            {
+              "element": "Al",
+              "value": 100.0,
+              "unit": "wt%",
+              "is_nominal": true
+            }
+          ],
+          "trace_impurities": [],
+          "balance_element": "Al"
+        },
+        "thermomechanical_processing": null,
+        "surface_treatment": null,
+        "experimental_conditions": {
+          "electrolyte": {
+            "base_salt": "NaCl",
+            "concentration": {
+              "value": 0.1,
+              "unit": "N"
+            },
+            "aggressive_ion": "Cl-",
+            "measured_ph": null
+          },
+          "test_temperature": {
+            "value": 25.0,
+            "unit": "°C"
+          },
+          "gas_management": {
+            "gas_species": "Air",
+            "is_deaerated": false,
+            "purification": null,
+            "test_state": "stagnant"
+          }
+        },
+        "electrochemical_protocol": {
+          "reference_electrode_type": "Not Reported",
+          "potential_scale_reported": "H2 Scale",
+          "scan_direction": "Anodic",
+          "measurement_method": {
+            "method_label": "Literature Data",
+            "description": "Estimated from data for various Cl- concentrations",
+            "step_magnitude": null,
+            "step_duration": null,
+            "steady_state_threshold_duration": null
+          }
+        },
+        "results": {
+          "critical_pitting_potential": {
+            "value": -0.45,
+            "unit": "V",
+            "uncertainty": null
+          },
+          "pitting_onset_current_density": null,
+          "dissolution_mode": "pitting",
+          "observation_notes": "Literature reference value"
+        }
+      },
+      {
+        "alloy_identity": {
+          "alloy_name": "12% Cr-Fe",
+          "material_class": "Iron-base Alloy",
+          "is_experimental_melt": true,
+          "data_origin": {
+            "is_original_to_paper": true,
+            "citation_key": null
+          },
+          "data_source_location": "Figure 1"
+        },
+        "specimen_preparation": {
+          "melting": {
+            "method": "vacuum melting",
+            "crucible_material": "alumina",
+            "atmosphere": "Argon or Helium"
+          },
+          "casting_geometry": {
+            "method": "drawn into tubes",
+            "mold_material": "Vycor",
+            "dimensions": [
+              {
+                "parameter": "diameter",
+                "value": 7.0,
+                "unit": "mm"
+              }
+            ]
+          },
+          "mounting": {
+            "mounting_type": "gasketed",
+            "gasket_material": "Teflon",
+            "exposure_method": "total immersion"
+          }
+        },
+        "composition": {
+          "elements": [
+            {
+              "element": "Cr",
+              "value": 12.0,
+              "unit": "wt%",
+              "is_nominal": false
+            }
+          ],
+          "trace_impurities": [
+            {
+              "element": "C",
+              "value_min": 0.001,
+              "value_max": 0.002,
+              "unit": "wt%"
+            }
+          ],
+          "balance_element": "Fe"
+        },
+        "thermomechanical_processing": [
+          {
+            "step_order": 1,
+            "process_type": "homogenization",
+            "temperature": {
+              "value": 1050.0,
+              "unit": "°C"
+            },
+            "duration": {
+              "value": 3.0,
+              "unit": "h"
+            },
+            "atmosphere": "Argon or Helium",
+            "cooling_method": "water quenched"
+          },
+          {
+            "step_order": 2,
+            "process_type": "swaging",
+            "temperature": null,
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": null
+          },
+          {
+            "step_order": 3,
+            "process_type": "annealing",
+            "temperature": {
+              "value": 1050.0,
+              "unit": "°C"
+            },
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": "water quenched"
+          }
+        ],
+        "surface_treatment": {
+          "mechanical_finish": {
+            "grit_specification": "3/0",
+            "abrasive_material": "emery paper"
+          },
+          "chemical_treatments": [
+            {
+              "treatment_name": "pickling",
+              "reagents": [
+                {
+                  "name": "HNO3",
+                  "concentration_value": 15.0,
+                  "concentration_unit": "%"
+                },
+                {
+                  "name": "HF",
+                  "concentration_value": 5.0,
+                  "concentration_unit": "%"
+                }
+              ],
+              "temperature": {
+                "value": 80.0,
+                "unit": "°C"
+              },
+              "duration": {
+                "value": 5.0,
+                "unit": "min"
+              }
+            }
+          ],
+          "washing_steps": []
+        },
+        "experimental_conditions": {
+          "electrolyte": {
+            "base_salt": "NaCl",
+            "concentration": {
+              "value": 0.1,
+              "unit": "N"
+            },
+            "aggressive_ion": "Cl-",
+            "measured_ph": null
+          },
+          "test_temperature": {
+            "value": 25.0,
+            "unit": "°C"
+          },
+          "gas_management": {
+            "gas_species": "N2",
+            "is_deaerated": true,
+            "purification": {
+              "method": "passed over Cu",
+              "catalyst": "Cu",
+              "purification_temp": {
+                "value": 450.0,
+                "unit": "°C"
+              }
+            },
+            "test_state": "stagnant"
+          }
+        },
+        "electrochemical_protocol": {
+          "reference_electrode_type": "Not Reported",
+          "potential_scale_reported": "H2 Scale",
+          "scan_direction": "Anodic",
+          "measurement_method": {
+            "method_label": "Vc",
+            "description": "Lowest potential for which pitting could not be observed after a 10-hr or longer period of constant polarization.",
+            "step_magnitude": null,
+            "step_duration": null,
+            "steady_state_threshold_duration": {
+              "value": 10.0,
+              "unit": "h"
+            }
+          }
+        },
+        "results": {
+          "critical_pitting_potential": {
+            "value": 0.28,
+            "unit": "V",
+            "uncertainty": {
+              "value": 0.005,
+              "unit": "V"
+            }
+          },
+          "pitting_onset_current_density": null,
+          "dissolution_mode": "pitting",
+          "observation_notes": "Region marked as non-passive in Figure 1, but Vc data point exists."
+        }
+      },
+      {
+        "alloy_identity": {
+          "alloy_name": "57.8% Cr-Fe",
+          "material_class": "Iron-base Alloy",
+          "is_experimental_melt": true,
+          "data_origin": {
+            "is_original_to_paper": true,
+            "citation_key": null
+          },
+          "data_source_location": "Figure 1"
+        },
+        "specimen_preparation": {
+          "melting": {
+            "method": "vacuum melting",
+            "crucible_material": "alumina",
+            "atmosphere": "Argon or Helium"
+          },
+          "casting_geometry": {
+            "method": "drawn into tubes",
+            "mold_material": "Vycor",
+            "dimensions": [
+              {
+                "parameter": "diameter",
+                "value": 7.0,
+                "unit": "mm"
+              }
+            ]
+          },
+          "mounting": {
+            "mounting_type": "threaded member",
+            "gasket_material": "Teflon",
+            "exposure_method": "total immersion"
+          }
+        },
+        "composition": {
+          "elements": [
+            {
+              "element": "Cr",
+              "value": 57.8,
+              "unit": "wt%",
+              "is_nominal": false
+            }
+          ],
+          "trace_impurities": [
+            {
+              "element": "C",
+              "value_min": 0.001,
+              "value_max": 0.002,
+              "unit": "wt%"
+            }
+          ],
+          "balance_element": "Fe"
+        },
+        "thermomechanical_processing": [
+          {
+            "step_order": 1,
+            "process_type": "homogenization",
+            "temperature": {
+              "value": 1050.0,
+              "unit": "°C"
+            },
+            "duration": null,
+            "atmosphere": "Argon or Helium",
+            "cooling_method": null
+          },
+          {
+            "step_order": 2,
+            "process_type": "machining",
+            "temperature": null,
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": null
+          }
+        ],
+        "surface_treatment": {
+          "mechanical_finish": {
+            "grit_specification": "3/0",
+            "abrasive_material": "emery paper"
+          },
+          "chemical_treatments": [
+            {
+              "treatment_name": "pickling",
+              "reagents": [
+                {
+                  "name": "HNO3",
+                  "concentration_value": 15.0,
+                  "concentration_unit": "%"
+                },
+                {
+                  "name": "HF",
+                  "concentration_value": 5.0,
+                  "concentration_unit": "%"
+                }
+              ],
+              "temperature": {
+                "value": 80.0,
+                "unit": "°C"
+              },
+              "duration": {
+                "value": 5.0,
+                "unit": "min"
+              }
+            }
+          ],
+          "washing_steps": []
+        },
+        "experimental_conditions": {
+          "electrolyte": {
+            "base_salt": "NaCl",
+            "concentration": {
+              "value": 0.1,
+              "unit": "N"
+            },
+            "aggressive_ion": "Cl-",
+            "measured_ph": null
+          },
+          "test_temperature": {
+            "value": 25.0,
+            "unit": "°C"
+          },
+          "gas_management": {
+            "gas_species": "N2",
+            "is_deaerated": true,
+            "purification": null,
+            "test_state": "stagnant"
+          }
+        },
+        "electrochemical_protocol": {
+          "reference_electrode_type": "Not Reported",
+          "potential_scale_reported": "H2 Scale",
+          "scan_direction": "Anodic",
+          "measurement_method": {
+            "method_label": "Vc",
+            "description": "Steady-state value determined by long-time polarization",
+            "step_magnitude": null,
+            "step_duration": null,
+            "steady_state_threshold_duration": {
+              "value": 10.0,
+              "unit": "h"
+            }
+          }
+        },
+        "results": {
+          "critical_pitting_potential": null,
+          "pitting_onset_current_density": null,
+          "dissolution_mode": "transpassive",
+          "observation_notes": "Corroded uniformly with production of CrO4--. Pitting not observed."
+        }
+      },
+      {
+        "alloy_identity": {
+          "alloy_name": "15Cr-13Ni-2.4Mo Stainless Steel",
+          "material_class": "Stainless Steel",
+          "is_experimental_melt": true,
+          "data_origin": {
+            "is_original_to_paper": true,
+            "citation_key": null
+          },
+          "data_source_location": "Figure 6"
+        },
+        "specimen_preparation": {
+          "melting": {
+            "method": "vacuum melting",
+            "crucible_material": "alumina",
+            "atmosphere": "Argon or Helium"
+          },
+          "casting_geometry": null,
+          "mounting": {
+            "mounting_type": "gasketed",
+            "gasket_material": "Teflon",
+            "exposure_method": "total immersion"
+          }
+        },
+        "composition": {
+          "elements": [
+            {
+              "element": "Cr",
+              "value": 15.0,
+              "unit": "wt%",
+              "is_nominal": true
+            },
+            {
+              "element": "Ni",
+              "value": 13.0,
+              "unit": "wt%",
+              "is_nominal": true
+            },
+            {
+              "element": "Mo",
+              "value": 2.4,
+              "unit": "wt%",
+              "is_nominal": false
+            }
+          ],
+          "trace_impurities": [
+            {
+              "element": "C",
+              "value_min": 0.001,
+              "value_max": 0.002,
+              "unit": "wt%"
+            }
+          ],
+          "balance_element": "Fe"
+        },
+        "thermomechanical_processing": [
+          {
+            "step_order": 1,
+            "process_type": "homogenization",
+            "temperature": {
+              "value": 1050.0,
+              "unit": "°C"
+            },
+            "duration": null,
+            "atmosphere": "Argon",
+            "cooling_method": "water quenched"
+          },
+          {
+            "step_order": 2,
+            "process_type": "annealing",
+            "temperature": {
+              "value": 1050.0,
+              "unit": "°C"
+            },
+            "duration": null,
+            "atmosphere": null,
+            "cooling_method": "water quenched"
+          }
+        ],
+        "surface_treatment": null,
+        "experimental_conditions": {
+          "electrolyte": {
+            "base_salt": "NaCl",
+            "concentration": {
+              "value": 0.1,
+              "unit": "N"
+            },
+            "aggressive_ion": "Cl-",
+            "measured_ph": null
+          },
+          "test_temperature": {
+            "value": 0.0,
+            "unit": "°C"
+          },
+          "gas_management": {
+            "gas_species": "N2",
+            "is_deaerated": true,
+            "purification": null,
+            "test_state": "stagnant"
+          }
+        },
+        "electrochemical_protocol": {
+          "reference_electrode_type": "Not Reported",
+          "potential_scale_reported": "H2 Scale",
+          "scan_direction": "Anodic",
+          "measurement_method": {
+            "method_label": "Vc",
+            "description": "Steady-state critical potential",
+            "step_magnitude": null,
+            "step_duration": null,
+            "steady_state_threshold_duration": null
+          }
+        },
+        "results": {
+          "critical_pitting_potential": null,
+          "pitting_onset_current_density": null,
+          "dissolution_mode": "transpassive",
+          "observation_notes": "Alloy reaches transpassive state; no definite critical potential observed. Current increases continuously. Pitting can be induced by polarizing to ~0.6v."
+        }
+      },
+      {
+        "alloy_identity": {
+          "alloy_name": "15Cr-13Ni Stainless Steel",
+          "material_class": "Stainless Steel",
+          "is_experimental_melt": true,
+          "data_origin": {
+            "is_original_to_paper": true,
+            "citation_key": null
+          },
+          "data_source_location": "Figure 8"
+        },
+        "specimen_preparation": null,
+        "composition": {
+          "elements": [
+            {
+              "element": "Cr",
+              "value": 15.0,
+              "unit": "wt%",
+              "is_nominal": true
+            },
+            {
+              "element": "Ni",
+              "value": 13.0,
+              "unit": "wt%",
+              "is_nominal": true
+            }
+          ],
+          "trace_impurities": [
+            {
+              "element": "C",
+              "value_min": 0.001,
+              "value_max": 0.002,
+              "unit": "wt%"
+            }
+          ],
+          "balance_element": "Fe"
+        },
+        "thermomechanical_processing": null,
+        "surface_treatment": null,
+        "experimental_conditions": {
+          "electrolyte": {
+            "base_salt": "NaBr",
+            "concentration": {
+              "value": 0.1,
+              "unit": "N"
+            },
+            "aggressive_ion": "Br-",
+            "measured_ph": null
+          },
+          "test_temperature": {
+            "value": 25.0,
+            "unit": "°C"
+          },
+          "gas_management": {
+            "gas_species": "N2",
+            "is_deaerated": true,
+            "purification": null,
+            "test_state": "stagnant"
+          }
+        },
+        "electrochemical_protocol": {
+          "reference_electrode_type": "Not Reported",
+          "potential_scale_reported": "H2 Scale",
+          "scan_direction": "Anodic",
+          "measurement_method": {
+            "method_label": "Vc",
+            "description": "Steady-state value",
+            "step_magnitude": null,
+            "step_duration": null,
+            "steady_state_threshold_duration": null
+          }
+        },
+        "results": {
+          "critical_pitting_potential": {
+            "value": 0.54,
+            "unit": "V",
+            "uncertainty": null
+          },
+          "pitting_onset_current_density": null,
+          "dissolution_mode": "pitting",
+          "observation_notes": "0.26v more noble than in 0.1N NaCl."
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,113 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "$ref": "#/$defs/Experiment",
+  "$defs": {
+    "Measurement": {
+      "type": "object",
+      "properties": {
+        "entity_type": { "type": "string", "const": "Measurement" },
+        "name": { "type": "string", "description": "Name of the property or chemical, e.g., 'Temperature', 'NaCl', 'Pitting Potential'" },
+        "value": {
+          "anyOf": [
+            { "type": "number" },
+            { 
+              "type": "object", 
+              "properties": { "min": { "type": "number" }, "max": { "type": "number" } },
+              "required": ["min", "max"]
+            },
+            { "type": "string" }
+          ]
+        },
+        "unit": { "type": ["string", "null"], "description": "Unit of measure, if applicable." }
+      },
+      "required": ["entity_type", "name", "value"]
+    },
+    "Attribute": {
+      "type": "object",
+      "properties": {
+        "entity_type": { "type": "string", "const": "Attribute" },
+        "name": { "type": "string", "description": "Name of the latent variable or condition." },
+        "value": {
+          "anyOf": [
+            { "type": "string" },
+            { "type": "number" },
+            { "$ref": "#/$defs/Measurement" }
+          ],
+          "description": "Strictly limited to a string, number, or Measurement to ensure unrolling works."
+        }
+      },
+      "required": ["entity_type", "name", "value"]
+    },
+    "MaterialComposition": {
+      "type": "object",
+      "properties": {
+        "entity_type": { "type": "string", "const": "MaterialComposition" },
+        "balance_element": { "type": "string", "description": "The base element, usually Fe for steel." },
+        "elements": { "type": "array", "items": { "$ref": "#/$defs/Measurement" } }
+      },
+      "required": ["entity_type", "balance_element", "elements"]
+    },
+    "MaterialProcessingStep": {
+      "type": "object",
+      "properties": {
+        "entity_type": { "type": "string", "const": "MaterialProcessingStep" },
+        "description": { "type": "string", "description": "e.g., 'Annealed', 'Cold Rolled'" },
+        "other_attributes": { "type": "array", "items": { "$ref": "#/$defs/Attribute" } }
+      },
+      "required": ["entity_type", "description"]
+    },
+    "Material": {
+      "type": "object",
+      "properties": {
+        "entity_type": { "type": "string", "const": "Material" },
+        "identifier": { "type": "string" },
+        "composition": { "type": "array", "items": { "$ref": "#/$defs/MaterialComposition" } },
+        "processing_steps": { "type": "array", "items": { "$ref": "#/$defs/MaterialProcessingStep" } },
+        "other_attributes": { "type": "array", "items": { "$ref": "#/$defs/Attribute" } }
+      },
+      "required": ["entity_type", "identifier"]
+    },
+    "TestSolutionComposition": {
+      "type": "object",
+      "properties": {
+        "entity_type": { "type": "string", "const": "TestSolutionComposition" },
+        "chemicals": { "type": "array", "items": { "$ref": "#/$defs/Measurement" } },
+        "other_attributes": { "type": "array", "items": { "$ref": "#/$defs/Attribute" } }
+      },
+      "required": ["entity_type", "chemicals"]
+    },
+    "TestSolution": {
+      "type": "object",
+      "properties": {
+        "entity_type": { "type": "string", "const": "TestSolution" },
+        "ph": { "$ref": "#/$defs/Measurement" },
+        "temperature": { "$ref": "#/$defs/Measurement" },
+        "composition": { "$ref": "#/$defs/TestSolutionComposition" },
+        "other_attributes": { "type": "array", "items": { "$ref": "#/$defs/Attribute" } }
+      },
+      "required": ["entity_type"]
+    },
+    "TestProcedure": {
+      "type": "object",
+      "properties": {
+        "entity_type": { "type": "string", "const": "TestProcedure" },
+        "description": { "type": "string", "description": "e.g., 'Potentiodynamic Polarization'" },
+        "test_solution": { "$ref": "#/$defs/TestSolution" },
+        "other_attributes": { "type": "array", "items": { "$ref": "#/$defs/Attribute" } }
+      },
+      "required": ["entity_type", "description"]
+    },
+    "Experiment": {
+      "type": "object",
+      "properties": {
+        "entity_type": { "type": "string", "const": "Experiment" },
+        "material": { "$ref": "#/$defs/Material" },
+        "test_procedure": { "$ref": "#/$defs/TestProcedure" },
+        "results": { "type": "array", "items": { "$ref": "#/$defs/Measurement" } },
+        "other_attributes": { "type": "array", "items": { "$ref": "#/$defs/Attribute" } }
+      },
+      "required": ["entity_type", "material", "test_procedure", "results"]
+    }
+  }
+}
