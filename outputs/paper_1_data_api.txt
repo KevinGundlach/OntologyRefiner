@@ -1,208 +1,185 @@
-Here is the detailed, structured information extracted from the research paper regarding the metal alloys and their pitting corrosion testing:
+```xml
+<base_material>
+    <base_material_identifier>Binary Cr-Fe Alloys</base_material_identifier>
+    <alloy_composition>12% to 57.8% Cr (weight %), balance Fe. Iron used was electrolytic grade, deoxidized and decarburized in H2 to approximately 0.001-0.002% C. Chromium was special high purity.</alloy_composition>
+    <alloy_type>Binary iron-chromium alloys.</alloy_type>
+    <microstructure>Solid solution. Passivity and localized breakdown characteristics depend on Cr concentration (alloys below 12% Cr exhibited less or no passivity).</microstructure>
+    <other_information>Alloys prepared by vacuum melting in dense alumina crucibles. After allowing Argon or Helium to enter the furnace, the melt was drawn into 7 mm diameter Vycor tubes and water quenched. Ingots were homogenized in Ar or He at 1050°-1100°C for several hours.</other_information>
 
-# Group 1: Pure Metals (Al, Ni, Zr, Cr, Ti)
+    <conditioned_material>
+        <conditioned_material_identifier>Swaged/Rolled Cr-Fe (<= 40% Cr)</conditioned_material_identifier>
+        <process_description>Ingots of lower % Cr-Fe alloys were cold rolled to 0.25 cm or swaged to about 0.45 cm diameter rods.</process_description>
+        <surface_finish>Abraded to a final 3/0 emery paper, and pickled in 15% HNO3, 5% HF at 80°C for 5 minutes to remove the cold worked surface.</surface_finish>
+        <heat_treatment>Annealed at 1000°-1050°C and water quenched. (No subsequent anneal after quenching was necessary due to low carbon content).</heat_treatment>
+        <other_information>Electrodes measured approximately 2 cm long and were either 0.4 cm diameter or 0.5 cm wide by 0.2 cm thick.</other_information>
 
-**1. Alloy Name/Identifier:** Pure Al, Pure Ni, Pure Zr, Pure Cr, Pure Ti
-**2. Alloy Type:** Pure Metals
-**3. Alloy Composition:** 100% Al, 100% Ni, 100% Zr, 100% Cr, 100% Ti. (Note: The text specifies Carbonyl nickel and special high purity chromium from Union Carbide Company were used for subsequent alloys, implying high purity for the tested pure metals).
-**4. Alloy Description & Processing:** Not specifically detailed for the standalone pure metal tests from the literature/baseline, though pure Ni and Cr base materials were obtained as Carbonyl nickel and high purity chromium.
-**5. Microstructure:** Not specified.
-**6. Heat Treatment:** Not specified.
-**7. Surface Preparation & Geometry:** Not specified.
-**8. Test Procedure & Environment:**
-*   **Methodology:** Steady-state Critical Pitting Potential ($E_{pit}$) Measurement
-*   **Electrolyte:** Aqueous NaCl
-*   **Chloride/Halide Concentration:** 0.1 N NaCl
-*   **pH:** Not specified (implied neutral/ambient)
-*   **Temperature:** 25°C
-*   **Aeration:** Not specified for these specific baseline tests.
-*   **Scan Rate:** Not specified.
-**9. Pitting Potential ($E_{pit}$):**
-*   Pure Al: -0.45 V
-*   Pure Ni: 0.28 V
-*   Pure Zr: 0.46 V
-*   Pure Cr: >1.0 V
-*   Pure Ti: >1.0 V
-*(Note: Reference electrode is not explicitly stated in the table but is implied to be the Normal/Standard Hydrogen Electrode (NHE/SHE) based on context clues in the text).*
-**10. Other Relevant Metrics:** Not specified.
+        <experiment>
+            <test_procedure>Potentiostatic polarization. Electrode first polarized at the least noble potential within the passive region for at least 15 min to achieve steady-state passivity. Potential was advanced in stages of 50 mV, allowing 5 min between each change to find non-steady-state pitting ($V'_c$). Steady-state critical pitting potentials ($V_c$) were then obtained by holding the potential for 10 hours or longer at a fixed value and observing pitting under a low power microscope. Values correspond to total immersion. Reference electrode is the Standard Hydrogen Electrode (SHE), reported as "Volts, H2 Scale".</test_procedure>
+            <electrode_geometry_mounting>Electrode firmly pressed by a threaded member against a glass tube separated by a Teflon gasket, exposing only the electrode, Teflon, and glass surface to the electrolyte. Pitting initiated preferably at the Teflon-electrode interface but was not restricted to it.</electrode_geometry_mounting>
+            <test_solution_and_environment>0.1N NaCl deaerated with purified nitrogen (passed over Cu at 450°C). No flow of nitrogen during actual measurements. Pyrex cell fitted with ground glass joints, located in an air thermostat maintained at 25°C ± 0.2°C.</test_solution_and_environment>
+            <pitting_potential>Steady-state critical pitting potentials ($V_c$) estimated from Fig. 1 plot: 12% Cr: ~0.20 V (SHE); 20% Cr: ~0.20 V (SHE); 25% Cr: ~0.28 V (SHE); 30% Cr: ~0.65 V (SHE); 40% Cr: ~0.88 V (SHE).</pitting_potential>
+            <other_information>Values of $V_c$ rise rapidly in the region of 25-40% Cr, indicating appreciably greater resistance to pitting.</other_information>
+        </experiment>
+    </conditioned_material>
 
-***
+    <conditioned_material>
+        <conditioned_material_identifier>Machined Cr-Fe (> 40% Cr)</conditioned_material_identifier>
+        <process_description>Cr-Fe alloys containing more than 40% Cr were difficult to roll or swage, hence electrodes were machined directly from the homogenized ingot.</process_description>
+        <surface_finish>Abraded to a final 3/0 emery paper, and pickled in 15% HNO3, 5% HF at 80°C for 5 minutes.</surface_finish>
+        <heat_treatment>Homogenized in Ar or He at 1050°-1100°C for several hours prior to machining.</heat_treatment>
+        <other_information>Electrodes measured approximately 2 cm long and 0.4 cm diameter.</other_information>
 
-# Group 2: Binary Cr-Fe Alloys
+        <experiment>
+            <test_procedure>Potentiostatic polarization. Steady-state critical pitting potentials ($V_c$) obtained by holding the potential for 10 hours or longer at a fixed value. Reference electrode: SHE.</test_procedure>
+            <electrode_geometry_mounting>Mounted via Teflon gasket against glass tube.</electrode_geometry_mounting>
+            <test_solution_and_environment>0.1N NaCl deaerated with purified N2, 25°C ± 0.2°C.</test_solution_and_environment>
+            <pitting_potential>Steady-state critical pitting potentials ($V_c$) estimated from Fig. 1 plot: 48.8% Cr: ~0.95 V (SHE) (some pitting observed); 57.8% Cr: >1.0 V (SHE) (no pitting, uniform transpassive corrosion with CrO4-- production); Pure Cr (100%): >1.0 V (SHE) (transpassive, no pitting).</pitting_potential>
+            <other_information>At 57.8% Cr and pure Cr, the electrodes corroded uniformly with production of chromates, acting as pitting inhibitors.</other_information>
+        </experiment>
+    </conditioned_material>
+</base_material>
 
-**1. Alloy Name/Identifier:** Binary Cr-Fe Alloys
-**2. Alloy Type:** Binary Iron-Chromium Alloys (Ferritic/Martensitic)
-**3. Alloy Composition:** 12% to 57.8% Cr (weight %), balance Fe. (Iron was deoxidized and decarburized to approximately 0.001-0.002% C).
-**4. Alloy Description & Processing:** Prepared by vacuum melting pure components in dense alumina crucibles. Melt drawn into 7 mm diameter Vycor tubes and water quenched. Ingots >40% Cr were machined directly from the homogenized ingot due to difficulty swaging. Lower % Cr-Fe ingots were cold rolled to 0.25 cm or swaged to ~0.45 cm diameter rods.
-**5. Microstructure:** Not specified.
-**6. Heat Treatment:** Homogenized in Ar or He at 1050°–1100°C for several hours. Swaged/rolled alloys were subsequently annealed at 1000°–1050°C and water quenched.
-**7. Surface Preparation & Geometry:** Electrodes measured ~2 cm long and were either 0.4 cm diameter rods or 0.5 cm wide x 0.2 cm thick. Mounted by threaded attachment to a nickel wire, pressed against a glass tube separated by a Teflon gasket. Abraded to a final 3/0 emery paper and pickled in 15% HNO3 + 5% HF at 80°C for 5 minutes.
-**8. Test Procedure & Environment:**
-*   **Methodology:** Potentiostatic polarization. Polarized at least noble potential in passive region for $\ge$15 min. Potential advanced in 50 mV stages (5 min per stage) to find non-steady state onset, followed by holding potential for 10 hours or longer to establish steady-state critical pitting potential ($V_c$).
-*   **Electrolyte:** Aqueous NaCl
-*   **Chloride/Halide Concentration:** 0.1 N NaCl
-*   **pH:** Not specified.
-*   **Temperature:** 25° \pm 0.2°C
-*   **Aeration:** Deaerated with purified nitrogen (passed over Cu at 450°C) prior to test; no nitrogen flow during actual measurements.
-*   **Scan Rate:** 50 mV increments every 5 minutes (for non-steady state $V'_c$).
-**9. Pitting Potential ($E_{pit}$):** *(Steady-state Vc, implied V vs NHE/SHE, estimated from Figure 1)*
-*   ~12% Cr: ~0.35 V
-*   ~20% Cr: ~0.35 V
-*   ~25% Cr: ~0.45 V
-*   ~30% Cr: ~0.75 V
-*   ~40% Cr: ~0.95 V
-*   48.8% Cr: Pitting observed at ~1.0 V
-*   57.8% Cr: No pitting observed (corrodes uniformly via transpassivity/chromate formation).
-**10. Other Relevant Metrics:** Not specified.
+<base_material>
+    <base_material_identifier>Binary Cr-Ni Alloys</base_material_identifier>
+    <alloy_composition>0% to 29.4% Cr (weight %), balance Ni. Nickel was Carbonyl nickel (99.9% purity).</alloy_composition>
+    <alloy_type>Binary nickel-chromium alloys.</alloy_type>
+    <microstructure>Solid solution. Measurements were not extended to higher Ni compositions (>29.4% Cr) because a two-phase alloy region forms.</microstructure>
+    <other_information>Prepared by vacuum melting in dense alumina crucibles. Drawn into 7 mm Vycor tubes and water quenched. Homogenized at 1050°-1100°C.</other_information>
 
-***
+    <conditioned_material>
+        <conditioned_material_identifier>Cold Rolled Cr-Ni</conditioned_material_identifier>
+        <process_description>Ingots cold rolled to 0.25 cm thickness.</process_description>
+        <surface_finish>Abraded to 3/0 emery paper, pickled in 15% HNO3, 5% HF at 80°C for 5 min.</surface_finish>
+        <heat_treatment>Annealed at 1000°-1050°C and water quenched.</heat_treatment>
+        <other_information>Electrodes approx 2 cm long by 0.5 cm wide by 0.2 cm thick.</other_information>
 
-# Group 3: Binary Cr-Ni Alloys
+        <experiment>
+            <test_procedure>Potentiostatic polarization. Held at least noble potential for >=15 min, advanced 50 mV every 5 min for non-steady state ($V'_c$). Steady-state ($V_c$) obtained by 10-hr holds. Reference electrode: SHE.</test_procedure>
+            <electrode_geometry_mounting>Mounted via Teflon gasket against glass tube.</electrode_geometry_mounting>
+            <test_solution_and_environment>0.1N NaCl deaerated with purified N2, 25°C ± 0.2°C.</test_solution_and_environment>
+            <pitting_potential>Steady-state critical pitting potentials ($V_c$) estimated from Fig. 2 plot: 0% Cr (Pure Ni): 0.28 V (SHE); 10% Cr: ~0.38 V (SHE); 15% Cr: ~0.54 V (SHE); 20% Cr: ~0.76 V (SHE); 29.4% Cr: ~0.80 V (SHE).</pitting_potential>
+            <other_information>Pitting was observed for all tested compositions including the maximum 29.4% Cr alloy.</other_information>
+        </experiment>
+    </conditioned_material>
+</base_material>
 
-**1. Alloy Name/Identifier:** Binary Cr-Ni Alloys
-**2. Alloy Type:** Binary Nickel-Chromium Alloys
-**3. Alloy Composition:** 0% to 29.4% Cr (weight %), balance Ni.
-**4. Alloy Description & Processing:** Vacuum melted pure components in alumina crucibles, drawn into 7 mm Vycor tubes, water quenched. Cold rolled to 0.25 cm.
-**5. Microstructure:** Single-phase (Measurements were intentionally not extended to higher Ni [sic, meant higher Cr] compositions to avoid a two-phase alloy region).
-**6. Heat Treatment:** Homogenized in Ar or He at 1050°–1100°C for several hours. Cold rolled, then annealed at 1000°–1050°C and water quenched.
-**7. Surface Preparation & Geometry:** 0.5 cm wide x 0.2 cm thick, ~2 cm long. Threaded attachment, Teflon gasket setup. Abraded to 3/0 emery paper, pickled in 15% HNO3 + 5% HF at 80°C for 5 minutes.
-**8. Test Procedure & Environment:**
-*   **Methodology:** Potentiostatic polarization (Steady-state $V_c$ holding for $\ge$10 hrs, and non-steady state $V'_c$ via 50 mV/5 min steps).
-*   **Electrolyte:** Aqueous NaCl
-*   **Chloride/Halide Concentration:** 0.1 N NaCl
-*   **pH:** Not specified.
-*   **Temperature:** 25° \pm 0.2°C
-*   **Aeration:** Deaerated with purified nitrogen prior to test.
-*   **Scan Rate:** 50 mV step / 5 min (for non-steady state).
-**9. Pitting Potential ($E_{pit}$):** *(Steady-state Vc, implied V vs NHE/SHE, estimated from Figure 2)*
-*   0% Cr (Pure Ni): ~0.28 V
-*   ~5% Cr: ~0.32 V
-*   ~10% Cr: ~0.38 V
-*   ~15% Cr: ~0.65 V
-*   ~20% Cr: ~0.78 V
-*   29.4% Cr: ~0.80 V
-**10. Other Relevant Metrics:** Non-steady state potentials ($V'_c$) followed a nearly identical but slightly more noble curve compared to steady-state $V_c$.
+<base_material>
+    <base_material_identifier>Binary Mo-Ni Alloys</base_material_identifier>
+    <alloy_composition>0%, 3.2%, 6.8%, 19.9%, 24.9% Mo (weight %), balance Ni. Molybdenum was 99.9% purity (some spectroscopic grade).</alloy_composition>
+    <alloy_type>Binary nickel-molybdenum alloys.</alloy_type>
+    <microstructure>Solid solution.</microstructure>
+    <other_information>Prepared by vacuum melting, drawn into Vycor tubes, quenched, and homogenized.</other_information>
 
-***
+    <conditioned_material>
+        <conditioned_material_identifier>Cold Rolled Mo-Ni</conditioned_material_identifier>
+        <process_description>Ingots cold rolled to 0.25 cm thickness.</process_description>
+        <surface_finish>Abraded to 3/0 emery paper, pickled in 15% HNO3, 5% HF at 80°C for 5 min.</surface_finish>
+        <heat_treatment>Annealed at 1000°-1050°C and water quenched.</heat_treatment>
+        <other_information>Electrodes approx 2 cm long by 0.5 cm wide by 0.2 cm thick.</other_information>
 
-# Group 4: Binary Mo-Ni Alloys
+        <experiment>
+            <test_procedure>Potentiostatic anodic polarization. Potential advanced in steps. Reference electrode: SHE.</test_procedure>
+            <electrode_geometry_mounting>Mounted via Teflon gasket against glass tube.</electrode_geometry_mounting>
+            <test_solution_and_environment>0.1N NaCl deaerated with purified N2, 25°C ± 0.2°C.</test_solution_and_environment>
+            <pitting_potential>Estimated from text and Fig. 3: 0% Mo (Pure Ni): 0.28 V (SHE); 3.2% Mo: ~0.20 V (SHE); 6.8% Mo: No pitting (transpassive); 19.9% Mo: No pitting (transpassive); 24.9% Mo: No pitting (transpassive).</pitting_potential>
+            <other_information>Addition of 3.2% Mo lowers the critical potential. Alloys with >= 6.8% Mo showed no pitting but exhibited current oscillations starting at ~0.1 mA/cm2 due to periodic breakdown and formation of passivity (MoO4-- formation), forming a dark molybdenum oxide film.</other_information>
+        </experiment>
+    </conditioned_material>
+</base_material>
 
-**1. Alloy Name/Identifier:** Binary Mo-Ni Alloys
-**2. Alloy Type:** Binary Nickel-Molybdenum Alloys
-**3. Alloy Composition:** 0%, 3.2%, 6.8%, 19.9%, and 24.9% Mo (weight %), balance Ni. Molybdenum was 99.9% or spectroscopic grade.
-**4. Alloy Description & Processing:** Vacuum melted pure components, drawn into 7 mm Vycor tubes, water quenched. Cold rolled to 0.25 cm.
-**5. Microstructure:** Not specified.
-**6. Heat Treatment:** Homogenized in Ar or He at 1050°–1100°C for several hours. Cold rolled, then annealed at 1000°–1050°C and water quenched.
-**7. Surface Preparation & Geometry:** 0.5 cm wide x 0.2 cm thick, ~2 cm long. Threaded attachment, Teflon gasket setup. Abraded to 3/0 emery paper, pickled in 15% HNO3 + 5% HF at 80°C for 5 minutes.
-**8. Test Procedure & Environment:**
-*   **Methodology:** Potentiostatic anodic polarization.
-*   **Electrolyte:** Aqueous NaCl
-*   **Chloride/Halide Concentration:** 0.1 N NaCl
-*   **pH:** Not specified.
-*   **Temperature:** 25°C
-*   **Aeration:** Deaerated with purified N2 prior to testing.
-*   **Scan Rate:** Increments of potential (specific sizes not given for this plot, but presumably 50mV steps).
-**9. Pitting Potential ($E_{pit}$):** *(Estimated from Figure 3 potentiostatic curves)*
-*   0% Mo (Pure Ni): ~0.3 V (Normal pitting observed)
-*   3.2% Mo: ~0.2 V (Pits at lower potential than pure Ni)
-*   $\ge$6.8% Mo (6.8%, 19.9%, 24.9%): No pitting observed. Reaches transpassive state with current oscillations occurring around 0.1 mA/cm² (due to molybdate formation).
-**10. Other Relevant Metrics:** Not specified.
+<base_material>
+    <base_material_identifier>Ternary 15% Cr-Fe-Ni Stainless Steels</base_material_identifier>
+    <alloy_composition>15% Cr (weight %), variable Ni (0% to ~70% weight %), balance Fe.</alloy_composition>
+    <alloy_type>Ternary iron-chromium-nickel solid solution stainless steels.</alloy_type>
+    <microstructure>Solid solution.</microstructure>
+    <other_information>Prepared by H. Feller.</other_information>
 
-***
+    <conditioned_material>
+        <conditioned_material_identifier>Swaged Cr-Fe-Ni</conditioned_material_identifier>
+        <process_description>Swaged to about 0.45 cm diameter rods.</process_description>
+        <surface_finish>Abraded to 3/0 emery paper, pickled in 15% HNO3, 5% HF at 80°C for 5 min.</surface_finish>
+        <heat_treatment>Annealed at 1050°C and water quenched.</heat_treatment>
+        <other_information>Electrodes approx 2 cm long, 0.4 cm diameter.</other_information>
 
-# Group 5: Ternary Cr-Fe-Ni Stainless Steels (15% Cr)
+        <experiment>
+            <test_procedure>Potentiostatic polarization. Held 10 hours or longer for steady state. Reference electrode: SHE.</test_procedure>
+            <electrode_geometry_mounting>Mounted via Teflon gasket against glass tube.</electrode_geometry_mounting>
+            <test_solution_and_environment>0.1N NaCl deaerated with purified N2, 25°C ± 0.2°C.</test_solution_and_environment>
+            <pitting_potential>Steady-state critical pitting potentials ($V_c$) estimated from Fig. 5 plot: 0% Ni: ~0.20 V (SHE); 10% Ni: ~0.23 V (SHE); 20% Ni: ~0.26 V (SHE); 30% Ni: ~0.29 V (SHE); 40% Ni: ~0.34 V (SHE); 50% Ni: ~0.36 V (SHE); 60% Ni: ~0.39 V (SHE).</pitting_potential>
+            <other_information>Critical potentials shift in the noble direction as Ni increases, though the shift is not as large as for equivalent Cr additions.</other_information>
+        </experiment>
+    </conditioned_material>
+</base_material>
 
-**1. Alloy Name/Identifier:** 15% Cr-Fe-Ni Stainless Steels
-**2. Alloy Type:** Austenitic/Solid Solution Stainless Steels
-**3. Alloy Composition:** 15% Cr, varying Ni content (approx. 10% to 60% weight %), balance Fe.
-**4. Alloy Description & Processing:** Prepared by H. Feller. Swaged to about 0.45 cm diameter rods.
-**5. Microstructure:** Compositions chosen specifically to preserve a single-phase structure (confirmed by metallographic examination).
-**6. Heat Treatment:** Annealed at 1050°C and water quenched.
-**7. Surface Preparation & Geometry:** ~0.45 cm diameter rod, ~2 cm long. Teflon gasket setup. Abraded to 3/0 emery paper, pickled in 15% HNO3 + 5% HF at 80°C for 5 minutes.
-**8. Test Procedure & Environment:**
-*   **Methodology:** Steady-state potentiostatic polarization.
-*   **Electrolyte:** Aqueous NaCl
-*   **Chloride/Halide Concentration:** 0.1 N NaCl
-*   **pH:** Not specified.
-*   **Temperature:** 25°C
-*   **Aeration:** Deaerated with purified N2 prior to testing.
-*   **Scan Rate:** Not specified (steady-state holding).
-**9. Pitting Potential ($E_{pit}$):** *(Steady-state Vc, implied V vs NHE/SHE, estimated from Figure 5)*
-*   ~10% Ni: ~0.23 V
-*   ~20% Ni: ~0.28 V
-*   ~40% Ni: ~0.34 V
-*   ~60% Ni: ~0.38 V
-**10. Other Relevant Metrics:** Not specified.
+<base_material>
+    <base_material_identifier>Quaternary Cr-Ni-Mo Stainless Steels</base_material_identifier>
+    <alloy_composition>15% Cr, 13% Ni, variable Mo (0%, 0.43%, 1.43%, 2.4% weight %), balance Fe.</alloy_composition>
+    <alloy_type>Austenitic-type high-nickel/low-chromium stainless steel.</alloy_type>
+    <microstructure>Single-phase structure confirmed by metallographic examination (chosen specifically to avoid multiphase structures common in high-Mo alloys).</microstructure>
+    <other_information>Prepared by vacuum melting, drawn to Vycor tubes, quenched, and homogenized.</other_information>
 
-***
+    <conditioned_material>
+        <conditioned_material_identifier>Swaged Cr-Ni-Mo SS</conditioned_material_identifier>
+        <process_description>Swaged to about 0.45 cm diameter rods.</process_description>
+        <surface_finish>Abraded to 3/0 emery paper, pickled in 15% HNO3, 5% HF at 80°C for 5 min.</surface_finish>
+        <heat_treatment>Annealed at 1050°C and water quenched.</heat_treatment>
+        <other_information>Electrodes approx 2 cm long, 0.4 cm diameter.</other_information>
 
-# Group 6: Quaternary 15% Cr, 13% Ni, Mo Stainless Steels
+        <experiment>
+            <test_procedure>Potentiostatic polarization. 10-hour or longer holds for steady state $V_c$. Reference electrode: SHE.</test_procedure>
+            <electrode_geometry_mounting>Mounted via Teflon gasket against glass tube.</electrode_geometry_mounting>
+            <test_solution_and_environment>0.1N NaCl deaerated with purified N2. Temperature: 25°C ± 0.2°C.</test_solution_and_environment>
+            <pitting_potential>Steady-state critical pitting potentials ($V_c$) estimated from Fig. 6 plot at 25°C: 0% Mo: ~0.28 V (SHE); 0.5% Mo: ~0.35 V (SHE); 1.0% Mo: ~0.50 V (SHE); 1.43% Mo: ~0.60 V (SHE); 2.0% Mo: ~0.70 V (SHE); 2.4% Mo: ~0.78 V (SHE).</pitting_potential>
+            <other_information>Mo shifts Vc strongly in the noble direction in NaCl.</other_information>
+        </experiment>
 
-**1. Alloy Name/Identifier:** 15% Cr, 13% Ni, Mo Stainless Steels
-**2. Alloy Type:** Austenitic Stainless Steels (Mo-alloyed)
-**3. Alloy Composition:** 15% Cr, 13% Ni, varying Mo (0%, 0.43%, 1.0%, 1.3%, 1.43%, 2.0%, 2.4% weight %), balance Fe.
-**4. Alloy Description & Processing:** Vacuum melted, drawn into Vycor tubes, quenched. Swaged to ~0.45 cm diameter rods.
-**5. Microstructure:** Single-phase structure.
-**6. Heat Treatment:** Annealed at 1050°C and water quenched. (Note: Kept low carbon 0.001-0.002% to avoid intergranular attack, avoiding slow cooling).
-**7. Surface Preparation & Geometry:** ~0.45 cm diameter rod, ~2 cm long. Teflon gasket setup. Abraded to 3/0 emery paper, pickled in 15% HNO3 + 5% HF at 80°C for 5 minutes.
-**8. Test Procedure & Environment:**
-*   **Methodology:** Steady-state potentiostatic polarization AND Exposure Testing (Immersion).
-*   **Electrolytes:** Tested in four different environments: 0.1N NaCl, 0.1N NaBr, 10% FeCl3, and 10% FeBr3.
-*   **Aeration:** Deaerated with purified N2 prior to polarization tests.
-*   **Scan Rate:** Steady-state holding used.
+        <experiment>
+            <test_procedure>Potentiostatic polarization. 10-hour or longer holds for steady state $V_c$. Reference electrode: SHE.</test_procedure>
+            <electrode_geometry_mounting>Mounted via Teflon gasket against glass tube.</electrode_geometry_mounting>
+            <test_solution_and_environment>0.1N NaCl deaerated with purified N2. Temperature: 0°C.</test_solution_and_environment>
+            <pitting_potential>Steady-state critical pitting potentials ($V_c$) estimated from Fig. 6 plot at 0°C: 0% Mo: ~0.78 V (SHE); 0.5% Mo: ~0.72 V (SHE); 1.0% Mo: ~0.68 V (SHE); 1.43% Mo: ~0.62 V (SHE); 2.0% Mo: ~0.70 V (SHE); 2.4% Mo: No breakdown / Indefinite.</pitting_potential>
+            <other_information>At 0°C, adding Mo to the stainless steel unexpectedly reduces the noble shift compared to the Mo-free alloy. The 2.4% Mo alloy reaches the transpassive state with no definite critical potential observed.</other_information>
+        </experiment>
+        
+        <experiment>
+            <test_procedure>Potentiostatic polarization. Reference electrode: SHE.</test_procedure>
+            <electrode_geometry_mounting>Mounted via Teflon gasket against glass tube.</electrode_geometry_mounting>
+            <test_solution_and_environment>0.1N NaBr deaerated with purified N2. Temperature: 25°C ± 0.2°C.</test_solution_and_environment>
+            <pitting_potential>Steady-state critical pitting potentials ($V_c$) estimated from Fig. 8 plot at 25°C: 0% Mo: ~0.54 V (SHE); 0.43% Mo: ~0.52 V (SHE); 1.43% Mo: Indefinite (No Breakdown); 2.4% Mo: Indefinite (No Breakdown).</pitting_potential>
+            <other_information>Pitting is less pronounced in bromides than chlorides for 0% Mo, but Mo addition slightly shifts Vc towards active values before becoming indefinite (transpassive general corrosion without pitting).</other_information>
+        </experiment>
+        
+        <experiment>
+            <test_procedure>Potentiostatic polarization. Reference electrode: SHE.</test_procedure>
+            <electrode_geometry_mounting>Mounted via Teflon gasket against glass tube.</electrode_geometry_mounting>
+            <test_solution_and_environment>0.1N NaBr deaerated with purified N2. Temperature: 0°C.</test_solution_and_environment>
+            <pitting_potential>Steady-state critical pitting potentials ($V_c$) estimated from Fig. 8 plot at 0°C: 0% Mo: ~0.32 V (SHE); 0.43% Mo: Indefinite (No Breakdown); 1.43% Mo: Indefinite (No Breakdown); 2.4% Mo: Indefinite (No Breakdown).</pitting_potential>
+            <other_information>At 0°C, the value of Vc in bromides for Mo-free SS is below the value at 25°C, opposite to the temperature trend in chlorides.</other_information>
+        </experiment>
+    </conditioned_material>
+</base_material>
 
-**9. Pitting Potential ($E_{pit}$) & Immersion Results:**
+<base_material>
+    <base_material_identifier>Pure Metals Reference Group</base_material_identifier>
+    <alloy_composition>Pure Al, pure Zr, pure Ti. (Commercial 18-8 stainless steel included for reference).</alloy_composition>
+    <alloy_type>Various pure metals and commercial stainless steel.</alloy_type>
+    <microstructure>Various.</microstructure>
+    <other_information>Data compiled primarily from references 1-6 in the text to compare reversible oxygen electrode thresholds.</other_information>
 
-*   **Experiment A: 0.1 N NaCl at 25°C** (Estimated from Figure 6)
-    *   0% Mo: ~0.25 V
-    *   ~1.0% Mo: ~0.3 V
-    *   1.3% Mo: ~0.32 V
-    *   2.0% Mo: ~0.35 V
-    *   2.4% Mo: No definite critical potential (transpassive uniform corrosion, no breakdown).
+    <conditioned_material>
+        <conditioned_material_identifier>Literature Reference States</conditioned_material_identifier>
+        <process_description>Various processing parameters as per original referenced authors.</process_description>
+        <surface_finish>Not explicitly detailed in this summary table.</surface_finish>
+        <heat_treatment>Not explicitly detailed in this summary table.</heat_treatment>
+        <other_information>Data provided to establish the 0.8V SHE threshold theory.</other_information>
 
-*   **Experiment B: 0.1 N NaCl at 0°C** (Estimated from Figure 6)
-    *   0% Mo: ~0.78 V (Marked noble shift at 0°C vs 25°C)
-    *   ~1.0% Mo: ~0.4 V
-    *   1.3% Mo: ~0.32 V (Values at 0°C and 25°C merge here)
-
-*   **Experiment C: 0.1 N NaBr at 25°C** (Estimated from Figure 8)
-    *   0% Mo: 0.54 V (Explicitly stated in text)
-    *   1.43% Mo: ~0.48 V
-    *   2.4% Mo: No breakdown (Indefinite results, corrodes without pitting).
-
-*   **Experiment D: 0.1 N NaBr at 0°C** (Estimated from Figure 8)
-    *   0% Mo: ~0.3 V
-    *   Higher Mo %: Indefinite results, transpassive state reached at low potentials, corrodes uniformly.
-
-*   **Experiment E: Immersion in 10% FeCl3**
-    *   *0°C:* 0% Mo (No pitting observed); 2.4% Mo (Definite pitting after two days).
-    *   *25°C:* 0% Mo (Pitted); 2.4% Mo (Did not pit within two days).
-
-*   **Experiment F: Immersion in 10% FeBr3**
-    *   *0°C and 25°C:* 0%, 1.4%, and 2.4% Mo alloys all pitted within two days.
-
-**10. Other Relevant Metrics:** 1.43% Mo alloy in 0.1N NaCl at 25°C showed anodic current oscillations beginning at ~0.55 V up to 1.5 V, attributed to simultaneous molybdate ($MoO_4^{--}$) and chromate ($CrO_4^{--}$) formation.
-
-***
-
-# Group 7: Commercial 18-8 Stainless Steel
-
-**1. Alloy Name/Identifier:** 18-8 Stainless Steel (Type 301/304 equivalent)
-**2. Alloy Type:** Commercial Austenitic Stainless Steel
-**3. Alloy Composition:** ~18% Cr, ~8% Ni (Specifics of commercial composition not fully detailed).
-**4. Alloy Description & Processing:** Commercial composition referenced from earlier works (Leckie and Uhlig, Reference 2).
-**5. Microstructure:** Not specified.
-**6. Heat Treatment:** Not specified.
-**7. Surface Preparation & Geometry:** Not specified.
-**8. Test Procedure & Environment:**
-*   **Methodology:** Critical Pitting Potential ($E_{pit}$) Measurement
-*   **Electrolyte:** Aqueous NaCl
-*   **Chloride/Halide Concentration:** 0.1 N NaCl
-*   **pH:** Not specified.
-*   **Temperature:** 25°C
-*   **Aeration:** Not specified.
-*   **Scan Rate:** Not specified.
-**9. Pitting Potential ($E_{pit}$):**
-*   0.26 V (Value stated in Table I).
-*   *(Text notes that at 0.5N NaCl, the value for 18-8 drops by 0.07 V in the active direction compared to 0.1N NaCl).*
-**10. Other Relevant Metrics:** Not specified.
+        <experiment>
+            <test_procedure>Varies by original study.</test_procedure>
+            <electrode_geometry_mounting>Varies.</electrode_geometry_mounting>
+            <test_solution_and_environment>0.1N NaCl at 25°C.</test_solution_and_environment>
+            <pitting_potential>Table I values (vs SHE): Al: -0.45 V; 18-8 SS: 0.26 V; Zr: 0.46 V; Ti: >1.0 V.</pitting_potential>
+            <other_information>Values used to validate that metals with Vc < 0.8V will pit in aerated seawater.</other_information>
+        </experiment>
+    </conditioned_material>
+</base_material>
+```

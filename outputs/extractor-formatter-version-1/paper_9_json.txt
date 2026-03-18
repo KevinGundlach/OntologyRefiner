@@ -1,0 +1,1136 @@
+[
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "316L",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": []
+        }
+      ],
+      "processing_steps": [
+        {
+          "entity_type": "MaterialProcessingStep",
+          "description": "Cut from bar or sheet material"
+        }
+      ],
+      "other_attributes": [
+        {
+          "entity_type": "Attribute",
+          "name": "Surface Preparation",
+          "value": "Machined and polished, transverse surface exposed"
+        },
+        {
+          "entity_type": "Attribute",
+          "name": "Sample Geometry",
+          "value": "Cylindrical"
+        },
+        {
+          "entity_type": "Attribute",
+          "name": "Electrode Holder",
+          "value": "Crevice-free Teflon collar filled with argon gas"
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiodynamic Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": {
+          "entity_type": "Measurement",
+          "name": "pH",
+          "value": 4
+        },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaCl",
+              "value": { "min": 0.1, "max": 2.0 },
+              "unit": "M"
+            }
+          ]
+        },
+        "other_attributes": [
+          {
+            "entity_type": "Attribute",
+            "name": "Aeration",
+            "value": "Deaerated with nitrogen for 24 h and purged during experiment"
+          }
+        ]
+      },
+      "other_attributes": [
+        {
+          "entity_type": "Attribute",
+          "name": "Scan Rate",
+          "value": {
+            "entity_type": "Measurement",
+            "name": "Scan Rate",
+            "value": 60,
+            "unit": "mV min-1"
+          }
+        }
+      ]
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": { "min": 230, "max": 330 },
+        "unit": "mV vs. SCE"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "316L",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": []
+        }
+      ],
+      "processing_steps": [
+        {
+          "entity_type": "MaterialProcessingStep",
+          "description": "Cut from bar or sheet material"
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiodynamic Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": {
+          "entity_type": "Measurement",
+          "name": "pH",
+          "value": 4
+        },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaBr",
+              "value": { "min": 0.1, "max": 2.0 },
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": { "min": 290, "max": 365 },
+        "unit": "mV vs. SCE"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "316L"
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiodynamic Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": {
+          "entity_type": "Measurement",
+          "name": "pH",
+          "value": { "min": 3, "max": 9 }
+        },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaCl",
+              "value": 0.5,
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": { "min": 255, "max": 320 },
+        "unit": "mV vs. SCE"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "316L"
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiodynamic Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": {
+          "entity_type": "Measurement",
+          "name": "pH",
+          "value": { "min": 3, "max": 9 }
+        },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaBr",
+              "value": 0.5,
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": { "min": 280, "max": 335 },
+        "unit": "mV vs. SCE"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "316",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": [
+            {
+              "entity_type": "Measurement",
+              "name": "Mo",
+              "value": 2,
+              "unit": "%"
+            }
+          ]
+        }
+      ],
+      "processing_steps": [
+        {
+          "entity_type": "MaterialProcessingStep",
+          "description": "Wire material"
+        }
+      ],
+      "other_attributes": [
+        {
+          "entity_type": "Attribute",
+          "name": "Sample Geometry",
+          "value": "0.25 mm wire looped to 25 mm diameter"
+        },
+        {
+          "entity_type": "Attribute",
+          "name": "Exposed Area",
+          "value": {
+            "entity_type": "Measurement",
+            "name": "Area",
+            "value": 0.32,
+            "unit": "cm2"
+          }
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiodynamic Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": {
+          "entity_type": "Measurement",
+          "name": "pH",
+          "value": 3
+        },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaCl",
+              "value": 1.0,
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": 530,
+        "unit": "mV vs. SCE"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "316"
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiodynamic Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": {
+          "entity_type": "Measurement",
+          "name": "pH",
+          "value": 3
+        },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaBr",
+              "value": 1.0,
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": 330,
+        "unit": "mV vs. SCE"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "316"
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiodynamic Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": {
+          "entity_type": "Measurement",
+          "name": "pH",
+          "value": 5.5
+        },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaCl",
+              "value": { "min": 0.01, "max": 1.0 },
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": { "min": 550, "max": 800 },
+        "unit": "mV vs. SCE"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "316"
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiodynamic Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": {
+          "entity_type": "Measurement",
+          "name": "pH",
+          "value": 5.5
+        },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaBr",
+              "value": { "min": 0.01, "max": 1.0 },
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": { "min": 370, "max": 510 },
+        "unit": "mV vs. SCE"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "316",
+      "processing_steps": [
+        {
+          "entity_type": "MaterialProcessingStep",
+          "description": "Surface pre-treatment: immersion in 20% HNO3 + 4% HF at 65C for 10 min"
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiodynamic Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaCl",
+              "value": 1.0,
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": 540,
+        "unit": "mV vs. SCE"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "316",
+      "processing_steps": [
+        {
+          "entity_type": "MaterialProcessingStep",
+          "description": "Surface pre-treatment: immersion in 50% HNO3 at 50C for 30 min"
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiodynamic Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaCl",
+              "value": 1.0,
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": 670,
+        "unit": "mV vs. SCE"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "316",
+      "processing_steps": [
+        {
+          "entity_type": "MaterialProcessingStep",
+          "description": "Surface pre-treatment: immersion in 20% HNO3 + 4% HF at 65C for 10 min"
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiodynamic Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaBr",
+              "value": 1.0,
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": 350,
+        "unit": "mV vs. SCE"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "316",
+      "processing_steps": [
+        {
+          "entity_type": "MaterialProcessingStep",
+          "description": "Surface pre-treatment: immersion in 50% HNO3 at 50C for 30 min"
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiodynamic Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaBr",
+              "value": 1.0,
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": 385,
+        "unit": "mV vs. SCE"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "304L",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": [
+            {
+              "entity_type": "Measurement",
+              "name": "Mo",
+              "value": 0,
+              "unit": "%"
+            }
+          ]
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiodynamic Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "Chloride",
+              "value": "Specified"
+            },
+            {
+              "entity_type": "Measurement",
+              "name": "Bromide",
+              "value": "Specified"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Observation",
+        "value": "Br- was found to be more aggressive than Cl- in terms of oxide stability"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "302",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": [
+            {
+              "entity_type": "Measurement",
+              "name": "Mo",
+              "value": 0,
+              "unit": "%"
+            }
+          ]
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiodynamic Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": {
+          "entity_type": "Measurement",
+          "name": "pH",
+          "value": { "min": 3, "max": 5 }
+        },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaCl",
+              "value": 1.0,
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": { "min": 295, "max": 365 },
+        "unit": "mV vs. SCE"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "302"
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiodynamic Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": {
+          "entity_type": "Measurement",
+          "name": "pH",
+          "value": { "min": 3, "max": 5 }
+        },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaBr",
+              "value": 1.0,
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": { "min": 380, "max": 450 },
+        "unit": "mV vs. SCE"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Fe",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": []
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": {
+          "entity_type": "Measurement",
+          "name": "pH",
+          "value": { "min": 3, "max": 9 }
+        },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaCl",
+              "value": 1.0,
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": { "min": -650, "max": -450 },
+        "unit": "mV vs. SCE"
+      }
+    ],
+    "other_attributes": [
+      {
+        "entity_type": "Attribute",
+        "name": "Measurement Criterion",
+        "value": "Potential corresponding to an anodic current of 10 uA cm-2 recorded where definite pitting potential not evident"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Fe"
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": {
+          "entity_type": "Measurement",
+          "name": "pH",
+          "value": { "min": 3, "max": 9 }
+        },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaBr",
+              "value": 1.0,
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": { "min": -700, "max": -350 },
+        "unit": "mV vs. SCE"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Ni",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Ni",
+          "elements": []
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": {
+          "entity_type": "Measurement",
+          "name": "pH",
+          "value": { "min": 3, "max": 9 }
+        },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaCl",
+              "value": 1.0,
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": { "min": -270, "max": 0 },
+        "unit": "mV vs. SCE"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Ni"
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": {
+          "entity_type": "Measurement",
+          "name": "pH",
+          "value": { "min": 3, "max": 9 }
+        },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaBr",
+              "value": 1.0,
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": { "min": -230, "max": 100 },
+        "unit": "mV vs. SCE"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Mo",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Mo",
+          "elements": []
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": {
+          "entity_type": "Measurement",
+          "name": "pH",
+          "value": { "min": 3, "max": 9 }
+        },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaCl",
+              "value": 1.0,
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": { "min": -20, "max": -110 },
+        "unit": "mV vs. SCE"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Mo"
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": {
+          "entity_type": "Measurement",
+          "name": "pH",
+          "value": { "min": 3, "max": 9 }
+        },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaBr",
+              "value": 1.0,
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": { "min": 10, "max": -100 },
+        "unit": "mV vs. SCE"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Cr",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Cr",
+          "elements": []
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": {
+          "entity_type": "Measurement",
+          "name": "pH",
+          "value": 2.5
+        },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaCl",
+              "value": 1.0,
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": 856,
+        "unit": "mV vs. SCE"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Cr"
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": {
+          "entity_type": "Measurement",
+          "name": "pH",
+          "value": 2.5
+        },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaBr",
+              "value": 1.0,
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": 866,
+        "unit": "mV vs. SCE"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Ni80Cr20",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Ni",
+          "elements": [
+            {
+              "entity_type": "Measurement",
+              "name": "Ni",
+              "value": 80,
+              "unit": "%"
+            },
+            {
+              "entity_type": "Measurement",
+              "name": "Cr",
+              "value": 20,
+              "unit": "%"
+            }
+          ]
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": {
+          "entity_type": "Measurement",
+          "name": "pH",
+          "value": { "min": 3, "max": 9 }
+        },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaCl",
+              "value": 1.0,
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": { "min": 230, "max": 370 },
+        "unit": "mV vs. SCE"
+      }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Ni80Cr20"
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": {
+          "entity_type": "Measurement",
+          "name": "pH",
+          "value": { "min": 3, "max": 9 }
+        },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            {
+              "entity_type": "Measurement",
+              "name": "NaBr",
+              "value": 1.0,
+              "unit": "M"
+            }
+          ]
+        }
+      }
+    },
+    "results": [
+      {
+        "entity_type": "Measurement",
+        "name": "Pitting Potential",
+        "value": { "min": 190, "max": 330 },
+        "unit": "mV vs. SCE"
+      }
+    ]
+  }
+]

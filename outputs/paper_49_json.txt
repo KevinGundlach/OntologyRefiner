@@ -9,37 +9,33 @@
           "entity_type": "MaterialComposition",
           "balance_element": "Fe",
           "elements": [
-            { "entity_type": "Measurement", "name": "Cr", "value": 18, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Ni", "value": 10, "unit": "%" },
-            { "entity_type": "Measurement", "name": "C", "value": 0.03, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Cu", "value": 0.2, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mn", "value": 1, "unit": "%" },
-            { "entity_type": "Measurement", "name": "P", "value": 0.045, "unit": "%" },
-            { "entity_type": "Measurement", "name": "S", "value": 0.02, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Si", "value": 1.0, "unit": "%" }
+            { "entity_type": "Measurement", "name": "Cr", "value": 18, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Ni", "value": 10, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "C", "value": 0.03, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Cu", "value": 0.2, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mn", "value": 1, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "P", "value": 0.045, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "S", "value": 0.02, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Si", "value": 1.0, "unit": "wt%" }
           ]
         }
       ],
       "processing_steps": [
-        { "entity_type": "MaterialProcessingStep", "description": "Obtained commercially in sheet or rod form" },
-        { "entity_type": "MaterialProcessingStep", "description": "No further heat treatment" },
-        {
-          "entity_type": "MaterialProcessingStep",
-          "description": "Surface Preparation",
-          "other_attributes": [
-            { "entity_type": "Attribute", "name": "Grinding", "value": "600 grit SiC" },
-            { "entity_type": "Attribute", "name": "Cleaning", "value": "Rinsed with distilled water" },
-            { "entity_type": "Attribute", "name": "Air Exposure", "value": "30 min in air" },
-            { "entity_type": "Attribute", "name": "Passivation", "value": "15 min in 17% HNO3" }
-          ]
-        }
+        { "entity_type": "MaterialProcessingStep", "description": "As-received, commercially obtained sheet/rod" },
+        { "entity_type": "MaterialProcessingStep", "description": "Wire soldered for electrical connection" },
+        { "entity_type": "MaterialProcessingStep", "description": "Mounted in epoxy resin", "other_attributes": [{ "entity_type": "Attribute", "name": "Feature", "value": "Crevice-free mount" }] },
+        { "entity_type": "MaterialProcessingStep", "description": "Ground to 600 grit SiC finish" },
+        { "entity_type": "MaterialProcessingStep", "description": "Rinsed with distilled water" },
+        { "entity_type": "MaterialProcessingStep", "description": "Air exposure", "other_attributes": [{ "entity_type": "Attribute", "name": "Duration", "value": { "entity_type": "Measurement", "name": "Time", "value": 30, "unit": "min" } }] },
+        { "entity_type": "MaterialProcessingStep", "description": "Passivation", "other_attributes": [
+          { "entity_type": "Attribute", "name": "Solution", "value": "17% HNO3" },
+          { "entity_type": "Attribute", "name": "Duration", "value": { "entity_type": "Measurement", "name": "Time", "value": 15, "unit": "min" } }
+        ]}
       ],
       "other_attributes": [
         { "entity_type": "Attribute", "name": "Alloy Type", "value": "Conventional austenitic stainless steel" },
-        { "entity_type": "Attribute", "name": "PREN", "value": 18 },
-        { "entity_type": "Attribute", "name": "Critical Crevice Solution pH", "value": 2.298 },
-        { "entity_type": "Attribute", "name": "Specimen Geometry", "value": "Circular-flat or cylindrical" },
-        { "entity_type": "Attribute", "name": "Specimen Area", "value": { "entity_type": "Measurement", "name": "Area", "value": 1, "unit": "cm^2" } }
+        { "entity_type": "Attribute", "name": "Microstructure", "value": "Austenitic phase" },
+        { "entity_type": "Attribute", "name": "Exposed Area", "value": { "entity_type": "Measurement", "name": "Area", "value": 1, "unit": "cm^2" } }
       ]
     },
     "test_procedure": {
@@ -53,18 +49,22 @@
           "entity_type": "TestSolutionComposition",
           "chemicals": [
             { "entity_type": "Measurement", "name": "Cl-", "value": 300, "unit": "ppm" },
-            { "entity_type": "Measurement", "name": "Source", "value": "NaCl in distilled water" }
-          ]
+            { "entity_type": "Measurement", "name": "NaCl", "value": "Analytical grade", "unit": null }
+          ],
+          "other_attributes": [{ "entity_type": "Attribute", "name": "Solvent", "value": "Distilled water" }]
         }
       },
       "other_attributes": [
-        { "entity_type": "Attribute", "name": "Reference Electrode", "value": "SCE" },
-        { "entity_type": "Attribute", "name": "Aeration", "value": "De-aerated with high-purity N2" },
-        { "entity_type": "Attribute", "name": "Scan Rate", "value": { "entity_type": "Measurement", "name": "Scan Rate", "value": 10, "unit": "mV/s" } }
+        { "entity_type": "Attribute", "name": "Reference Electrode", "value": "Saturated Calomel Electrode (SCE)" },
+        { "entity_type": "Attribute", "name": "Counter Electrode", "value": "Graphite" },
+        { "entity_type": "Attribute", "name": "Salt Bridge", "value": "Potassium chloride" }
       ]
     },
     "results": [
-      { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 287, "unit": "mV" }
+      { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 287, "unit": "mV vs. SCE" }
+    ],
+    "other_attributes": [
+      { "entity_type": "Attribute", "name": "Corrosion Potential (Ecor)", "value": { "entity_type": "Measurement", "name": "Ecor", "value": -185, "unit": "mV vs. SCE" } }
     ]
   },
   {
@@ -77,22 +77,24 @@
           "entity_type": "MaterialComposition",
           "balance_element": "Fe",
           "elements": [
-            { "entity_type": "Measurement", "name": "Cr", "value": 18, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Ni", "value": 10, "unit": "%" },
-            { "entity_type": "Measurement", "name": "C", "value": 0.03, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Cu", "value": 0.2, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mn", "value": 1, "unit": "%" },
-            { "entity_type": "Measurement", "name": "P", "value": 0.045, "unit": "%" },
-            { "entity_type": "Measurement", "name": "S", "value": 0.02, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Si", "value": 1.0, "unit": "%" }
+            { "entity_type": "Measurement", "name": "Cr", "value": 18, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Ni", "value": 10, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "C", "value": 0.03, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Cu", "value": 0.2, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mn", "value": 1, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "P", "value": 0.045, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "S", "value": 0.02, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Si", "value": 1.0, "unit": "wt%" }
           ]
         }
       ],
       "processing_steps": [
-        { "entity_type": "MaterialProcessingStep", "description": "Commercial sheet/rod, no heat treatment, ground 600 grit, passivated 15 min 17% HNO3" }
+        { "entity_type": "MaterialProcessingStep", "description": "As-received" },
+        { "entity_type": "MaterialProcessingStep", "description": "Epoxy mounted 600 grit SiC finished" },
+        { "entity_type": "MaterialProcessingStep", "description": "Passivated 15 min in 17% HNO3" }
       ],
       "other_attributes": [
-        { "entity_type": "Attribute", "name": "PREN", "value": 18 }
+        { "entity_type": "Attribute", "name": "Microstructure", "value": "Austenitic phase" }
       ]
     },
     "test_procedure": {
@@ -108,15 +110,13 @@
             { "entity_type": "Measurement", "name": "Cl-", "value": 500, "unit": "ppm" }
           ]
         }
-      },
-      "other_attributes": [
-        { "entity_type": "Attribute", "name": "Reference Electrode", "value": "SCE" },
-        { "entity_type": "Attribute", "name": "Scan Rate", "value": "10 mV/s" },
-        { "entity_type": "Attribute", "name": "Aeration", "value": "De-aerated N2" }
-      ]
+      }
     },
     "results": [
-      { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 260, "unit": "mV" }
+      { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 260, "unit": "mV vs. SCE" }
+    ],
+    "other_attributes": [
+      { "entity_type": "Attribute", "name": "Corrosion Potential (Ecor)", "value": { "entity_type": "Measurement", "name": "Ecor", "value": -206, "unit": "mV vs. SCE" } }
     ]
   },
   {
@@ -129,12 +129,22 @@
           "entity_type": "MaterialComposition",
           "balance_element": "Fe",
           "elements": [
-            { "entity_type": "Measurement", "name": "Cr", "value": 18, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Ni", "value": 10, "unit": "%" }
+            { "entity_type": "Measurement", "name": "Cr", "value": 18, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Ni", "value": 10, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "C", "value": 0.03, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Cu", "value": 0.2, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mn", "value": 1, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "P", "value": 0.045, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "S", "value": 0.02, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Si", "value": 1.0, "unit": "wt%" }
           ]
         }
       ],
-      "processing_steps": [ { "entity_type": "MaterialProcessingStep", "description": "Standard polarization prep" } ]
+      "processing_steps": [
+        { "entity_type": "MaterialProcessingStep", "description": "As-received" },
+        { "entity_type": "MaterialProcessingStep", "description": "Epoxy mounted 600 grit SiC finished" },
+        { "entity_type": "MaterialProcessingStep", "description": "Passivated 15 min in 17% HNO3" }
+      ]
     },
     "test_procedure": {
       "entity_type": "TestProcedure",
@@ -152,7 +162,10 @@
       }
     },
     "results": [
-      { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 218, "unit": "mV" }
+      { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 218, "unit": "mV vs. SCE" }
+    ],
+    "other_attributes": [
+      { "entity_type": "Attribute", "name": "Corrosion Potential (Ecor)", "value": { "entity_type": "Measurement", "name": "Ecor", "value": -208, "unit": "mV vs. SCE" } }
     ]
   },
   {
@@ -160,8 +173,27 @@
     "material": {
       "entity_type": "Material",
       "identifier": "304L (UNS S30403)",
-      "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 18, "unit": "%" } ] } ],
-      "processing_steps": [ { "entity_type": "MaterialProcessingStep", "description": "Standard polarization prep" } ]
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": [
+            { "entity_type": "Measurement", "name": "Cr", "value": 18, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Ni", "value": 10, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "C", "value": 0.03, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Cu", "value": 0.2, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mn", "value": 1, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "P", "value": 0.045, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "S", "value": 0.02, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Si", "value": 1.0, "unit": "wt%" }
+          ]
+        }
+      ],
+      "processing_steps": [
+        { "entity_type": "MaterialProcessingStep", "description": "As-received" },
+        { "entity_type": "MaterialProcessingStep", "description": "Epoxy mounted 600 grit SiC finished" },
+        { "entity_type": "MaterialProcessingStep", "description": "Passivated 15 min in 17% HNO3" }
+      ]
     },
     "test_procedure": {
       "entity_type": "TestProcedure",
@@ -179,7 +211,10 @@
       }
     },
     "results": [
-      { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 140, "unit": "mV" }
+      { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 140, "unit": "mV vs. SCE" }
+    ],
+    "other_attributes": [
+      { "entity_type": "Attribute", "name": "Corrosion Potential (Ecor)", "value": { "entity_type": "Measurement", "name": "Ecor", "value": -216, "unit": "mV vs. SCE" } }
     ]
   },
   {
@@ -187,8 +222,27 @@
     "material": {
       "entity_type": "Material",
       "identifier": "304L (UNS S30403)",
-      "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 18, "unit": "%" } ] } ],
-      "processing_steps": [ { "entity_type": "MaterialProcessingStep", "description": "Standard polarization prep" } ]
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": [
+            { "entity_type": "Measurement", "name": "Cr", "value": 18, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Ni", "value": 10, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "C", "value": 0.03, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Cu", "value": 0.2, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mn", "value": 1, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "P", "value": 0.045, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "S", "value": 0.02, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Si", "value": 1.0, "unit": "wt%" }
+          ]
+        }
+      ],
+      "processing_steps": [
+        { "entity_type": "MaterialProcessingStep", "description": "As-received" },
+        { "entity_type": "MaterialProcessingStep", "description": "Epoxy mounted 600 grit SiC finished" },
+        { "entity_type": "MaterialProcessingStep", "description": "Passivated 15 min in 17% HNO3" }
+      ]
     },
     "test_procedure": {
       "entity_type": "TestProcedure",
@@ -200,49 +254,27 @@
         "composition": {
           "entity_type": "TestSolutionComposition",
           "chemicals": [
-            { "entity_type": "Measurement", "name": "Cl-", "value": 24090, "unit": "mg/L" }
+            { "entity_type": "Measurement", "name": "Cl-", "value": 24090, "unit": "mg/l" },
+            { "entity_type": "Measurement", "name": "Na+", "value": 13440, "unit": "mg/l" },
+            { "entity_type": "Measurement", "name": "SO4--", "value": 3384, "unit": "mg/l" },
+            { "entity_type": "Measurement", "name": "Mg++", "value": 1618, "unit": "mg/l" },
+            { "entity_type": "Measurement", "name": "Ca++", "value": 508, "unit": "mg/l" },
+            { "entity_type": "Measurement", "name": "K+", "value": 483, "unit": "mg/l" },
+            { "entity_type": "Measurement", "name": "HCO3-", "value": 176, "unit": "mg/l" },
+            { "entity_type": "Measurement", "name": "Br-", "value": 83, "unit": "mg/l" },
+            { "entity_type": "Measurement", "name": "Sr++", "value": 17, "unit": "mg/l" },
+            { "entity_type": "Measurement", "name": "F-", "value": 1, "unit": "mg/l" },
+            { "entity_type": "Measurement", "name": "TDS", "value": 43800, "unit": "mg/l" }
           ],
-          "other_attributes": [
-            { "entity_type": "Attribute", "name": "Solution Type", "value": "Natural Seawater (Gulf)" }
-          ]
+          "other_attributes": [{ "entity_type": "Attribute", "name": "Solution Type", "value": "Natural Gulf Seawater" }]
         }
       }
     },
     "results": [
-      { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 94, "unit": "mV" },
-      { "entity_type": "Measurement", "name": "Corrosion Potential (Ecor)", "value": -217, "unit": "mV" }
-    ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": {
-      "entity_type": "Material",
-      "identifier": "304L (UNS S30403)",
-      "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 18, "unit": "%" } ] } ],
-      "processing_steps": [
-        { "entity_type": "MaterialProcessingStep", "description": "Flat coupon with 12 mm hole" },
-        { "entity_type": "MaterialProcessingStep", "description": "Surface finish: 180 grit SiC ground" },
-        { "entity_type": "MaterialProcessingStep", "description": "Teflon crevice formers applied" }
-      ]
-    },
-    "test_procedure": {
-      "entity_type": "TestProcedure",
-      "description": "Crevice Corrosion Exposure Test",
-      "test_solution": {
-        "entity_type": "TestSolution",
-        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" },
-        "composition": {
-          "entity_type": "TestSolutionComposition",
-          "chemicals": [ { "entity_type": "Measurement", "name": "Medium", "value": "Natural Seawater" } ]
-        }
-      },
-      "other_attributes": [
-        { "entity_type": "Attribute", "name": "Exposure Duration", "value": { "min": 150, "max": 180 } },
-        { "entity_type": "Attribute", "name": "Duration Unit", "value": "days" }
-      ]
-    },
-    "results": [
-      { "entity_type": "Measurement", "name": "Max depth of attack", "value": 0.39, "unit": "mm" }
+      { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 94, "unit": "mV vs. SCE" }
+    ],
+    "other_attributes": [
+      { "entity_type": "Attribute", "name": "Corrosion Potential (Ecor)", "value": { "entity_type": "Measurement", "name": "Ecor", "value": -217, "unit": "mV vs. SCE" } }
     ]
   },
   {
@@ -255,22 +287,26 @@
           "entity_type": "MaterialComposition",
           "balance_element": "Fe",
           "elements": [
-            { "entity_type": "Measurement", "name": "Cr", "value": 16, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Ni", "value": 11, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mo", "value": 3, "unit": "%" },
-            { "entity_type": "Measurement", "name": "C", "value": 0.02, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Cu", "value": 0.2, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mn", "value": 1, "unit": "%" },
-            { "entity_type": "Measurement", "name": "P", "value": 0.045, "unit": "%" },
-            { "entity_type": "Measurement", "name": "S", "value": 0.02, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Si", "value": 1.0, "unit": "%" }
+            { "entity_type": "Measurement", "name": "Cr", "value": 16, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mo", "value": 3, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Ni", "value": 11, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "C", "value": 0.02, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Cu", "value": 0.2, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mn", "value": 1, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "P", "value": 0.045, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "S", "value": 0.02, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Si", "value": 1.0, "unit": "wt%" }
           ]
         }
       ],
-      "processing_steps": [ { "entity_type": "MaterialProcessingStep", "description": "Commercial sheet/rod, no heat treatment, standard polar prep" } ],
+      "processing_steps": [
+        { "entity_type": "MaterialProcessingStep", "description": "As-received" },
+        { "entity_type": "MaterialProcessingStep", "description": "Epoxy mounted 600 grit SiC finished" },
+        { "entity_type": "MaterialProcessingStep", "description": "Passivated 15 min in 17% HNO3" }
+      ],
       "other_attributes": [
-        { "entity_type": "Attribute", "name": "PREN", "value": 25 },
-        { "entity_type": "Attribute", "name": "CCSpH", "value": 1.785 }
+        { "entity_type": "Attribute", "name": "Alloy Type", "value": "Conventional austenitic stainless steel" },
+        { "entity_type": "Attribute", "name": "Microstructure", "value": "Austenitic phase" }
       ]
     },
     "test_procedure": {
@@ -280,49 +316,20 @@
         "entity_type": "TestSolution",
         "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 },
         "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" },
-        "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Cl-", "value": 300, "unit": "ppm" } ] }
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            { "entity_type": "Measurement", "name": "Cl-", "value": 1000, "unit": "ppm" }
+          ]
+        }
       }
     },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 344, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": { "entity_type": "Material", "identifier": "316L", "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 16, "unit": "%" }, { "entity_type": "Measurement", "name": "Mo", "value": 3, "unit": "%" } ] } ] },
-    "test_procedure": { "entity_type": "TestProcedure", "description": "Potentiodynamic Polarization", "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Cl-", "value": 500, "unit": "ppm" } ] } } },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 330, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": { "entity_type": "Material", "identifier": "316L", "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 16, "unit": "%" }, { "entity_type": "Measurement", "name": "Mo", "value": 3, "unit": "%" } ] } ] },
-    "test_procedure": { "entity_type": "TestProcedure", "description": "Potentiodynamic Polarization", "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Cl-", "value": 1000, "unit": "ppm" } ] } } },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 284, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": { "entity_type": "Material", "identifier": "316L", "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 16, "unit": "%" }, { "entity_type": "Measurement", "name": "Mo", "value": 3, "unit": "%" } ] } ] },
-    "test_procedure": { "entity_type": "TestProcedure", "description": "Potentiodynamic Polarization", "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Cl-", "value": 5000, "unit": "ppm" } ] } } },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 232, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": { "entity_type": "Material", "identifier": "316L", "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 16, "unit": "%" }, { "entity_type": "Measurement", "name": "Mo", "value": 3, "unit": "%" } ] } ] },
-    "test_procedure": { "entity_type": "TestProcedure", "description": "Potentiodynamic Polarization", "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 8.2 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Medium", "value": "Natural Seawater" } ] } } },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 154, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": {
-      "entity_type": "Material",
-      "identifier": "316L (UNS S31603)",
-      "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 16, "unit": "%" }, { "entity_type": "Measurement", "name": "Mo", "value": 3, "unit": "%" } ] } ],
-      "processing_steps": [ { "entity_type": "MaterialProcessingStep", "description": "Wheel ground surface finish" }, { "entity_type": "MaterialProcessingStep", "description": "Teflon crevice formers applied" } ]
-    },
-    "test_procedure": {
-      "entity_type": "TestProcedure",
-      "description": "Crevice Corrosion Exposure Test",
-      "test_solution": { "entity_type": "TestSolution", "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Medium", "value": "Natural Seawater" } ] } }
-    },
-    "results": [ { "entity_type": "Measurement", "name": "Max depth of attack", "value": 0.46, "unit": "mm" } ]
+    "results": [
+      { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 284, "unit": "mV vs. SCE" }
+    ],
+    "other_attributes": [
+      { "entity_type": "Attribute", "name": "Corrosion Potential (Ecor)", "value": { "entity_type": "Measurement", "name": "Ecor", "value": -210, "unit": "mV vs. SCE" } }
+    ]
   },
   {
     "entity_type": "Experiment",
@@ -334,54 +341,45 @@
           "entity_type": "MaterialComposition",
           "balance_element": "Fe",
           "elements": [
-            { "entity_type": "Measurement", "name": "Cr", "value": 18, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Ni", "value": 13, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mo", "value": 3, "unit": "%" },
-            { "entity_type": "Measurement", "name": "C", "value": 0.02, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Cu", "value": 0.2, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mn", "value": 2, "unit": "%" },
-            { "entity_type": "Measurement", "name": "P", "value": 0.045, "unit": "%" },
-            { "entity_type": "Measurement", "name": "S", "value": 0.02, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Si", "value": 1.0, "unit": "%" }
+            { "entity_type": "Measurement", "name": "Cr", "value": 18, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mo", "value": 3, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Ni", "value": 13, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "C", "value": 0.02, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Cu", "value": 0.2, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mn", "value": 2, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "P", "value": 0.045, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "S", "value": 0.02, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Si", "value": 1.0, "unit": "wt%" }
           ]
         }
       ],
-      "processing_steps": [ { "entity_type": "MaterialProcessingStep", "description": "No further heat treatment, standard polarization prep" } ],
-      "other_attributes": [
-        { "entity_type": "Attribute", "name": "PREN", "value": 30 },
-        { "entity_type": "Attribute", "name": "CCSpH", "value": 1.5325 }
+      "processing_steps": [
+        { "entity_type": "MaterialProcessingStep", "description": "As-received" },
+        { "entity_type": "MaterialProcessingStep", "description": "Epoxy mounted 600 grit SiC finished" },
+        { "entity_type": "MaterialProcessingStep", "description": "Passivated 15 min in 17% HNO3" }
       ]
     },
     "test_procedure": {
       "entity_type": "TestProcedure",
       "description": "Potentiodynamic Polarization",
-      "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Cl-", "value": 300, "unit": "ppm" } ] } }
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 },
+        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            { "entity_type": "Measurement", "name": "Cl-", "value": 1000, "unit": "ppm" }
+          ]
+        }
+      }
     },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 720, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": { "entity_type": "Material", "identifier": "317L", "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 18, "unit": "%" }, { "entity_type": "Measurement", "name": "Mo", "value": 3, "unit": "%" } ] } ] },
-    "test_procedure": { "entity_type": "TestProcedure", "description": "Potentiodynamic Polarization", "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Cl-", "value": 500, "unit": "ppm" } ] } } },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 647, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": { "entity_type": "Material", "identifier": "317L", "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 18, "unit": "%" }, { "entity_type": "Measurement", "name": "Mo", "value": 3, "unit": "%" } ] } ] },
-    "test_procedure": { "entity_type": "TestProcedure", "description": "Potentiodynamic Polarization", "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Cl-", "value": 1000, "unit": "ppm" } ] } } },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 556, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": { "entity_type": "Material", "identifier": "317L", "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 18, "unit": "%" }, { "entity_type": "Measurement", "name": "Mo", "value": 3, "unit": "%" } ] } ] },
-    "test_procedure": { "entity_type": "TestProcedure", "description": "Potentiodynamic Polarization", "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Cl-", "value": 5000, "unit": "ppm" } ] } } },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 275, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": { "entity_type": "Material", "identifier": "317L", "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 18, "unit": "%" }, { "entity_type": "Measurement", "name": "Mo", "value": 3, "unit": "%" } ] } ] },
-    "test_procedure": { "entity_type": "TestProcedure", "description": "Potentiodynamic Polarization", "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 8.2 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Medium", "value": "Natural Seawater" } ] } } },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 204, "unit": "mV" } ]
+    "results": [
+      { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 556, "unit": "mV vs. SCE" }
+    ],
+    "other_attributes": [
+      { "entity_type": "Attribute", "name": "Corrosion Potential (Ecor)", "value": { "entity_type": "Measurement", "name": "Ecor", "value": -199, "unit": "mV vs. SCE" } }
+    ]
   },
   {
     "entity_type": "Experiment",
@@ -393,350 +391,45 @@
           "entity_type": "MaterialComposition",
           "balance_element": "Fe",
           "elements": [
-            { "entity_type": "Measurement", "name": "Cr", "value": 20, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Ni", "value": 24.5, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mo", "value": 5, "unit": "%" },
-            { "entity_type": "Measurement", "name": "C", "value": 0.02, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Cu", "value": 1, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mn", "value": 1.5, "unit": "%" },
-            { "entity_type": "Measurement", "name": "P", "value": 0.045, "unit": "%" },
-            { "entity_type": "Measurement", "name": "S", "value": 0.02, "unit": "%" }
+            { "entity_type": "Measurement", "name": "Cr", "value": 20, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mo", "value": 5, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Ni", "value": 24.5, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "C", "value": 0.02, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Cu", "value": 1, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mn", "value": 1.5, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "P", "value": 0.045, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "S", "value": 0.02, "unit": "wt%" }
           ]
         }
       ],
-      "processing_steps": [ { "entity_type": "MaterialProcessingStep", "description": "No heat treatment, standard polarization prep" } ],
-      "other_attributes": [
-        { "entity_type": "Attribute", "name": "PREN", "value": 35 },
-        { "entity_type": "Attribute", "name": "CCSpH", "value": 1.090 },
-        { "entity_type": "Attribute", "name": "Salt Spray Corrosion Rate (4824 h)", "value": { "entity_type": "Measurement", "name": "Corrosion Rate", "value": 0.00243, "unit": "mpy" } }
+      "processing_steps": [
+        { "entity_type": "MaterialProcessingStep", "description": "As-received, commercially from AVESTA" },
+        { "entity_type": "MaterialProcessingStep", "description": "Epoxy mounted 600 grit SiC finished" },
+        { "entity_type": "MaterialProcessingStep", "description": "Passivated 15 min in 17% HNO3" }
       ]
     },
     "test_procedure": {
       "entity_type": "TestProcedure",
       "description": "Potentiodynamic Polarization",
-      "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Cl-", "value": 300, "unit": "ppm" } ] } }
-    },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 876, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": { "entity_type": "Material", "identifier": "904L", "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 20, "unit": "%" }, { "entity_type": "Measurement", "name": "Mo", "value": 5, "unit": "%" } ] } ] },
-    "test_procedure": { "entity_type": "TestProcedure", "description": "Potentiodynamic Polarization", "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Cl-", "value": 500, "unit": "ppm" } ] } } },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 860, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": { "entity_type": "Material", "identifier": "904L", "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 20, "unit": "%" }, { "entity_type": "Measurement", "name": "Mo", "value": 5, "unit": "%" } ] } ] },
-    "test_procedure": { "entity_type": "TestProcedure", "description": "Potentiodynamic Polarization", "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Cl-", "value": 1000, "unit": "ppm" } ] } } },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 780, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": { "entity_type": "Material", "identifier": "904L", "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 20, "unit": "%" }, { "entity_type": "Measurement", "name": "Mo", "value": 5, "unit": "%" } ] } ] },
-    "test_procedure": { "entity_type": "TestProcedure", "description": "Potentiodynamic Polarization", "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Cl-", "value": 5000, "unit": "ppm" } ] } } },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 587, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": { "entity_type": "Material", "identifier": "904L", "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 20, "unit": "%" }, { "entity_type": "Measurement", "name": "Mo", "value": 5, "unit": "%" } ] } ] },
-    "test_procedure": { "entity_type": "TestProcedure", "description": "Potentiodynamic Polarization", "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 8.2 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Medium", "value": "Natural Seawater" } ] } } },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 427, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": {
-      "entity_type": "Material",
-      "identifier": "SMO 254 (UNS S31254)",
-      "composition": [
-        {
-          "entity_type": "MaterialComposition",
-          "balance_element": "Fe",
-          "elements": [
-            { "entity_type": "Measurement", "name": "Cr", "value": 20, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Ni", "value": 18, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mo", "value": 6, "unit": "%" },
-            { "entity_type": "Measurement", "name": "C", "value": 0.02, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Cu", "value": 0.7, "unit": "%" },
-            { "entity_type": "Measurement", "name": "N", "value": 0.2, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Si", "value": 0.002, "unit": "%" }
-          ]
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": { "entity_type": "Measurement", "name": "pH", "value": 8.2 },
+        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            { "entity_type": "Measurement", "name": "Cl-", "value": 24090, "unit": "mg/l" }
+          ],
+          "other_attributes": [{ "entity_type": "Attribute", "name": "Solution Type", "value": "Natural Gulf Seawater" }]
         }
-      ],
-      "processing_steps": [ { "entity_type": "MaterialProcessingStep", "description": "No heat treatment, standard polarization prep" } ],
-      "other_attributes": [
-        { "entity_type": "Attribute", "name": "Alloy Type", "value": "High alloy stainless steel" },
-        { "entity_type": "Attribute", "name": "PREN", "value": 43.5 },
-        { "entity_type": "Attribute", "name": "CCSpH", "value": 1.086 }
-      ]
+      }
     },
-    "test_procedure": {
-      "entity_type": "TestProcedure",
-      "description": "Potentiodynamic Polarization",
-      "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Cl-", "value": 300, "unit": "ppm" } ] } }
-    },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 840, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": { "entity_type": "Material", "identifier": "SMO 254", "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 20, "unit": "%" }, { "entity_type": "Measurement", "name": "Mo", "value": 6, "unit": "%" } ] } ] },
-    "test_procedure": { "entity_type": "TestProcedure", "description": "Potentiodynamic Polarization", "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Cl-", "value": 500, "unit": "ppm" } ] } } },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 830, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": { "entity_type": "Material", "identifier": "SMO 254", "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 20, "unit": "%" }, { "entity_type": "Measurement", "name": "Mo", "value": 6, "unit": "%" } ] } ] },
-    "test_procedure": { "entity_type": "TestProcedure", "description": "Potentiodynamic Polarization", "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Cl-", "value": 1000, "unit": "ppm" } ] } } },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 821, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": { "entity_type": "Material", "identifier": "SMO 254", "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 20, "unit": "%" }, { "entity_type": "Measurement", "name": "Mo", "value": 6, "unit": "%" } ] } ] },
-    "test_procedure": { "entity_type": "TestProcedure", "description": "Potentiodynamic Polarization", "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Cl-", "value": 5000, "unit": "ppm" } ] } } },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 785, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": { "entity_type": "Material", "identifier": "SMO 254", "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 20, "unit": "%" }, { "entity_type": "Measurement", "name": "Mo", "value": 6, "unit": "%" } ] } ] },
-    "test_procedure": { "entity_type": "TestProcedure", "description": "Potentiodynamic Polarization", "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 8.2 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Medium", "value": "Natural Seawater" } ] } } },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 813, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": {
-      "entity_type": "Material",
-      "identifier": "SMO 654 (UNS S32654)",
-      "composition": [
-        {
-          "entity_type": "MaterialComposition",
-          "balance_element": "Fe",
-          "elements": [
-            { "entity_type": "Measurement", "name": "Cr", "value": 25, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Ni", "value": 22, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mo", "value": 7, "unit": "%" },
-            { "entity_type": "Measurement", "name": "C", "value": 0.015, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Cu", "value": 0.4, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mn", "value": 0.5, "unit": "%" },
-            { "entity_type": "Measurement", "name": "N", "value": 0.5, "unit": "%" }
-          ]
-        }
-      ],
-      "other_attributes": [
-        { "entity_type": "Attribute", "name": "PREN", "value": 57 },
-        { "entity_type": "Attribute", "name": "CCSpH", "value": 0.50 }
-      ]
-    },
-    "test_procedure": {
-      "entity_type": "TestProcedure",
-      "description": "Potentiodynamic Polarization",
-      "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Cl-", "value": 300, "unit": "ppm" } ] } }
-    },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 979, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": { "entity_type": "Material", "identifier": "SMO 654", "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 25, "unit": "%" }, { "entity_type": "Measurement", "name": "Mo", "value": 7, "unit": "%" } ] } ] },
-    "test_procedure": { "entity_type": "TestProcedure", "description": "Potentiodynamic Polarization", "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Cl-", "value": 1000, "unit": "ppm" } ] } } },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 972, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": { "entity_type": "Material", "identifier": "SMO 654", "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 25, "unit": "%" }, { "entity_type": "Measurement", "name": "Mo", "value": 7, "unit": "%" } ] } ] },
-    "test_procedure": { "entity_type": "TestProcedure", "description": "Potentiodynamic Polarization", "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 8.2 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Medium", "value": "Natural Seawater" } ] } } },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 883, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": {
-      "entity_type": "Material",
-      "identifier": "hMo 1925 (UNS N08925)",
-      "composition": [
-        {
-          "entity_type": "MaterialComposition",
-          "balance_element": "Fe",
-          "elements": [
-            { "entity_type": "Measurement", "name": "Cr", "value": 21, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Ni", "value": 25, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mo", "value": 6, "unit": "%" },
-            { "entity_type": "Measurement", "name": "C", "value": 0.01, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Cu", "value": 0.9, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mn", "value": 0.9, "unit": "%" },
-            { "entity_type": "Measurement", "name": "N", "value": 0.2, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Si", "value": 0.002, "unit": "%" }
-          ]
-        }
-      ],
-      "other_attributes": [
-        { "entity_type": "Attribute", "name": "PREN", "value": 41 },
-        { "entity_type": "Attribute", "name": "CCSpH", "value": 0.90 }
-      ]
-    },
-    "test_procedure": {
-      "entity_type": "TestProcedure",
-      "description": "Potentiodynamic Polarization",
-      "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Cl-", "value": 300, "unit": "ppm" } ] } }
-    },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 917, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": { "entity_type": "Material", "identifier": "hMo 1925", "composition": [ { "entity_type": "MaterialComposition", "balance_element": "Fe", "elements": [ { "entity_type": "Measurement", "name": "Cr", "value": 21, "unit": "%" }, { "entity_type": "Measurement", "name": "Mo", "value": 6, "unit": "%" } ] } ] },
-    "test_procedure": { "entity_type": "TestProcedure", "description": "Potentiodynamic Polarization", "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 8.2 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Medium", "value": "Natural Seawater" } ] } } },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 1060, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": {
-      "entity_type": "Material",
-      "identifier": "hMo 3127 (UNS N0828)",
-      "composition": [
-        {
-          "entity_type": "MaterialComposition",
-          "balance_element": "Fe",
-          "elements": [
-            { "entity_type": "Measurement", "name": "Cr", "value": 27, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Ni", "value": 32, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mo", "value": 6.5, "unit": "%" },
-            { "entity_type": "Measurement", "name": "C", "value": 0.02, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Cu", "value": 1, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mn", "value": 2, "unit": "%" },
-            { "entity_type": "Measurement", "name": "S", "value": 0.003, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Nb", "value": "present" },
-            { "entity_type": "Measurement", "name": "Pb", "value": "present" }
-          ]
-        }
-      ],
-      "other_attributes": [
-        { "entity_type": "Attribute", "name": "PREN", "value": 48.3 },
-        { "entity_type": "Attribute", "name": "CCSpH", "value": 0.4810 }
-      ]
-    },
-    "test_procedure": {
-      "entity_type": "TestProcedure",
-      "description": "Potentiodynamic Polarization",
-      "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Cl-", "value": 1000, "unit": "ppm" } ] } }
-    },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 973, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": {
-      "entity_type": "Material",
-      "identifier": "20Cb3 (UNS N08020)",
-      "composition": [
-        {
-          "entity_type": "MaterialComposition",
-          "balance_element": "Fe",
-          "elements": [
-            { "entity_type": "Measurement", "name": "Cr", "value": 19, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Ni", "value": 33, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mo", "value": 2, "unit": "%" },
-            { "entity_type": "Measurement", "name": "C", "value": 0.02, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Cu", "value": 3, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mn", "value": 0.4, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Si", "value": 0.4, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Cb + Ta", "value": 5, "unit": "%" }
-          ]
-        }
-      ],
-      "other_attributes": [ { "entity_type": "Attribute", "name": "PREN", "value": 26.5 } ]
-    },
-    "test_procedure": {
-      "entity_type": "TestProcedure",
-      "description": "Potentiodynamic Polarization",
-      "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Cl-", "value": 1000, "unit": "ppm" } ] } }
-    },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 761, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": {
-      "entity_type": "Material",
-      "identifier": "Remanit 4565",
-      "composition": [
-        {
-          "entity_type": "MaterialComposition",
-          "balance_element": "Fe",
-          "elements": [
-            { "entity_type": "Measurement", "name": "Cr", "value": { "min": 22, "max": 25 }, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Ni", "value": { "min": 16, "max": 18 }, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mo", "value": { "min": 4, "max": 6 }, "unit": "%" },
-            { "entity_type": "Measurement", "name": "C", "value": 0.02, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Cu", "value": 0.1, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mn", "value": 5, "unit": "%" },
-            { "entity_type": "Measurement", "name": "N", "value": 0.5, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Si", "value": 0.003, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Nb", "value": 0.1, "unit": "%" }
-          ]
-        }
-      ]
-    },
-    "test_procedure": {
-      "entity_type": "TestProcedure",
-      "description": "Potentiodynamic Polarization",
-      "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 8.2 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Medium", "value": "Natural Seawater" } ] } }
-    },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 976, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": {
-      "entity_type": "Material",
-      "identifier": "Monit 44635 (UNS S44635)",
-      "composition": [
-        {
-          "entity_type": "MaterialComposition",
-          "balance_element": "Fe",
-          "elements": [
-            { "entity_type": "Measurement", "name": "Cr", "value": 25, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Ni", "value": 4, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mo", "value": 4, "unit": "%" },
-            { "entity_type": "Measurement", "name": "C", "value": 0.025, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Cu", "value": 0.2, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mn", "value": 0.4, "unit": "%" },
-            { "entity_type": "Measurement", "name": "N", "value": 0.035, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Ti", "value": "present" },
-            { "entity_type": "Measurement", "name": "Nb", "value": "present" },
-            { "entity_type": "Measurement", "name": "Pb", "value": "present" },
-            { "entity_type": "Measurement", "name": "Si", "value": "present" }
-          ]
-        }
-      ]
-    },
-    "test_procedure": {
-      "entity_type": "TestProcedure",
-      "description": "Potentiodynamic Polarization",
-      "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 8.2 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Medium", "value": "Natural Seawater" } ] } }
-    },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 721, "unit": "mV" } ]
-  },
-  {
-    "entity_type": "Experiment",
-    "material": {
-      "entity_type": "Material",
-      "identifier": "Duplex 2205 (UNS S31803)",
-      "composition": [
-        {
-          "entity_type": "MaterialComposition",
-          "balance_element": "Fe",
-          "elements": [
-            { "entity_type": "Measurement", "name": "Cr", "value": 22, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Ni", "value": 6, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mo", "value": 3, "unit": "%" },
-            { "entity_type": "Measurement", "name": "C", "value": 0.02, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Cu", "value": 0.2, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mn", "value": 1.5, "unit": "%" },
-            { "entity_type": "Measurement", "name": "N", "value": 0.15, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Cb + Ta", "value": 0.6, "unit": "%" }
-          ]
-        }
-      ]
-    },
-    "test_procedure": {
-      "entity_type": "TestProcedure",
-      "description": "Potentiodynamic Polarization",
-      "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Cl-", "value": 5000, "unit": "ppm" } ] } }
-    },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 851, "unit": "mV" } ]
+    "results": [
+      { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 427, "unit": "mV vs. SCE" }
+    ],
+    "other_attributes": [
+      { "entity_type": "Attribute", "name": "Corrosion Potential (Ecor)", "value": { "entity_type": "Measurement", "name": "Ecor", "value": -202, "unit": "mV vs. SCE" } }
+    ]
   },
   {
     "entity_type": "Experiment",
@@ -748,20 +441,45 @@
           "entity_type": "MaterialComposition",
           "balance_element": "Fe",
           "elements": [
-            { "entity_type": "Measurement", "name": "Cr", "value": 13, "unit": "%" },
-            { "entity_type": "Measurement", "name": "P", "value": 0.04, "unit": "%" },
-            { "entity_type": "Measurement", "name": "S", "value": 0.035, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Si", "value": 1, "unit": "%" }
+            { "entity_type": "Measurement", "name": "Cr", "value": 13, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mn", "value": 1, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "P", "value": 0.04, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "S", "value": 0.035, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Si", "value": 1, "unit": "wt%" }
           ]
         }
+      ],
+      "processing_steps": [
+        { "entity_type": "MaterialProcessingStep", "description": "As-received" },
+        { "entity_type": "MaterialProcessingStep", "description": "Epoxy mounted 600 grit SiC finished" },
+        { "entity_type": "MaterialProcessingStep", "description": "Passivated 15 min in 17% HNO3" }
+      ],
+      "other_attributes": [
+        { "entity_type": "Attribute", "name": "Alloy Type", "value": "Conventional martensitic stainless steel" },
+        { "entity_type": "Attribute", "name": "Microstructure", "value": "Martensitic phase (inferred)" }
       ]
     },
     "test_procedure": {
       "entity_type": "TestProcedure",
       "description": "Potentiodynamic Polarization",
-      "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 8.2 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Medium", "value": "Natural Seawater" } ] } }
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 },
+        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            { "entity_type": "Measurement", "name": "Cl-", "value": 1000, "unit": "ppm" }
+          ]
+        }
+      }
     },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": -145, "unit": "mV" } ]
+    "results": [
+      { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": -120, "unit": "mV vs. SCE" }
+    ],
+    "other_attributes": [
+      { "entity_type": "Attribute", "name": "Corrosion Potential (Ecor)", "value": { "entity_type": "Measurement", "name": "Ecor", "value": -407, "unit": "mV vs. SCE" } }
+    ]
   },
   {
     "entity_type": "Experiment",
@@ -773,23 +491,304 @@
           "entity_type": "MaterialComposition",
           "balance_element": "Fe",
           "elements": [
-            { "entity_type": "Measurement", "name": "Cr", "value": 16, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Ni", "value": 4.5, "unit": "%" },
-            { "entity_type": "Measurement", "name": "C", "value": 0.07, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Cu", "value": 4, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Mn", "value": 1, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Cb", "value": 0.3, "unit": "%" },
-            { "entity_type": "Measurement", "name": "P", "value": 0.04, "unit": "%" },
-            { "entity_type": "Measurement", "name": "Si", "value": 1, "unit": "%" }
+            { "entity_type": "Measurement", "name": "Cr", "value": 16, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Ni", "value": 4.5, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "C", "value": 0.07, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Cu", "value": 4, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mn", "value": 1, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Cb", "value": 0.3, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "P", "value": 0.04, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Si", "value": 1, "unit": "wt%" }
           ]
         }
+      ],
+      "processing_steps": [
+        { "entity_type": "MaterialProcessingStep", "description": "As-received, from ARMCO" },
+        { "entity_type": "MaterialProcessingStep", "description": "Epoxy mounted 600 grit SiC finished" },
+        { "entity_type": "MaterialProcessingStep", "description": "Passivated 15 min in 17% HNO3" }
+      ],
+      "other_attributes": [
+        { "entity_type": "Attribute", "name": "Alloy Type", "value": "Conventional precipitation hardened martensitic stainless steel" },
+        { "entity_type": "Attribute", "name": "Microstructure", "value": "Martensitic / precipitation hardened" }
       ]
     },
     "test_procedure": {
       "entity_type": "TestProcedure",
       "description": "Potentiodynamic Polarization",
-      "test_solution": { "entity_type": "TestSolution", "ph": { "entity_type": "Measurement", "name": "pH", "value": 8.2 }, "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" }, "composition": { "entity_type": "TestSolutionComposition", "chemicals": [ { "entity_type": "Measurement", "name": "Medium", "value": "Natural Seawater" } ] } }
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": { "entity_type": "Measurement", "name": "pH", "value": 8.2 },
+        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            { "entity_type": "Measurement", "name": "Cl-", "value": 24090, "unit": "mg/l" }
+          ],
+          "other_attributes": [{ "entity_type": "Attribute", "name": "Solution Type", "value": "Natural Gulf Seawater" }]
+        }
+      }
     },
-    "results": [ { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 1516, "unit": "mV" } ]
+    "results": [
+      { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 1516, "unit": "mV vs. SCE" }
+    ],
+    "other_attributes": [
+      { "entity_type": "Attribute", "name": "Corrosion Potential (Ecor)", "value": { "entity_type": "Measurement", "name": "Ecor", "value": -240, "unit": "mV vs. SCE" } },
+      { "entity_type": "Attribute", "name": "Note", "value": "1516 mV is likely a typographical error in the original publication given the ranking mentioned on page 6." }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "SMO 254 (UNS S31254)",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": [
+            { "entity_type": "Measurement", "name": "Cr", "value": 20, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mo", "value": 6, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Ni", "value": 18, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "C", "value": 0.02, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Cu", "value": 0.7, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "N", "value": 0.2, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Si", "value": 0.002, "unit": "wt%" }
+          ]
+        }
+      ],
+      "processing_steps": [
+        { "entity_type": "MaterialProcessingStep", "description": "As-received, from AVESTA" },
+        { "entity_type": "MaterialProcessingStep", "description": "Epoxy mounted 600 grit SiC finished" },
+        { "entity_type": "MaterialProcessingStep", "description": "Passivated 15 min in 17% HNO3" }
+      ],
+      "other_attributes": [
+        { "entity_type": "Attribute", "name": "Alloy Type", "value": "High alloy super-austenitic stainless steel" }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiodynamic Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 },
+        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            { "entity_type": "Measurement", "name": "Cl-", "value": 5000, "unit": "ppm" }
+          ]
+        }
+      }
+    },
+    "results": [
+      { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 785, "unit": "mV vs. SCE" }
+    ],
+    "other_attributes": [
+      { "entity_type": "Attribute", "name": "Corrosion Potential (Ecor)", "value": { "entity_type": "Measurement", "name": "Ecor", "value": -121, "unit": "mV vs. SCE" } }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "SMO 654 (UNS S32654)",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": [
+            { "entity_type": "Measurement", "name": "Cr", "value": 25, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mo", "value": 7, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Ni", "value": 22, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "C", "value": 0.015, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Cu", "value": 0.4, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mn", "value": 0.5, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "N", "value": 0.5, "unit": "wt%" }
+          ]
+        }
+      ],
+      "processing_steps": [
+        { "entity_type": "MaterialProcessingStep", "description": "As-received, from AVESTA" },
+        { "entity_type": "MaterialProcessingStep", "description": "Epoxy mounted 600 grit SiC finished" },
+        { "entity_type": "MaterialProcessingStep", "description": "Passivated 15 min in 17% HNO3" }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiodynamic Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": { "entity_type": "Measurement", "name": "pH", "value": 8.2 },
+        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            { "entity_type": "Measurement", "name": "Cl-", "value": 24090, "unit": "mg/l" }
+          ]
+        }
+      }
+    },
+    "results": [
+      { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 883, "unit": "mV vs. SCE" }
+    ],
+    "other_attributes": [
+      { "entity_type": "Attribute", "name": "Corrosion Potential (Ecor)", "value": { "entity_type": "Measurement", "name": "Ecor", "value": -278, "unit": "mV vs. SCE" } }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Remanit 4565",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": [
+            { "entity_type": "Measurement", "name": "Cr", "value": { "min": 22, "max": 25 }, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mo", "value": { "min": 4, "max": 6 }, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Ni", "value": { "min": 16, "max": 18 }, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "C", "value": 0.02, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Cu", "value": 0.1, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mn", "value": 5, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "N", "value": 0.5, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Si", "value": 0.003, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Nb", "value": 0.1, "unit": "wt%" }
+          ]
+        }
+      ],
+      "processing_steps": [
+        { "entity_type": "MaterialProcessingStep", "description": "As-received, from THYSSEN" },
+        { "entity_type": "MaterialProcessingStep", "description": "Epoxy mounted 600 grit SiC finished" },
+        { "entity_type": "MaterialProcessingStep", "description": "Passivated 15 min in 17% HNO3" }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiodynamic Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": { "entity_type": "Measurement", "name": "pH", "value": 8.2 },
+        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            { "entity_type": "Measurement", "name": "Cl-", "value": 24090, "unit": "mg/l" }
+          ]
+        }
+      }
+    },
+    "results": [
+      { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 976, "unit": "mV vs. SCE" }
+    ],
+    "other_attributes": [
+      { "entity_type": "Attribute", "name": "Corrosion Potential (Ecor)", "value": { "entity_type": "Measurement", "name": "Ecor", "value": -176, "unit": "mV vs. SCE" } }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Monit 44635 (UNS S44635)",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": [
+            { "entity_type": "Measurement", "name": "Cr", "value": 25, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mo", "value": 4, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Ni", "value": 4, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "C", "value": 0.025, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Cu", "value": 0.2, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mn", "value": 0.4, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "N", "value": 0.035, "unit": "wt%" }
+          ]
+        }
+      ],
+      "processing_steps": [
+        { "entity_type": "MaterialProcessingStep", "description": "As-received, from AVESTA" },
+        { "entity_type": "MaterialProcessingStep", "description": "Epoxy mounted 600 grit SiC finished" },
+        { "entity_type": "MaterialProcessingStep", "description": "Passivated 15 min in 17% HNO3" }
+      ],
+      "other_attributes": [
+        { "entity_type": "Attribute", "name": "Alloy Type", "value": "High alloy super-ferritic stainless steel" },
+        { "entity_type": "Attribute", "name": "Microstructure", "value": "Ferritic phase" },
+        { "entity_type": "Attribute", "name": "Trace Elements", "value": "Ti, Nb, Pb, Si" }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiodynamic Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": { "entity_type": "Measurement", "name": "pH", "value": 7.8 },
+        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            { "entity_type": "Measurement", "name": "Cl-", "value": 300, "unit": "ppm" }
+          ]
+        }
+      }
+    },
+    "results": [
+      { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 1006, "unit": "mV vs. SCE" }
+    ],
+    "other_attributes": [
+      { "entity_type": "Attribute", "name": "Corrosion Potential (Ecor)", "value": { "entity_type": "Measurement", "name": "Ecor", "value": -111, "unit": "mV vs. SCE" } }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Duplex 2205 (UNS S31803)",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": [
+            { "entity_type": "Measurement", "name": "Cr", "value": 22, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mo", "value": 3, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Ni", "value": 6, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "C", "value": 0.02, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Cu", "value": 0.2, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mn", "value": 1.5, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "N", "value": 0.15, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Cb + Ta", "value": 0.6, "unit": "wt%" }
+          ]
+        }
+      ],
+      "processing_steps": [
+        { "entity_type": "MaterialProcessingStep", "description": "As-received, from AVESTA" },
+        { "entity_type": "MaterialProcessingStep", "description": "Epoxy mounted 600 grit SiC finished" },
+        { "entity_type": "MaterialProcessingStep", "description": "Passivated 15 min in 17% HNO3" }
+      ],
+      "other_attributes": [
+        { "entity_type": "Attribute", "name": "Alloy Type", "value": "High alloy duplex stainless steel" },
+        { "entity_type": "Attribute", "name": "Microstructure", "value": "Duplex phase (ferrite + austenite)" }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiodynamic Polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "ph": { "entity_type": "Measurement", "name": "pH", "value": 8.2 },
+        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 50, "unit": "°C" },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            { "entity_type": "Measurement", "name": "Cl-", "value": 24090, "unit": "mg/l" }
+          ]
+        }
+      }
+    },
+    "results": [
+      { "entity_type": "Measurement", "name": "Pitting Potential (Epit)", "value": 629, "unit": "mV vs. SCE" }
+    ],
+    "other_attributes": [
+      { "entity_type": "Attribute", "name": "Corrosion Potential (Ecor)", "value": { "entity_type": "Measurement", "name": "Ecor", "value": -263, "unit": "mV vs. SCE" } }
+    ]
   }
 ]

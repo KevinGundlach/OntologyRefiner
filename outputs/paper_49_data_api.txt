@@ -1,0 +1,751 @@
+```xml
+<base_material>
+    <Base_Material_Identifier>304L (UNS S30403)</Base_Material_Identifier>
+    <Alloy_Composition>Fe Balance, 18 Cr, 10 Ni, 0.03 C, 0.2 Cu, 1 Mn, 0.045 P, 0.02 S, 1.0 Si (wt%)</Alloy_Composition>
+    <Alloy_Type>Conventional austenitic stainless steel</Alloy_Type>
+    <Microstructure>Austenitic phase</Microstructure>
+    <Other_Information>Obtained commercially in sheet and/or rod forms. No further heat treatment was applied by the authors.</Other_Information>
+    <conditioned_material>
+        <Conditioned_Material_Identifier>Epoxy-mounted 600 grit SiC finished</Conditioned_Material_Identifier>
+        <Process_Description>Test specimens were cut from sheet/rod forms. A wire was soldered to one end for electrical connection and the whole unit was mounted in epoxy resin to provide a crevice-free mount.</Process_Description>
+        <Surface_Finish>Exposed end ground to 600 grit SiC finish, rinsed with distilled water, left for 30 min in air, then passivated by immersion for 15 min in 17% HNO3 before each experiment.</Surface_Finish>
+        <Heat_Treatment>As-received, without any further heat treatment.</Heat_Treatment>
+        <Other_Information>Exposed area of the test specimens was 1 cm^2. Crevice-free mount.</Other_Information>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization. Pitting potential Epit was assessed as the potential at which a consistent increase in current density occurred, indicating the initiation of non-passivating pits.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted crevice-free flat end, 1 cm^2 exposed area. Saturated Calomel Electrode (SCE) with potassium chloride salt bridge as reference, and graphite as counter electrode.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>300 ppm Cl- aqueous solution prepared by dissolving analytical grade NaCl in distilled water. pH adjusted to 7.8 by the addition of NaOH. Temperature maintained at 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 287 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -185 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted crevice-free flat end, 1 cm^2 exposed area. SCE reference, graphite counter electrode.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>500 ppm Cl- aqueous solution (NaCl in distilled water). pH 7.8 (adjusted with NaOH). 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 260 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -206 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted crevice-free flat end, 1 cm^2 exposed area. SCE reference, graphite counter electrode.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>1000 ppm Cl- aqueous solution (NaCl in distilled water). pH 7.8 (adjusted with NaOH). 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 218 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -208 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted crevice-free flat end, 1 cm^2 exposed area. SCE reference, graphite counter electrode.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>5000 ppm Cl- aqueous solution (NaCl in distilled water). pH 7.8 (adjusted with NaOH). 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 140 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -216 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted crevice-free flat end, 1 cm^2 exposed area. SCE reference, graphite counter electrode.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>Natural Gulf Seawater. pH 8.2. Composition: 24090 mg/l Cl-, 13440 mg/l Na+, 3384 mg/l SO4--, 1618 mg/l Mg++, 508 mg/l Ca++, 483 mg/l K+, 176 mg/l HCO3-, 83 mg/l Br-, 17 mg/l Sr++, 1 mg/l F-, TDS 43800 mg/l. Temperature 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 94 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -217 mV vs. SCE</Other_Information>
+        </experiment>
+    </conditioned_material>
+</base_material>
+
+<base_material>
+    <Base_Material_Identifier>316L (UNS S31603)</Base_Material_Identifier>
+    <Alloy_Composition>Fe Balance, 16 Cr, 3 Mo, 11 Ni, 0.02 C, 0.2 Cu, 1 Mn, 0.045 P, 0.02 S, 1.0 Si (wt%)</Alloy_Composition>
+    <Alloy_Type>Conventional austenitic stainless steel</Alloy_Type>
+    <Microstructure>Austenitic phase</Microstructure>
+    <Other_Information>Obtained commercially in sheet and/or rod forms.</Other_Information>
+    <conditioned_material>
+        <Conditioned_Material_Identifier>Epoxy-mounted 600 grit SiC finished</Conditioned_Material_Identifier>
+        <Process_Description>Wire soldered to one end, mounted in epoxy resin for crevice-free mount.</Process_Description>
+        <Surface_Finish>Ground to 600 grit SiC finish, rinsed with distilled water, 30 min air exposure, passivated 15 min in 17% HNO3.</Surface_Finish>
+        <Heat_Treatment>As-received, no further heat treatment.</Heat_Treatment>
+        <Other_Information>Exposed area: 1 cm^2.</Other_Information>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference, graphite counter.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>300 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 344 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -238 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference, graphite counter.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>500 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 330 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -221 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference, graphite counter.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>1000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 284 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -210 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference, graphite counter.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>5000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 232 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -229 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference, graphite counter.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>Natural Gulf Seawater (24090 mg/l Cl-), pH 8.2, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 154 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -243 mV vs. SCE</Other_Information>
+        </experiment>
+    </conditioned_material>
+</base_material>
+
+<base_material>
+    <Base_Material_Identifier>317L (UNS S31703)</Base_Material_Identifier>
+    <Alloy_Composition>Fe Balance, 18 Cr, 3 Mo, 13 Ni, 0.02 C, 0.2 Cu, 2 Mn, 0.045 P, 0.02 S, 1.0 Si (wt%)</Alloy_Composition>
+    <Alloy_Type>Conventional austenitic stainless steel</Alloy_Type>
+    <Microstructure>Austenitic phase</Microstructure>
+    <Other_Information>Obtained commercially.</Other_Information>
+    <conditioned_material>
+        <Conditioned_Material_Identifier>Epoxy-mounted 600 grit SiC finished</Conditioned_Material_Identifier>
+        <Process_Description>Wire soldered, epoxy-mounted crevice-free specimen.</Process_Description>
+        <Surface_Finish>Ground to 600 grit SiC finish, rinsed with distilled water, 30 min air exposure, 15 min in 17% HNO3 passivation.</Surface_Finish>
+        <Heat_Treatment>As-received.</Heat_Treatment>
+        <Other_Information>Exposed area: 1 cm^2.</Other_Information>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>300 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 720 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -210 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>500 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 647 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -249 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>1000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 556 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -199 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>5000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 275 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -224 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>Natural Gulf Seawater (24090 mg/l Cl-), pH 8.2, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 204 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -192 mV vs. SCE</Other_Information>
+        </experiment>
+    </conditioned_material>
+</base_material>
+
+<base_material>
+    <Base_Material_Identifier>904L (UNS N08904)</Base_Material_Identifier>
+    <Alloy_Composition>Fe Balance, 20 Cr, 5 Mo, 24.5 Ni, 0.02 C, 1 Cu, 1.5 Mn, 0.045 P, 0.02 S (wt%)</Alloy_Composition>
+    <Alloy_Type>High alloy austenitic stainless steel</Alloy_Type>
+    <Microstructure>Austenitic phase</Microstructure>
+    <Other_Information>Obtained commercially from AVESTA.</Other_Information>
+    <conditioned_material>
+        <Conditioned_Material_Identifier>Epoxy-mounted 600 grit SiC finished</Conditioned_Material_Identifier>
+        <Process_Description>Wire soldered, epoxy-mounted crevice-free specimen.</Process_Description>
+        <Surface_Finish>Ground to 600 grit SiC finish, rinsed with distilled water, 30 min air exposure, passivated 15 min in 17% HNO3.</Surface_Finish>
+        <Heat_Treatment>As-received.</Heat_Treatment>
+        <Other_Information>Exposed area: 1 cm^2.</Other_Information>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>300 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 876 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -206 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>500 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 860 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -188 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>1000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 780 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -194 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>5000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 587 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -195 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>Natural Gulf Seawater (24090 mg/l Cl-), pH 8.2, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 427 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -202 mV vs. SCE</Other_Information>
+        </experiment>
+    </conditioned_material>
+</base_material>
+
+<base_material>
+    <Base_Material_Identifier>410 (UNS S41000)</Base_Material_Identifier>
+    <Alloy_Composition>Fe Balance, 13 Cr, 1 Mn, 0.04 P, 0.035 S, 1 Si (wt%)</Alloy_Composition>
+    <Alloy_Type>Conventional martensitic stainless steel</Alloy_Type>
+    <Microstructure>Martensitic phase (inferred)</Microstructure>
+    <Other_Information>Obtained commercially.</Other_Information>
+    <conditioned_material>
+        <Conditioned_Material_Identifier>Epoxy-mounted 600 grit SiC finished</Conditioned_Material_Identifier>
+        <Process_Description>Wire soldered, epoxy-mounted crevice-free specimen.</Process_Description>
+        <Surface_Finish>Ground to 600 grit SiC finish, rinsed with distilled water, 30 min air exposure, passivated 15 min in 17% HNO3.</Surface_Finish>
+        <Heat_Treatment>As-received.</Heat_Treatment>
+        <Other_Information>Exposed area: 1 cm^2.</Other_Information>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>300 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 144 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -267 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>500 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 101 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -247 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>1000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = -120 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -407 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>5000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = -43 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -478 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>Natural Gulf Seawater (24090 mg/l Cl-), pH 8.2, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = -145 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -511 mV vs. SCE</Other_Information>
+        </experiment>
+    </conditioned_material>
+</base_material>
+
+<base_material>
+    <Base_Material_Identifier>17-4PH (UNS S17400)</Base_Material_Identifier>
+    <Alloy_Composition>Fe Balance, 16 Cr, 4.5 Ni, 0.07 C, 4 Cu, 1 Mn, 0.3 Cb, 0.04 P, 1 Si (wt%)</Alloy_Composition>
+    <Alloy_Type>Conventional precipitation hardened martensitic stainless steel</Alloy_Type>
+    <Microstructure>Martensitic / precipitation hardened</Microstructure>
+    <Other_Information>Obtained commercially from ARMCO.</Other_Information>
+    <conditioned_material>
+        <Conditioned_Material_Identifier>Epoxy-mounted 600 grit SiC finished</Conditioned_Material_Identifier>
+        <Process_Description>Wire soldered, epoxy-mounted crevice-free specimen.</Process_Description>
+        <Surface_Finish>Ground to 600 grit SiC finish, rinsed with distilled water, 30 min air exposure, passivated 15 min in 17% HNO3.</Surface_Finish>
+        <Heat_Treatment>As-received.</Heat_Treatment>
+        <Other_Information>Exposed area: 1 cm^2.</Other_Information>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>300 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 221 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -214 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>500 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 263 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -211 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>1000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 251 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -227 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>5000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 281 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -225 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>Natural Gulf Seawater (24090 mg/l Cl-), pH 8.2, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 1516 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -240 mV vs. SCE. Note: 1516 mV is reported exactly as in Table 5; likely a typographical error in the original publication given the ranking mentioned on page 6 of the paper.</Other_Information>
+        </experiment>
+    </conditioned_material>
+</base_material>
+
+<base_material>
+    <Base_Material_Identifier>SMO 254 (UNS S31254)</Base_Material_Identifier>
+    <Alloy_Composition>Fe Balance, 20 Cr, 6 Mo, 18 Ni, 0.02 C, 0.7 Cu, 0.2 N, 0.002 Si (wt%)</Alloy_Composition>
+    <Alloy_Type>High alloy austenitic stainless steel (super-austenitic)</Alloy_Type>
+    <Microstructure>Austenitic phase</Microstructure>
+    <Other_Information>Obtained commercially from AVESTA.</Other_Information>
+    <conditioned_material>
+        <Conditioned_Material_Identifier>Epoxy-mounted 600 grit SiC finished</Conditioned_Material_Identifier>
+        <Process_Description>Wire soldered, epoxy-mounted crevice-free specimen.</Process_Description>
+        <Surface_Finish>Ground to 600 grit SiC finish, rinsed with distilled water, 30 min air exposure, passivated 15 min in 17% HNO3.</Surface_Finish>
+        <Heat_Treatment>As-received.</Heat_Treatment>
+        <Other_Information>Exposed area: 1 cm^2.</Other_Information>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>300 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 840 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -161 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>500 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 830 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -167 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>1000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 821 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -170 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>5000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 785 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -121 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>Natural Gulf Seawater (24090 mg/l Cl-), pH 8.2, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 813 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -166 mV vs. SCE</Other_Information>
+        </experiment>
+    </conditioned_material>
+</base_material>
+
+<base_material>
+    <Base_Material_Identifier>SMO 654 (UNS S32654)</Base_Material_Identifier>
+    <Alloy_Composition>Fe Balance, 25 Cr, 7 Mo, 22 Ni, 0.015 C, 0.4 Cu, 0.5 Mn, 0.5 N (wt%)</Alloy_Composition>
+    <Alloy_Type>High alloy austenitic stainless steel (super-austenitic)</Alloy_Type>
+    <Microstructure>Austenitic phase</Microstructure>
+    <Other_Information>Obtained commercially from AVESTA.</Other_Information>
+    <conditioned_material>
+        <Conditioned_Material_Identifier>Epoxy-mounted 600 grit SiC finished</Conditioned_Material_Identifier>
+        <Process_Description>Wire soldered, epoxy-mounted crevice-free specimen.</Process_Description>
+        <Surface_Finish>Ground to 600 grit SiC finish, rinsed with distilled water, 30 min air exposure, passivated 15 min in 17% HNO3.</Surface_Finish>
+        <Heat_Treatment>As-received.</Heat_Treatment>
+        <Other_Information>Exposed area: 1 cm^2.</Other_Information>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>300 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 979 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -185 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>500 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 975 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -120 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>1000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 972 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -185 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>5000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 908 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -315 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>Natural Gulf Seawater (24090 mg/l Cl-), pH 8.2, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 883 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -278 mV vs. SCE</Other_Information>
+        </experiment>
+    </conditioned_material>
+</base_material>
+
+<base_material>
+    <Base_Material_Identifier>hMo 1925 (UNS N08925)</Base_Material_Identifier>
+    <Alloy_Composition>Fe Balance, 21 Cr, 6 Mo, 25 Ni, 0.01 C, 0.9 Cu, 0.9 Mn, 0.2 N, 0.002 Si (wt%)</Alloy_Composition>
+    <Alloy_Type>High alloy austenitic stainless steel (super-austenitic)</Alloy_Type>
+    <Microstructure>Austenitic phase</Microstructure>
+    <Other_Information>Obtained commercially from VDM.</Other_Information>
+    <conditioned_material>
+        <Conditioned_Material_Identifier>Epoxy-mounted 600 grit SiC finished</Conditioned_Material_Identifier>
+        <Process_Description>Wire soldered, epoxy-mounted crevice-free specimen.</Process_Description>
+        <Surface_Finish>Ground to 600 grit SiC finish, rinsed with distilled water, 30 min air exposure, passivated 15 min in 17% HNO3.</Surface_Finish>
+        <Heat_Treatment>As-received.</Heat_Treatment>
+        <Other_Information>Exposed area: 1 cm^2.</Other_Information>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>300 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 917 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -144 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>500 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 867 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -134 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>1000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 738 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -142 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>5000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 530 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -187 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>Natural Gulf Seawater (24090 mg/l Cl-), pH 8.2, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 1060 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -160 mV vs. SCE</Other_Information>
+        </experiment>
+    </conditioned_material>
+</base_material>
+
+<base_material>
+    <Base_Material_Identifier>hMo 3127 (UNS N0828)</Base_Material_Identifier>
+    <Alloy_Composition>Fe Balance, 27 Cr, 6.5 Mo, 32 Ni, 0.02 C, 1 Cu, 2 Mn, 0.003 S, Nb, Pb (wt%)</Alloy_Composition>
+    <Alloy_Type>High alloy austenitic stainless steel (super-austenitic)</Alloy_Type>
+    <Microstructure>Austenitic phase</Microstructure>
+    <Other_Information>Obtained commercially from VDM.</Other_Information>
+    <conditioned_material>
+        <Conditioned_Material_Identifier>Epoxy-mounted 600 grit SiC finished</Conditioned_Material_Identifier>
+        <Process_Description>Wire soldered, epoxy-mounted crevice-free specimen.</Process_Description>
+        <Surface_Finish>Ground to 600 grit SiC finish, rinsed with distilled water, 30 min air exposure, passivated 15 min in 17% HNO3.</Surface_Finish>
+        <Heat_Treatment>As-received.</Heat_Treatment>
+        <Other_Information>Exposed area: 1 cm^2.</Other_Information>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>300 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 997 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -204 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>500 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 980 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -133 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>1000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 973 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -211 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>5000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 933 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -198 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>Natural Gulf Seawater (24090 mg/l Cl-), pH 8.2, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 883 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -172 mV vs. SCE</Other_Information>
+        </experiment>
+    </conditioned_material>
+</base_material>
+
+<base_material>
+    <Base_Material_Identifier>20 Cb3 (UNS N08020)</Base_Material_Identifier>
+    <Alloy_Composition>Fe Balance, 19 Cr, 2 Mo, 33 Ni, 0.02 C, 3 Cu, 0.4 Mn, 0.4 Si, 5 Cb + Ta (wt%)</Alloy_Composition>
+    <Alloy_Type>High alloy austenitic stainless steel</Alloy_Type>
+    <Microstructure>Austenitic phase</Microstructure>
+    <Other_Information>Obtained commercially from CARPENTER.</Other_Information>
+    <conditioned_material>
+        <Conditioned_Material_Identifier>Epoxy-mounted 600 grit SiC finished</Conditioned_Material_Identifier>
+        <Process_Description>Wire soldered, epoxy-mounted crevice-free specimen.</Process_Description>
+        <Surface_Finish>Ground to 600 grit SiC finish, rinsed with distilled water, 30 min air exposure, passivated 15 min in 17% HNO3.</Surface_Finish>
+        <Heat_Treatment>As-received.</Heat_Treatment>
+        <Other_Information>Exposed area: 1 cm^2.</Other_Information>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>300 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 912 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -199 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>500 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 631 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -218 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>1000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 761 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -216 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>5000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 830 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -181 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>Natural Gulf Seawater (24090 mg/l Cl-), pH 8.2, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 538 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -149 mV vs. SCE</Other_Information>
+        </experiment>
+    </conditioned_material>
+</base_material>
+
+<base_material>
+    <Base_Material_Identifier>Remanit 4565</Base_Material_Identifier>
+    <Alloy_Composition>Fe Balance, 22-25 Cr, 4-6 Mo, 16-18 Ni, 0.02 C, 0.1 Cu, 5 Mn, 0.5 N, 0.003 Si, 0.1 Nb (wt%)</Alloy_Composition>
+    <Alloy_Type>High alloy austenitic stainless steel</Alloy_Type>
+    <Microstructure>Austenitic phase</Microstructure>
+    <Other_Information>Obtained commercially from THYSSEN.</Other_Information>
+    <conditioned_material>
+        <Conditioned_Material_Identifier>Epoxy-mounted 600 grit SiC finished</Conditioned_Material_Identifier>
+        <Process_Description>Wire soldered, epoxy-mounted crevice-free specimen.</Process_Description>
+        <Surface_Finish>Ground to 600 grit SiC finish, rinsed with distilled water, 30 min air exposure, passivated 15 min in 17% HNO3.</Surface_Finish>
+        <Heat_Treatment>As-received.</Heat_Treatment>
+        <Other_Information>Exposed area: 1 cm^2.</Other_Information>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>300 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 937 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -133 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>500 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 912 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -129 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>1000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 900 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -170 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>5000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 869 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -190 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>Natural Gulf Seawater (24090 mg/l Cl-), pH 8.2, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 976 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -176 mV vs. SCE</Other_Information>
+        </experiment>
+    </conditioned_material>
+</base_material>
+
+<base_material>
+    <Base_Material_Identifier>Monit 44635 (UNS S44635)</Base_Material_Identifier>
+    <Alloy_Composition>Fe Balance, 25 Cr, 4 Mo, 4 Ni, 0.025 C, 0.2 Cu, 0.4 Mn, 0.035 N, Ti, Nb, Pb, Si (wt%)</Alloy_Composition>
+    <Alloy_Type>High alloy ferritic stainless steel (super-ferritic)</Alloy_Type>
+    <Microstructure>Ferritic phase</Microstructure>
+    <Other_Information>Obtained commercially from AVESTA.</Other_Information>
+    <conditioned_material>
+        <Conditioned_Material_Identifier>Epoxy-mounted 600 grit SiC finished</Conditioned_Material_Identifier>
+        <Process_Description>Wire soldered, epoxy-mounted crevice-free specimen.</Process_Description>
+        <Surface_Finish>Ground to 600 grit SiC finish, rinsed with distilled water, 30 min air exposure, passivated 15 min in 17% HNO3.</Surface_Finish>
+        <Heat_Treatment>As-received.</Heat_Treatment>
+        <Other_Information>Exposed area: 1 cm^2.</Other_Information>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>300 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 1006 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -111 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>500 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 1003 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -155 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>1000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 942 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -149 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>5000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 940 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -234 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>Natural Gulf Seawater (24090 mg/l Cl-), pH 8.2, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 721 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -228 mV vs. SCE</Other_Information>
+        </experiment>
+    </conditioned_material>
+</base_material>
+
+<base_material>
+    <Base_Material_Identifier>Remanit 4575</Base_Material_Identifier>
+    <Alloy_Composition>Fe Balance, 27-29 Cr, 2-3 Mo, 3-4.5 Ni, 0.01 C, 0.1 Mn, 0.025 N, Ti, Pb, Si, Nb (wt%)</Alloy_Composition>
+    <Alloy_Type>High alloy ferritic stainless steel (super-ferritic)</Alloy_Type>
+    <Microstructure>Ferritic phase</Microstructure>
+    <Other_Information>Obtained commercially from THYSSEN.</Other_Information>
+    <conditioned_material>
+        <Conditioned_Material_Identifier>Epoxy-mounted 600 grit SiC finished</Conditioned_Material_Identifier>
+        <Process_Description>Wire soldered, epoxy-mounted crevice-free specimen.</Process_Description>
+        <Surface_Finish>Ground to 600 grit SiC finish, rinsed with distilled water, 30 min air exposure, passivated 15 min in 17% HNO3.</Surface_Finish>
+        <Heat_Treatment>As-received.</Heat_Treatment>
+        <Other_Information>Exposed area: 1 cm^2.</Other_Information>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>300 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 809 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -245 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>500 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 842 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -210 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>1000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 953 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -246 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>5000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 966 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -147 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>Natural Gulf Seawater (24090 mg/l Cl-), pH 8.2, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 826 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -244 mV vs. SCE</Other_Information>
+        </experiment>
+    </conditioned_material>
+</base_material>
+
+<base_material>
+    <Base_Material_Identifier>Duplex 2205 (UNS S31803)</Base_Material_Identifier>
+    <Alloy_Composition>Fe Balance, 22 Cr, 3 Mo, 6 Ni, 0.02 C, 0.2 Cu, 1.5 Mn, 0.15 N, 0.6 Cb + Ta (wt%)</Alloy_Composition>
+    <Alloy_Type>High alloy duplex stainless steel</Alloy_Type>
+    <Microstructure>Duplex phase (ferrite + austenite)</Microstructure>
+    <Other_Information>Obtained commercially from AVESTA.</Other_Information>
+    <conditioned_material>
+        <Conditioned_Material_Identifier>Epoxy-mounted 600 grit SiC finished</Conditioned_Material_Identifier>
+        <Process_Description>Wire soldered, epoxy-mounted crevice-free specimen.</Process_Description>
+        <Surface_Finish>Ground to 600 grit SiC finish, rinsed with distilled water, 30 min air exposure, passivated 15 min in 17% HNO3.</Surface_Finish>
+        <Heat_Treatment>As-received.</Heat_Treatment>
+        <Other_Information>Exposed area: 1 cm^2.</Other_Information>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>300 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 885 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -208 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>500 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 855 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -199 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>1000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 872 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -196 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>5000 ppm Cl- aqueous solution, pH 7.8, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 851 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -220 mV vs. SCE</Other_Information>
+        </experiment>
+        <experiment>
+            <Test_Procedure>Potentiodynamic polarization.</Test_Procedure>
+            <Electrode_Geometry_Mounting>Epoxy-mounted flat end, SCE reference.</Electrode_Geometry_Mounting>
+            <Test_Solution_and_Environment>Natural Gulf Seawater (24090 mg/l Cl-), pH 8.2, 50°C.</Test_Solution_and_Environment>
+            <Pitting_Potential>Epit = 629 mV vs. SCE</Pitting_Potential>
+            <Other_Information>Ecor = -263 mV vs. SCE</Other_Information>
+        </experiment>
+    </conditioned_material>
+</base_material>
+```

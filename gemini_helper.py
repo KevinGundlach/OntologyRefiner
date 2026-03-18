@@ -5,7 +5,9 @@ from typing import List
 import os
 from datetime import datetime 
 
-API_KEY = os.environ.get('GEMINI_API_KEY')
+# API_KEY = os.environ.get('DEFAULT_GEMINI_API_KEY')
+
+API_KEY = os.environ.get('ONTOLOGY_REFINER_GEMINI_API_KEY')
 
 def make_client():
     return genai.Client(api_key=API_KEY)

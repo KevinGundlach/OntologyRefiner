@@ -101,7 +101,7 @@ def generate_transcript():
 # 
 # Below are for the data extractor -> data formatter process. 
 
-def run_data_extractor(paper, output_file):
+def run_data_extractor(client, paper, output_file):
 
     data_extractor = DataExtractorAgent()
     
@@ -112,9 +112,7 @@ def run_data_extractor(paper, output_file):
 
     return text 
 
-def run_data_formatter(extractor_text, output_file):
-
-    print(output_file)
+def run_data_formatter(client, extractor_text, output_file):
 
     data_formatter = DataFormatterAgent()
     
@@ -128,20 +126,34 @@ def run_data_formatter(extractor_text, output_file):
 
 def main():
 
-    extracted_texts = [
-        read_file("outputs\\paper_1_data_web.txt"),
-        read_file("outputs\\paper_2_data_web.txt"),
-        read_file("outputs\\paper_3_data_web.txt"),
-        read_file("outputs\\paper_9_data_web.txt"),
-        read_file("outputs\\paper_49_data_web.txt"),
-    ]
-
-    run_data_formatter(extracted_texts[1], "outputs\\paper_2_json.txt")
-    run_data_formatter(extracted_texts[2], "outputs\\paper_3_json.txt")
-    run_data_formatter(extracted_texts[3], "outputs\\paper_9_json.txt")
-    run_data_formatter(extracted_texts[4], "outputs\\paper_49_json.txt")
+    collection = PaperCollection(from_folder="papers")
+    collection.papers = [p for p in collection.papers if p.reference in [1, 2, 3, 9, 49]]
     
+    with gh.make_client() as client:    
+        pass         
 
+        # collection.upload_all(client)
+
+        # print(collection.papers[0].file_name)
+        # paper_1_info = run_data_extractor(client, collection.papers[0], "outputs\\paper_1_data_api.txt")
+        # run_data_formatter(client, paper_1_info, "outputs\\paper_1_json.txt")
+
+        # print(collection.papers[1].file_name)
+        # paper_2_info = run_data_extractor(client, collection.papers[1], "outputs\\paper_2_data_api.txt")
+        # run_data_formatter(client, paper_2_info, "outputs\\paper_2_json.txt")   
+
+        # print(collection.papers[2].file_name)
+        # paper_3_info = run_data_extractor(client, collection.papers[2], "outputs\\paper_3_data_api.txt")
+        # run_data_formatter(client, paper_3_info, "outputs\\paper_3_json.txt")
+
+        # print(collection.papers[3].file_name)
+        # paper_9_info = run_data_extractor(client, collection.papers[3], "outputs\\paper_9_data_api.txt")
+        # run_data_formatter(client, paper_9_info, "outputs\\paper_9_json.txt")
+
+        # print(collection.papers[4].file_name)
+        # paper_49_info = run_data_extractor(client, collection.papers[4], "outputs\\paper_49_data_api.txt")
+        # run_data_formatter(client, paper_49_info, "outputs\\paper_49_json.txt")
+    
 
 if __name__ == "__main__":
     main()

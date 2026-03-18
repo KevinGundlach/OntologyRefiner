@@ -1,0 +1,72 @@
+
+<Attach papers 49, 3, and 9>
+
+You are a prompt engineer. We would like to build a set of LLM agents for the purpose of extracting information on metal alloy corrosion testing from a given set of research papers in materials science. 
+
+Our ultimate goal is to construct an agentic framework capable of converting such research papers into a complete detailed knowledge graph from which we can train a graph-neural-network to predict corrosion pitting potentials, given things like alloy composition, microstructure, test methodology, heat treatment methodology, and other such relevant details. I've attached a few example research papers for reference. 
+
+We are particularly interested in discovering potential hidden variables - details that may affect pitting potential but which are often overlooked by experts. Thus, it is important to extract *all* information provided that could possibly affect the resulting pitting potentials measured, even if that information isn't explicitly requested in the prompt. 
+
+In each paper there is a list of "base materials" - the metal alloys that are studied. For each "base material" please extract the following information:
+
+* base material identifier, if provided.
+
+* alloy composition: Extract the alloy's precise chemical composition. Please mention all the chemical elements used, including any trace elements. Indicate the unit of measurement, whether that's weight %, atomic %, ppm, or anything else.
+
+* alloy type: Please provide a brief paragraph describing the type of alloy. For example, whether it's an austenitic steel, whether it's a duplex, a stainless, a ferritic, martensitic, etc...
+
+* microstructure: Provide a brief paragraph describing the alloy's microstructure. For example, whether it has a pearlite martensitic microstructure.
+
+* other information: In addition to the above, extract any other information provided in the paper for each base material that is possibly relevant for the analysis of corrosion pitting potential.
+
+For each "base material" we have one or more "conditioned materials". That is, the result of any kind of manufacturing process, heat treatments, chemical alterations or other modifications applied to the base material that could affect its corrosion pitting potential. 
+
+The Pessall & Nurminen paper, for example, identifies "W5" as a base material, where "W502", "W582", and "W549" are the conditioned materials resulting from the application of different heat treatments to "W5".
+
+For each "conditioned material" please extract the following information:
+
+* conditioned material identifier, if provided.
+
+* process description: Provide a brief paragraph describing how the material was prepared, manufactured, or processed. 
+
+* heat treatment: Provide a brief paragraph describing the heat treatments applied to this alloy.
+
+* other information: In addition to the above, extract any other information provided in the paper for each conditioned material that is possibly relevant for the analysis of corrosion pitting potential.
+
+For each "conditioned material" we have one or more "experiments". Each experiment represents the full procedure for measuring the pitting potentials for a conditioned material under a particular test solution in a particular environment.
+
+For each "experiment" please extract the following information:
+
+* test procedure: Provide a full account of the test procedure used on this conditioned material. Was potentiostatic polarization used? Was potentiodyanmic polarization used? What was the scan rate? Provide a full summary of the entire procedure.
+
+* test solution and environment: Provide all information about the test solution and environment, including details such as the electrolyte used, the chloride ion concentration, the solution pH, the solution temperature, and any other information regarding the test solution and environment mentioned in the paper.  
+
+* pitting potential: Extract values of the pitting potential measured for this conditioned material following this test procedure. Provide values and units of meausure.
+
+* other information: In addition to the above, extract any other information provided in the paper for each experiment and test procedure that is possibly relevant for the analysis of corrosion pitting potential.
+
+Scan not just the text, but also check any provided figures, tables, and plots for important measurements and values. It is acceptable to estimate values from a given plot, such as the pitting potentials, if precise figures are not provided in the text.
+
+Use tags to mark the start and end of each base material, conditioned material, and experiment, nested as follows:
+
+<base_material>
+    
+    base material information goes here.
+
+    <conditioned_material>
+    
+        conditioned material information goes here.
+        There may be more than one conditioned material per base material.
+    
+        <experiment>
+        
+            experiment information goes here, including everything regarding the test procedure, test solution, environment, and results.
+            There may be more than one experiment per conditioned material.
+        
+        </experiment>
+
+    </conditioned_material>
+    
+</base_material>
+
+Please generate a prompt for a Gemini 3 Pro agent to extract this information from any given research paper in materials science, and also indicate any possible shortcomings I may have overlooked. For example, have I missed any important details that would be relevant to include in a dataset on which to train a model for predicting pitting potential? 

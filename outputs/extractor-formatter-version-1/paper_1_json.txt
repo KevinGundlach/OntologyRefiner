@@ -1,0 +1,456 @@
+[
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Binary Cr-Fe Alloy (12% Cr)",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": [
+            { "entity_type": "Measurement", "name": "Cr", "value": 12, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "C", "value": { "min": 0.001, "max": 0.002 }, "unit": "wt%" }
+          ]
+        }
+      ],
+      "processing_steps": [
+        { "entity_type": "MaterialProcessingStep", "description": "Vacuum melted" },
+        { "entity_type": "MaterialProcessingStep", "description": "Water quenched from melt" },
+        { "entity_type": "MaterialProcessingStep", "description": "Homogenized in argon or helium", "other_attributes": [
+          { "entity_type": "Attribute", "name": "Temperature", "value": { "entity_type": "Measurement", "name": "Homogenization Temperature", "value": { "min": 1050, "max": 1100 }, "unit": "°C" } }
+        ]},
+        { "entity_type": "MaterialProcessingStep", "description": "Cold rolled to 0.25 cm" },
+        { "entity_type": "MaterialProcessingStep", "description": "Annealed", "other_attributes": [
+          { "entity_type": "Attribute", "name": "Temperature", "value": { "entity_type": "Measurement", "name": "Annealing Temperature", "value": { "min": 1000, "max": 1050 }, "unit": "°C" } }
+        ]},
+        { "entity_type": "MaterialProcessingStep", "description": "Water quenched" }
+      ],
+      "other_attributes": [
+        { "entity_type": "Attribute", "name": "Surface Finish", "value": "Abraded to 3/0 emery paper" },
+        { "entity_type": "Attribute", "name": "Pickling", "value": "15% HNO3 + 5% HF at 80°C for 5 minutes" }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiostatic anodic polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 25, "unit": "°C" },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [
+            { "entity_type": "Measurement", "name": "NaCl", "value": 0.1, "unit": "N" }
+          ]
+        },
+        "other_attributes": [
+          { "entity_type": "Attribute", "name": "Aeration", "value": "Deaerated with nitrogen" }
+        ]
+      },
+      "other_attributes": [
+        { "entity_type": "Attribute", "name": "Scan Rate", "value": "Steady-state (held for 10+ hours)" }
+      ]
+    },
+    "results": [
+      { "entity_type": "Measurement", "name": "Pitting Potential", "value": 0.2, "unit": "V vs H2 Scale" }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Binary Cr-Fe Alloy (23% Cr)",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": [
+            { "entity_type": "Measurement", "name": "Cr", "value": 23, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "C", "value": { "min": 0.001, "max": 0.002 }, "unit": "wt%" }
+          ]
+        }
+      ],
+      "processing_steps": [
+        { "entity_type": "MaterialProcessingStep", "description": "Vacuum melted" },
+        { "entity_type": "MaterialProcessingStep", "description": "Water quenched" },
+        { "entity_type": "MaterialProcessingStep", "description": "Homogenized", "other_attributes": [{"entity_type": "Attribute", "name": "Temp", "value": "1050-1100°C"}]},
+        { "entity_type": "MaterialProcessingStep", "description": "Cold rolled" },
+        { "entity_type": "MaterialProcessingStep", "description": "Annealed and Water quenched" }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiostatic anodic polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 25, "unit": "°C" },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [{ "entity_type": "Measurement", "name": "NaCl", "value": 0.1, "unit": "N" }]
+        }
+      }
+    },
+    "results": [
+      { "entity_type": "Measurement", "name": "Pitting Potential", "value": 0.24, "unit": "V vs H2 Scale" }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Binary Cr-Fe Alloy (29% Cr)",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": [
+            { "entity_type": "Measurement", "name": "Cr", "value": 29, "unit": "wt%" }
+          ]
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiostatic anodic polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 25, "unit": "°C" },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [{ "entity_type": "Measurement", "name": "NaCl", "value": 0.1, "unit": "N" }]
+        }
+      }
+    },
+    "results": [
+      { "entity_type": "Measurement", "name": "Pitting Potential", "value": 0.58, "unit": "V vs H2 Scale" }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Binary Cr-Fe Alloy (39% Cr)",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": [
+            { "entity_type": "Measurement", "name": "Cr", "value": 39, "unit": "wt%" }
+          ]
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiostatic anodic polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 25, "unit": "°C" },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [{ "entity_type": "Measurement", "name": "NaCl", "value": 0.1, "unit": "N" }]
+        }
+      }
+    },
+    "results": [
+      { "entity_type": "Measurement", "name": "Pitting Potential", "value": 0.89, "unit": "V vs H2 Scale" }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Binary Cr-Fe Alloy (48.8% Cr)",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": [
+            { "entity_type": "Measurement", "name": "Cr", "value": 48.8, "unit": "wt%" }
+          ]
+        }
+      ],
+      "processing_steps": [
+        { "entity_type": "MaterialProcessingStep", "description": "Machined directly from ingot" }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiostatic anodic polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 25, "unit": "°C" },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [{ "entity_type": "Measurement", "name": "NaCl", "value": 0.1, "unit": "N" }]
+        }
+      }
+    },
+    "results": [
+      { "entity_type": "Measurement", "name": "Pitting Potential", "value": 0.91, "unit": "V vs H2 Scale" }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Binary Cr-Fe Alloy (57.8% Cr)",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": [
+            { "entity_type": "Measurement", "name": "Cr", "value": 57.8, "unit": "wt%" }
+          ]
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiostatic anodic polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 25, "unit": "°C" },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [{ "entity_type": "Measurement", "name": "NaCl", "value": 0.1, "unit": "N" }]
+        }
+      }
+    },
+    "results": [
+      { "entity_type": "Measurement", "name": "Pitting Potential", "value": ">0.9", "unit": "V vs H2 Scale" },
+      { "entity_type": "Measurement", "name": "Status", "value": "Transpassive; no pitting" }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Binary Mo-Ni Alloy (3.2% Mo)",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Ni",
+          "elements": [
+            { "entity_type": "Measurement", "name": "Mo", "value": 3.2, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "C", "value": { "min": 0.001, "max": 0.002 }, "unit": "wt%" }
+          ]
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiostatic anodic polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 25, "unit": "°C" },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [{ "entity_type": "Measurement", "name": "NaCl", "value": 0.1, "unit": "N" }]
+        }
+      }
+    },
+    "results": [
+      { "entity_type": "Measurement", "name": "Pitting Potential", "value": 0.2, "unit": "V vs H2 Scale" }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Binary Mo-Ni Alloy (6.8% Mo)",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Ni",
+          "elements": [
+            { "entity_type": "Measurement", "name": "Mo", "value": 6.8, "unit": "wt%" }
+          ]
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiostatic anodic polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 25, "unit": "°C" },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [{ "entity_type": "Measurement", "name": "NaCl", "value": 0.1, "unit": "N" }]
+        }
+      }
+    },
+    "results": [
+      { "entity_type": "Measurement", "name": "Pitting Potential", "value": "None observed" }
+    ],
+    "other_attributes": [
+      { "entity_type": "Attribute", "name": "Observation", "value": "Current oscillations between 0 and 0.9V attributed to molybdate formation" }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Quaternary Stainless Steel (1.43% Mo)",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": [
+            { "entity_type": "Measurement", "name": "Cr", "value": 15, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Ni", "value": 13, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mo", "value": 1.43, "unit": "wt%" }
+          ]
+        }
+      ],
+      "processing_steps": [
+        { "entity_type": "MaterialProcessingStep", "description": "Vacuum melted and swaged" },
+        { "entity_type": "MaterialProcessingStep", "description": "Annealed at 1050°C and water quenched" }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiostatic anodic polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 25, "unit": "°C" },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [{ "entity_type": "Measurement", "name": "NaCl", "value": 0.1, "unit": "N" }]
+        }
+      }
+    },
+    "results": [
+      { "entity_type": "Measurement", "name": "Pitting Potential", "value": 0.4, "unit": "V vs H2 Scale" }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Quaternary Stainless Steel (1.43% Mo)",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": [
+            { "entity_type": "Measurement", "name": "Cr", "value": 15, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Ni", "value": 13, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mo", "value": 1.43, "unit": "wt%" }
+          ]
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiostatic anodic polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 0, "unit": "°C" },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [{ "entity_type": "Measurement", "name": "NaCl", "value": 0.1, "unit": "N" }]
+        }
+      }
+    },
+    "results": [
+      { "entity_type": "Measurement", "name": "Pitting Potential", "value": 0.38, "unit": "V vs H2 Scale" }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Quaternary Stainless Steel (2.4% Mo)",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": [
+            { "entity_type": "Measurement", "name": "Cr", "value": 15, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Ni", "value": 13, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mo", "value": 2.4, "unit": "wt%" }
+          ]
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiostatic anodic polarization",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 25, "unit": "°C" },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [{ "entity_type": "Measurement", "name": "NaBr", "value": 0.1, "unit": "N" }]
+        }
+      }
+    },
+    "results": [
+      { "entity_type": "Measurement", "name": "Pitting Potential", "value": 0.48, "unit": "V vs H2 Scale" }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Pure Aluminum",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Al",
+          "elements": []
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Potentiostatic (Reference)",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 25, "unit": "°C" },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [{ "entity_type": "Measurement", "name": "NaCl", "value": 0.1, "unit": "N" }]
+        }
+      }
+    },
+    "results": [
+      { "entity_type": "Measurement", "name": "Pitting Potential", "value": -0.45, "unit": "V vs H2 Scale" }
+    ]
+  },
+  {
+    "entity_type": "Experiment",
+    "material": {
+      "entity_type": "Material",
+      "identifier": "Quaternary Stainless Steel (2.4% Mo)",
+      "composition": [
+        {
+          "entity_type": "MaterialComposition",
+          "balance_element": "Fe",
+          "elements": [
+            { "entity_type": "Measurement", "name": "Cr", "value": 15, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Ni", "value": 13, "unit": "wt%" },
+            { "entity_type": "Measurement", "name": "Mo", "value": 2.4, "unit": "wt%" }
+          ]
+        }
+      ]
+    },
+    "test_procedure": {
+      "entity_type": "TestProcedure",
+      "description": "Two-day exposure immersion test",
+      "test_solution": {
+        "entity_type": "TestSolution",
+        "temperature": { "entity_type": "Measurement", "name": "Temperature", "value": 0, "unit": "°C" },
+        "composition": {
+          "entity_type": "TestSolutionComposition",
+          "chemicals": [{ "entity_type": "Measurement", "name": "FeCl3", "value": 10, "unit": "wt%" }]
+        }
+      }
+    },
+    "results": [
+      { "entity_type": "Measurement", "name": "Observation", "value": "Definite pitting after two days" }
+    ]
+  }
+]

@@ -1,8 +1,3 @@
-from google.genai import Client
-from paper_collection import Paper
-import gemini_helper as gh
-
-PROMPT = r"""
 **System Prompt: Materials Science Knowledge Extraction Agent**
 
 **Role:** You are an expert materials scientist and highly meticulous data extraction agent. Your task is to read complex metallurgical and materials science research papers and extract structured data to be used for training a Graph Neural Network (GNN). 
@@ -42,18 +37,3 @@ Structure your response using the following hierarchy and exact tags:
 
 `</base_material>`
 *(Repeat `<base_material>` tags as needed for the paper)*
-"""
-
-class DataExtractorAgent:
-
-    def extract_from_paper(self, client:Client, paper:Paper) -> str:
-        descriptor = paper.get_gemini_file_descriptor(client)
-        
-        text = gh.generate_content(
-            client = client, 
-            prompt = PROMPT, 
-            file = descriptor, 
-            usage_notes = f"Data Extractor Agent: {paper.file_name}",
-            use_pro = True)
-        
-        return text
