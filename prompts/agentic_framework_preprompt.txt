@@ -1,0 +1,63 @@
+
+<Attach papers 49, 3, and 9>
+
+We are building a set of LLM agents for the purpose of extracting information on metal alloy corrosion testing from a given set of research papers in materials science. 
+
+Our ultimate goal is to construct a self-supervised agentic framework that compiles a list of all variables deemed important for predicting the pitting potential of a metal alloy in a given test solution under a given test environment. 
+
+In each paper there is a list of "base materials" - the metal alloys that are studied. The variables for each "base material" will include things like chemical composition, type of alloy (e.g., austenitic stainless steel, duplex, ferritic, martensitic, Ni-base superalloy), and microstructure (e.g., fully recrystallized, sigma-phase precipitates, elongated grains, martensitic).
+
+For each "base material" we have one or more "conditioned materials" which are the result of any kind of processes/alterations applied to the base material. The variables for each "conditioned material" will include things like manufacturing process, heat treatments, and chemical alterations that could affect its corrosion pitting potential. 
+
+The Pessall & Nurminen paper, for example, identifies "W5" as a base material, where "W502", "W582", and "W549" are the conditioned materials resulting from the application of different heat treatments to "W5".
+
+For each "conditioned material" we have one or more "experiments". Each experiment represents a single complete procedure for measuring the pitting potentials of a conditioned material in a particular test solution in a particular environment. The variables for each "experiment" will include things like the test solution's chemical composition, ph value, and temperature.
+
+Since we are unaware of precisely which variables are relevant, the agentic system needs to be self-refining. The system consists of two agents - a "Data Extractor" and a "Critic".
+
+1. Data Extractor
+
+The data extractor's job is to populate a markdown document with the requested information, given the pdf of a materials science research paper like one of the attached examples. The document structure is as follows:
+
+# Base Material
+
+    * identifier: If the authors provided a name for this base material, list it here.
+    
+    * alloy composition: Extract the alloy's precise chemical composition. Please mention all the chemical elements used, including any trace elements.
+
+    * alloy type: Please provide a brief paragraph describing the type of alloy. For example, whether it's an austenitic steel, whether it's a duplex, a stainless, a ferritic, martensitic, etc...
+
+    * microstructure: Provide a brief paragraph describing the alloy's microstructure. For example, whether it has a pearlite martensitic microstructure.
+
+## Conditioned Material
+
+    * identifier: If the authors provided a name for this conditioned material, list it here.
+
+    * process description: Provide a brief paragraph describing how the material was prepared, manufactured, or processed. 
+
+    * heat treatment: Provide a brief paragraph describing the heat treatments applied to this alloy.
+    
+### Experiment
+
+    * test procedure: Provide a full account of the test procedure used on this conditioned material. Was potentiostatic polarization used? Was potentiodyanmic polarization used? What was the scan rate? Provide a full summary of the entire procedure.
+
+    * test solution and environment: Provide all information about the test solution and environment, including details such as the electrolyte used, the chloride ion concentration, the solution pH, the solution temperature, and any other information regarding the test solution and environment mentioned in the paper.  
+
+    * pitting potential: Extract values of the pitting potential measured for this conditioned material following this test procedure. Provide values and units of meausure.
+
+There can be one or more "Experiment" sections per "Conditioned Material" section, and there can be one or more "Conditioned Material" sections per "Base Material" section. 
+
+The data extractor must be instructed to scan not just the text, but also check any provided figures, tables, and plots for important measurements and values. It is acceptable to estimate values from a given plot, such as the pitting potentials, if precise figures are not provided in the text.
+
+
+2. Critic
+
+Notice that the list of variables given to the data extractor above is incomplete. For example, I've omitted information regarding the reference electrode, surface finish, and sample geometry. Notice also that in requesting the base material's alloy composition, we failed to specify that we require the units of measurement (weight %, atomic %, ppm, etc...).
+
+The Critic's job is to analyze the current paper, the Data Extractor's given markdown template, and the Data Extractor's output. The Critic will then produce an updated Markdown template that includes any missed variables and updates the definitions of existing variables to be more precise and complete.
+
+The Critic must not delete variables from the template, however, since papers are processed one at a time. Just because a variable is not mentioned in the current paper doesn't mean it won't be important in the next paper.
+
+To begin, please generate good prompts both for the Data Extractor Agent and for the Critic Agent. 
+
+Also, are there any shortcomings with this approach? Are there any critical details that I've failed to account for in this agentic refinement loop? Any pitfalls I may run into? Remember, the goal is to learn what all of the variables are that are important for predicting pitting potential, from a corpus of approximately 100 research papers in pdf format.

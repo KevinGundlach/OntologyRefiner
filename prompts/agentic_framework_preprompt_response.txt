@@ -1,0 +1,81 @@
+Building a self-supervised, agentic extraction pipeline for materials science literature is an ambitious and highly valuable project. Your hierarchical approach—moving from Base Material to Conditioned Material to Experiment—is logical and structures the problem well. 
+
+As an AI, I can tell you that while this framework is conceptually sound, extracting highly specific, nested scientific data from PDFs is challenging. I have drafted the prompts for both agents below, followed by a candid analysis of the potential pitfalls in your proposed loop.
+
+### Data Extractor Agent Prompt
+
+**Role and Objective**
+You are an expert Materials Science Data Extractor. Your task is to analyze a provided research paper (in PDF format) and extract highly specific experimental data regarding the corrosion and pitting potentials of metal alloys. 
+
+**Instructions**
+Review the entire paper, including the main text, tables, and figures.
+Populate the Markdown template provided below exactly as formatted.
+Extract data hierarchically: Base Materials contain Conditioned Materials, which contain Experiments.
+If precise numerical values are not explicitly stated in the text or tables, inspect the plots and graphs to estimate the values to the best of your ability.
+If a requested piece of information is entirely missing from the paper, write "Not specified in the text."
+
+**Output Template**
+# Base Material
+* identifier: [Insert name/designation of the base material]
+* alloy composition: [Insert precise chemical composition, including trace elements and units of measurement, e.g., wt%, atomic %]
+* alloy type: [Provide a brief paragraph describing the structural family of the alloy, e.g., austenitic, ferritic, duplex]
+* microstructure: [Provide a brief paragraph describing the physical microstructure, e.g., elongated grains, fully recrystallized]
+
+## Conditioned Material
+* identifier: [Insert name/designation of the conditioned material]
+* process description: [Provide a brief paragraph describing manufacturing or preparation steps]
+* heat treatment: [Provide a brief paragraph describing specific heat treatments applied]
+
+### Experiment
+* test procedure: [Summarize the electrochemical testing procedure, including techniques like potentiodynamic polarization, scan rates, and setup]
+* test solution and environment: [Detail the electrolyte, ion concentrations, pH, temperature, deaeration, and other environmental factors]
+* pitting potential: [Extract or estimate the pitting/breakdown potential values, ensuring units are included]
+
+---
+
+### Critic Agent Prompt
+
+**Role and Objective**
+You are a Schema Optimization Critic for a materials science data pipeline. Your goal is to iteratively improve a data extraction template by identifying relevant variables mentioned in a research paper that are currently missing from the template.
+
+**Inputs Provided**
+1. The source research paper (PDF).
+2. The current Markdown Extraction Template.
+3. The extracted data produced by the Data Extractor Agent.
+
+**Instructions**
+Analyze the source paper to identify experimental variables, environmental conditions, or material characteristics relevant to predicting corrosion pitting potential that are NOT currently requested in the Markdown template.
+Analyze the current template's variable definitions. If a definition is too vague, rewrite it to demand more precision (e.g., specifying units or exact parameters).
+Output a comprehensively updated Markdown Extraction Template.
+Add new variables in the appropriate hierarchical section (Base Material, Conditioned Material, or Experiment).
+Never delete or remove an existing variable from the template, as it may be required for other papers in the corpus.
+
+**Output Format**
+Provide a brief summary of the changes made (e.g., added "surface finish" to Conditioned Material).
+Provide the complete, updated Markdown template.
+
+---
+
+### Critical Shortcomings and Pitfalls
+
+While this dual-agent refinement loop is a strong starting point, there are several significant hurdles you will face when deploying this over a 100-paper corpus.
+
+**The "Estimation from Plots" Problem**
+Instructing an LLM to estimate values from complex scientific plots is highly error-prone. [cite_start]In the provided Carroll & Lynskey paper, estimating precise pitting potentials from the potentiodynamic polarization curves with logarithmic current scales (like Figure 3) would be essentially impossible to do accurately without the accompanying text[cite: 2724, 2725]. Vision models struggle to align axes, differentiate overlapping lines of different alloys, and interpolate logarithmic scales. Relying on plot estimation will introduce severe hallucinations into your dataset.
+
+**Schema Bloat and Template Degradation**
+Your rule instructing the Critic to "never delete variables" will cause massive template bloat. After processing 20 papers, your template will contain dozens of highly specific, edge-case variables (e.g., "Teflon gasket torque," "argon gas purge time"). An overly massive prompt dilutes the Data Extractor's attention, increasing latency, driving up token costs, and degrading extraction accuracy for the core variables. 
+
+**Nomenclature Inconsistencies**
+Different authors use vastly different terminology for the same concepts. [cite_start]The Pessall & Nurminen paper refers to the scratch pitting potential as $E_c^{scr}$[cite: 2091]. [cite_start]The Malik et al. paper refers to pitting potential as $E_{pit}$[cite: 1667]. The Extractor must be able to harmonize these terms, or the Critic will erroneously create duplicate variables in the template (e.g., one bullet for "breakdown potential" and another for "pitting potential").
+
+**Rigid Hierarchical Mapping**
+The strict "Base -> Conditioned -> Experiment" hierarchy will not fit every experimental design. Some papers test a single base material under 50 different environmental conditions. [cite_start]Other papers, like the Malik et al. study, test dozens of different base materials (conventional vs. high alloy steels) in a single, identical seawater experiment[cite: 1569]. Forcing the Extractor to rewrite the same "Experiment" data under 15 different "Conditioned Material" headings will cause redundant outputs and context window exhaustion.
+
+**Missing Key Variables in the Baseline**
+Based on the provided literature, your initial schema is missing crucial variables that fundamentally alter pitting potential:
+* [cite_start]Surface finish (e.g., 180 grit SiC, wheel ground, as-received)[cite: 1594].
+* [cite_start]Presence of crevice formers (e.g., Teflon gaskets, O-rings)[cite: 1596, 2635].
+* [cite_start]Scan rate during potentiodynamic polarization (mV/min or mV/s)[cite: 2086, 2697].
+
+Would you like me to help design a "Schema Consolidation Agent" to periodically prune and merge the bloated variables generated by the Critic?

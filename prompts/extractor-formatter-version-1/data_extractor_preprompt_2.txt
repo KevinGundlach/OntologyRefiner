@@ -47,26 +47,4 @@ For each "experiment" please extract the following information:
 
 Scan not just the text, but also check any provided figures, tables, and plots for important measurements and values. It is acceptable to estimate values from a given plot, such as the pitting potentials, if precise figures are not provided in the text.
 
-Use tags to mark the start and end of each base material, conditioned material, and experiment, nested as follows:
-
-<base_material>
-    
-    base material information goes here.
-
-    <conditioned_material>
-    
-        conditioned material information goes here.
-        There may be more than one conditioned material per base material.
-    
-        <experiment>
-        
-            experiment information goes here, including everything regarding the test procedure, test solution, environment, and results.
-            There may be more than one experiment per conditioned material.
-        
-        </experiment>
-
-    </conditioned_material>
-    
-</base_material>
-
 Please generate a prompt for a Gemini 3 Pro agent to extract this information from any given research paper in materials science, and also indicate any possible shortcomings I may have overlooked. For example, have I missed any important details that would be relevant to include in a dataset on which to train a model for predicting pitting potential? 
