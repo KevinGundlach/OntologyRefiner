@@ -13,7 +13,7 @@ The Pessall & Nurminen paper, for example, identifies "W5" as a base material, w
 
 For each "conditioned material" we have one or more "experiments". Each experiment represents a single complete procedure for measuring the pitting potentials of a conditioned material in a particular test solution in a particular environment. The variables for each "experiment" will include things like the test solution's chemical composition, ph value, and temperature.
 
-Since we are unaware of precisely which variables are relevant, the agentic system needs to be self-refining. The system consists of two agents - a "Data Extractor" and a "Critic".
+Since we are unaware of precisely which variables are relevant, the agentic system needs to be self-refining. The system consists of three agents - a "Data Extractor", a "Critic", and a "Consolidator".
 
 1. Data Extractor
 
@@ -49,15 +49,76 @@ There can be one or more "Experiment" sections per "Conditioned Material" sectio
 
 The data extractor must be instructed to scan not just the text, but also check any provided figures, tables, and plots for important measurements and values. It is acceptable to estimate values from a given plot, such as the pitting potentials, if precise figures are not provided in the text.
 
+The data extractor's output is in simple plain-text markdown so that it can focus all its attention on extracting accurate comprehensive data, rather than on trying to fit it to a strict complex schema.
 
 2. Critic
 
 Notice that the list of variables given to the data extractor above is incomplete. For example, I've omitted information regarding the reference electrode, surface finish, and sample geometry. Notice also that in requesting the base material's alloy composition, we failed to specify that we require the units of measurement (weight %, atomic %, ppm, etc...).
 
-The Critic's job is to analyze the current paper, the Data Extractor's given markdown template, and the Data Extractor's output. The Critic will then produce an updated Markdown template that includes any missed variables and updates the definitions of existing variables to be more precise and complete.
+The Critic's job is to analyze the current paper, the Data Extractor's given markdown template, and the Data Extractor's output. The Critic will then produce a list of any missed variables (along with their definitions) and, if needed, refined definitions of existing variables to be more precise and complete. The critic's output does not need to differentiate between newly proposed variables vs. existing refined variables. 
 
-The Critic must not delete variables from the template, however, since papers are processed one at a time. Just because a variable is not mentioned in the current paper doesn't mean it won't be important in the next paper.
+The Critic's output should thus be a JSON object with the following structure:
 
-To begin, please generate good prompts both for the Data Extractor Agent and for the Critic Agent. 
+{
+    "proposed_base_material_variables": [
+        {"variable_name": "definition"},
+        {"variable_name": "definition"},
+        etc...
+    ],
 
-Also, are there any shortcomings with this approach? Are there any critical details that I've failed to account for in this agentic refinement loop? Any pitfalls I may run into? Remember, the goal is to learn what all of the variables are that are important for predicting pitting potential, from a corpus of approximately 100 research papers in pdf format.
+    "proposed_conditioned_material_variables": [
+        {"variable_name": "definition"},
+        {"variable_name": "definition"},
+        etc...
+    ],
+
+    "proposed_experiment_variables": [
+        {"variable_name": "definition"},
+        {"variable_name": "definition"},
+        etc...
+    ],
+}
+
+
+3. Consolidator.
+
+The critic may recommend many unimportant extraneous 'edge case' variables, or repeatedly recommend the same variables when given different papers but with different names and slightly different definitions. 
+
+After the data extractor & critic have been run on a batch of papers (perhaps 10 or 20), the consolidator will run. It will be given a set of variables & corresponding definitions as a list of key-value pairs, consisting of those the data extractor is requesting along with those the critic recommends. That is, the input will have the form: 
+
+[
+    {"variable_name": "definition"},
+    {"variable_name": "definition"},
+    {"variable_name": "definition"},
+    etc...
+]
+
+There shouldn't be a need to distinguish between base material variables, conditioned material variables, and environment variables in the consolidator's input. Rather, the consolidator will be run separately on each group of variables so that there's no "cross contamination".
+
+The consolidator will then output a JSON object having the following form. It will associate a "normalized name" to every variable defined in the given list (to identify duplicates), and also associate a normalized definition for every normalized variable (to account for slight nuances / slight differences in the critic's generated definitions for duplicates).
+
+Thus, the output of the consolidator will be a JSON object having the form: 
+
+{
+    "normalized_variable_names": [
+        {"recommended_variable_name": "normalized_name"},
+        {"recommended_variable_name": "normalized_name"},
+        ...
+    ],
+    
+    "normalized_variable_definitions": [
+        {"normalized_name": "normalized_definition"},
+        {"normalized_name": "normalized_definition"},
+        ...
+    ]
+}
+
+A human will then review the complete list of normalized variable names and definitions. A python script will count the number of times the critic recommended each variable across the batch, using the consolidator's output to match up the critic's output with the normalized variable names. This should correspond to the number of papers that mentioned each variable, and so can be used to estimate each variable's importance.
+
+Any variables deemed important will be manually added to the appropriate sections of the data extractor's template. The extractor->critic->consolidator loop will then be run again on another batch of 10-20 papers.
+
+The purpose of this agentic framework is simply to identify all the important concepts/variables that will later be used to construct an ontology/knowledge graph of all the important information provided in these research papers for the purpose of training an AI model to predict corrosion pitting potential. There are about 100 research papers in total, in pdf format.
+
+Please provide me the prompts to use for all three agents - the Data Extractor, the Critic, and the Consolidator. 
+
+Also, are there any shortcomings with this approach? Are there any critical details that I've failed to account for in this agentic refinement loop? Any pitfalls I may run into? Note that these agents will use the Gemini 3 Pro LLM.
