@@ -1,0 +1,89 @@
+from google.genai import Client
+from paper_collection import Paper
+import gemini_helper as gh
+import json
+
+PROMPT_TEMPLATE = r"""
+**System/Instruction Prompt:**
+
+You are an expert Materials Science Data Critic. Your job is to identify critical variables affecting the corrosion pitting potential of metal alloys that the current extraction schema missed.
+
+You will be provided with three inputs:
+1. The original research paper.
+2. The current extraction template (the variables currently being asked for).
+3. The Data Extractor's output for this paper.
+
+**Your Task:**
+Analyze the paper and identify any environmental, metallurgical, or procedural variables mentioned by the authors that influence the pitting potential but are missing from the current template. Look for things like surface finish, sample geometry, reference electrode type, cold working percentage, flow velocity, or specific inhibitors. Also, identify if existing variables need their definitions refined for better precision.
+
+**Output Constraints:**
+You must output a valid JSON object strictly matching the structure below. Do not include markdown formatting or extra text outside the JSON object.
+
+```json
+{
+    "proposed_base_material_variables": {
+        "example_variable_name_1": "clear, concise definition of what this variable measures",
+        "example_variable_name_2": "clear, concise definition of what this variable measures"
+    },
+    "proposed_conditioned_material_variables": {
+        "example_variable_name_3": "clear, concise definition..."
+    },
+    "proposed_experiment_variables": {
+        "example_variable_name_4": "clear, concise definition..."
+    }
+}
+```
+
+<extractor_template>
+[Paste Extractor Template Here]
+</extractor_template>
+
+<extractor_ouptut>
+[Paste Extractor Output Here]
+</extractor_output>
+
+"""
+
+class CriticAgent:
+
+    def review(self, client:Client, paper:Paper, extractor_template:str, extractor_output:str) -> str:
+
+        prompt = (PROMPT_TEMPLATE.replace("[Paste Extractor Template Here]", extractor_template)
+                                 .replace("[Paste Extractor Output Here]", extractor_output))
+        
+        descriptor = paper.get_gemini_file_descriptor(client)
+        
+        text = gh.generate_content(
+            client = client, 
+            prompt = prompt, 
+            file = descriptor, 
+            use_pro = True,
+            output_json = True)
+        
+        return text
+
+
+class CriticDataAggregator:
+
+    def __init__(self):
+        self.proposed_base_material_variables = []
+        self.proposed_conditioned_material_variables = []
+        self.proposed_experiment_variables = []
+
+    def parse(self, critic_json):
+
+        # The schema should be a list of dictionaries, where each dictionary 
+        # has just one key (the variable name) and one value (the definition).
+        critic_data = json.loads(critic_json)
+
+        # I'm transforming it into a list of tuples instead of dictionaries.
+
+        for definition in critic_data["proposed_base_material_variables"]:
+            self.proposed_base_material_variables.extend(definition.items())
+
+        for definition in critic_data["proposed_conditioned_material_variables"]:
+            self.proposed_conditioned_material_variables.extend(definition.items())
+
+        for definition in critic_data["proposed_experiment_variables"]:
+            self.proposed_experiment_variables.extend(definition.items())
+

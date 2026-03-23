@@ -1,0 +1,16 @@
+{
+    "proposed_base_material_variables": [
+        {"product_form": "The manufactured shape or form of the raw base material before conditioning, such as sheet, plate, bar, or wire."}
+    ],
+    "proposed_conditioned_material_variables": [
+        {"surface_finish": "The specific abrasive grit size and material used to prepare the specimen surface prior to testing (e.g., 120-grit aluminum oxide), which affects surface area and localized corrosion initiation."},
+        {"crevice_former_type": "The material, geometry, and design of the device used to artificially induce crevice corrosion on the specimen (e.g., multiple crevice TFE-fluorocarbon washers)."}
+    ],
+    "proposed_experiment_variables": [
+        {"critical_crevice_temperature": "The minimum (critical) temperature at which crevice corrosion initiation is observed in a specific aggressive environment."},
+        {"initial_immersion_temperature": "The starting temperature of the solution at the beginning of a step-wise temperature increase corrosion test."},
+        {"temperature_step_increment": "The discrete amount by which the temperature is increased between successive exposure periods in a critical temperature test (e.g., 2.5 °C)."},
+        {"exposure_duration_per_step": "The length of time the test specimen is held continuously at each fixed temperature step (e.g., 24 hours)."},
+        {"inter_step_surface_treatment": "The procedural steps taken between temperature increments, such as resanding, cleaning, or direct reimmersion, which dictate whether the surface passive film is retained or removed."}
+    ]
+}

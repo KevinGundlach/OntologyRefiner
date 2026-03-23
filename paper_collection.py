@@ -3,6 +3,7 @@ import os
 import re 
 from google import genai 
 from tqdm import tqdm
+from typing import List 
 
 def parse_reference_number(filename):
 
@@ -16,7 +17,10 @@ def parse_reference_number(filename):
 
 class PaperCollection:
 
-    def __init__(self, from_folder:str|None = None, from_files:str|None = None, limit:int|None = None):
+    def __init__(self, 
+                 from_folder:str|None = None, 
+                 from_files:List[str]|None = None, 
+                 limit:int|None = None):
         
         if from_folder is None and from_files is None:
             raise ValueError("Must specify either from_folder or from_files.")
@@ -73,6 +77,15 @@ class PaperCollection:
                             "mime_type": "application/pdf"
                         }
                     )
+
+    # Needed when switching API keys.
+    def delete_all(self, client : genai.Client):
+        
+        files = client.files.list()
+
+        for f in files:
+            client.files.delete(name=f.name)
+        
 
 class Paper:
 
