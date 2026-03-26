@@ -1,0 +1,174 @@
+
+movable may have caused minor differences in various runs. However, it is felt that the effects of the major anion, OH⁻, would override those of other trace inert anions.
+
+Acknowledgment
+
+This research was supported by the Advanced Research Projects Agency of the Department of Defense as part of the ARPA Coupling Program on Stress-Corrosion Cracking (ARPA Order 878).
+
+Manuscript submitted April 19, 1968; revised manuscript received July 11, 1968. This paper was presented at the Montreal Meeting, Oct. 6-11, 1968, as Paper 390.
+
+Any discussion of this paper will appear in a Discussion Section to be published in the June 1969 Journal.
+
+REFERENCES
+
+1. S. Schuldiner, T. B. Warner, and B. J. Piersma, This Journal, 114, 343 (1967).
+2. S. Schuldiner, B. J. Piersma, and T. B. Warner, ibid., 113, 573 (1966).
+3. M. J. Pryor and M. Cohen, ibid., 100, 203 (1953).
+4. S. Schuldiner and C. M. Shepherd, ibid., 115, 916 (1968).
+5. J. Thomas and T. Nurse, Brit. Corrosion J., 2, 13 (1967).
+6. C. L. Foley, J. Kruger, and C. J. Bechtoldt, This Journal, 114, 994 (1967).
+7. S. Schuldiner, ibid., 115, 897 (1968).
+
+Anodic Polarization of Austenitic Stainless Steels in Chloride Media
+
+A. P. Bond* and E. A. Lizlovs
+
+Research Laboratory, Climax Molybdenum Company of Michigan, Ann Arbor, Michigan
+
+ABSTRACT
+
+Potentiodynamic polarization experiments were performed in 0.1N hydrochloric acid and in 1N sodium chloride with austenitic alloys containing 18 to 20% Cr, 13 to 39% Ni, 0 to 5% Mo, and balance Fe. The pitting potentials varied consistently with alloy content and correlated well with the results of exposure tests in 0.33M ferric chloride. Increasing the molybdenum and nickel contents increased the resistance to pitting; however, decreasing the carbon and nitrogen contents also increased the resistance to pitting. Critical current densities for passivity decreased sharply at all nickel levels with increases in the molybdenum content.
+
+One of the most important contributions of molybdenum alloying additions to stainless steels is the resulting increase in the resistance to pitting corrosion. Although this behavior has been known for a long time, very little quantitative information is available. Recent work on potentiodynamic determination of pitting potentials (1-6) suggests that this technique should be very useful in determining the relative pitting resistances of various alloys.
+
+A study was undertaken to learn whether or not the concept of a pitting potential is valid and useful in characterizing the resistance to pitting corrosion of molybdenum-containing stainless steels. Once the utility of the technique was established the next step was to determine in detail how variations in molybdenum content affect the resistance of various stainless steels to pitting in environments containing chlorides. In achieving this goal, it seemed desirable to use stainless steels of widely differing nickel contents so that possible nickel-molybdenum interactions could be detected.
+
+Procedures
+
+Two series of austenitic stainless steels, one containing about 13% nickel and the other 39% nickel, were induction-melted in an argon atmosphere and cast in air. Each series was prepared using the split heat technique. In this technique, the base composition is melted and part of the melt is cast into an ingot. To the balance of the melt, the required molybdenum addition is made and the next ingot is cast. This process is repeated until a series of the desired compositions is cast. By this procedure, the residual and impurity elements, which were intended to be in the range commonly present in commercial stainless steels, were held essentially constant within each series.
+
+Three high-purity alloys were also prepared as separate heats by melting and casting in vacuum.
+
+The compositions of all alloys produced for this investigation are shown in Table I.
+
+The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm and then cold-rolled to 0.38 cm. The 13% nickel steels were annealed at 1120°C for 1 hr and water-quenched. The 39% nickel steels and the high-purity alloys were annealed at 1150°C for 1 hr and water-quenched.
+
+The electrodes for the potentiodynamic studies were mounted in acrylic plastic with a single exposed surface parallel to the rolling plane. Electrical contact was made by soft soldering a nickel wire to the back of the electrode. Soldering was accomplished quickly (about 5 sec) to minimize heat input, although no metallurgical changes would be expected even if the test surface of the electrode were heated to the melting point of the solder (190°C) for a few seconds. Contact between the solder or lead wire and the electrolyte
+
+---
+
+
+was excluded by the plastic and a glass tube. The exposed surface (0.5 x 0.6 cm) was polished using standard metallographic techniques, ending with the distilled water slurry of 0.3μ alumina. For the pitting potential measurements, the electrode was masked with electroplater's tape (Scotch 470) except for a circular area 0.3 cm in diameter.
+
+The potentiodynamic scanning experiments were performed using standard equipment and techniques. The platinum auxiliary electrode was isolated from the test solution by means of a glass frit. The solutions used were argon-saturated 0.1N HCl and 1.0M NaCl. All potential measurements were made using a saturated calomel reference electrode. Work reported in the literature (3,4,6) indicates that pitting potentials measured on stainless steels are quite dependent on experimental procedure. To minimize the effects of the prior history of the electrodes, the potential scans were started with −0.7v in the active region. By scanning into the passive potential region, the passive film was formed in situ under reproducible conditions. Scanning rates in most tests were 600 mv/hr up to potentials of about 0.2-0.3v less noble than the expected pitting potential. At this potential, the scanning rate was decreased to 60 mv/hr. In a few tests, this procedure was varied to determine the effect of change in scanning rate on the observed pitting potential.
+
+Exposure tests were performed in 0.33M FeCl₃ dissolved in 0.01N HCl. This medium gave a chloride ion concentration equal to that in the 1.0M NaCl medium used in the polarization measurements. Test coupons, 2.5 × 3.8 × 0.3 cm, were suspended in the unstirred solution by means of a glass rod through a 0.64-cm hole in each specimen. In all experiments, the temperature was 24° ± 1°C.
+
+Results
+
+Measurements in 0.1N HCl.—The initial anodic polarization measurements in 0.1N HCl disclosed that crevice corrosion occurred at the interface between the metal and the plastic mount. Masking the electrode surface with electroplaters tape usually eliminated this crevice corrosion. These effects are illustrated in Fig. 1. Microscopic examination of the electrodes after the runs depicted in Fig. 1 showed that neither electrode was pitted, confirming that the rise in current for the unmasked electrode starting at about 0.1v was due to crevice attack and the rise in current at potentials above 0.8 for the masked electrode was the start of the normal transpassive region.
+
+Fig. 1. Polarization curves obtained on masked and unmasked electrodes for the 17.6% Cr-13.6% Ni-2.45% Mo austenitic stainless steel in argon-saturated 0.1N hydrochloric acid. The potential was scanned from negative toward positive. The arrows indicate the potential at which the scanning rate was decreased from 600 to 60 mv/hr.
+
+Fig. 2. Critical current densities obtained from potentiodynamic scans at 600 mv/hr in argon-saturated 0.1N hydrochloric acid on the 16.6% Cr-13.5% Ni steels.
+
+Fig. 3. Critical current densities and primary passivation potentials obtained from potentiodynamic scans at 600 mv/hr in argon-saturated 0.1N hydrochloric acid on the 20% Cr-39% Ni steels.
+
+---
+
+
+found in the high-purity series. In the 39% nickel series, increasing molybdenum did shift $E_{pp}$ slightly in the active direction. On the other hand, comparison of the 39% nickel series with the 13.5% nickel series suggests that increasing nickel content shifted $E_{pp}$ in the noble direction.
+
+Because of the interference of crevice corrosion at the interface between the metal and the plastic mount, these electrodes could not be used to obtain pitting potentials. Figure 4 shows a typical potentiodynamic scanning curve obtained on a masked electrode in 0.1N HCl for a metal susceptible to pitting corrosion. Note that the decrease in scanning rate at 0.1v leads to a sharp drop in the passive current measured. The pitting potential is taken as the potential at which the passive current rises sharply. Microscopic examination revealed that pits were visible after this sharp rise in current and were not present when the electrode was examined before the current rise. Crevice corrosion, in addition to the normal pitting corrosion, was frequently initiated under the tape mask after the onset of pitting. For this reason the magnitude of the corrosion current after the onset of pitting was not a reliable indicator of the degree of pitting corrosion. In a few tests, only crevice corrosion was observed, and no true pits appeared on the free electrode surface. The data from these tests were therefore rejected. No potential scan was continued more than 20 mv beyond the potential at which passivity broke down, even if the breakdown was due only to crevice corrosion.
+
+Most alloys studied were quite resistant to pitting in 0.1N HCl (Table III). None of the high-purity alloys exhibited a pitting potential less noble than 0.8v. Only the 39% nickel steel without molybdenum and the 13% nickel steel with 2% molybdenum displayed pitting potentials less noble than the transpassive range. Small increases in molybdenum content of the two susceptible alloys displaced the pitting potential beyond 0.8v. In addition, increasing the nickel content from 13.5 to 39% also increased the resistance to pitting corrosion.
+
+Measurements in 1M NaCl.—An experimental program similar to that performed in 0.1N HCl was undertaken in 1.0M NaCl. The literature reports that increasing the chloride ion concentration increases the pitting susceptibility of stainless steels, but changing the pH from 1 to 7 does not affect pitting potentials (6). However, this increase in pH did suppress the critical current for passivity to such an extent that it could not be precisely measured on many of the steels tested. For this reason, the currents and potentials corresponding to the active-passive transition are not reported.
+
+In contrast to the behavior observed in 0.1N HCl, in 1M NaCl many specimens showed current blips at potentials lower than those at which continuous pitting occurred. Microscopic examinations of electrodes on which momentary current increases had occurred showed some very small pits. Thus, these current blips appear to correspond to the initiation of a pit that then repassivates almost immediately. The pits thus formed are quite small and do not grow. A similar phenomenon has been described by Schwenk (2).
+
+To check the significance of these current blips, some specimens were subjected to the usual potential scan until well-defined current pulses were obtained. At this point the scan was stopped, and the specimen was held at a constant potential while the current was recorded. The current pulses continued, becoming less frequent and smaller until they died away completely in a few hours. Holding electrodes at constant potentials, above those at which repassivating pits formed, for at least 24 hr did not cause a pit to propagate in any case. It is possible that these repassivating pits are associated with extremely small regions of considerable composition differences from the bulk composition and that after these regions are removed the pits are too small to propagate at the potential in question. Since this type of repassivating pit did not always occur on a given electrode and was never observed to lead to a propagating pit if the potential scan was stopped, the potential at which pits not only initiated, but continued to grow was taken as the most important pitting potential.
+
+To determine the influence of scanning rate on these measurements, the 13.5% nickel steel containing 2.9% molybdenum was studied at various scanning rates in 1.0M NaCl. The results (Table IV) indicate that the pitting potentials tend to shift in the noble direction.
+
+---
+
+
+as the scanning rate is decreased. The actual polarization curves obtained at the highest and lowest scanning rates (Fig. 5 and 6) indicate that scanning rate affects several aspects of the measurements. The higher scanning rate gives rise to a higher active anodic dissolution peak, which is shifted toward more noble potentials. As expected, the faster the scan, the higher the passive current. As the pitting potential is approached, the current blips corresponding to repassivating pits are much larger and more numerous at the faster scan. The potential at which the growth of stable pits begins is much more sharply defined at the lower scan rate and occurs at more noble potentials.
+
+The results of the pitting potential measurements on the 13 and 39% nickel steels are shown in Fig. 7. The results obtained on the 13.5% nickel austenitic steels confirm that 1.0M NaCl is indeed a more severe pitting electrolyte than 0.1N HCl. It is also clear that increasing molybdenum content up to at least 3.5% improves pitting resistance of these alloys. However, at 3.9% molybdenum the pitting potential was tending toward lower values.
+
+The anomalous behavior of the 3.9% molybdenum steel may be related to its microstructure. Delta ferrite is present in the alloys containing over 2.9% molybdenum, with the 3.9% molybdenum alloy containing an appreciable amount. It has been reported by others (7) that delta ferrite is detrimental to resistance to pitting corrosion. All the 39% nickel alloys were completely austenitic.
+
+The results on the 39% nickel alloys were very similar to those obtained in 0.1N HCl. The molybdenum-free alloy showed a greater tendency toward pitting at potentials just below the onset of transpassivity (0.79v). The alloys containing 2.5 and 5% molybdenum were not pitted on scanning to 0.8v. Thus, the superior resistance of the high-purity alloys to pitting corrosion is even more evident in 1M NaCl than it was in 0.1N HCl.
+
+The appearance of typical electrodes after exceeding the pitting potential is shown in Fig. 8.
+
+Exposure tests in FeCl₃—Simple exposure tests were performed in 0.33M FeCl₃ at pH 2. These results may be expected to be comparable with the pitting potential measurements in 1N NaCl despite the pH difference, since pH changes between 1 and 7 have little effect in NaCl solutions (6). The redox potential of this solution, as measured at a platinum electrode, was 0.540v vs. SCE. As can be seen from Table V, a rather sharp transition exists between compositions that undergo severe pitting corrosion and those that are highly resistant. These results agree quite well with the pitting potential data obtained in 1M NaCl, especially when account is taken of the fact that polarization effects would cause the potential at the local anodes of the corroding specimens to be somewhat less noble than that measured on the platinum electrode. It must be remembered that the pitting potential measurements were made on electrodes containing only the surface parallel to the rolling plane.
+
+Fig. 5. Anodic polarization curves obtained on a masked electrode for the 17.6% Cr-13.6% Ni-2.93% Mo austenitic stainless steel in argon-saturated 1.0M sodium chloride. The scanning rate was 2000 mv/hr in the positive direction.
+
+Fig. 6. Anodic polarization curves obtained on a masked electrode for the 17.6% Cr-13.6% Ni-2.93% Mo stainless steel in argon-saturated 1.0M sodium chloride. The scanning rate was 600 mv/hr up to 0.3v and thereafter, 20 mv/hr.
+
+---
+
+
+It is well-known that edges in stainless steels, i.e., planes perpendicular to the rolling plane, are often more susceptible to pitting than is the rolling plane (2). Thus, the coupons that yielded only edge pitting in the exposure tests should be considered to correspond to no pitting up to a potential of about 0.5v in the controlled potential measurements.
+
+Discussion
+
+These results show that the potentiodynamic scanning technique can give useful information about the relative pitting resistances of stainless steels. However, it is also clear that the details of experimental procedure must be carefully controlled. In particular, scanning rate was found to have a considerable influence on the results obtained. The avoidance of crevice corrosion was also found to be essential for obtaining any information on pitting potentials.
+
+The results of the effects of different scanning rates are at variance with results reported in the literature for molybdenum-free stainless steel (4,6). It has been reported that faster scans give more noble pitting potentials, but the opposite was found in this work on molybdenum-containing alloys. The observation made in the present studies can be rationalized by assuming that the passive film thickens with time, at a potential in the passive range. Thus the passive film would be thicker the slower the speed of scanning. As the film thickness increases, a larger fraction of the potential difference between metal and solution would be expected to occur within the film and thus not be available at the film-solution interface to assist in the entry of chloride ions into the film.
+
+It has been found previously that for some stainless steel the passive film increases in stability, probably as a result of increasing thickness, as time at a given potential in the passive range increases (8). The effect was observed to be somewhat more pronounced for alloys with molybdenum than for those without molybdenum, perhaps indicating that passive film thickening is more important when molybdenum is present in the alloys. A similar effect was reported by Streicher (9), who found that passivation of type 316 after pickling and before undergoing a pitting test had a much larger beneficial effect than did a similar treatment of type 304. This reasoning is highly speculative, but may, at least in part, account for the contradiction between results from this work and those reported by others.
+
+Even if absolute values of the pitting potential are open to question, it appears that relative pitting potentials provide useful information. In the two series of austenitic alloys investigated, increasing molybdenum content consistently increased the pitting potential except in the 13.5% nickel alloy of highest molybdenum content. Here the occurrence of ferrite as a second phase is promoted by higher molybdenum content and complicates the situation by introducing differences in composition, that is, the delta ferrite would be enriched in chromium and molybdenum and depleted in nickel (10). In all other steels, the beneficial effect of increasing molybdenum content on the pitting potential was clearly revealed even when the increments were as small as 1/2%. That these variations in pitting potential are significant was confirmed by the good correlation obtained with the results of exposure tests in FeCl₃. Of course, since pitting potentials are dependent on test conditions and prior history of the specimen, agreement between pitting potentials and exposure results would only be expected when specimen treatment and exposure conditions were very similar in the two tests. Otherwise, only a relative correlation would be anticipated.
+
+Pitting potential measurements clearly indicate the importance of minor constituents in these alloys. The high-purity alloys were much more resistant to pitting than were the alloys containing the usual levels of residual elements. The carbon and nitrogen contents are probably the most significant in this connection. Formation of chromium and molybdenum carbides and nitrides would deplete the matrix immediately surrounding the precipitates of chromium and molybdenum. Any depleted area would be more susceptible to pitting because of differences in composition; the discontinuities associated with an exposed particle of precipitate may also create favorable sites for initiation of pits. The work of Streicher (9) suggests that carbon is more effective than nitrogen in this regard. He found that large nitrogen additions reduced pitting. However, in some cases this was because the nitrogen addition produced a wholly austenitic steel and in no case did he study a steel with nitrogen as low as the high-purity steels considered in this work.
+
+On the other hand, the high-purity alloys had about the same critical current densities for passivity as the impure steels of similar molybdenum content. It would be expected that small areas depleted in chromium
+
+---
+
+
+or molybdenum would make only a small contribution to the over-all current required to produce passivity.
+
+The results of the critical current density and primary passivation potential determinations in 0.1N HCl agreed well with previous measurements in sulfuric acid on similar alloys, i.e., molybdenum decreases the critical current density required to produce passivity and to a lesser extent shifts the primary passivation potential to more active potentials (8). Nickel had little effect on critical current density, but did shift the primary passivation potential in the noble direction. Thus, molybdenum facilitates the attainment of the passive state for these alloys in 0.1N HCl, but nickel does not. These effects, however, are less significant than are the changes in pitting potential with alloy content as far as over-all corrosion behavior is concerned.
+
+It should be kept in mind that even the most highly alloyed steels tested were not immune to crevice corrosion in chloride media even though their resistance to pitting was very high. Thus, crevice corrosion, although related to pitting, appears to be more difficult to avoid by means of alloy additions than is pitting.
+
+Conclusions
+
+Potentiodynamic scanning in chloride electrolytes yields pitting potentials that vary consistently with alloy composition and that correlate well with exposure tests in FeCl₃ solution.
+
+Resistance to pitting increases with increasing molybdenum content in 17.6% Cr—13.5% Ni or 20% Cr—39% Ni austenitic stainless steels. Changes in molybdenum content as small as ½% have a significant effect on pitting potentials.
+
+The pitting resistance of austenitic stainless steels increases when the nickel content is raised from 13.5 to 39%.
+
+High-purity austenitic alloys are more resistant to pitting than are steels containing appreciable amounts of carbon and nitrogen.
+
+Manuscript submitted April 15, 1968; revised manuscript received ca. July 16, 1968. This paper was presented at the Chicago Meeting, Oct. 15-19, 1967, as Paper 59.
+
+Any discussion of this paper will appear in a Discussion Section to be published in the June 1969 Journal.
+
+REFERENCES
+
+1. J. M Kolotyrkin, Corrosion, 19, 261t (1963).
+2. W. Schwenk, ibid., 20, 129t (1964).
+3. W. Schwenk, Corrosion Sci., 5, 245 (1965).
+4. G. Herbsleb, Werkstoffe und Korrosion, 16, 929 (1965); 17, 649 (1966).
+5. V. Hospadaruk and J. V. Petrocelli, This Journal, 113, 878 (1966).
+6. H. P. Leckie and H. H. Uhlig, ibid., 113, 1262 (1966).
+7. S. P. Odar and H. A. Smith, Discussion, Trans. AIME, 135, 526 (1939).
+8. E. A. Lizlovs, Corrosion, 22, 297t (1966).
+9. M. A. Streicher, This Journal, 103, 375 (1956).
+10. H. T. Shirley, J. Iron Steel Inst., 174, 242 (1953).
+
+Polarographic and Coulometric Studies of Compounds Related to 1,8-Dinitronaphthalene
+
+George M. LoPresti,1 Suei-rong Huang, and Anthony A. Reidlinger*
+
+Chemistry Department, Long Island University, The Brooklyn Center, Zeckendorf Campus, Brooklyn, New York
+
+ABSTRACT
+
+The polarographic reductions of 1,8-dinitronaphthalene, 5,6-dinitroacenaphthene, 3,4-dinitroacenaphthenequinone, and 4,5-dinitronaphthalic anhydride, were studied in buffered solutions at four different pH values. The relative wave heights of the multiple waves could be interpreted reasonably in terms of certain electron changes. A semi-empirical equation was derived to confirm certain electron changes in the polarographic reductions. These electron changes were also checked by coulometric measurements on electrolyses run at controlled potentials. Results indicated that in all but one instance there was agreement between the values for the electron changes obtained in the parallel analyses. The one exception was 3,4-dinitroacenaphthenequinone.
+
+In general, the polarographic reduction of a polynitro aromatic compound proceeds in a stepwise manner, and the first step corresponds to a four-electron change. This has been interpreted as corresponding to the reduction of one of the nitro groups to an hydroxylamino group. In a study of the polarographic reductions of the ten dinitronaphthalenes (1), the 1,8-isomer was the only compound that did not exhibit this characteristic behavior. Instead it gave an initial wave that corresponded to either an eight or ten-electron change depending on the acidity of the solution. It was suggested that this might be due to the formation of the ring compound 1,8-naphthopyrazole.
+
+Thus far large-scale electrolyses of 1,8-dinitronaphthalene at controlled potentials have not yielded a product identifiable as perinaphthopyrazole, but have instead yielded very high-melting, highly colored materials which appear to be polymeric.
+
+Grimshaw and Rea (2) have recently reported that the electroreduction of 1-acetylnaphthalene did not yield the expected pinacol in base, but gave an unexpected product due to coupling in the 4-position.
+
+In the present investigation several 4,5-disubstituted 1,8-dinitronaphthalenes were prepared, and their

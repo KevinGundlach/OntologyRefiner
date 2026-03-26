@@ -1,0 +1,108 @@
+
+Effects of Molybdenum on the Pitting Potentials of Ferritic Stainless Steels at Various Temperatures
+
+A. P. Bond*
+
+Research Laboratory, Climax Molybdenum Company of Michigan, Ann Arbor, Michigan 48106
+
+ABSTRACT
+
+Pitting potential measurements were performed by potentiodynamic scanning at 200 mV/hr in 1M NaCl and in 1M NaBr, each saturated with nitrogen. Over the entire temperature range studied, 1°-70°C, molybdenum additions up to the limit of solid solubility caused a continuous increase in the pitting potentials of 18% Cr ferritic stainless steels. Exposure tests were also performed in various chloride-containing environments, and it was found that pitting rate decreased as the molybdenum content increased.
+
+It has been suggested that at low temperatures molybdenum additions may not be beneficial to the pitting resistance of austenitic stainless steels exposed to chloride solutions (1). Data have also been presented indicating that above room temperature, the beneficial effects of molybdenum on resistance to pitting may decrease (2). Furthermore, it has been reported that molybdenum additions are ineffective in sodium bromide solutions (2, 3).
+
+In view of the present interest in molybdenum-containing ferritic stainless steels, it was thought important to investigate these questions and establish more clearly the range of conditions under which molybdenum content has a favorable effect on pitting resistance of ferritic stainless steels. To do this, pitting potential measurements were undertaken on a series of
+
+---
+
+
+18% chromium steels containing 0-5% Mo. These measurements were made in 1M NaCl and 1M NaBr over a temperature range from 1° to 70°C. Concurrently, some exposure tests were performed in various media containing chlorides or bromides.
+
+Experimental
+
+The experimental alloys were produced by induction-melting in an argon atmosphere using the split-heat technique. By this technique, the base composition was melted and part of the melt was poured off to produce an ingot. To the balance of the melt, the required molybdenum addition was made and the next ingot was cast. This process was repeated until the desired compositions were cast. By this procedure, the impurity levels were held nearly constant within each series. The compositions of the steels produced are given in Table I.
+
+The resulting ingots were hot-forged and hot-rolled to 0.76 cm thick strips and then cold-rolled to 0.38 cm thickness. All strips were given a 1-hr anneal at 815°C and water-quenched before the test specimens were prepared.
+
+The electrodes for the potentiodynamic studies were mounted in epoxy plastic with a single exposed surface parallel to the rolling plane. Electrical contact was made by soft-soldering a nickel wire to the back of the electrode. Contact between the solder or lead wire and the electrolyte was excluded by the plastic and glass tube. The 0.5 by 0.6 cm exposed surface was polished by using standard metallographic techniques, finishing with a distilled water slurry of 0.3μ alumina. The edges of the electrode were masked with clear Glyptal varnish to prevent crevice corrosion.
+
+The coupons for the exposure tests, 2.5 by 2.5 by 0.3 cm, were surface ground and then polished through No. 600 wet silicon carbide paper. They were solvent degreased and rinsed in methanol before exposure.
+
+The potentiodynamic scanning experiments were performed using standard equipment and techniques. The platinum auxiliary electrode was isolated from the test solution by means of a glass frit. The solution used was nitrogen-saturated 1.0M NaCl or 1.0M NaBr. All potential measurements were made using a saturated calomel reference electrode. The scans were started at −0.7V and continued in the noble direction at 200 mV/hr. The temperature was controlled within ±0.5°C of the reported temperature. Below room temperature an ice bath was used, while the elevated temperatures were maintained by a heating mantle and temperature controller.
+
+Results and Discussion
+
+A typical pitting potential determination is shown in Fig. 1. It can be seen that the current rise corresponding to pitting is extremely sharp. This was true at all temperatures investigated. It can also be seen that very short pulses of current were sometimes observed as the pitting potential was approached. As discussed previously (4), these pulses correspond to formation of very tiny pits that do not propagate if the potential scan is stopped below the pitting potential for time periods up to 24 hr.
+
+The effect of variation in the rate of potential scan was checked for the 18% Cr-2% Mo alloy (Table II).
+
+No significant difference in pitting potential was obtained when the scan rate was increased from 200 to 2000 mV/hr. This is in contrast to results obtained in a previous study of an 18% Cr-14% Ni-3% Mo austenitic steel (4). This austenitic steel showed a significant decrease in pitting potential as scan rate increased. In general, it has been observed that pitting potentials of ferritic steels are less affected by variations in experimental conditions than are pitting potentials of austenitic steels of similar chromium and molybdenum content.
+
+After each run, the electrode was examined under the microscope. Only if well-developed pits, away from the masked edges, were present was a run accepted as valid. In many cases, there was simultaneous attack at the edges where crevices may have existed, but this was disregarded if distinct pits were visible. The crevice attack was more likely to occur as the test temperature decreased. At 70°C, most electrodes were free of any crevice attack, while at 1°C, most electrodes suffered crevice attack as well as pitting. This effect may be partially a result of the physical properties of the Glyptal mask, which tended to be brittle at low temperatures.
+
+When pitting occurred, a large number of pits were usually found. If the scan was stopped at this point, but without the potentiostat switched off, the pits would continue to grow until the electrode was destroyed.
+
+Results of the tests in 1M NaCl are shown in Fig. 2. While temperature had a very large effect on pitting potentials of these alloys, it is striking that the effect of molybdenum was nearly the same at each of the test temperatures. Thus, over the temperature range studied, molybdenum exerts a definite beneficial effect on pitting potentials. Note that an increase in the pitting potential in the noble direction corresponds to an increase in resistance to pitting corrosion. However, the pitting potentials of the 4.7% Mo alloy did tend to be lower than those observed for the 3.5% Mo steel. Since this difference was observed at each temperature, it appears to be a true effect and not the result of experimental variation.
+
+A similar tendency for a maximum in pitting potential to occur at intermediate molybdenum content was also observed for an austenitic stainless steel series (4). This behavior in the austenitic series was attri-
+
+---
+
+
+be more susceptible to pitting corrosion than would properly annealed steels, as was recently reported for 26% Cr ferritic alloys (8). A similar effect has been observed for austenitic stainless steels exposed in ferric chloride (9).
+
+The foregoing results lead to the conclusion that the maximum useful molybdenum content of 18% Cr steels containing the usual amounts of interstitial elements and not fully stabilized is about 3.5%. Steels fully stabilized by titanium or columbium additions that tie up all carbon and nitrogen, or steels of such low interstitial content that carbides or nitrides do not precipitate, could be annealed at high enough temperatures to dissolve chi without suffering chromium depletion because of carbide or nitride precipitation. In this case, larger molybdenum additions can contribute to corrosion resistance, as was demonstrated in work on high-purity 25% Cr steels containing up to 5% Mo (10).
+
+In order to demonstrate that titanium stabilization can prevent loss of pitting resistance as well as sensitization to intergranular corrosion as a result of exposure to high temperatures, the pitting potential of an 18% Cr-2% Mo-0.5% Ti alloy was determined as a function of heat-treatment. It was found (Table IV).
+
+**Fig. 2.** Pitting potentials obtained from potentiodynamic polarization scans at 200 mV/hr in nitrogen-saturated 1.0M NaCl.
+
+buted to the occurrence of a second phase at high molybdenum contents. In the present series of ferritic steels, a second phase also occurs in the high molybdenum steels. According to the work of McMullin et al. (5), at 815°C, this phase is chi, a compound containing about 25% Mo, 18% Cr, and the balance iron. According to the phase diagram, at 815°C the maximum solubility of molybdenum is about 3.5% in 18% Cr-Fe (5). Thus, the 4.7% Mo alloy does not have any more molybdenum dissolved in the matrix than does the 3.5% Mo alloy. Examination of the microstructures of the steels annealed at 815°C indicated that a very small amount of chi was present in the 3.5% Mo steel and a large amount in the 4.7% Mo steel (Fig. 3). Therefore, it is concluded that the failure of the 4.7% Mo alloy to exhibit a higher pitting potential than the 3.5% Mo steel is a consequence of the phase constitution of the alloys. The slight decrease in pitting potential that was apparently observed could either indicate that chi itself is not as resistant as the matrix to pitting or that the chi-ferrite interface forms preferential pitting sites. In any event, the decrease in pitting potential of the 4.7% Mo steel as compared to the 3.5% Mo steel was too small to be of practical significance.
+
+In an effort to avoid the chi phase, the three alloys with the highest molybdenum content were annealed at 980°C and water-quenched. Microscopic examination confirmed that all of these steels did not contain appreciable chi after treatment. However, the pitting potentials found in 1.0M NaCl at 25°C were considerably reduced by the 980°C treatment (Table III).
+
+It is known that this heat-treatment also sensitizes these steels to intergranular corrosion (6). It is thought that the intergranular corrosion is the result of precipitation of carbides and nitrides rich in chromium and molybdenum, causing depletion of the adjacent matrix (7). Thus, it is to be expected that steels heat-treated so as to be sensitive to intergranular corrosion would
+
+---
+
+
+that, as expected, heat-treatment at temperatures up to 1035°C had no deleterious effect on pitting potential. In fact, after treatment at 1035°C, the pitting potential was more noble than it was after the normal anneal at 815°C. It was also noted that the titanium-containing alloy had a more noble pitting potential than the titanium-free alloy under the same conditions. Earlier work with this alloy at 25°C also indicated that titanium was beneficial to pitting resistance (11).
+
+Pitting potentials measured in 1M NaBr varied with composition in the same way as in 1M NaCl (Fig. 4). Pitting potentials were more noble in NaBr, especially at higher temperatures. The beneficial effect of molybdenum additions on pitting potentials of this series of steels in NaBr is just as clearly defined as it is in NaCl. The pitting potentials measured in 1M NaCl and in 1M NaBr at 25°C indicate that all the steels studied should be subject to pitting in 0.33M FeCl₃, 0.5M CuCl₂, and 0.33M FeBr₃ solutions. Exposure tests did indeed show pitting of all the test steels in these solutions at 25°C (Table V). In all cases, the rate of attack decreased with increasing molybdenum content up to 3.5%. The behavior of the 4.7% Mo steel was erratic in these solutions.
+
+Exposure tests were also performed in less aggressive media at 90°C (Table VI). In both solutions, the molybdenum-free steel was severely pitted, while the steels containing molybdenum were attacked only very slightly or not at all. These exposure test results were in good qualitative agreement with the pitting potential results.
+
+Table V. Results of exposure tests in acidified halide salts at 25°C
+
+| Medium | Corrosion rate (mdd) of indicated alloys |
+| :--- | :--- |
+| 4354A 0% Mo | 4354B 1% Mo | 4354C 2% Mo | 4354D 3.5% Mo | 4354E 5% Mo |
+| 0.33M FeCl₃+ 0.1N HCl | 7200 | 7700 | 5300 | 670 | 220 |
+| 0.33M FeBr₃+ 0.1N HBr | 920 | 230 | 120 | 75 | 140 |
+| 0.5M CuCl₂+ 0.1N HCl | 740 | 610 | 650 | 330 | 560 |
+
+As a result of the polarization measurements, it is clear that molybdenum has a beneficial effect on pitting potentials in 1M NaCl over a range at least from 1° to 70°C. This result is in partial conflict with the results of others on some austenitic steels. The conflict is more definite at 1°C, since Horvath and Uhlig (1) found that molybdenum had a detrimental effect on pitting potentials of an austenitic stainless steel series in 0.1M NaCl at 0°C. The small differences in experimental conditions and technique do not appear sufficient to explain a reversal in direction of pitting potential change with molybdenum content. Thus, the effect of molybdenum may be different in austenite than it is in ferrite even though there is no obvious rationalization for the difference. These same considerations also apply to the difference in molybdenum effect on austenite and ferrite tested in NaBr.
+
+There is less obvious conflict in the behavior of molybdenum-containing steels at higher temperatures in NaCl. The previously reported results (2) were obtained by counting pits formed at constant current density. This involved driving the potential beyond that required to produce pitting without determining any pitting or breakthrough potential. It is quite possible that the number of pits found in this manner does not correlate at all with pitting potentials as measured in the present work.
+
+Conclusions
+
+In fully annealed (815°C) 18% Cr ferritic stainless steels, molybdenum additions up to the limit of solid solubility increase pitting potentials. This is true over the entire temperature range studied i.e., 1°-70°C in 1M NaCl and 1°-45°C in 1M NaBr. Heat-treatments that sensitize the steels to intergranular corrosion also drastically lower the pitting potential.
+
+Manuscript submitted Nov. 9, 1972; revised manuscript received Jan. 5, 1973. This was Paper 53 presented at the Cleveland, Ohio, Meeting of the Society, Oct. 3-7, 1971.
+
+Any discussion of this paper will appear in a Discussion Section to be published in the December 1973 JOURNAL.
+
+REFERENCES
+
+1. J. Horvath and H. H. Uhlig, *This Journal*, 115, 791 (1968).
+2. M. A. Streicher, *ibid.*, 103, 375 (1956).
+3. H. H. Uhlig and J. Wulff, *Trans. AIME*, 135, 494 (1939).
+4. A. P. Bond and E. A. Lizlovs, *This Journal*, 115, 1130 (1968).
+5. J. G. McMullin, S. F. Reiter, and D. G. Ebeling, *Trans. ASM*, 46, 799 (1954).
+6. A. P. Bond and E. A. Lizlovs, *This Journal*, 116, 1305 (1969).
+7. A. P. Bond, *Trans. AIME*, 245, 2127 (1969).
+8. C. R. Rarey and A. H. Aronson, *Corrosion*, 28, 255 (1972).
+9. N. D. Tomashov, G. P. Chernova, and O. N. Marcova, *ibid.*, 20, 166t (1964).
+10. E. A. Lizlovs and A. P. Bond, *This Journal*, 118, 22 (1971).
+11. E. A. Lizlovs and A. P. Bond, *ibid.*, 116, 574 (1969).

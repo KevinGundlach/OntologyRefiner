@@ -1,0 +1,137 @@
+
+CONCLUSIONS
+
+HS steel has a higher trap density than LS steel. This conclusion follows from the greater quantity of nonmetallic inclusions (mostly sulfides) contained in HS steel than in LS steel, and also from the greater amount of hydrogen absorbed by HS steel than by LS steel under identical charging conditions.
+
+Both steels suffer losses of ductility after charging. LS steel suffers an irreversible loss of ductility, while HS steel regains its ductility after 120 hours of aging.
+
+Inclusion/matrix interfaces are strong trap sites that are still operative at 250°C.
+
+The trapping energy of inclusion/matrix interfaces is greater in LS steel than in HS steel. This conclusion follows from almost the same hydrogen contents found in both steels after 120 hours of aging despite the higher trap density in HS steel.
+
+During aging, the inclusion/matrix interfaces in both steels trap hydrogen taken from both the lattice and weak traps.
+
+ACKNOWLEDGMENT
+
+This research was supported by the National Science Foundation under grant CPE-8319495. Helpful discussions with Dr. G.R. St. Pierre are gratefully acknowledged.
+
+REFERENCES
+
+1. K.W. Lange and H.J. Koenig, Proc. Second Intern Congr. on Hydrogen in Metals, paper 1A 5 (Elmsford, NY: Pergamon, 1977).
+2. M. ilino, Acta Met. 30(1982): p. 377.
+3. M. ilino, Met. Trans. 16A(1985): p. 401.
+4. M. Aucouturier, Proc. Conf. on Current Solutions to Hydrogen Problems in Steels, (Materials Park, OH: ASM International, 1982), p. 407.
+5. J.Y. Lee, J.L. Lee and W.Y. Choo, ibid., p. 423.
+6. G.M. Pressourey and I.M. Bernstein, Met. Trans. 12A(1981): p. 835.
+7. T. Asaoka, C. Dagbert, M. Aucouturier, and P. Lacombe Corrosion 36(1980): p. 53.
+8. J.P. Hirth, Met. Trans. 11A(1980): p. 861.
+9. K. Kobayashi and Z. Szklarska-Smialowska, Met. Trans. 17A(1986): p. 2255.
+10. A. Elkholy, J. Garland, P. Azou, and P. Bastien, Compt. rend. Acad. Sci. Paris 284, Ser. C(1977): pp. 2, 363.
+11. M.A.V. Devanathan and Z. Stachurski, J. Electrochem. Soc. 111(1964): p. 619.
+12. T. Zakroczymski and Z. Szklarska-Smialowska, J. Electrochem. Soc. 132(1985): p. 2545.
+13. J. McBreen, L. Nanis, and W. Beck, J. Electrochem. Soc. 113(1966): p. 1218.
+14. W.W. Scott Jr., Radex Rundschau 1/2(1981): p. 474.
+15. G.M. Pressourey and I.M. Bernstein, Met. Trans. 9A(1978): p. 1571.
+16. R.B. McLellan, Acta Met. 27(1979): p. 1655.
+
+Pitting Susceptibility of Stainless Steels in Bromide Solutions at Elevated Temperatures
+
+R. Guo* and M.B. Ives**
+
+ABSTRACT
+
+The pitting susceptibility of a range of austenitic stainless steels with different molybdenum contents was evaluated in both chloride and bromide solutions at elevated temperatures, using electrochemical polarization techniques. It is found that there is a less beneficial effect of molybdenum in solutions containing bromide ions than in those with chloride. Particular attention has been paid to the pitting behavior of UNS(1) S31254 steel, which is found to be significantly more susceptible in bromide solutions. The effects of inclusions has also been observed on this alloy. The effect of molybdenum on pitting corrosion resistance in different aggressive solutions is discussed, and it is suggested that the interaction of molybdenum with specific aggressive anions should be taken into account in developing possible mechanisms.
+
+SUBMITTED FOR PUBLICATION November 1988; revised February 1989.
+
+* Present address: Department of Metals and Materials Engineering, University of British Columbia, Vancouver, B.C., Canada.
+
+** Institute for Materials Research, McMaster University, 1280 Main St. West, Hamilton, Ontario, Canada L85 4M1.
+
+(1) UNS numbers are listed in Metals and Alloys in the Unified Numbering System, published by the Society of Automotive Engineers (SAE) and cosponsored by the American Society for Testing and Materials (ASTM).
+
+INTRODUCTION
+
+The breakdown of passivity, which leads to localized corrosion, is a common type of failure of stainless steels. The pitting behavior of stainless steels has been studied extensively in environments containing aggressive ions similar to those found in their operating environments, and reviewed by Smialowska, Galvele, and Janik-Czachor et al. However, most work has been done in solutions containing chloride as the aggressive ions. This is presumably because chlorides are most commonly encountered in environments such as seawater, pulp and paper processing, and chemical plants in general. It is believed that chlorides are the most aggressive anions for the pitting corrosion attack of stainless steels.
+
+There are only a few reports on the effect of molybdenum on pitting resistance of stainless steels in bromide solutions, and the results are not consistent with each other. A beneficial effect of
+
+---
+
+
+molybdenum on the pitting resistance of ferritic stainless steel in sodium bromide solution was reported by Bond. Molybdenum increased the pitting potential by almost the same magnitude as in chloride solution. However, Herbsleb et al. observed no difference in the influence of molybdenum in Cr–Ni and sodium chloride solutions.
+
+In the present study, tests were designed for a series of austenitic stainless steels with various molybdenum contents, to evaluate their pitting characteristics in bromide solution at elevated temperatures, and compare these with the behavior in chloride solutions.
+
+EXPERIMENTAL
+
+Materials
+
+The series of austenitic stainless steels with different molybdenum contents shown in Table 1 were used in anodic polarization-controlled experiments. UNS S30100, UNS S31600, and UNS N08904 samples were cut from cold-rolled sheets, and UNS S31254 samples were taken from tube material. Two heats of UNS S31254 materials were tested because Heat 1 material was found to contain a significant quantity of titanium-rich inclusions, and was thus metallographically less clean than Heat 2 material. The pitting susceptibility of autogeneously welded zones, both annealed and unannealed, of UNS S31254 tubes was also studied.
+
+The samples used for potentiodynamic measurements were surface ground to 600 grade silicon carbide paper, with additional fine polishing used for samples to be examined by optical or electron optical microscopy. Details of sample preparation can be found elsewhere.
+
+Solutions
+
+Chloride, bromide, and mixed neutral (pH ~ 7) solutions were prepared from analytical reagents, sodium salts, and distilled water. The ratios of [Br⁻]/([Br⁺] + [Cl⁻]) were chosen as 0.25, 0.50, and 0.75 for bromide–chloride mixed solutions, with a fixed total concentration [Br⁻] + [Cl⁻] = 0.6 M. Test solutions were deaerated by nitrogen for one hour prior to the beginning of and for the duration of experiments.
+
+Procedures
+
+Potentiodynamic measurements were carried out to determine pitting potentials and critical temperatures for pitting. Potentiodynamic polarization commenced at the free-corrosion potential after the sample had been immersed in the solution for 30 minutes, using a scan rate of 600 mV/h.
+
+Potentiostatic polarization for microscopic examination of pit morphology, pit distribution and inclusion behavior was conducted by holding the sample at a potential higher than the pitting potential. An optical and a Philips(2) model 515 scanning electron microscope were used to examine samples after potentiostatic treatment.
+
+RESULTS
+
+Pitting potential, which is determined through potentiodynamic measurements, is believed to be a convenient measure of relative pitting susceptibility. Some results are shown in Figure 1 for UNS S30100 steel and Figure 2 for UNS S31254 steel (Heat 2), which are two extremes of molybdenum contents for commercial austenitic stainless steels, in 0.6 M sodium chloride and sodium bromide solution at 70°C. Although pitting potentials of UNS S31254 steel are higher than those of UNS S30100 steel in both solutions, it should be noted that chloride ions are more aggressive for UNS S30100 steel, while the reverse is true for UNS S31254 steel, suggesting that bromide ions are more aggressive in the higher molybdenum-content alloy.
+
+Potentiodynamic polarization experiments were also conducted for UNS S31600 and UNS N08904 steels, thereby providing a more complete range of molybdenum contents from 0 to 6 wt%. The measured pitting potentials for these alloys are plotted in the histogram of Figure 3 where the alloys are placed in order of increasing molybdenum content. Alloying with molybdenum greatly increases the pitting potential in chloride solution, while a much smaller increase of pitting potential was observed in bromide-containing solution, resulting in less resistance of high-molybdenum-bearing steels to pitting corrosion in the environments containing bromide ions.
+
+Figure 4 gives the dependence of the transpassive and/or pitting potentials on temperature for UNS S31254 (Heat 1) and UNS N08904 steels in chloride and bromide solutions. Critical temperatures for pitting can be defined from those results, and are listed in Table 2. Critical temperatures for pitting are much lower in bromide than in chloride solution for both types of steels. These steels may be pitted in bromide solution even at room temperature.
+
+---
+
+
+UNS S31254 steel, as mentioned above, is very resistant to pitting corrosion attack in chloride-containing environments. The laboratory tests have indicated that no local breakdown of passivity was observed in UNS S31254 samples (Heat 1), even in 2 M sodium chloride solution at 80°C.
+
+Pitting susceptibility of UNS S31254 (Heat 1) was studied at 70°C in chloride–bromide mixed solutions with proportions of 0, 0.25, 0.5, 0.75, and 1.0 bromide, but with a fixed total halide concentration (0.6 M). The results are shown in Figure 5. Pitting potential decreases with an increase in the bromide ion ratio with a large change being produced by only a small quantity of bromide.
+
+Heat 1 of UNS S31254 steel contained a high population of titanium inclusions. Titanium inclusions were found in earlier studies to be nucleation sites for pitting in UNS 30100 and UNS 31600 steels, behaving catodically. Figure 6 gives potentiodynamic polarization results for the two heats of UNS S31254 steel in 0.6 M sodium bromide at 70°C, which shows that the pitting potential for the higher inclusion content material is slightly lower than that for the cleaner alloy. So Heat 1 material is a little more susceptible to pitting attack.
+
+It is expected that titanium inclusions behave as cathodic sites, causing anodic dissolution of the adjacent matrix. The pit density and its morphology were inspected after potentiostatic treatment of UNS S31254 at 800 mV$_{SCE}$ in 0.6 M sodium bromide at 80°C for 5 min. The results are shown in Figure 7 for Heat 1 material and Figure 8 for Heat 2. Higher density and bigger pits are formed on the sample of “dirty” material after identical treatments.
+
+Pitting susceptibility of welded zones, as-welded or welded and annealed, of UNS S31254 tube material was also evaluated by pitting potential measurements and microscopical observations. No difference was found in pitting potential between the matrix and the welded zone, with or without annealing treatment in 0.6 M sodium bromide solution at 50°C and 70°C. No preferential attack along the welded zones was observed in the samples after the anodic polarization in bromide solution at 50 to 80°C. Therefore, welds are not critical sites for pitting corrosion attack of UNS S31254 steel, at least under controlled laboratory test sample conditions.
+
+---
+
+
+DISCUSSION
+
+It is well known that alloying iron-base alloys with molybdenum greatly increases pitting resistance, so high-molybdenum-containing alloys, such as UNS N08904 and UNS S31254, have been developed for industrial applications in aggressive environments. Although the protection mechanism of molybdenum is not clearly understood, their successful applications in chloride-containing environments are well recognized.
+
+However, these studies suggest a limitation in the application of high molybdenum austenitic stainless steels in bromide solutions. Comparison of pitting resistance in chloride/bromide solutions, as shown in Figure 3 and 4, shows that alloying with molybdenum proves a smaller improvement of pitting corrosion resistance in bromide than in chloride solutions. In addition, the critical temperatures for pitting (Table 2) clearly show a dramatic drop in pitting resistance of high-molybdenum-bearing steels in bromide solution. Pitting attack of UNS S31254 can occur even in the presence of a small amount of bromide ions in solution (Figure 5).
+
+Pitting corrosion can be caused by a variety of different anions, such as halides, perchlorates and thiocyanates, as summarized by Smialowska. It is claimed that the most aggressive ion is chloride, which produces pits in iron, nickel, aluminum, titanium, zirconium, and their alloys. However, whether chloride or bromide is the more aggressive is dependent on the alloy. Lower pitting potentials have been found in bromide than in chloride solutions for titanium and tantalum. Hence bromide ions are apparently more aggressive than chloride ions in these alloys also.
+
+Some efforts have been made to explain these phenomena based on the mobility, radius, and free energy of adsorption of ha-
+
+---
+
+
+lide ions.$^{11}$ The acidity of hydrochloric and hydrobromic acids may also be taken into consideration. According to the anion adsorption theory of Uhlig,$^{12}$ the stronger the ability of anions to adsorb on the surface of a metal, the easier it is for passivity to be broken. The mobility determines the accumulation rate of aggressive ions, which must reach a critical concentration for the initiation of pits.$^{13}$ For the ion penetration model,$^{14}$ anions of small radius have easier access to the passive film. According to the localized acidification theory,$^{2}$ the drop of pH and accumulation of chloride ions within pits make the pit environment similar to hydrochloric acid, which is more destructive than hydrobromous acid.
+
+No theory has taken into consideration the specific interaction between molybdenum and the aggressive anions, but there are clear differences in the behavior of alloyed molybdenum in chloride and bromide solutions, as shown in this work. It would appear that there is a specificity in the ability of molybdenum to improve pitting resistance in the various aggressive ions. This specificity suggests that there is an important chemical relationship between the molybdenum and the aggressive ion, and that this is stronger in the case of chloride than of bromide.
+
+CONCLUSIONS
+
+▶ UNS N08904 and UNS S31254 are more susceptible to pitting corrosion in bromide than in chloride, as evidenced by the relative pitting potentials and the “critical pitting temperatures.”
+
+▶ Variations in cleanliness of UNS S31254 affect the pitting resistance in bromide solution, and the nucleation of pits at titanium-rich inclusions occurs, but there is little commensurate change in the measured pitting potentials.
+
+Electrochemical Investigation of Hydrogen Absorption of Type 304 Stainless Steel in 0.05 M Na₂SO₄ Solutions of Different pH at 95°C
+
+N. Ohnaka and Y. Furutani*
+
+ABSTRACT
+
+An investigation of the permeation rate of electrolytic hydrogen through a type 304 (UNS$^{(1)}$ S30400) stainless steel membrane using an electrochemical technique is described. The variation of the permeation rate with cathodic overpotential has been determined in acidic (0.005 M H₂SO₄ + 0.05 M Na₂SO₄, pH = 2.5), neutral (0.05 M Na₂SO₄, pH = 7.2) and alkaline (0.01 N NaOH + 0.05 M Na₂SO₄, pH = 11.8) solutions under deaerated condition. The electrochemical relationships between electrochemical parameters like cathodic overpotential, cathodic current, and permeation current, indicate that hydrogen evolution and absorption reactions occur through different mechanisms depending on solution pH. A coupled-discharge recombination is confirmed in acidic solutions. Some indications were obtained in neutral and alkaline solutions that a direct absorption mechanism without an adsorption state may operate. The critical potentials above which the hydrogen entrance is unlikely to occur were determined from aerated permeation experiments. These potentials coincide with

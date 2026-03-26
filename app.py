@@ -2,6 +2,7 @@ from data_extractor import DataExtractorAgent
 from critic import CriticAgent, CriticDataAggregator
 from consolidator import ConsolidatorAgent
 from paper_collection import PaperCollection, Paper
+from pdf_to_markdown import convert
 import gemini_helper as gh 
 
 PAPER_LIMIT = 10
@@ -73,8 +74,16 @@ def main():
 
     collection = PaperCollection(from_folder="papers", limit=PAPER_LIMIT)
 
-    with gh.make_client() as client:
-        run_consolidator(client, collection.papers[:5])
+    print(repr([p.file_name for p in collection.papers]))
+
+    # for paper in collection.papers:
+    #     print(paper.file_name)
+    #     convert(f"papers\\{paper.file_name}", f"papers_markdown\\{paper.file_name}.md")    
+
+    # collection = PaperCollection(from_folder="papers", limit=PAPER_LIMIT)
+
+    # with gh.make_client() as client:
+    #     run_consolidator(client, collection.papers[:5])
 
 
     #     for i in range(1, 5):
