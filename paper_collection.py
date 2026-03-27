@@ -1,65 +1,34 @@
-import pathlib 
 import os 
 import re 
+from pathlib import Path
 from google import genai 
 from tqdm import tqdm
 from typing import List 
 
-def parse_reference_number(filename):
-
-    match_result = re.match(r"^(\d+)_.*$", filename)
-        
-    if not match_result:
-        raise ValueError("File name does not begin with reference number.")
-
-    return int(match_result.group(1))
-
-
 class PaperCollection:
 
-    def __init__(self, 
-                 from_folder:str|None = None, 
-                 from_files:List[str]|None = None, 
-                 limit:int|None = None):
-        
-        if from_folder is None and from_files is None:
-            raise ValueError("Must specify either from_folder or from_files.")
-
-        if from_folder is not None and from_files is not None:
-            raise ValueError("Cannot specify both from_folder and from_files.")
-
-        if from_folder is not None:
+    def __init__(self, from_folder:Path|str, limit:int|None = None):
             
-            file_names = os.listdir(from_folder)
-            
-            from_files = [os.path.join(from_folder, fn) 
-                          for fn in file_names 
-                          if fn.lower().endswith(".pdf")]
+        folder_contents = os.listdir(from_folder)
+
+        papers = [Path(os.path.join(from_folder, fn)) 
+                    for fn in folder_contents]
         
-        papers = [Paper(p) for p in from_files]
-        papers.sort(key=lambda p: p.reference)
+        papers = [p for p in papers if p.is_file()]
+        
+        if all([p.has_attr("reference") for p in papers]):
+            papers.sort(key=lambda p: p.reference)
+        else:
+            papers.sort(key=lambda p: p.name)
         
         if limit is not None:
             papers = papers[:limit]
 
         self.papers = papers 
 
-    def update_gemini_file_descriptors(self, client : genai.Client):        
-        
-        descriptors = list(client.files.list())
-        already_uploaded = [f.name for f in descriptors]
-        
-        for paper in self.papers:
-            if paper.gemini_path in already_uploaded:
-                idx = already_uploaded.index(paper.gemini_path)
-                paper.gemini_file_descriptor = descriptors[idx]
 
-    def list_uploaded(self, client : genai.Client):
-        already_uploaded = [f.name for f in client.files.list()]
-        return already_uploaded
-
-    def upload_all(self, client : genai.Client):
-
+    def sync_with_gemini(self, client : genai.Client):
+    
         already_uploaded = [f.name for f in client.files.list()]
         all_files = [p.gemini_path for p in self.papers]
         to_upload = [f for f in all_files if f not in already_uploaded]
@@ -69,14 +38,8 @@ class PaperCollection:
         for paper in pbar:
             pbar.set_description(f"Uploading {paper.file_name}")
             if paper.gemini_path in to_upload:
-                with open(paper.local_path, "rb") as f:
-                    paper.gemini_file_descriptor = client.files.upload(
-                        file=f,
-                        config={
-                            "name": paper.gemini_name,
-                            "mime_type": "application/pdf"
-                        }
-                    )
+                paper.upload_to_gemini(client)
+
 
     # Needed when switching API keys.
     def delete_all(self, client : genai.Client):
@@ -91,20 +54,24 @@ class Paper:
 
     def __init__(self, local_path : str):
 
-        local_path_info = pathlib.Path(local_path)
+        local_path_info = Path(local_path)
         
         if not local_path_info.is_file():
             raise ValueError(f"File not found: {local_path}") 
-        
-        if not local_path_info.suffix.lower() == ".pdf":
-            raise ValueError(f"Not a PDF file: {local_path}")
-       
+
         self.local_path = local_path
         self.file_name = local_path_info.name
-        self.reference = parse_reference_number(self.file_name)
-        self.gemini_name = f"reference-{self.reference}"
-        self.gemini_path = f"files/{self.gemini_name}"
-        self.gemini_file_descriptor = None 
+        
+        # Try to extract a reference number from the beginning of the file name.
+        # Gemini's picky with regard to the names of files uploaded to its Files API,
+        # so I generate simple names based on the reference number.
+        match_result = re.match(r"^(\d+)_.*$", self.file_name)
+        
+        if match_result:
+            self.reference = int(match_result.group(1))
+            self.gemini_name = f"reference-{self.reference}"
+            self.gemini_path = f"files/{self.gemini_name}"
+            self._gemini_file_descriptor = None
 
     def __str__(self):
         return repr(self)
@@ -112,10 +79,33 @@ class Paper:
     def __repr__(self):
         return f"Paper({repr(self.local_path)})"
 
+    def read_all(self):
+        with open(self.local_path, "r", encoding="utf-8") as f:
+            return f.read()
+
+    def upload_to_gemini(self, client : genai.Client):
+
+        if self._gemini_file_descriptor is not None:
+            return self._gemini_file_descriptor
+
+        is_pdf = self.local_path.lower().endswith(".pdf")
+        mime_type = "application/pdf" if is_pdf else "text/plain"
+
+        with open(self.local_path, "rb") as f:
+            self._gemini_file_descriptor = client.files.upload(
+                file=f,
+                config={
+                    "name": self.gemini_name,
+                    "mime_type": mime_type
+                }
+            )
+
+        return self._gemini_file_descriptor        
+
     def get_gemini_file_descriptor(self, client : genai.Client):
         
-        if self.gemini_file_descriptor is not None:
-            return self.gemini_file_descriptor
+        if self._gemini_file_descriptor is not None:
+            return self._gemini_file_descriptor
         else:
-            self.gemini_file_descriptor = client.files.get(name=self.gemini_name)
-            return self.gemini_file_descriptor
+            self._gemini_file_descriptor = client.files.get(name=self.gemini_name)
+            return self._gemini_file_descriptor

@@ -1,7 +1,10 @@
 import os
 from openai import OpenAI
-from typing import Literal
+from google import genai 
+from google.genai import types
+from google.genai.types import File 
 from dataclasses import dataclass
+from paper_collection import Paper 
 
 @dataclass 
 class ModelSettings:
@@ -34,36 +37,102 @@ class ModelSettings:
         )
 
 
-def make_client(settings : ModelSettings) -> OpenAI:
+class LLMClient:
 
-    return OpenAI(
-        base_url = settings.model_url,
-        api_key = settings.model_api_key
-    )
+    def __init__(self, settings:ModelSettings, use_google_genai:bool=False):
+        
+        if use_google_genai:
+            self.client = genai.Client(api_key=settings.model_api_key)
+        else:
+            self.client = OpenAI(
+                base_url = settings.model_url,
+                api_key = settings.model_api_key
+            )
+        
+        self.settings = settings 
+        self.use_google_genai = use_google_genai
 
+    def __enter__(self):
+        
+        if hasattr(self.client, "__enter__"):
+            self.client.__enter__()
+        
+        return self
 
-def generate_content(
-        client: OpenAI, 
-        settings: ModelSettings,
-        system_prompt: str, 
-        paper_text: str = None, 
-        output_json: bool = False):
+    def __exit__(self, exc_type, exc_val, exc_tb):
+        
+        if hasattr(self.client, "__exit__"):
+            return self.client.__exit__(exc_type, exc_val, exc_tb)
+        elif hasattr(self.client, "close"):
+            self.client.close()
             
-    messages = [{"role": "system", "content": system_prompt}]
-    
-    if paper_text:
-        messages.append({"role": "user", "content": f"Here is the paper to analyze:\n\n{paper_text}"})
+        return False
 
-    # Prepare configuration
-    kwargs = {
-        "model": settings.model,
-        "messages": messages,
-        "temperature": 0.1,
-    }
+    def generate(self, prompt:str, paper:Paper|None=None, output_json:bool=False):
+        if self.use_google_genai:
+            return self._generate_genai(prompt, paper, output_json)
+        else:
+            return self._generate_openai(prompt, paper, output_json) 
 
-    if output_json:
-        kwargs["response_format"] = {"type": "json_object"}
+    def _generate_genai(self, prompt:str, paper:Paper|None=None, output_json:bool=False):
+        """
+        Uses Google's genai API to submit pdf files directly to Gemini.
+        """
+        pass 
 
-    # Execute request
-    response = client.chat.completions.create(**kwargs)
-    return response.choices[0].message.content
+        if paper is None:
+            contents = [prompt]        
+        else:
+            contents = [paper.get_gemini_file_descriptor(), prompt]
+
+        model = self.settings.model
+
+        thinking_config = types.ThinkingConfig(thinking_level="high")
+        response_mime_type = "application/json" if output_json else None
+
+        generate_content_config = types.GenerateContentConfig(
+            thinking_config=thinking_config,
+            response_mime_type=response_mime_type
+        )
+        
+        response = self.client.models.generate_content(
+            model=model,
+            contents=contents,
+            config=generate_content_config
+        )
+
+        return response.text
+
+    def _generate_openai(self, prompt:str, paper:Paper|None=None, output_json:bool=False):
+        """
+        Uses OpenAI API to connect to any compatible LLM endpoint - 
+        whether that's Gemini, ChatGPT, Ollama, vLLM, etc... 
+        Requires submitted files to be in plain-text format
+        (e.g., Markdown) rather than PDF.
+        """
+
+        # Use the chat completions api instead of the new responses API 
+        # since we're not actually connecting to ChatGPT - we're connecting
+        # to Ollama, Gemini, and perhaps vLLM (when we move to the Dais cluster).
+        # They're all compatible with the older API. 
+
+        messages = [{"role": "system", "content": prompt}]
+        
+        if paper is not None:
+            paper_text = paper.read_all()
+            messages.append({"role": "user", "content": f"Here is the paper to analyze:\n\n{paper_text}"})
+
+        # Prepare configuration
+        kwargs = {
+            "model": self.settings.model,
+            "messages": messages,
+            "temperature": 0.1,
+        }
+
+        if output_json:
+            kwargs["response_format"] = {"type": "json_object"}
+
+        # Execute request
+        response = self.client.chat.completions.create(**kwargs)
+        
+        return response.choices[0].message.content
