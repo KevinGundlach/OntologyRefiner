@@ -11,12 +11,14 @@ class PaperCollection:
             
         folder_contents = os.listdir(from_folder)
 
-        papers = [Path(os.path.join(from_folder, fn)) 
+        paper_paths = [Path(os.path.join(from_folder, fn)) 
                     for fn in folder_contents]
         
-        papers = [p for p in papers if p.is_file()]
+        paper_paths = [p for p in paper_paths if p.is_file()]
         
-        if all([p.has_attr("reference") for p in papers]):
+        papers = [Paper(p) for p in paper_paths]
+
+        if all([hasattr(p, "reference") for p in papers]):
             papers.sort(key=lambda p: p.reference)
         else:
             papers.sort(key=lambda p: p.name)
@@ -52,15 +54,16 @@ class PaperCollection:
 
 class Paper:
 
-    def __init__(self, local_path : str):
+    def __init__(self, local_path : Path|str):
 
-        local_path_info = Path(local_path)
+        if type(local_path) is str:
+            local_path = Path(local_path)
         
-        if not local_path_info.is_file():
+        if not local_path.is_file():
             raise ValueError(f"File not found: {local_path}") 
 
         self.local_path = local_path
-        self.file_name = local_path_info.name
+        self.file_name = local_path.name
         
         # Try to extract a reference number from the beginning of the file name.
         # Gemini's picky with regard to the names of files uploaded to its Files API,
@@ -88,7 +91,7 @@ class Paper:
         if self._gemini_file_descriptor is not None:
             return self._gemini_file_descriptor
 
-        is_pdf = self.local_path.lower().endswith(".pdf")
+        is_pdf = self.local_path.suffix.lower() == ".pdf"
         mime_type = "application/pdf" if is_pdf else "text/plain"
 
         with open(self.local_path, "rb") as f:

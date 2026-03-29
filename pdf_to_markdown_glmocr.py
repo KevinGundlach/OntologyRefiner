@@ -4,8 +4,6 @@ import pymupdf
 from transformers import AutoProcessor, AutoModelForImageTextToText
 from tqdm import tqdm
 
-# I had to ask Gemini how to use GLM-OCR since I couldn't find 
-# any proper documentation on it.
 
 def convert(pdf_path, output_path):
     

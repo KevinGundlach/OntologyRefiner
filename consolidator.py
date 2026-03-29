@@ -1,7 +1,5 @@
-from google.genai import Client
-from paper_collection import Paper
 from typing import List, Tuple
-import gemini_helper as gh
+from llm_helper import LLMClient
 
 
 PROMPT_TEMPLATE = """
@@ -42,16 +40,12 @@ You must output a valid JSON object strictly matching the structure below. Every
 
 class ConsolidatorAgent:
 
-    def consolidate(self, client:Client, variables:List[Tuple[str, str]]) -> str:
+    def consolidate(self, client:LLMClient, variables:List[Tuple[str, str]]) -> str:
         
         data_varaibles_section = "\n".join([f"- {k}: {v}" for k, v in variables])
 
         prompt = PROMPT_TEMPLATE.replace("[Paste Data Variables Here]", data_varaibles_section)
         
-        text = gh.generate_content(
-            client = client, 
-            prompt = prompt, 
-            use_pro = False,
-            output_json = True)
+        text = client.generate(prompt, output_json=True)
         
         return text

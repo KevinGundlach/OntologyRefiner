@@ -1,6 +1,5 @@
-from google.genai import Client
 from paper_collection import Paper
-import gemini_helper as gh
+from llm_helper import LLMClient
 import ontology
 
 PROMPT_PREFIX = r"""
@@ -54,14 +53,8 @@ class DataExtractorAgent:
         self.prompt = PROMPT_PREFIX + "\n" + self.extraction_template
 
 
-    def extract_from_paper(self, client:Client, paper:Paper) -> str:
+    def extract_from_paper(self, client:LLMClient, paper:Paper) -> str:
         
-        descriptor = paper.get_gemini_file_descriptor(client)
-        
-        text = gh.generate_content(
-            client = client, 
-            prompt = self.prompt, 
-            file = descriptor, 
-            use_pro = True)
-        
+        text = client.generate(self.prompt, paper)
+ 
         return text

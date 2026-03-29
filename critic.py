@@ -1,6 +1,5 @@
-from google.genai import Client
 from paper_collection import Paper
-import gemini_helper as gh
+from llm_helper import LLMClient 
 import json
 
 PROMPT_TEMPLATE = r"""
@@ -46,19 +45,12 @@ You must output a valid JSON object strictly matching the structure below. Do no
 
 class CriticAgent:
 
-    def review(self, client:Client, paper:Paper, extractor_template:str, extractor_output:str) -> str:
+    def review(self, client:LLMClient, paper:Paper, extractor_template:str, extractor_output:str) -> str:
 
         prompt = (PROMPT_TEMPLATE.replace("[Paste Extractor Template Here]", extractor_template)
                                  .replace("[Paste Extractor Output Here]", extractor_output))
-        
-        descriptor = paper.get_gemini_file_descriptor(client)
-        
-        text = gh.generate_content(
-            client = client, 
-            prompt = prompt, 
-            file = descriptor, 
-            use_pro = True,
-            output_json = True)
+                
+        text = client.generate(prompt, paper, output_json=True)
         
         return text
 
@@ -76,7 +68,7 @@ class CriticDataAggregator:
         # has just one key (the variable name) and one value (the definition).
         critic_data = json.loads(critic_json)
 
-        # I'm transforming it into a list of tuples instead of dictionaries.
+        # Here I'm transforming it into a list of tuples instead of dictionaries.
 
         for definition in critic_data["proposed_base_material_variables"]:
             self.proposed_base_material_variables.extend(definition.items())

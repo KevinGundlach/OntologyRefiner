@@ -3,7 +3,8 @@ from critic import CriticAgent, CriticDataAggregator
 from consolidator import ConsolidatorAgent
 from paper_collection import PaperCollection, Paper
 from pdf_to_markdown import convert
-import gemini_helper as gh 
+from llm_helper import LLMClient, ModelSettings
+
 
 PAPER_LIMIT = 10
 
@@ -72,26 +73,18 @@ def run_consolidator(client, papers):
 
 def main():
 
-    collection = PaperCollection(from_folder="papers", limit=PAPER_LIMIT)
+    client = LLMClient(ModelSettings.gemini_pro(), use_google_genai=True)
+    collection = PaperCollection(from_folder="papers", limit=10)
+    collection.sync_with_gemini(client.client)
 
-    print(repr([p.file_name for p in collection.papers]))
-
-    # for paper in collection.papers:
-    #     print(paper.file_name)
-    #     convert(f"papers\\{paper.file_name}", f"papers_markdown\\{paper.file_name}.md")    
-
-    # collection = PaperCollection(from_folder="papers", limit=PAPER_LIMIT)
-
-    # with gh.make_client() as client:
-    #     run_consolidator(client, collection.papers[:5])
-
-
-    #     for i in range(1, 5):
-    #         print(f"Processing paper {collection.papers[i].file_name}")
-    #         run_extractor(client, collection.papers[i])
-    #         run_critic(client, collection.papers[i])
-
-
+    for i in range(7, 10):
+        paper = collection.papers[i]
+        print(paper.file_name)
+        print("Running extractor...")
+        run_extractor(client, paper)
+        print("Running critic...")
+        run_critic(client, paper)
+    
 
 if __name__ == "__main__":
     main()

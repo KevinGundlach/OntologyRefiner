@@ -1,0 +1,16 @@
+{
+    "proposed_base_material_variables": {
+        "phase_composition": "Specific secondary phases, precipitates, or intermetallic compounds present in the matrix (e.g., chi phase), which directly influence localized corrosion susceptibility."
+    },
+    "proposed_conditioned_material_variables": {
+        "surface_finish": "The final polishing procedure and abrasive particle size (e.g., 0.3 µm alumina slurry) applied to the exposed sample surface, as surface roughness dictates pitting initiation sites.",
+        "sample_orientation": "The specific physical or crystallographic plane exposed to the test environment (e.g., parallel to the rolling plane), to account for anisotropic corrosion behavior.",
+        "crevice_prevention_method": "The masking material or boundary technique (e.g., clear Glyptal varnish) applied to the sample edges to ensure crevice corrosion does not artificially lower the measured pitting potential."
+    },
+    "proposed_experiment_variables": {
+        "temperature": "The exact temperature of the test solution during the experiment (e.g., 1°C, 25°C), a critical thermodynamic variable that exponentially affects the pitting potential.",
+        "scan_rate": "The rate at which the potential is swept during potentiodynamic polarization (e.g., 200 mV/hr or 2000 mV/hr), which influences the kinetic response of pit nucleation.",
+        "reference_electrode": "The specific standard electrode used to measure the potential (e.g., Saturated Calomel Electrode), which is required to normalize and compare pitting potential values across different studies.",
+        "aeration_status": "The purging or saturating gas used in the electrolyte (e.g., nitrogen-saturated deaeration), which determines the dissolved oxygen content and its participation in the electrochemical reactions."
+    }
+}

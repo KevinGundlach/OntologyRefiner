@@ -25,7 +25,7 @@ class ModelSettings:
         return ModelSettings(
             model_url = "https://generativelanguage.googleapis.com/v1beta/openai/",
             model_api_key = os.environ.get('ONTOLOGY_REFINER_GEMINI_API_KEY'),
-            model = "gemini-3.1-pro"
+            model = "gemini-3.1-pro-preview"
         )
 
     @classmethod 
@@ -83,7 +83,7 @@ class LLMClient:
         if paper is None:
             contents = [prompt]        
         else:
-            contents = [paper.get_gemini_file_descriptor(), prompt]
+            contents = [paper.get_gemini_file_descriptor(self.client), prompt]
 
         model = self.settings.model
 
