@@ -1,7 +1,6 @@
 from typing import List, Tuple
 from llm_helper import LLMClient
 
-
 PROMPT_TEMPLATE = """
 **System/Instruction Prompt:**
 
@@ -49,3 +48,4 @@ class ConsolidatorAgent:
         text = client.generate(prompt, output_json=True)
         
         return text
+

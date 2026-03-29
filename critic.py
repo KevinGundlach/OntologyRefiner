@@ -20,16 +20,16 @@ You must output a valid JSON object strictly matching the structure below. Do no
 
 ```json
 {
-    "proposed_base_material_variables": {
-        "example_variable_name_1": "clear, concise definition of what this variable measures",
-        "example_variable_name_2": "clear, concise definition of what this variable measures"
-    },
-    "proposed_conditioned_material_variables": {
-        "example_variable_name_3": "clear, concise definition..."
-    },
-    "proposed_experiment_variables": {
-        "example_variable_name_4": "clear, concise definition..."
-    }
+    "proposed_base_material_variables": [
+        {"example_variable_name_1": "clear, concise definition of what this variable measures"},
+        {"example_variable_name_2": "clear, concise definition of what this variable measures"}
+    ],
+    "proposed_conditioned_material_variables": [
+        {"example_variable_name_3": "clear, concise definition..."}
+    ],
+    "proposed_experiment_variables": [
+        {"example_variable_name_4": "clear, concise definition..."}
+    ]
 }
 ```
 
@@ -53,29 +53,4 @@ class CriticAgent:
         text = client.generate(prompt, paper, output_json=True)
         
         return text
-
-
-class CriticDataAggregator:
-
-    def __init__(self):
-        self.proposed_base_material_variables = []
-        self.proposed_conditioned_material_variables = []
-        self.proposed_experiment_variables = []
-
-    def parse(self, critic_json):
-
-        # The schema should be a list of dictionaries, where each dictionary 
-        # has just one key (the variable name) and one value (the definition).
-        critic_data = json.loads(critic_json)
-
-        # Here I'm transforming it into a list of tuples instead of dictionaries.
-
-        for definition in critic_data["proposed_base_material_variables"]:
-            self.proposed_base_material_variables.extend(definition.items())
-
-        for definition in critic_data["proposed_conditioned_material_variables"]:
-            self.proposed_conditioned_material_variables.extend(definition.items())
-
-        for definition in critic_data["proposed_experiment_variables"]:
-            self.proposed_experiment_variables.extend(definition.items())
 

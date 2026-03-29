@@ -1,0 +1,24 @@
+{
+    "variable_mapping": [
+        {"identifier": "material_identifier"},
+        {"commercial_name": "material_identifier"},
+        {"UNS_designation": "material_identifier"},
+        {"alloy composition": "chemical_composition"},
+        {"alloy type": "material_classification"},
+        {"microstructure": "microstructural_features"},
+        {"phase_composition": "microstructural_features"},
+        {"inclusion_characteristics": "microstructural_features"},
+        {"raw_material_purity": "material_purity"},
+        {"purity_grade": "material_purity"},
+        {"product_form": "material_form"},
+        {"initial_material_form": "material_form"}
+    ],
+    "normalized_definitions": [
+        {"material_identifier": "The standard designation, trade name, commercial grade, ID, or Unified Numbering System (UNS) code used to explicitly identify the base material or alloy."},
+        {"chemical_composition": "The precise chemical makeup of the alloy or base material, including trace elements, typically expressed in specific units of measure (e.g., wt%, at%)."},
+        {"material_classification": "A broad description or classification category defining the base material or alloy type."},
+        {"microstructural_features": "Details describing the internal structure of the material, including the overall microstructure, specific secondary phases, precipitates, intermetallic compounds, and the characteristics (type, density, elemental makeup) of non-metallic inclusions."},
+        {"material_purity": "The classification, specific grade, or percentage of the overall purity of the base metal and its raw elemental components, including the synthesis method and levels of residual or trace elements."},
+        {"material_form": "The manufactured shape or physical form of the as-received raw base material before specimen preparation or conditioning (e.g., sheet, plate, bar, wire stock)."}
+    ]
+}
