@@ -1,34 +1,77 @@
-from ontology import BASE_MATERIAL_VARIABLES, CONDITIONED_MATERIAL_VARIABLES, EXPERIMENT_VARIABLES
-import json
+from typing import List, Tuple, Dict
+
+class DataAggregator:
+
+    def __init__(self):
+        self.entries : List[Tuple[str, str]] = []
 
 
-class CriticDataAggregator:
+    def insert(
+            self, 
+            entry_or_group : Tuple[str, str]
+                           | List[Tuple[str, str]]
+                           | Dict[str, str]
+                           | List[Dict[str, str]]
+        ):
 
-    def __init__(self, init_with_existing_ontology:bool = True):
-        self.proposed_base_material_variables = []
-        self.proposed_conditioned_material_variables = []
-        self.proposed_experiment_variables = []
+        # The critic outputs its proposed variables as lists of dictionaries,
+        # since it can output different variables with duplicate names 
+        # but different definitions. The consolidator's job is to handle that.
+        
+        # This aggregator stores the proposed variables as a list of (key, value) pairs. 
 
-        if init_with_existing_ontology:
-            self.proposed_base_material_variables.extend(BASE_MATERIAL_VARIABLES.items())
-            self.proposed_conditioned_material_variables.extend(CONDITIONED_MATERIAL_VARIABLES.items())
-            self.proposed_experiment_variables.extend(EXPERIMENT_VARIABLES.items())
+        # The ontology.py stores the data extractor's variables in a plain dictionary.
+
+        # This insert function is designed to recognize any such format.
+
+        if type(entry_or_group) is tuple or type(entry_or_group) is dict:
+            self._insert_entry(entry_or_group)
+
+        elif type(entry_or_group) is list:            
+            for entry in entry_or_group:
+                self._insert_entry(entry)
+
+        else:
+            raise ValueError(f"Unrecognized group type: {type(entry_or_group)}.")
 
 
-    def parse(self, critic_json):
+    def _insert_entry(self, entry : Tuple[str, str] | Dict[str, str]):
+        if type(entry) is tuple:
+            self.entries.append(entry)
+        elif type(entry) is dict:
+            self.entries.extend(entry.items()) 
+        else:
+            raise ValueError(f"Unrecognized entry type: {type(entry)}.")
 
-        # The schema should be a list of dictionaries, where each dictionary 
-        # has just one key (the variable name) and one value (the definition).
-        critic_data = json.loads(critic_json)
+    def get_normalized_entry_counts(
+            self, 
+            normalizing_map : Dict[str, str] | List[Dict[str, str]],
+            exceptions : List[str]
+        ):
 
-        # Here I'm transforming it into a list of tuples instead of dictionaries.
+        # Main purpose is to count the number of times the critic proposed
+        # a particular variable, *not* counting those that are already
+        # defined in ontology.py.
 
-        for definition in critic_data["proposed_base_material_variables"]:
-            self.proposed_base_material_variables.extend(definition.items())
+        # The consolidator outputs the normalizing map as a list of dictionaries
+        # to match its input, though I'll probably change that.
 
-        for definition in critic_data["proposed_conditioned_material_variables"]:
-            self.proposed_conditioned_material_variables.extend(definition.items())
+        if type(normalizing_map) is list:
+            normalizing_map = dict([list(d.items())[0] for d in normalizing_map])
 
-        for definition in critic_data["proposed_experiment_variables"]:
-            self.proposed_experiment_variables.extend(definition.items())
+        normalized_exceptions = [normalizing_map[e] for e in exceptions]
+        counts = {}
 
+        for (name, definition) in self.entries:
+
+            normalized_name = normalizing_map[name]
+            
+            if normalized_name in normalized_exceptions:
+                continue
+
+            if normalized_name in counts:
+                counts[normalized_name] += 1
+            else:
+                counts[normalized_name] = 1
+
+        return counts
