@@ -1,0 +1,32 @@
+{
+    "proposed_base_material_variables": [
+        {
+            "crystal_structure": "The specific crystallographic phases (e.g., FCC, BCC, B2, or Sigma phase) present in the base material, typically confirmed via X-ray diffraction, which heavily influence localized corrosion and phase stability."
+        }
+    ],
+    "proposed_conditioned_material_variables": [
+        {
+            "specimen_exposed_area": "The specific geometric area of the conditioned specimen exposed to the electrolyte, which is essential for accurately normalizing absolute current into corrosion current densities."
+        }
+    ],
+    "proposed_experiment_variables": [
+        {
+            "electrolyte_composition": "The precise chemical formulation, solvent, and molar concentration of the testing solution (e.g., 0.6 M NaCl), which directly dictates the aggressiveness of the corrosive environment."
+        },
+        {
+            "aeration_condition": "The environmental gas state of the electrolyte, such as naturally aerated, deaerated (purged with inert gas), or quiescent, which dictates the availability of oxygen for cathodic reduction reactions."
+        },
+        {
+            "ocp_stabilization_time": "The required duration for which the specimen is immersed in the electrolyte strictly to establish a steady-state Open Circuit Potential (OCP) prior to active potentiodynamic polarization."
+        },
+        {
+            "corrosion_potential_ecorr": "The steady-state electrochemical potential (Ecorr) where the rate of anodic dissolution equals the rate of cathodic reduction, serving as the baseline for determining passivity."
+        },
+        {
+            "corrosion_current_density_icorr": "The calculated kinetic rate of corrosion at the corrosion potential, which acts as a fundamental comparative metric for the general corrosion resistance of the alloy prior to pitting."
+        },
+        {
+            "passive_window_range": "The specific voltage range defined as the difference between the pitting potential and the corrosion potential (Epit - Ecorr), characterizing the span over which the material maintains a stable passive film."
+        }
+    ]
+}

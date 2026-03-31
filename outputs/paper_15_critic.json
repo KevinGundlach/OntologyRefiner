@@ -1,0 +1,15 @@
+{
+    "proposed_base_material_variables": [
+        {"melt_practice_and_source": "Information detailing the melting methodology, starting material purity (e.g., virgin materials vs. commercial standard), and specific deoxidation practices (e.g., aluminum deoxidation) used to produce the base alloy."}
+    ],
+    "proposed_conditioned_material_variables": [
+        {"specimen_evaluation_surface_orientation": "The specific mechanical orientation of the specimen surface being evaluated for pitting relative to the processing direction (e.g., flat surface parallel to the rolling plane) and the explicit exclusion of structural anomalies like end-grains or edges."}
+    ],
+    "proposed_experiment_variables": [
+        {"critical_pitting_temperature": "The explicitly measured temperature threshold above which stable, localized pitting is observed to initiate in a given environment, serving as the primary evaluation metric when standard pitting potential is not used."},
+        {"electrolyte_composition_and_concentration": "The precise chemical makeup and specific mass/volume percentage of the testing electrolyte (e.g., 10% FeCl3) isolated as a distinct critical variable."},
+        {"exposure_test_duration": "The explicit continuous immersion time or incubation period (e.g., 24 hours, 66 hours) applied at each isothermal step or constant potential during the pitting evaluation test."},
+        {"volume_to_surface_area_ratio": "The controlled minimum volume of test electrolyte per unit of exposed specimen surface area (e.g., 10 ml per square centimeter) required to ensure bulk solution chemistry remains stable during localized corrosion initiation."},
+        {"pitting_verification_criterion": "The precise physical, visual, or geometric threshold used by the researchers to confirm the onset of stable pitting (e.g., formation of discrete macroscopic pits at least 1 mm in diameter)."}
+    ]
+}

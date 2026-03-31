@@ -1,0 +1,15 @@
+{
+    "proposed_base_material_variables": [
+        {"crystal_structure_and_lattice_parameters": "The identified crystallographic phases (e.g., fcc, bcc) and explicitly measured lattice parameters of the alloy, which indicate atomic distortion and structural stability that can influence localized corrosion."}
+    ],
+    "proposed_conditioned_material_variables": [
+        {"phase_segregation_characteristics": "Quantitative or qualitative details regarding elemental segregation between distinct microstructural regions (e.g., dendrite vs. interdendrite atomic percentages) resulting from processing, which act as micro-galvanic cells driving localized pitting attack."}
+    ],
+    "proposed_experiment_variables": [
+        {"electrolyte_composition": "The exact chemical makeup and concentration of the corrosive test solution (e.g., 3.5% NaCl aqueous solution) used during testing, which is the primary environmental driver for localized pitting."},
+        {"aeration_status": "The state of dissolved reactive gases in the test solution, specifying whether the electrolyte was aerated (oxygenated), naturally exposed to air, or deaerated/purged with an inert gas like argon or nitrogen."},
+        {"counter_electrode": "The material used for the auxiliary or counter electrode (e.g., platinum) in the electrochemical cell setup, which is necessary to complete the circuit and validate the experimental methodology."},
+        {"polarization_scan_range": "The specific electrical potential boundaries of the potentiodynamic polarization test, detailing the initial starting voltage (often relative to open circuit potential) and the final anodic potential limit."},
+        {"corrosion_potential": "The baseline open-circuit or free corrosion potential (E_corr) of the working electrode measured in the specific test environment, establishing the thermodynamic baseline prior to anodic pitting breakdown."}
+    ]
+}

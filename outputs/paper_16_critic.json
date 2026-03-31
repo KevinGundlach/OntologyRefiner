@@ -1,0 +1,23 @@
+{
+    "proposed_base_material_variables": [
+        {
+            "pitting_resistance_equivalent_number": "The calculated Pitting Index (P.I.) or PREN value based on the elemental composition (e.g., %Cr + 3(%Mo) + 10(%N)) used as a standardized theoretical predictor for localized pitting corrosion resistance."
+        }
+    ],
+    "proposed_conditioned_material_variables": [
+        {
+            "welding_heat_input": "The precise thermal energy applied to the material per unit length during welding (e.g., kJ/cm), which critically affects the cooling rate, phase precipitation, and resulting corrosion resistance of the heat-affected zone (HAZ)."
+        },
+        {
+            "welding_filler_metal": "The specified alloy used as the filler material during welding operations, which determines the final localized chemical composition and dilution levels of the resultant weld metal."
+        }
+    ],
+    "proposed_experiment_variables": [
+        {
+            "electrolyte_composition": "The detailed chemical formulation of the test environment, including specific solution types (e.g., synthetic seawater) and exact corrosive ion concentrations (e.g., chloride concentration in ppm), which govern the severity of the localized attack."
+        },
+        {
+            "crevice_corrosion_potential": "The specific electrochemical potential at which stable crevice corrosion initiates, distinct from open-surface pitting potential, measured using specimens with engineered metal/metal or metal/non-metal crevice formers."
+        }
+    ]
+}

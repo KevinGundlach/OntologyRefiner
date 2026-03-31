@@ -12,9 +12,6 @@ import json
 import ontology
 
 
-PAPER_LIMIT = 10
-
-
 def read_file(path):
     with open(path, "r", encoding="utf-8") as f:
         return f.read()
@@ -54,11 +51,11 @@ def run_consolidator(client, aggregator, output_file):
         f.write(text)
     
 
-def aggregate_critic_data():
+def aggregate_critic_data(batch_path):
 
-    json_critic_files = os.listdir("outputs\\gemini_pdf\\batch_1")
+    json_critic_files = os.listdir(batch_path)
 
-    json_critic_files = [f"outputs\\gemini_pdf\\batch_1\\{file}" 
+    json_critic_files = [os.path.join(batch_path, file) 
                             for file in json_critic_files 
                             if file.endswith("_critic.json")]
 
@@ -67,6 +64,10 @@ def aggregate_critic_data():
     base_material_aggregator = DataAggregator()
     conditioned_material_aggregator = DataAggregator()
     experiment_aggregator = DataAggregator()
+
+    base_material_aggregator.insert(ontology.BASE_MATERIAL_VARIABLES)
+    conditioned_material_aggregator.insert(ontology.CONDITIONED_MATERIAL_VARIABLES)
+    experiment_aggregator.insert(ontology.EXPERIMENT_VARIABLES)
 
     for file_content in json_critic_files_contents:
         file_obj = json.loads(file_content)
@@ -80,18 +81,13 @@ def aggregate_critic_data():
         experiment_aggregator)
 
 
-def main():
-    
+def print_counts(batch_path):
+
+    # Definitely need to refactor this.
+
     (base_material_aggregator, 
      conditioned_material_aggregator,
-     experiment_aggregator) =  aggregate_critic_data()
-
-    # with LLMClient(ModelSettings.gemini_flash(), use_google_genai=True) as client:
-    #     run_consolidator(client, base_material_aggregator, "outputs\\gemini_pdf\\batch_1\\consolidated_base_material_variables.json")
-    #     run_consolidator(client, conditioned_material_aggregator, "outputs\\gemini_pdf\\batch_1\\consolidated_conditioned_material_variables.json")
-    #     run_consolidator(client, experiment_aggregator, "outputs\\gemini_pdf\\batch_1\\consolidated_experiment_variables.json")
-
-    batch_path = "outputs\\gemini_pdf\\batch_1"
+     experiment_aggregator) =  aggregate_critic_data(batch_path)
 
     base_material_variables = json.loads(read_file(f"{batch_path}\\consolidated_base_material_variables.json"))
     conditioned_material_variables = json.loads(read_file(f"{batch_path}\\consolidated_conditioned_material_variables.json"))
@@ -132,6 +128,31 @@ def main():
     print("\nExperiment Counts:")
     for c, v in experiment_counts:
         print(f"{v}: {c}")
+
+
+def main():
+
+    collection = PaperCollection("papers")
+    collection.papers = collection.papers[10:20]
+    
+    # with LLMClient(ModelSettings.gemini_pro(), use_google_genai=True) as client:
+    #     pass 
+
+        # collection.sync_with_gemini(client.client)
+
+        #for paper in tqdm(collection.papers):
+            # run_extractor(client, paper)
+            # run_critic(client, paper)
+
+        # bma, cma, ea = aggregate_critic_data("outputs")
+        
+        # print("Running Consolidator...")
+
+        # run_consolidator(client, bma, "outputs\\consolidated_base_material_variables.json")
+        # run_consolidator(client, cma, "outputs\\consolidated_conditioned_material_variables.json")
+        # run_consolidator(client, ea, "outputs\\consolidated_experiment_variables.json")
+
+    print_counts("outputs")
 
 
 if __name__ == "__main__":
