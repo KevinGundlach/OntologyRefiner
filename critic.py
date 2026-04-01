@@ -1,5 +1,7 @@
 from paper_collection import Paper
 from llm_helper import LLMClient 
+from ontology import Ontology
+from typing import Any
 import json
 
 PROMPT_TEMPLATE = r"""
@@ -45,12 +47,21 @@ You must output a valid JSON object strictly matching the structure below. Do no
 
 class CriticAgent:
 
-    def review(self, client:LLMClient, paper:Paper, extractor_template:str, extractor_output:str) -> str:
+    def run(self, 
+            client:LLMClient, 
+            paper:Paper, 
+            ont:Ontology, 
+            extractor_output:str,
+            output_path:str|None=None
+        ) -> Any:
 
-        prompt = (PROMPT_TEMPLATE.replace("[Paste Extractor Template Here]", extractor_template)
+        prompt = (PROMPT_TEMPLATE.replace("[Paste Extractor Template Here]", ont.to_markdown())
                                  .replace("[Paste Extractor Output Here]", extractor_output))
                 
         text = client.generate(prompt, paper, output_json=True)
         
-        return text
+        if output_path is not None:
+            with open(output_path, "w", encoding="utf-8") as f:
+                f.write(text)
 
+        return json.loads(text)

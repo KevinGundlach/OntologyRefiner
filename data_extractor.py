@@ -1,6 +1,6 @@
 from paper_collection import Paper
 from llm_helper import LLMClient
-import ontology
+from ontology import Ontology
 
 PROMPT_PREFIX = r"""
 **System/Instruction Prompt:**
@@ -22,39 +22,21 @@ You will be provided with a research paper (which may include text, tables, and 
 **Output Template:**
 """
 
-EXTRACTION_TEMPLATE = r"""
-# Base Material
-<BASE_MATERIAL_VARIABLES_HERE>
-
-## Conditioned Material
-<CONDITIONED_MATERIAL_VARIABLES_HERE>
-
-### Experiment
-<EXPERIMENT_VARIABLES_HERE>
-"""
-
 class DataExtractorAgent:
 
-    def __init__(self):
+    def run(self, 
+            client:LLMClient, 
+            paper:Paper, 
+            ontology:Ontology, 
+            output_path:str|None=None
+        ) -> str:
         
-        base_material_variables = ontology.BASE_MATERIAL_VARIABLES
-        conditioned_material_variables = ontology.CONDITIONED_MATERIAL_VARIABLES
-        experiment_variables = ontology.EXPERIMENT_VARIABLES
+        prompt = PROMPT_PREFIX + "\n" + ontology.to_markdown()
 
-        base_material_section = "\n".join([f"- {k}: {v}" for k, v in base_material_variables.items()])
-        conditioned_material_section = "\n".join([f"- {k}: {v}" for k, v in conditioned_material_variables.items()])
-        experiment_section = "\n".join([f"- {k}: {v}" for k, v in experiment_variables.items()])
-
-        self.extraction_template = (EXTRACTION_TEMPLATE
-            .replace("<BASE_MATERIAL_VARIABLES_HERE>", base_material_section)
-            .replace("<CONDITIONED_MATERIAL_VARIABLES_HERE>", conditioned_material_section)
-            .replace("<EXPERIMENT_VARIABLES_HERE>", experiment_section))
-        
-        self.prompt = PROMPT_PREFIX + "\n" + self.extraction_template
-
-
-    def extract_from_paper(self, client:LLMClient, paper:Paper) -> str:
-        
-        text = client.generate(self.prompt, paper)
+        text = client.generate(prompt, paper)
  
+        if output_path is not None:
+            with open(output_path, "w", encoding="utf-8") as f:
+                f.write(text)
+
         return text

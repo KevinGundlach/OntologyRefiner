@@ -1,5 +1,8 @@
 from typing import List, Tuple
 from llm_helper import LLMClient
+from aggregator import DataAggregator
+from typing import Any
+import json
 
 PROMPT_TEMPLATE = """
 **System/Instruction Prompt:**
@@ -39,13 +42,17 @@ You must output a valid JSON object strictly matching the structure below. Every
 
 class ConsolidatorAgent:
 
-    def consolidate(self, client:LLMClient, variables:List[Tuple[str, str]]) -> str:
+    def run(self, client:LLMClient, variables:List[Tuple[str, str]], output_path:str|None=None) -> Any:
         
-        data_varaibles_section = "\n".join([f"- {k}: {v}" for k, v in variables])
+        data_variables_section = "\n".join([f"- {k}: {v}" for k, v in variables])
 
-        prompt = PROMPT_TEMPLATE.replace("[Paste Data Variables Here]", data_varaibles_section)
+        prompt = PROMPT_TEMPLATE.replace("[Paste Data Variables Here]", data_variables_section)
         
         text = client.generate(prompt, output_json=True)
         
-        return text
+        if output_path is not None:
+            with open(output_path, "w", encoding="utf-8") as f:
+                f.write(text)
+
+        return json.loads(text)
 

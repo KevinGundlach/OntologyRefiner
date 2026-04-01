@@ -7,152 +7,120 @@ from pdf_to_markdown import convert
 from llm_helper import LLMClient, ModelSettings
 from tqdm import tqdm
 from collections import Counter
+from ontology import Ontology
+from pathlib import Path
 import os
 import json
-import ontology
+
+PAPERS_FOLDER = "papers"
+BASE_ONTOLOGY_FILE = "ontology\\ontology_v1.json"
+OUTPUT_PATH = "output"
+BATCH_SIZE = 10
+CONSOLIDATOR_THRESHOLD = 5
 
 
-def read_file(path):
-    with open(path, "r", encoding="utf-8") as f:
-        return f.read()
-
-
-def run_extractor(client, paper):
+def consolidate_and_merge(client, ontology_group, aggregator_entries, output_file):
     
-    extractor = DataExtractorAgent()
-    text = extractor.extract_from_paper(client, paper)
-    
-    output_path = f"outputs\\paper_{paper.reference}.md"
-
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write(text)
-
-
-def run_critic(client, paper):
-
-    extraction_template = DataExtractorAgent().extraction_template
-    extractor_output = read_file(f"outputs\\paper_{paper.reference}.md")
-
-    critic = CriticAgent()
-    text = critic.review(client, paper, extraction_template, extractor_output)
-
-    output_path = f"outputs\\paper_{paper.reference}_critic.json"
-
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write(text)
-    
-
-def run_consolidator(client, aggregator, output_file):
-
     consolidator = ConsolidatorAgent()
-
-    text = consolidator.consolidate(client, aggregator.entries)
-    with open(output_file, "w", encoding="utf-8") as f:
-        f.write(text)
+    consolidated_data = consolidator.run(client, aggregator_entries, output_file)
     
+    normalized_mappings = consolidated_data['variable_mapping']
 
-def aggregate_critic_data(batch_path):
+    normalized_mappings = {name: defn 
+                           for dic in normalized_mappings 
+                           for name, defn in dic.items()}
+    
+    normalized_definitions = consolidated_data['normalized_definitions']
 
-    json_critic_files = os.listdir(batch_path)
+    normalized_definitions = {name: defn 
+                              for dic in normalized_definitions 
+                              for name, defn in dic.items()}
 
-    json_critic_files = [os.path.join(batch_path, file) 
-                            for file in json_critic_files 
-                            if file.endswith("_critic.json")]
+    existing_variables = [normalized_mappings[name] for name in ontology_group.keys()]
+    
+    proposed_variables = [normalized_mappings[name] 
+                          for (name,defn) in aggregator_entries
+                          if normalized_mappings[name] not in existing_variables]
+     
+    proposed_variable_counts = Counter(proposed_variables)
 
-    json_critic_files_contents = [read_file(file) for file in json_critic_files]
+    new_variables = [name for name, defn in proposed_variable_counts.items() 
+                          if defn >= CONSOLIDATOR_THRESHOLD]
 
-    base_material_aggregator = DataAggregator()
-    conditioned_material_aggregator = DataAggregator()
-    experiment_aggregator = DataAggregator()
+    updated_ontology_group = [(name, normalized_definitions[name]) 
+                              for name in proposed_variables + new_variables]
 
-    base_material_aggregator.insert(ontology.BASE_MATERIAL_VARIABLES)
-    conditioned_material_aggregator.insert(ontology.CONDITIONED_MATERIAL_VARIABLES)
-    experiment_aggregator.insert(ontology.EXPERIMENT_VARIABLES)
-
-    for file_content in json_critic_files_contents:
-        file_obj = json.loads(file_content)
-        base_material_aggregator.insert(file_obj["proposed_base_material_variables"])
-        conditioned_material_aggregator.insert(file_obj["proposed_conditioned_material_variables"])
-        experiment_aggregator.insert(file_obj["proposed_experiment_variables"])
-
-    return (
-        base_material_aggregator,
-        conditioned_material_aggregator,
-        experiment_aggregator)
+    return updated_ontology_group
 
 
-def print_counts(batch_path):
 
-    # Definitely need to refactor this.
+def run():
 
-    (base_material_aggregator, 
-     conditioned_material_aggregator,
-     experiment_aggregator) =  aggregate_critic_data(batch_path)
+    os.makedirs(OUTPUT_PATH, exist_ok=True)
 
-    base_material_variables = json.loads(read_file(f"{batch_path}\\consolidated_base_material_variables.json"))
-    conditioned_material_variables = json.loads(read_file(f"{batch_path}\\consolidated_conditioned_material_variables.json"))
-    experiment_variables = json.loads(read_file(f"{batch_path}\\consolidated_experiment_variables.json"))
+    collection = PaperCollection(PAPERS_FOLDER)
+    
+    with LLMClient(ModelSettings.gemini_pro(), use_google_genai=True) as client:
 
-    base_material_counts = base_material_aggregator.get_normalized_entry_counts(
-        base_material_variables['variable_mapping'],
-        ontology.BASE_MATERIAL_VARIABLES.keys()
-    )
+        collection.sync_with_gemini(client.client)
+        ontology = Ontology(BASE_ONTOLOGY_FILE)
+        
+        data_extractor = DataExtractorAgent()
+        critic = CriticAgent()
+        
+        for batch_number in range(0, len(collection.papers), BATCH_SIZE):
 
-    conditioned_material_counts = conditioned_material_aggregator.get_normalized_entry_counts(
-        conditioned_material_variables['variable_mapping'],
-        ontology.CONDITIONED_MATERIAL_VARIABLES.keys()
-    )
+            batch_output_path = os.path.join(OUTPUT_PATH, f"batch_{batch_number}")
+            os.makedirs(batch_output_path, exist_ok=True)
 
-    experiment_counts = experiment_aggregator.get_normalized_entry_counts(
-        experiment_variables['variable_mapping'],
-        ontology.EXPERIMENT_VARIABLES.keys()
-    )
+            batch = collection.papers[batch_number:batch_number+BATCH_SIZE]
+            aggregator = DataAggregator(ontology)
+    
+            pbar = tqdm(batch)
 
-    base_material_counts = [(c, v) for (v, c) in base_material_counts.items()]
-    base_material_counts.sort(reverse=True)
+            for paper in pbar:
 
-    conditioned_material_counts = [(c, v) for (v, c) in conditioned_material_counts.items()]
-    conditioned_material_counts.sort(reverse=True)
+                data_extractor_output_file = os.path.join(batch_output_path, f"paper_{paper.reference}.md")
+                critic_output_file = os.path.join(batch_output_path, f"paper_{paper.reference}_critic.json")
+                
+                pbar.set_description(f"Batch {batch_number} Extracting...")
+                extractor_output = data_extractor.run(client, paper, ontology, data_extractor_output_file)
+                
+                pbar.set_description(f"Batch {batch_number} Critiquing...")
+                critic_output = critic.run(client, paper, ontology, extractor_output, critic_output_file)
+                
+                aggregator.update(critic_output)
 
-    experiment_counts = [(c, v) for (v, c) in experiment_counts.items()]
-    experiment_counts.sort(reverse=True)
+            new_ontology = Ontology()
 
-    print("Base Material Counts:")
-    for c, v in base_material_counts:
-        print(f"{v}: {c}")
+            new_ontology.base_material = consolidate_and_merge(
+                client,
+                ontology.base_material,
+                aggregator.base_material_entries,
+                os.path.join(batch_output_path, "base_material_consolidated.json")
+            )
 
-    print("\nConditioned Material Counts:")
-    for c, v in conditioned_material_counts:
-        print(f"{v}: {c}")
+            new_ontology.conditioned_material = consolidate_and_merge(
+                client,
+                ontology.conditioned_material,
+                aggregator.conditioned_material_entries,
+                os.path.join(batch_output_path, "conditioned_material_consolidated.json")
+            )
 
-    print("\nExperiment Counts:")
-    for c, v in experiment_counts:
-        print(f"{v}: {c}")
+            new_ontology.experiment = consolidate_and_merge(
+                client,
+                ontology.experiment,
+                aggregator.experiment_entries,
+                os.path.join(batch_output_path, "experiment_consolidated.json")
+            )
+
+            # TODO: Save the new ontology.
+
+            ontology = new_ontology
 
 
 def main():
-
-    collection = PaperCollection("papers")
-    collection.papers = collection.papers[10:20]
-    
-    # with LLMClient(ModelSettings.gemini_pro(), use_google_genai=True) as client:
-    #     pass 
-
-        # collection.sync_with_gemini(client.client)
-
-        #for paper in tqdm(collection.papers):
-            # run_extractor(client, paper)
-            # run_critic(client, paper)
-
-        # bma, cma, ea = aggregate_critic_data("outputs")
-        
-        # print("Running Consolidator...")
-
-        # run_consolidator(client, bma, "outputs\\consolidated_base_material_variables.json")
-        # run_consolidator(client, cma, "outputs\\consolidated_conditioned_material_variables.json")
-        # run_consolidator(client, ea, "outputs\\consolidated_experiment_variables.json")
-
-    print_counts("outputs")
+    pass
 
 
 if __name__ == "__main__":

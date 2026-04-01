@@ -7,12 +7,12 @@ from typing import List
 
 class PaperCollection:
 
-    def __init__(self, from_folder:Path|str, limit:int|None = None):
+    def __init__(self, from_folder:Path|str):
             
         folder_contents = os.listdir(from_folder)
 
-        paper_paths = [Path(os.path.join(from_folder, fn)) 
-                    for fn in folder_contents]
+        paper_paths = [Path(os.path.join(from_folder, fname)) 
+                       for fname in folder_contents]
         
         paper_paths = [p for p in paper_paths if p.is_file()]
         
@@ -22,10 +22,7 @@ class PaperCollection:
             papers.sort(key=lambda p: p.reference)
         else:
             papers.sort(key=lambda p: p.name)
-        
-        if limit is not None:
-            papers = papers[:limit]
-
+      
         self.papers = papers 
 
 

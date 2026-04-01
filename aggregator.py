@@ -1,77 +1,50 @@
-from typing import List, Tuple, Dict
+from ontology import Ontology
+from typing import List, Tuple, Dict, Any
+
 
 class DataAggregator:
 
-    def __init__(self):
-        self.entries : List[Tuple[str, str]] = []
+    def __init__(self, ontology:Ontology):
+        self.base_material_entries = to_tuple_list(ontology.base_material)
+        self.conditioned_material_entries = to_tuple_list(ontology.conditioned_material)
+        self.experiment_entries = to_tuple_list(ontology.experiment)
+
+    def update(self, critic_data:Any):
+        self.base_material_entries.extend(to_tuple_list(critic_data['proposed_base_material_variables']))
+        self.conditioned_material_entries.extend(to_tuple_list(critic_data['proposed_conditioned_material_variables']))
+        self.experiment_entries.extend(to_tuple_list(critic_data['proposed_experiment_variables']))   
 
 
-    def insert(
-            self, 
-            entry_or_group : Tuple[str, str]
-                           | List[Tuple[str, str]]
-                           | Dict[str, str]
-                           | List[Dict[str, str]]
-        ):
+# For the moment, the critic and consolidator output the proposed 
+# variables as lists of singleton dictionaries. This was intended
+# to handle the possibility of multiple variables having the same 
+# name but different definitions. In retrospect, that maybe wasn't
+# so important and a simple dictionary might have been better.
 
-        # The critic outputs its proposed variables as lists of dictionaries,
-        # since it can output different variables with duplicate names 
-        # but different definitions. The consolidator's job is to handle that.
+# to_tuple_list converts from whatever structure we choose for the 
+# agents into a list of (name, definition) pairs.
+
+def to_tuple_list(
+        data : Tuple[str, str]
+             | List[Tuple[str, str]]
+             | Dict[str, str]
+             | List[Dict[str, str]]
+    ) -> List[Tuple[str, str]]:
+
+    result = [] 
+
+    if type(data) is tuple or type(data) is dict:
+        data = [data]
+
+    for entry in data:
         
-        # This aggregator stores the proposed variables as a list of (key, value) pairs. 
-
-        # The ontology.py stores the data extractor's variables in a plain dictionary.
-
-        # This insert function is designed to recognize any such format.
-
-        if type(entry_or_group) is tuple or type(entry_or_group) is dict:
-            self._insert_entry(entry_or_group)
-
-        elif type(entry_or_group) is list:            
-            for entry in entry_or_group:
-                self._insert_entry(entry)
-
-        else:
-            raise ValueError(f"Unrecognized group type: {type(entry_or_group)}.")
-
-
-    def _insert_entry(self, entry : Tuple[str, str] | Dict[str, str]):
         if type(entry) is tuple:
-            self.entries.append(entry)
+            result.append(entry)
         elif type(entry) is dict:
-            self.entries.extend(entry.items()) 
+            result.extend(entry.items())
         else:
             raise ValueError(f"Unrecognized entry type: {type(entry)}.")
 
-    def get_normalized_entry_counts(
-            self, 
-            normalizing_map : Dict[str, str] | List[Dict[str, str]],
-            exceptions : List[str]
-        ):
+    return result 
 
-        # Main purpose is to count the number of times the critic proposed
-        # a particular variable, *not* counting those that are already
-        # defined in ontology.py.
 
-        # The consolidator outputs the normalizing map as a list of dictionaries
-        # to match its input, though I'll probably change that.
-
-        if type(normalizing_map) is list:
-            normalizing_map = dict([list(d.items())[0] for d in normalizing_map])
-
-        normalized_exceptions = [normalizing_map[e] for e in exceptions]
-        counts = {}
-
-        for (name, definition) in self.entries:
-
-            normalized_name = normalizing_map[name]
-            
-            if normalized_name in normalized_exceptions:
-                continue
-
-            if normalized_name in counts:
-                counts[normalized_name] += 1
-            else:
-                counts[normalized_name] = 1
-
-        return counts
