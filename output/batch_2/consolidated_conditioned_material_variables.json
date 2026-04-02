@@ -1,0 +1,32 @@
+{
+    "variable_mapping": {
+        "material_identifier": "material_identifier",
+        "manufacturing_process_description": "manufacturing_process",
+        "heat_treatment_parameters": "heat_treatment_parameters",
+        "surface_preparation_and_finish": "surface_preparation_and_finish",
+        "electrode_masking_configuration": "specimen_mounting_and_masking",
+        "mounting_method": "specimen_mounting_and_masking",
+        "exposed_surface_area": "exposed_surface_area",
+        "specimen_exposed_area": "exposed_surface_area",
+        "cold_working_percentage": "cold_working_percentage",
+        "specimen_geometry_and_orientation": "specimen_geometry_and_orientation",
+        "specimen_geometry_and_exposure": "specimen_geometry_and_orientation",
+        "specimen_evaluation_surface_orientation": "specimen_geometry_and_orientation",
+        "welding_heat_input": "welding_heat_input",
+        "welding_filler_metal": "welding_filler_metal",
+        "phase_segregation_characteristics": "phase_segregation_characteristics"
+    },
+    "normalized_definitions": {
+        "material_identifier": "The unique name, designation, or identification code of the conditioned material or alloy under investigation.",
+        "manufacturing_process": "A descriptive summary of the overall preparation, manufacturing, and processing steps applied to the base material prior to specimen extraction.",
+        "heat_treatment_parameters": "Details describing the applied thermal treatments, including temperatures, durations, and cooling methods used to condition the material microstructure.",
+        "surface_preparation_and_finish": "The comprehensive mechanical and chemical procedures (e.g., grinding, polishing, etching, passivation) applied to the specimen surface prior to testing, as well as the resulting surface roughness that influences localized pitting initiation.",
+        "specimen_mounting_and_masking": "The specific techniques, embedding materials, and masking configurations used to seal the specimen edges and boundaries to prevent crevice corrosion artifacts and obscurement of true pitting potentials.",
+        "exposed_surface_area": "The exact geometric surface area or physical dimensions of the conditioned specimen directly exposed to the testing electrolyte, serving as a critical variable for normalizing absolute current into corrosion current densities and influencing the probability of encompassing localized pitting defects.",
+        "cold_working_percentage": "The precise degree of plastic deformation or reduction applied during shaping (e.g., forging or rolling), which increases dislocation density and alters localized corrosion susceptibility.",
+        "specimen_geometry_and_orientation": "The physical shape, dimensions, and mechanical orientation of the evaluated specimen relative to the processing direction (e.g., rolling plane), including configurations designed to restrict corrosion to flat surfaces and exclude structural anomalies like end-grains or edges.",
+        "welding_heat_input": "The precise thermal energy applied to the material per unit length during welding, which critically affects the cooling rate, phase precipitation, and resulting corrosion resistance of the heat-affected zone (HAZ).",
+        "welding_filler_metal": "The specified alloy used as the filler material during welding operations, which determines the final localized chemical composition and dilution levels of the resultant weld metal.",
+        "phase_segregation_characteristics": "Quantitative or qualitative details regarding elemental segregation between distinct microstructural regions resulting from processing, which act as micro-galvanic cells driving localized pitting attack."
+    }
+}

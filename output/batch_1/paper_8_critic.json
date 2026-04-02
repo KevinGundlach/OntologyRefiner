@@ -1,0 +1,15 @@
+{
+    "proposed_base_material_variables": {
+        "inclusion_characteristics": "Details regarding non-metallic inclusions, such as type, density, or elemental composition (e.g., titanium-rich inclusions), which can act as localized cathodic sites and pitting nucleation points."
+    },
+    "proposed_conditioned_material_variables": {
+        "surface_finish": "The final surface preparation, roughness, or polishing method applied to the sample (e.g., ground to 600 grade SiC paper) prior to testing, as surface topography significantly affects pitting initiation.",
+        "welding_condition": "Specifics of any welding applied to the material prior to testing, including weld type (e.g., autogenous) and post-weld thermal states (e.g., annealed or as-welded)."
+    },
+    "proposed_experiment_variables": {
+        "reference_electrode": "The standard reference electrode used to measure the electrochemical potential (e.g., Saturated Calomel Electrode - SCE), strictly required to interpret pitting potential values.",
+        "scan_rate": "The rate at which the applied potential is changed during potentiodynamic polarization (e.g., 600 mV/h), which strongly influences the measured breakdown potential.",
+        "pre_test_immersion_time": "The duration the sample is exposed to the test solution at the free-corrosion potential prior to beginning the polarization scan, allowing passive film stabilization.",
+        "critical_pitting_temperature": "The specifically measured minimum temperature at which pitting corrosion initiates for a given environment, which is a distinct metric from isothermal pitting potential."
+    }
+}

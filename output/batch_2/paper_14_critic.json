@@ -1,0 +1,11 @@
+{
+    "proposed_base_material_variables": {},
+    "proposed_conditioned_material_variables": {
+        "specimen_geometry_and_exposure": "Details regarding the physical shape, dimension, exposed surface area, and masking techniques applied to the specimen to restrict corrosion to flat surfaces and prevent interference from edge, end-grain, or crevice attack."
+    },
+    "proposed_experiment_variables": {
+        "electrolyte_chemistry_and_pH": "The specific chemical constituents, concentrations (e.g., 3.5% NaCl, 10% FeCl3), exact pH level, and dissolved gas status (e.g., nitrogenated/deaerated) of the test solution.",
+        "critical_pitting_temperature": "The precise threshold temperature (often designated as CPT or T500) at which stable localized pitting initiates under a constant applied potential or specific freely corroding environmental condition.",
+        "pitting_initiation_criterion": "The quantitative threshold (such as a specific current density rise to 10 \u00b5A/cm\u00b2) or qualitative metric (such as visual confirmation after a specific time interval) used by the researchers to definitively mark the onset of stable pitting."
+    }
+}

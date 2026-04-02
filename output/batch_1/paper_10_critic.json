@@ -1,0 +1,16 @@
+{
+    "proposed_base_material_variables": {
+        "commercial_name": "Trade name, commercial designation, or standard grade of the alloy (e.g., FERRALIUM Alloy, A.C.I. CD-4MCu) as it often denotes specific proprietary constraints."
+    },
+    "proposed_conditioned_material_variables": {
+        "product_form": "The physical shape or manufacturing state of the base material from which test samples were extracted, such as casting, hot-rolled bar, or wrought assembly.",
+        "section_thickness": "The specific thickness or diameter of the bulk material during heat treatment (e.g., 25 mm dia. test bar vs. 76 mm thick section), which directly influences cooling rates, microstructure, and resulting corrosion resistance."
+    },
+    "proposed_experiment_variables": {
+        "reference_electrode": "The exact reference electrode used during the electrochemical measurements (e.g., Saturated Calomel Electrode - SCE), which is strictly required to normalize the extracted pitting potential values.",
+        "test_temperature": "The specific temperature of the electrolyte during testing, extracted as a standalone value with units, as temperature is a primary thermodynamic driver for pitting potential.",
+        "deaeration_status": "The specific atmospheric conditions of the test solution, including whether it was aerated or purged with a specific inert gas (e.g., N2-purged).",
+        "electrode_mounting_method": "The physical arrangement or holder used for the working electrode (e.g., Greene electrode holder), which is critical in pitting tests to ensure the measured breakdown is not actually premature crevice corrosion at the specimen-holder interface.",
+        "redox_potential": "The measured or calculated oxidation-reduction potential of the test solution (e.g., +0.54 mV SCE in FeCl3), which acts as the driving force in immersion/pitting tests."
+    }
+}

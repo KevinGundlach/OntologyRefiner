@@ -1,0 +1,15 @@
+{
+    "proposed_base_material_variables": {
+        "material_hardness": "The measured mechanical hardness of the bulk alloy (e.g., Vickers hardness), which can serve as a proxy for the degree of atomic disorder, phase distribution, or binding enhancement affecting the material's structural and electrochemical stability."
+    },
+    "proposed_conditioned_material_variables": {
+        "exposed_surface_area": "The precise geometric area of the conditioned specimen that is exposed to the testing electrolyte, strictly necessary for accurately calculating current densities from measured currents."
+    },
+    "proposed_experiment_variables": {
+        "electrolyte_composition": "The specific chemical constituents and their molar or normal concentrations that make up the test solution (e.g., 1 M NaCl, 1 N H2SO4) causing the pitting behavior.",
+        "electrolyte_pH": "The measured or adjusted pH level of the test solution prior to or during the experiment, an essential thermodynamic parameter that dictates passivity and pitting susceptibility.",
+        "aeration_status": "The condition of dissolved gases within the electrolyte during the test, detailing if the solution was naturally aerated, oxygenated, or deaerated using a specific purging gas (e.g., purified nitrogen) to eliminate dissolved oxygen effects.",
+        "agitation_conditions": "The hydrodynamic state of the electrolyte during testing, such as stagnant or constantly stirred, which significantly impacts mass transport dynamics and concentration polarization near the sample surface.",
+        "electrochemical_pre_conditioning": "Details of any in-situ potentiostatic or galvanostatic treatments applied immediately prior to the main polarization scan, such as a cathodic hold (e.g., -2.0 V vs Ecorr) to reduce native surface oxides."
+    }
+}

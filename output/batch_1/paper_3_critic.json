@@ -1,0 +1,14 @@
+{
+    "proposed_base_material_variables": {},
+    "proposed_conditioned_material_variables": {
+        "surface_preparation": "Specific surface treatments applied before testing, such as pickling, electropolishing, or sandblasting, which significantly affect surface defect density and pitting initiation.",
+        "sample_geometry_and_dimensions": "The physical dimensions and shape of the test specimen (e.g., flat coupon size, sheet thickness, or disc diameter), which can influence exposure area and edge effects."
+    },
+    "proposed_experiment_variables": {
+        "reference_electrode": "The specific standard electrode against which the pitting potential is measured and reported (e.g., Saturated Calomel Electrode / SCE). Without this, potential values lack thermodynamic context.",
+        "polarization_scan_rate": "The rate at which the applied potential is swept during potentiodynamic anodic polarization testing (e.g., 10 mV/min), which influences the measured critical pitting potential.",
+        "temperature": "The specific operating temperature of the test solution during the electrochemical measurement, extracted as a discrete thermodynamic variable rather than being buried in a general environment description.",
+        "pH": "The measured acidity or alkalinity of the test solution environment, extracted as a discrete numeric value.",
+        "dissolved_oxygen_concentration": "The specific level of dissolved oxygen in the test solution (e.g., deaerated, <5 ppb, 200 ppb), which is heavily manipulated in the study and acts as a critical variable for crevice and pitting corrosion behavior."
+    }
+}

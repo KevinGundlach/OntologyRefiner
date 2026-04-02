@@ -1,0 +1,14 @@
+{
+    "proposed_base_material_variables": {
+        "phase_volume_fractions": "Quantitative measurement of the different microstructural phases present (e.g., volume percent of alpha/ferrite phase in the austenitic matrix), which can create galvanic micro-couples and heavily affect localized pitting resistance."
+    },
+    "proposed_conditioned_material_variables": {
+        "cold_working_percentage": "The precise degree of plastic deformation or reduction applied during shaping (e.g., forging or rolling), which increases dislocation density and can alter localized corrosion susceptibility."
+    },
+    "proposed_experiment_variables": {
+        "electrolyte_composition": "The specific chemical formula and molar concentration of the testing solution (e.g., 0.1 N NaCl, 0.01 N NaBr, 0.5 N FeCl3), explicitly detailing the aggressive anions necessary for driving localized corrosion.",
+        "electrolyte_pH": "The measured acidity or alkalinity of the test solution (e.g., ~1.2), acting as a critical thermodynamic parameter that dictates the stability of the protective passive film.",
+        "exposed_testing_area": "The precise surface area of the working electrode exposed to the electrolyte (e.g., limited by a 1 mm diameter orifice), which directly affects the statistical probability of encountering pit-initiating structural defects.",
+        "pitting_breakdown_criterion": "The specific experimental threshold or qualitative methodology (e.g., a specific current density spike, or real-time microscopic observation of the first pit) used to definitively record the point of pitting initiation."
+    }
+}

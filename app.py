@@ -25,17 +25,8 @@ def consolidate_and_merge(client, ontology_group, aggregator_entries, output_fil
     consolidator = ConsolidatorAgent()
     consolidated_data = consolidator.run(client, aggregator_entries, output_file)
     
-    normalized_mappings = consolidated_data['variable_mapping']
-
-    normalized_mappings = {name: defn 
-                           for dic in normalized_mappings 
-                           for name, defn in dic.items()}
-    
+    normalized_mappings = consolidated_data['variable_mapping']    
     normalized_definitions = consolidated_data['normalized_definitions']
-
-    normalized_definitions = {name: defn 
-                              for dic in normalized_definitions 
-                              for name, defn in dic.items()}
 
     existing_variables = [normalized_mappings[name] for name in ontology_group.keys()]
     
@@ -55,7 +46,7 @@ def consolidate_and_merge(client, ontology_group, aggregator_entries, output_fil
 
 
 
-def run():
+def run_pipeline():
 
     os.makedirs(OUTPUT_PATH, exist_ok=True)
 
@@ -69,7 +60,7 @@ def run():
         data_extractor = DataExtractorAgent()
         critic = CriticAgent()
         
-        for batch_number in range(0, len(collection.papers), BATCH_SIZE):
+        for batch_number in range(1, len(collection.papers) + 1, BATCH_SIZE):
 
             batch_output_path = os.path.join(OUTPUT_PATH, f"batch_{batch_number}")
             os.makedirs(batch_output_path, exist_ok=True)
@@ -122,7 +113,7 @@ def run():
 
 
 def main():
-    pass
+    run_pipeline()
 
 
 if __name__ == "__main__":
