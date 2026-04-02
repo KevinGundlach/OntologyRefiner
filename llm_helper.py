@@ -5,6 +5,7 @@ from google.genai import types
 from google.genai.types import File 
 from dataclasses import dataclass
 from paper_collection import Paper 
+from typing import Any
 
 @dataclass 
 class ModelSettings:
@@ -68,13 +69,13 @@ class LLMClient:
             
         return False
 
-    def generate(self, prompt:str, paper:Paper|None=None, output_json:bool=False):
+    def generate(self, prompt:str, paper:Paper|None=None, response_schema:Any|None=None):
         if self.use_google_genai:
-            return self._generate_genai(prompt, paper, output_json)
+            return self._generate_genai(prompt, paper, response_schema)
         else:
-            return self._generate_openai(prompt, paper, output_json) 
+            return self._generate_openai(prompt, paper, response_schema) 
 
-    def _generate_genai(self, prompt:str, paper:Paper|None=None, output_json:bool=False):
+    def _generate_genai(self, prompt:str, paper:Paper|None=None, response_schema:Any|None=None):
         """
         Uses Google's genai API to submit pdf files directly to Gemini.
         """
@@ -88,11 +89,12 @@ class LLMClient:
         model = self.settings.model
 
         thinking_config = types.ThinkingConfig(thinking_level="high")
-        response_mime_type = "application/json" if output_json else None
+        response_mime_type = "text/plain" if response_schema is None else "application/json"
 
         generate_content_config = types.GenerateContentConfig(
             thinking_config=thinking_config,
-            response_mime_type=response_mime_type
+            response_mime_type=response_mime_type,
+            response_schema = response_schema,
         )
         
         response = self.client.models.generate_content(
@@ -103,7 +105,7 @@ class LLMClient:
 
         return response.text
 
-    def _generate_openai(self, prompt:str, paper:Paper|None=None, output_json:bool=False):
+    def _generate_openai(self, prompt:str, paper:Paper|None=None, response_schema:Any|None=None):
         """
         Uses OpenAI API to connect to any compatible LLM endpoint - 
         whether that's Gemini, ChatGPT, Ollama, vLLM, etc... 
@@ -122,17 +124,14 @@ class LLMClient:
             paper_text = paper.read_all()
             messages.append({"role": "user", "content": f"Here is the paper to analyze:\n\n{paper_text}"})
 
-        # Prepare configuration
         kwargs = {
             "model": self.settings.model,
             "messages": messages,
-            "temperature": 0.1,
         }
 
-        if output_json:
-            kwargs["response_format"] = {"type": "json_object"}
+        if response_schema is not None:
+            kwargs["response_format"] = response_schema
 
-        # Execute request
         response = self.client.chat.completions.create(**kwargs)
         
         return response.choices[0].message.content

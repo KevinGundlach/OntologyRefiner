@@ -2,7 +2,9 @@ from typing import List, Tuple
 from llm_helper import LLMClient
 from aggregator import DataAggregator
 from typing import Any
+from pydantic import BaseModel
 import json
+import os
 
 PROMPT_TEMPLATE = """
 **System/Instruction Prompt:**
@@ -21,15 +23,15 @@ You must output a valid JSON object strictly matching the structure below. Every
 
 ```json
 {
-    "variable_mapping": [
-        {"original_variable_name_1": "normalized_name_A"},
-        {"original_variable_name_2": "normalized_name_A"},
-        {"original_variable_name_3": "normalized_name_B"}
-    ],
-    "normalized_definitions": [
-        {"normalized_name_A": "Comprehensive definition incorporating the nuances of the grouped variables."},
-        {"normalized_name_B": "Comprehensive definition incorporating the nuances of the grouped variables."}
-    ]
+    "variable_mapping": {
+        "original_variable_name_1": "normalized_name_A",
+        "original_variable_name_2": "normalized_name_A",
+        "original_variable_name_3": "normalized_name_B"
+    },
+    "normalized_definitions": {
+        "normalized_name_A": "Comprehensive definition incorporating the nuances of the grouped variables.",
+        "normalized_name_B": "Comprehensive definition incorporating the nuances of the grouped variables."
+    }
 }
 ```
 
@@ -39,20 +41,26 @@ You must output a valid JSON object strictly matching the structure below. Every
 
 """
 
+class OutputSchema(BaseModel):
+    variable_mapping: dict[str, str]
+    normalized_definitions: dict[str, str]
+
 
 class ConsolidatorAgent:
 
-    def run(self, client:LLMClient, variables:List[Tuple[str, str]], output_path:str|None=None) -> Any:
+    def run(self, client:LLMClient, variables:List[Tuple[str, str]], output_path:str) -> Any:
         
+        if os.path.isfile(output_path):
+            with open(output_path, "r", encoding="utf-8") as f:
+                return json.load(f)
+
         data_variables_section = "\n".join([f"- {k}: {v}" for k, v in variables])
 
         prompt = PROMPT_TEMPLATE.replace("[Paste Data Variables Here]", data_variables_section)
         
-        text = client.generate(prompt, output_json=True)
-        
-        if output_path is not None:
-            with open(output_path, "w", encoding="utf-8") as f:
-                f.write(text)
+        text = client.generate(prompt, response_schema=OutputSchema)
+       
+        with open(output_path, "w", encoding="utf-8") as f:
+            f.write(text)
 
         return json.loads(text)
-

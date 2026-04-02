@@ -1,6 +1,7 @@
 from paper_collection import Paper
 from llm_helper import LLMClient
 from ontology import Ontology
+import os 
 
 PROMPT_PREFIX = r"""
 **System/Instruction Prompt:**
@@ -28,15 +29,18 @@ class DataExtractorAgent:
             client:LLMClient, 
             paper:Paper, 
             ontology:Ontology, 
-            output_path:str|None=None
+            output_path:str
         ) -> str:
         
+        if os.path.isfile(output_path):
+            with open(output_path, "r", encoding="utf-8") as f:
+                return f.read()
+
         prompt = PROMPT_PREFIX + "\n" + ontology.to_markdown()
 
         text = client.generate(prompt, paper)
  
-        if output_path is not None:
-            with open(output_path, "w", encoding="utf-8") as f:
-                f.write(text)
+        with open(output_path, "w", encoding="utf-8") as f:
+            f.write(text)
 
         return text

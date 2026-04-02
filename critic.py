@@ -2,7 +2,9 @@ from paper_collection import Paper
 from llm_helper import LLMClient 
 from ontology import Ontology
 from typing import Any
+from pydantic import BaseModel
 import json
+import os
 
 PROMPT_TEMPLATE = r"""
 **System/Instruction Prompt:**
@@ -22,16 +24,16 @@ You must output a valid JSON object strictly matching the structure below. Do no
 
 ```json
 {
-    "proposed_base_material_variables": [
-        {"example_variable_name_1": "clear, concise definition of what this variable measures"},
-        {"example_variable_name_2": "clear, concise definition of what this variable measures"}
-    ],
-    "proposed_conditioned_material_variables": [
-        {"example_variable_name_3": "clear, concise definition..."}
-    ],
-    "proposed_experiment_variables": [
-        {"example_variable_name_4": "clear, concise definition..."}
-    ]
+    "proposed_base_material_variables": {
+        "example_variable_name_1": "clear, concise definition of what this variable measures",
+        "example_variable_name_2": "clear, concise definition of what this variable measures"
+    },
+    "proposed_conditioned_material_variables": {
+        "example_variable_name_3": "clear, concise definition..."
+    },
+    "proposed_experiment_variables": {
+        "example_variable_name_4": "clear, concise definition..."
+    }
 }
 ```
 
@@ -45,6 +47,12 @@ You must output a valid JSON object strictly matching the structure below. Do no
 
 """
 
+class OutputSchema(BaseModel):
+    proposed_base_material_variables: dict[str, str]
+    proposed_conditioned_material_variables: dict[str, str]
+    proposed_experiment_variables: dict[str, str]
+
+
 class CriticAgent:
 
     def run(self, 
@@ -52,16 +60,19 @@ class CriticAgent:
             paper:Paper, 
             ont:Ontology, 
             extractor_output:str,
-            output_path:str|None=None
+            output_path:str
         ) -> Any:
+
+        if os.path.isfile(output_path):
+            with open(output_path, "r", encoding="utf-8") as f:
+                return json.load(f)
 
         prompt = (PROMPT_TEMPLATE.replace("[Paste Extractor Template Here]", ont.to_markdown())
                                  .replace("[Paste Extractor Output Here]", extractor_output))
                 
-        text = client.generate(prompt, paper, output_json=True)
+        text = client.generate(prompt, paper, response_schema=OutputSchema)
         
-        if output_path is not None:
-            with open(output_path, "w", encoding="utf-8") as f:
-                f.write(text)
+        with open(output_path, "w", encoding="utf-8") as f:
+            f.write(text)
 
         return json.loads(text)
