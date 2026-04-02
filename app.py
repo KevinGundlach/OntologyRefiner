@@ -12,6 +12,7 @@ from pathlib import Path
 import os
 import json
 
+
 PAPERS_FOLDER = "papers"
 BASE_ONTOLOGY_FILE = "ontology\\ontology_v1.json"
 OUTPUT_PATH = "output"
@@ -114,7 +115,8 @@ def run():
                 os.path.join(batch_output_path, "experiment_consolidated.json")
             )
 
-            # TODO: Save the new ontology.
+            ontology_output_file = os.path.join(batch_output_path, f"new_ontology.json")
+            new_ontology.save(ontology_output_file)
 
             ontology = new_ontology
 

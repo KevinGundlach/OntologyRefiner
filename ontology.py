@@ -16,6 +16,16 @@ class Ontology:
             self.conditioned_material = {}
             self.experiment = {}
 
+    def save(self, json_file_path:str):
+        
+        data = {
+            "base_material": self.base_material,
+            "conditioned_material": self.conditioned_material,
+            "experiment": self.experiment
+        }
+
+        with open(json_file_path, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=4)
 
     def to_markdown(self):
         
