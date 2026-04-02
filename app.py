@@ -11,6 +11,7 @@ from ontology import Ontology
 from pathlib import Path
 import os
 import json
+import math
 
 
 PAPERS_FOLDER = "papers"
@@ -18,6 +19,7 @@ BASE_ONTOLOGY_FILE = "ontology\\ontology_v1.json"
 OUTPUT_PATH = "output"
 BATCH_SIZE = 10
 CONSOLIDATOR_THRESHOLD = 5
+PAPER_LIMIT = 30
 
 
 def consolidate_and_merge(client, ontology_group, aggregator_entries, output_file):
@@ -39,8 +41,8 @@ def consolidate_and_merge(client, ontology_group, aggregator_entries, output_fil
     new_variables = [name for name, defn in proposed_variable_counts.items() 
                           if defn >= CONSOLIDATOR_THRESHOLD]
 
-    updated_ontology_group = [(name, normalized_definitions[name]) 
-                              for name in proposed_variables + new_variables]
+    updated_ontology_group = {name: normalized_definitions[name] 
+                              for name in existing_variables + new_variables}
 
     return updated_ontology_group
 
@@ -51,21 +53,29 @@ def run_pipeline():
     os.makedirs(OUTPUT_PATH, exist_ok=True)
 
     collection = PaperCollection(PAPERS_FOLDER)
+    collection.papers = collection.papers[:PAPER_LIMIT]
     
     with LLMClient(ModelSettings.gemini_pro(), use_google_genai=True) as client:
 
         collection.sync_with_gemini(client.client)
+        
         ontology = Ontology(BASE_ONTOLOGY_FILE)
         
         data_extractor = DataExtractorAgent()
         critic = CriticAgent()
         
-        for batch_number in range(1, len(collection.papers) + 1, BATCH_SIZE):
+        num_batches = math.ceil(len(collection.papers) / BATCH_SIZE)
+
+        for batch_index in range(num_batches):
+            
+            batch_number = batch_index + 1
+            paper_idx_start = batch_index * BATCH_SIZE
+            paper_idx_end = min(paper_idx_start + BATCH_SIZE, len(collection.papers))
 
             batch_output_path = os.path.join(OUTPUT_PATH, f"batch_{batch_number}")
             os.makedirs(batch_output_path, exist_ok=True)
 
-            batch = collection.papers[batch_number:batch_number+BATCH_SIZE]
+            batch = collection.papers[paper_idx_start:paper_idx_end]
             aggregator = DataAggregator(ontology)
     
             pbar = tqdm(batch)
@@ -75,10 +85,10 @@ def run_pipeline():
                 data_extractor_output_file = os.path.join(batch_output_path, f"paper_{paper.reference}.md")
                 critic_output_file = os.path.join(batch_output_path, f"paper_{paper.reference}_critic.json")
                 
-                pbar.set_description(f"Batch {batch_number} Extracting...")
+                pbar.set_description(f"Batch {batch_number} Extracting {paper.file_name}")
                 extractor_output = data_extractor.run(client, paper, ontology, data_extractor_output_file)
                 
-                pbar.set_description(f"Batch {batch_number} Critiquing...")
+                pbar.set_description(f"Batch {batch_number} Critiquing {paper.file_name}")
                 critic_output = critic.run(client, paper, ontology, extractor_output, critic_output_file)
                 
                 aggregator.update(critic_output)

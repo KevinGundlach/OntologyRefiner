@@ -1,0 +1,22 @@
+{
+    "base_material": {
+        "material_designation_and_classification": "The standard designation, trade name, commercial grade, UNS code, broad categorization, and specific alloy family classification used to identify and group the base material based on distinct chemical characteristics.",
+        "chemical_composition": "The precise chemical elemental makeup of the alloy or base material, including trace elements, typically expressed in specific units of measure such as weight percent (wt%) or atomic percent (at%).",
+        "microstructural_properties": "Details describing the internal structure of the material, including the overall microstructure, secondary phases, precipitates, intermetallic compounds, non-metallic inclusions, and the quantitative volume fractions of these phases that influence localized pitting resistance."
+    },
+    "conditioned_material": {
+        "material_identifier": "The unique name, designation, or identification code of the conditioned material or alloy under investigation.",
+        "manufacturing_process": "A descriptive summary of the overall preparation, manufacturing, and processing steps applied to the base material prior to specimen extraction.",
+        "heat_treatment_parameters": "Details describing the applied thermal treatments, including temperatures, durations, and cooling methods used to condition the material microstructure.",
+        "surface_preparation_and_finish": "The comprehensive mechanical and chemical procedures (e.g., grinding, polishing, etching, passivation) applied to the specimen surface prior to testing, as well as the resulting surface roughness that influences localized pitting initiation."
+    },
+    "experiment": {
+        "experimental_test_summary": "A high-level summary of the overall experimental procedure, including test type, solution chemistry, operating parameters, and environmental conditions.",
+        "pitting_potential": "The specific extracted critical potential value, including units of measure, at which stable localized pitting initiation occurs.",
+        "electrolyte_temperature": "The explicitly controlled temperature of the test solution or electrolyte during the measurement, representing a critical thermodynamic variable that influences pitting.",
+        "polarization_scan_rate": "The continuous sweep rate or discrete step-size and holding duration applied to change the electrical potential during polarization testing.",
+        "reference_electrode": "The standard reference electrode (e.g., SCE, Ag/AgCl) used during electrochemical testing to measure and standardize potentials.",
+        "electrolyte_composition": "The precise chemical formulation, specific solvent, molar concentrations, and added inhibitors of the testing solution or electrolyte representing the aggressive environment driving corrosion.",
+        "aeration_status": "The specific condition of dissolved reactive gases in the electrolyte, including whether the solution was aerated, naturally exposed to air, or deaerated/purged with an inert gas like nitrogen or argon."
+    }
+}
