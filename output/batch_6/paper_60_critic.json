@@ -1,0 +1,13 @@
+{
+    "proposed_base_material_variables": {
+        "material_density": "The theoretical or measured bulk density of the alloy (e.g., g/cm3), which is essential for calculating pit growth kinetics, equivalent weights, and electrochemical penetration depths from anodic current data."
+    },
+    "proposed_conditioned_material_variables": {
+        "specimen_form": "The physical macroscopic geometry or form of the tested sample (e.g., melt-spun ribbon, as-drawn foil, bulk plate), which dictates inherent structural constraints, edge effects, and available at-risk surface area."
+    },
+    "proposed_experiment_variables": {
+        "repassivation_potential": "The explicitly measured protection or repassivation potential (Er) at which active localized pit growth ceases and the passive film re-establishes during a reverse (cathodic-directed) polarization sweep.",
+        "scan_reversal_criteria": "The predetermined experimental threshold (e.g., a specific absolute current like 0.05 mA, or a current density value) reached during the forward anodic scan that triggers the reversal of the polarization sweep.",
+        "artificial_pit_depth": "The specific depth to which pits are intentionally electrochemically grown or pre-dissolved (e.g., 0.5-0.7 mm) prior to stepping the potential, as repassivation characteristics heavily depend on the prior pit depth."
+    }
+}

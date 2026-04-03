@@ -1,0 +1,17 @@
+{
+    "proposed_base_material_variables": {
+        "pitting_resistance_equivalent_number": "A calculated numerical value (PREN) based on the specific weight percentages of alloying elements (like Cr, Mo, N) used to rank or estimate the material's inherent resistance to localized pitting corrosion."
+    },
+    "proposed_conditioned_material_variables": {
+        "electrode_mounting_method": "The specific material and physical configuration used to encase or mount the specimen (e.g., Dexter Hysol epoxy, multi-electrode arrays), which can significantly influence the occurrence of artificial crevice corrosion at the sample/mount interface."
+    },
+    "proposed_experiment_variables": {
+        "repassivation_potential": "The explicitly measured critical potential (Erp) at which actively growing localized corrosion (such as pits or crevices) arrests and the passive film completely reforms upon scanning in the reverse (cathodic) direction.",
+        "electrolyte_ph": "The explicitly controlled or measured pH level of the bulk electrolyte during testing, which acts as a primary environmental variable dictating pitting and repassivation susceptibility.",
+        "potentiostatic_hold_potential": "The specific constant anodic electrical potential applied to the working electrode used to initiate stable pits or to capture current transients associated with metastable pitting.",
+        "potentiostatic_hold_duration": "The total duration of time that the constant potentiostatic hold is maintained during the electrochemical test.",
+        "galvanostatic_hold_current_density": "The specific constant anodic current density applied to actively drive and propagate localized corrosion, such as the hold step used in the Tsujikawa-Hisamatsu-Electrochemical (THE) method.",
+        "galvanostatic_hold_duration": "The total duration of time that the constant galvanostatic current is maintained to propagate localized attack before sweeping the potential backward.",
+        "data_sampling_rate": "The frequency at which current or potential data points are recorded by the potentiostat (e.g., in Hz), which is critical for accurately resolving the peak currents and lifetimes of fast, short-lived metastable pitting transients."
+    }
+}

@@ -1,0 +1,14 @@
+
+{
+    "proposed_base_material_variables": {},
+    "proposed_conditioned_material_variables": {
+        "specimen_dimensions": "The macroscopic physical dimensions (e.g., length, width, thickness) or overall geometry of the test sample prior to any masking or mounting, providing context for geometric constraints and potential edge effects."
+    },
+    "proposed_experiment_variables": {
+        "primary_passivation_potential": "The specific potential (Epp) during an anodic sweep where the material transitions from an active dissolution state to a passive state, characterized by a peak active current before dropping into the passive region.",
+        "critical_passivation_current_density": "The maximum anodic current density (Icrit) measured at the primary passivation potential, representing the highest dissolution rate before the protective passive film fully forms.",
+        "passive_current_density": "The steady-state or minimum anodic current density (Ipassive) maintained across the passive potential range prior to localized pitting or transpassive breakdown.",
+        "transpassive_potential": "The potential (Etrans) at which the passive film breaks down uniformly due to the thermodynamic instability of the film itself (e.g., oxidation of Cr3+ to Cr6+), resulting in a rapid current increase distinct from localized defect-driven pitting.",
+        "cathodic_preconditioning_protocol": "The specific applied cathodic potential and time duration used to electrochemically reduce the air-formed native oxide film on the specimen surface inside the test cell immediately prior to OCP stabilization and anodic polarization."
+    }
+}

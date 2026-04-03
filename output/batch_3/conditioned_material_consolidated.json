@@ -1,0 +1,31 @@
+{
+    "variable_mapping": {
+        "material_identifier": "material_identifier",
+        "manufacturing_process": "manufacturing_process",
+        "heat_treatment_parameters": "heat_treatment_parameters",
+        "surface_preparation_and_finish": "surface_preparation_and_finish",
+        "sample_masking_technique": "specimen_mounting_and_masking",
+        "exposed_working_area": "exposed_surface_area",
+        "specimen_dimensions": "specimen_geometry_and_dimensions",
+        "exposed_surface_area": "exposed_surface_area",
+        "powder_consolidation_parameters": "powder_consolidation_parameters",
+        "mounting_technique": "specimen_mounting_and_masking",
+        "electron_work_function": "electron_work_function",
+        "sample_geometry_and_dimensions": "specimen_geometry_and_dimensions",
+        "coating_or_film_thickness": "coating_or_film_thickness",
+        "electrochemical_surface_modification": "electrochemical_surface_modification"
+    },
+    "normalized_definitions": {
+        "material_identifier": "The unique name, designation, or identification code of the conditioned material or alloy under investigation.",
+        "manufacturing_process": "A descriptive summary of the overall preparation, manufacturing, and processing steps applied to the base material prior to specimen extraction.",
+        "heat_treatment_parameters": "Details describing the applied thermal treatments, including temperatures, durations, and cooling methods used to condition the material microstructure.",
+        "surface_preparation_and_finish": "The comprehensive mechanical and chemical procedures (e.g., grinding, polishing, etching, passivation) applied to the specimen surface prior to testing, as well as the resulting surface roughness that influences localized pitting initiation.",
+        "specimen_mounting_and_masking": "The specific materials, methods, and hardware (e.g., Teflon seal tape, epoxy resin undercoating, cold mounting) used to embed, isolate, or insulate the edges and unexposed portions of the specimen. This is critical to prevent electrolyte ingress and avoid artifactual crevice corrosion during testing.",
+        "exposed_surface_area": "The explicitly defined geometric surface area of the working electrode that is intentionally left uncoated and actively exposed to the testing electrolyte. This measurement is required to accurately convert raw measured currents into current densities and fundamentally scales the statistical probability of encountering a critical surface defect for localized pit initiation.",
+        "specimen_geometry_and_dimensions": "The specific physical shape, cut dimensions (e.g., length, width, thickness), and orientation of the prepared material specimen, which dictates the bulk size and available surface area prior to defining the actively exposed testing region.",
+        "powder_consolidation_parameters": "Specific parameters governing the compaction and sintering of powder-based materials, including applied mechanical pressure, heating rate, holding time, and ambient atmosphere used to achieve bulk density and solid-state bonding.",
+        "electron_work_function": "The surface electronic energy level or relative nobility of the specific microstructural phases measured (e.g., via Scanning Kelvin Probe Force Microscopy), which serves as a predictor for the localized pitting tendency of the conditioned material.",
+        "coating_or_film_thickness": "The quantitative thickness of any applied surface coating or sputtered thin film, which directly impacts the barrier properties and relative defect density during localized corrosion.",
+        "electrochemical_surface_modification": "Specific electrochemical pretreatments applied prior to the main testing phase, such as cathodic polarization to remove native oxides or surface nitriding to deposit active layers, which fundamentally alter the initial chemical state of the test surface."
+    }
+}

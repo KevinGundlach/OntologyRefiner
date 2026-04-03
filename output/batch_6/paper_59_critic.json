@@ -1,0 +1,9 @@
+
+{
+    "proposed_base_material_variables": {},
+    "proposed_conditioned_material_variables": {},
+    "proposed_experiment_variables": {
+        "electrode_rotation_rate": "The rotational speed (e.g., in rpm) of the working electrode (such as a rotating disk or cylinder) used to quantitatively control hydrodynamic mass transport conditions and diffusion layer thickness at the electrode-electrolyte interface during the electrochemical test.",
+        "electrochemical_conditioning_protocol": "The specific in-situ pre-polarization parameters (e.g., applied cathodic potential and duration) used to precondition the working electrode prior to the main test, typically performed to reduce native air-formed oxides and establish a reproducible standard surface state."
+    }
+}

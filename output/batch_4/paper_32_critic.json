@@ -1,0 +1,14 @@
+{
+    "proposed_base_material_variables": {
+        "as_cast_structural_state": "The intrinsic physical and crystallographic state of the unconditioned base material directly after primary synthesis (e.g., fully amorphous glassy state), serving as the structural baseline before any devitrification or specific thermal conditioning is applied."
+    },
+    "proposed_conditioned_material_variables": {
+        "nanocrystal_or_grain_size": "The explicitly measured average diameter or physical dimension of the distinct grains, nanocrystals, or second-phase precipitates formed after conditioning, which directly affects the density and critical size of potential pit initiation sites."
+    },
+    "proposed_experiment_variables": {
+        "repassivation_potential": "The specific electrical potential (Erp), including units, at which an actively growing localized pit ceases to grow and the protective passive film is re-established during the reverse sweep of a cyclic polarization scan.",
+        "scan_reversal_criterion": "The explicit condition or threshold, such as a maximum anodic current density (e.g., 10 mA/cm^2), that triggers the reversal of the potential sweep direction during cyclic potentiodynamic polarization testing.",
+        "data_acquisition_rate": "The sampling frequency (e.g., 20 Hz) at which the testing equipment records electrochemical current and potential data, defining the temporal resolution necessary to capture transient, low-current metastable pitting events.",
+        "instrumentation_and_current_resolution": "The specific electrochemical instrumentation used (e.g., Gamry FAS2 potentiostat) and its defining minimum current detection threshold or sensitivity (e.g., capable of detecting 2 pA current spikes), which dictates the minimum observable volume of material loss during pit initiation."
+    }
+}

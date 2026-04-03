@@ -1,0 +1,14 @@
+{
+    "proposed_base_material_variables": {
+        "grain_size": "The quantitative measure of the average crystal grain dimensions (e.g., ASTM grain size number) within the base material, which influences grain boundary density and intergranular/localized corrosion susceptibility."
+    },
+    "proposed_conditioned_material_variables": {
+        "degree_of_cold_working": "The quantitative amount of plastic deformation or cold reduction (e.g., percentage thickness reduction) applied to the material prior to testing, which alters dislocation density and affects pitting initiation.",
+        "surface_orientation": "The specific geometric face or crystallographic direction exposed to the test electrolyte (e.g., rolled face/Walzflächen vs. cut cross-section/Schnittflächen), which can exhibit distinct localized corrosion behaviors due to microstructural anisotropy."
+    },
+    "proposed_experiment_variables": {
+        "repassivation_potential": "The explicitly measured critical potential value (e.g., Up) at which actively growing pits arrest and the passive film is restored on the material surface.",
+        "electrochemical_test_mode": "The specific mode of electrochemical control applied during the experiment (e.g., potentiodynamic/potentiokinetic sweep, potentiostatic holding, or galvanostatic polarization) to induce and measure localized corrosion.",
+        "galvanostatic_current_density": "The specific, constant anodic current density applied to the working electrode during galvanostatic testing used to determine characteristic pitting or repassivation potentials."
+    }
+}

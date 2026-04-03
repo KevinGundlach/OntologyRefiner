@@ -1,0 +1,10 @@
+{
+    "proposed_base_material_variables": {},
+    "proposed_conditioned_material_variables": {},
+    "proposed_experiment_variables": {
+        "cathodic_activation_protocol": "Details of any actively applied cathodic potential and its duration (e.g., -700 mV for 10 min) used to electrochemically reduce native oxides and clean the specimen surface prior to anodic polarization, which is a distinct mechanistic step from passive OCP stabilization.",
+        "electrolyte_ph": "The explicitly measured or calculated pH of the testing solution, serving as a critical thermodynamic variable that directly controls passive film stability, repassivation kinetics, and localized acidity thresholds for pitting.",
+        "electrochemical_test_method": "The specific electroanalytical technique employed (e.g., potentiodynamic polarization vs. potentiostatic stepping/hold). The current schema conflates stepping with scan rates, but the mode of potential application fundamentally alters how pitting and repassivation are observed.",
+        "potentiostatic_hold_time": "The specific time duration for which a constant potential is maintained during potentiostatic testing (e.g., 10 min vs 2 h), which is critical for observing time-dependent induction phenomena like passive film breakdown and stable pit growth."
+    }
+}

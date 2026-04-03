@@ -1,0 +1,32 @@
+{
+    "variable_mapping": {
+        "material_identifier": "material_identifier",
+        "manufacturing_process": "manufacturing_process",
+        "thermal_treatment_parameters": "thermal_treatment_parameters",
+        "surface_preparation_and_finish": "surface_preparation_and_treatment",
+        "chemical_passivation_treatment": "surface_preparation_and_treatment",
+        "exposed_surface_area": "exposed_surface_area",
+        "specimen_orientation": "specimen_surface_orientation",
+        "surface_orientation": "specimen_surface_orientation",
+        "electrode_mounting_method": "specimen_mounting_and_crevice_mitigation",
+        "crevice_mitigation_strategy": "specimen_mounting_and_crevice_mitigation",
+        "specimen_geometry_and_dimensions": "specimen_geometry_and_dimensions",
+        "specimen_mounting_method": "specimen_mounting_and_crevice_mitigation",
+        "sample_mounting_method": "specimen_mounting_and_crevice_mitigation",
+        "specimen_dimensions": "specimen_geometry_and_dimensions",
+        "welding_parameters": "welding_parameters",
+        "degree_of_cold_working": "degree_of_cold_working"
+    },
+    "normalized_definitions": {
+        "material_identifier": "The unique name, designation, or identification code of the conditioned material or alloy under investigation.",
+        "manufacturing_process": "A descriptive summary of the overall preparation, manufacturing, and processing steps applied to the base material prior to specimen extraction.",
+        "thermal_treatment_parameters": "Details of the thermal history applied to condition the material microstructure, including standard heat treatments (temperatures, durations, cooling methods) and simulated transient thermal cycles representing weld heat-affected zones.",
+        "surface_preparation_and_treatment": "The comprehensive mechanical and chemical procedures (e.g., grinding, polishing, etching, and specific chemical passivation immersions) applied to the specimen surface prior to testing to standardize surface finish, grow or stabilize the protective oxide passive film, and establish the surface roughness.",
+        "exposed_surface_area": "The explicitly defined geometric surface area of the working electrode actively exposed to the testing electrolyte, used to calculate current densities and scale the statistical probability of defect-driven pitting initiation.",
+        "specimen_surface_orientation": "The specific macroscopic geometric face, crystallographic direction, or directional axis of the tested surface exposed to the electrolyte relative to the material's original thermo-mechanical processing direction, which dictates the exposure profile of anisotropic microstructures.",
+        "specimen_mounting_and_crevice_mitigation": "The physical configuration, sealing mechanism, materials (e.g., epoxy, gaskets), and masking strategies used to secure the specimen, establish electrical connection, and prevent unintended artificial crevice corrosion at the sample-mount interface.",
+        "specimen_geometry_and_dimensions": "The explicit physical shape and geometric dimensions (e.g., length, width, thickness, and diameter) of the test coupon prior to environmental exposure or mounting, which can influence mass transport, electric field distribution, and edge effects during testing.",
+        "welding_parameters": "Specific process details for welded specimens, including the welding method, electrical current, travel speed, calculated heat input, and shielding gas flow rates, which dictate the microstructural evolution of the heat-affected zone (HAZ) and weld tinting.",
+        "degree_of_cold_working": "The quantitative amount of plastic deformation or cold reduction (e.g., percentage thickness reduction) applied to the material prior to testing, altering dislocation density and affecting localized corrosion behavior."
+    }
+}

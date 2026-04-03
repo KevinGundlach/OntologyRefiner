@@ -1,0 +1,22 @@
+{
+    "variable_mapping": {
+        "material_designation": "material_designation",
+        "bulk_chemical_composition": "bulk_chemical_composition",
+        "microstructural_properties": "microstructural_properties",
+        "alloy_temper_condition": "alloy_temper_condition",
+        "pitting_resistance_equivalent_number": "pitting_resistance_equivalent_number",
+        "phase_volume_fractions": "microstructural_properties",
+        "nonmetallic_inclusion_profile": "inclusion_profile",
+        "inclusion_density": "inclusion_profile",
+        "grain_size": "grain_size"
+    },
+    "normalized_definitions": {
+        "material_designation": "The standard designation, trade name, commercial grade, UNS code, broad categorization, and specific alloy family used to identify and group the base material based on distinct chemical characteristics.",
+        "bulk_chemical_composition": "The precise overall chemical elemental makeup of the base material or alloy, including trace elements, typically expressed in specific units of measure such as weight percent (wt%) or atomic percent (at%).",
+        "microstructural_properties": "Comprehensive details describing the internal structure of the material, encompassing the overall microstructure, secondary phases, precipitates, intermetallic compounds, and the precise quantitative percentages or volume fractions of these distinct phases (e.g., austenite, ferrite), which directly dictate internal galvanic interactions and structural pitting susceptibility.",
+        "alloy_temper_condition": "The standard temper designation specifying the precise sequence of mechanical and thermal treatments (e.g., T351, T6) the alloy originally underwent to achieve its specific precipitation state, directly determining the type and distribution of intermetallics responsible for subsequent localized corrosion initiation.",
+        "pitting_resistance_equivalent_number": "A calculated theoretical and empirical index (PREN) based on the specific weight percentages of key alloying elements (such as Cr, Mo, and N) used to theoretically quantify, estimate, rank, and compare the intrinsic resistance of the bulk material to localized pitting and crevice corrosion.",
+        "inclusion_profile": "Specific quantification, characterization, and density measurement (e.g., inclusions/mm2, bulk oxygen ppm) of nonmetallic inclusions, such as sulfides and oxides, within the alloy matrix, which act as primary and preferential initiation sites for localized pitting corrosion.",
+        "grain_size": "The quantitative measure of the average crystal grain dimensions (e.g., ASTM grain size number) within the base material, which influences grain boundary density and intergranular/localized corrosion susceptibility."
+    }
+}

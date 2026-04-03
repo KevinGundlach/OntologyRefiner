@@ -1,0 +1,29 @@
+{
+    "variable_mapping": {
+        "material_identifier": "material_identifier",
+        "manufacturing_process": "manufacturing_process",
+        "heat_treatment_parameters": "thermal_treatment_parameters",
+        "surface_preparation_and_finish": "surface_preparation_and_finish",
+        "exposed_surface_area": "exposed_surface_area",
+        "nanocrystal_or_grain_size": "microstructural_grain_and_precipitate_size",
+        "specimen_geometry": "specimen_geometry_and_dimensions",
+        "crevice_prevention_method": "specimen_mounting_and_crevice_mitigation",
+        "sample_mounting_and_masking": "specimen_mounting_and_crevice_mitigation",
+        "specimen_geometry_and_dimensions": "specimen_geometry_and_dimensions",
+        "simulated_weld_thermal_cycle": "thermal_treatment_parameters",
+        "exposed_phase_area_ratio": "microstructural_phase_distribution",
+        "phase_volume_fractions": "microstructural_phase_distribution",
+        "crevice_mitigation_strategy": "specimen_mounting_and_crevice_mitigation"
+    },
+    "normalized_definitions": {
+        "material_identifier": "The unique name, designation, or identification code of the conditioned material or alloy under investigation.",
+        "manufacturing_process": "A descriptive summary of the overall preparation, manufacturing, and processing steps applied to the base material prior to specimen extraction.",
+        "thermal_treatment_parameters": "Details of the thermal history applied to condition the material microstructure, including standard heat treatments (temperatures, durations, cooling methods) and simulated transient thermal cycles (such as those representing weld heat-affected zones).",
+        "surface_preparation_and_finish": "The comprehensive mechanical and chemical procedures (e.g., grinding, polishing, etching, passivation) applied to the specimen surface prior to testing, as well as the resulting surface roughness that influences localized pitting initiation.",
+        "exposed_surface_area": "The explicitly defined geometric surface area of the working electrode actively exposed to the testing electrolyte, used to calculate current densities and scale the statistical probability of defect-driven pitting initiation.",
+        "microstructural_grain_and_precipitate_size": "The measured average diameter or physical dimension of distinct grains, nanocrystals, or second-phase precipitates formed after conditioning, which affects the density and critical size of potential pit initiation sites.",
+        "specimen_geometry_and_dimensions": "The macroscopic physical shape, form factor, and explicit dimensions (e.g., length, width, thickness, diameter) of the tested sample prior to masking and environmental exposure, which can significantly influence electric field distribution, hydrodynamics, and edge effects during testing.",
+        "specimen_mounting_and_crevice_mitigation": "The specific methods, materials, and techniques (e.g., epoxy resin mounting, silicone sealants, lacquer masking, customized holders) used to physically mount the specimen, mask unexposed regions, and seal boundaries to intentionally prevent artifactual crevice corrosion and ensure accurate pitting potential measurements.",
+        "microstructural_phase_distribution": "The quantitative assessment of microstructural phases, including the volume fractions of specific phases resulting from heat treatments and the relative surface area ratio between anodic and cathodic zones, which directly impacts galvanic coupling intensity, element dilution, and overall localized corrosion susceptibility."
+    }
+}

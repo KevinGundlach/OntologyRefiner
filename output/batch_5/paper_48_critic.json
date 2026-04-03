@@ -1,0 +1,12 @@
+{
+    "proposed_base_material_variables": {
+        "pitting_resistance_equivalent_number": "A calculated compositional index (e.g., Cr + 3xMo mass%) used to theoretically quantify and compare the relative resistance of the base alloy to localized pitting and crevice corrosion."
+    },
+    "proposed_conditioned_material_variables": {
+        "specimen_dimensions": "The overall physical geometric dimensions (e.g., length, width, and thickness) of the prepared material coupons prior to environmental exposure or specific surface masking."
+    },
+    "proposed_experiment_variables": {
+        "pitting_current_density_threshold": "The specific predetermined current density value (e.g., 10 µA/cm²) and accompanying behavior criteria (e.g., increasing without oscillation) used to officially define the onset of stable pitting during an anodic polarization sweep.",
+        "electrolyte_pH": "The exact measured pH level or hydrogen ion concentration of the testing electrolyte, including details of any acids (e.g., HCl) or bases added to adjust the acidity of the solution."
+    }
+}

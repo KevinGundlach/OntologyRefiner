@@ -1,0 +1,10 @@
+{
+    "proposed_base_material_variables": {},
+    "proposed_conditioned_material_variables": {
+        "crevice_mitigation_strategy": "The specific procedure, coating (e.g., lacquer), or physical masking method applied to the specimen-mount interface or sample edges to suppress premature crevice corrosion, ensuring the measured breakdown potential accurately reflects localized pitting."
+    },
+    "proposed_experiment_variables": {
+        "electrolyte_ph": "The explicitly measured or controlled acidity/alkalinity (pH) of the bulk electrolyte, which acts as a critical independent thermodynamic variable strongly influencing passive film stability and the resulting pitting potential.",
+        "solution_redox_potential": "The baseline redox potential (E_redox) of the testing solution itself, typically measured using an inert indicator electrode (e.g., platinum), which defines the bulk oxidizing nature of the environment independently from the working electrode's corrosion potential."
+    }
+}

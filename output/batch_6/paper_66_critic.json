@@ -1,0 +1,13 @@
+{
+    "proposed_base_material_variables": {
+        "pit_nucleation_sites": "Specific microstructural features, secondary phases, inclusions, or grain boundaries empirically identified post-corrosion as the preferential initiation points for localized pitting."
+    },
+    "proposed_conditioned_material_variables": {
+        "sample_mounting_method": "The specific material and physical technique used to encapsulate or mask the specimen (e.g., epoxy resin), which is critical for standardizing exposure and avoiding crevice corrosion artifacts at the electrode boundary during pitting evaluations."
+    },
+    "proposed_experiment_variables": {
+        "critical_passivation_potential": "The measured electrical potential (Ekp) at which the material transitions from active dissolution to a protective passive state during an anodic polarization sweep.",
+        "passive_current_density": "The steady-state anodic current density (ip) maintained across the passive potential region, serving as a direct measure of the passive film's stability and protectiveness.",
+        "critical_passivation_current_density": "The peak active current density (ikp) observed immediately prior to the onset of passivation during the polarization scan."
+    }
+}

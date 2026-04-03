@@ -1,0 +1,14 @@
+{
+    "proposed_base_material_variables": {
+        "local_phase_chemical_composition": "The specific measured chemical makeup and elemental partitioning of individual microstructural phases (e.g., austenite vs. ferrite in duplex stainless steels), which determines the weakest phase that acts as the primary initiation site for localized pitting.",
+        "pitting_resistance_equivalent_number": "A calculated empirical index (e.g., PREN = Cr + 3.3Mo + 16N) based on specific alloying elements, used by researchers to theoretically estimate and compare the relative pitting resistance of the bulk alloy or its individual phases."
+    },
+    "proposed_conditioned_material_variables": {
+        "simulated_weld_thermal_cycle": "The precise time-temperature profile, including heating mechanism, peak temperature, hold time, and cooling rate (e.g., via induction heating), used to physically simulate the transient microstructural evolution and phase precipitation within specific weld heat-affected zones (HAZ)."
+    },
+    "proposed_experiment_variables": {
+        "pitting_current_density_threshold": "The specific quantitative anodic current density value or predefined behavioral criteria (e.g., a dramatic current increase) used by the authors to objectively define the onset of stable pitting and extract the exact pitting potential value from the polarization curve.",
+        "dissolved_gas_partial_pressure": "The specific partial pressure of actively maintained corrosive or reactive gases (e.g., H2S, CO2) introduced into the test system, which directly alters the aggressiveness of the electrolyte and the resulting pitting potential.",
+        "test_cell_total_pressure": "The overall operating pressure of the testing vessel or autoclave during the electrochemical measurement, which governs the thermodynamic solubility and activity of dissolved gases in the testing environment."
+    }
+}

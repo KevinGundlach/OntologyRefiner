@@ -1,0 +1,14 @@
+{
+    "proposed_base_material_variables": {
+        "phase_specific_composition": "The quantitative chemical composition of distinct individual microstructural phases (e.g., austenite, ferrite) within the alloy, which governs localized micro-galvanic effects and site-specific pit initiation.",
+        "pitting_resistance_equivalent_number": "A calculated empirical index (such as PREN or Creff) based on the bulk or phase-specific mass fractions of critical alloying elements (like Cr, Mo, N, C) used to predict and normalize relative pitting corrosion resistance."
+    },
+    "proposed_conditioned_material_variables": {
+        "crevice_mitigation_strategy": "The specific physical or chemical techniques applied to the specimen boundaries (e.g., enamel masking, specialized specimen mounts, or localized pre-passivation) to prevent spurious crevice corrosion that could artificially lower the measured pitting potential."
+    },
+    "proposed_experiment_variables": {
+        "repassivation_potential": "The measured electrochemical potential (Erp) determined during the reverse polarization scan at which actively growing pits arrest and repassivate, typically defined by the intersection of the reverse and forward current density curves.",
+        "scan_reversal_criteria": "The predefined experimental threshold, such as a specific maximum current density (e.g., 10^-4 A/cm^2), at which the anodic potentiodynamic polarization scan direction is reversed to evaluate pit repassivation behavior.",
+        "critical_passivation_current_density": "The maximum anodic current density (ic) observed at the active-to-passive transition region before the material fully passivates, providing insight into the active dissolution kinetics prior to localized pitting."
+    }
+}

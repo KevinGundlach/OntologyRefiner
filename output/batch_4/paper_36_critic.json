@@ -1,0 +1,12 @@
+{
+    "proposed_base_material_variables": {},
+    "proposed_conditioned_material_variables": {
+        "sample_mounting_and_masking": "Details describing the methods and materials (e.g., silicon-base sealer, epoxy resin) used to physically mount the specimen and mask its edges or unexposed regions to intentionally prevent premature failure or unintended crevice corrosion during electrochemical testing."
+    },
+    "proposed_experiment_variables": {
+        "electrochemical_test_method": "The specific localized corrosion testing technique or core electrochemical protocol employed (e.g., stepped potentiostatic polarization, potentiodynamic polarization, or potentiostatic scratching technique) to determine critical pitting parameters.",
+        "protection_potential": "The measured repassivation or protection potential (Epp), including units, defined as the potential below which an actively growing pit can neither initiate nor propagate, representing the threshold for passive film repair.",
+        "mechanical_depassivation_parameters": "Specific procedural details of any intentional physical or mechanical disruption applied to the passive film during testing to artificially initiate pitting, such as the tool used (e.g., diamond engraving pencil) and the precise dimensions (length, width) of the resulting scratch.",
+        "electrolyte_pH": "The measured bulk pH of the testing electrolyte prior to or during the experiment, representing a fundamental thermodynamic parameter that heavily influences passive film stability and pitting susceptibility."
+    }
+}

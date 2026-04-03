@@ -69,13 +69,18 @@ class LLMClient:
             
         return False
 
-    def generate(self, prompt:str, paper:Paper|None=None, response_schema:Any|None=None):
+    def generate(self, prompt:str, paper:Paper|None=None, response_schema:Any|None=None) -> str:
+        
+        # Disable for now. It turns out Gemini doesn't support schemas that
+        # use json objects with dynamically generated keys.
+        response_schema = None 
+        
         if self.use_google_genai:
             return self._generate_genai(prompt, paper, response_schema)
         else:
             return self._generate_openai(prompt, paper, response_schema) 
 
-    def _generate_genai(self, prompt:str, paper:Paper|None=None, response_schema:Any|None=None):
+    def _generate_genai(self, prompt:str, paper:Paper|None=None, response_schema:Any|None=None) -> str:
         """
         Uses Google's genai API to submit pdf files directly to Gemini.
         """
@@ -105,7 +110,7 @@ class LLMClient:
 
         return response.text
 
-    def _generate_openai(self, prompt:str, paper:Paper|None=None, response_schema:Any|None=None):
+    def _generate_openai(self, prompt:str, paper:Paper|None=None, response_schema:Any|None=None) -> str:
         """
         Uses OpenAI API to connect to any compatible LLM endpoint - 
         whether that's Gemini, ChatGPT, Ollama, vLLM, etc... 

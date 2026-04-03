@@ -1,0 +1,16 @@
+{
+    "proposed_base_material_variables": {
+        "nonmetallic_inclusion_profile": "Specific quantification and characterization of nonmetallic inclusions, such as bulk oxygen parts-per-million, sulfides, and oxides, which act as preferential initiation sites for localized corrosion."
+    },
+    "proposed_conditioned_material_variables": {
+        "specimen_dimensions": "The explicit physical dimensions and geometric shape of the test coupon (e.g., length, width, thickness) extracted for the experiment prior to mounting or masking."
+    },
+    "proposed_experiment_variables": {
+        "applied_potential": "The constant electrical potential explicitly applied and maintained on the working electrode during potentiostatic tests, such as when determining critical pitting or crevice temperatures.",
+        "critical_pitting_temperature": "The lowest explicitly measured temperature at which stable localized pitting corrosion initiates on the material surface under a constant applied potential.",
+        "critical_crevice_temperature": "The lowest explicitly measured temperature at which stable crevice corrosion initiates under a constant applied potential when an artificial crevice is present.",
+        "temperature_scan_protocol": "The defined continuous heating rate or stepwise temperature increment and dwell time (e.g., 2 degrees Celsius every 15 minutes) applied to the electrolyte during critical pitting/crevice temperature testing.",
+        "crevice_prevention_technique": "The specialized apparatus or procedure utilized to suppress unwanted crevice corrosion at the electrode-mounting interface, such as an inert gas (argon) bubble or flushed-port design.",
+        "crevice_former_details": "The material, geometric configuration, and application method (e.g., clamped metal-to-metal coupon) of the artificial crevice creator used specifically for critical crevice temperature testing."
+    }
+}

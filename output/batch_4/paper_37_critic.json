@@ -1,0 +1,14 @@
+{
+    "proposed_base_material_variables": {
+        "grain_size": "The average physical size or diameter of the individual crystal grains within the metallic microstructure, which dictates grain boundary density and can directly influence the distribution of localized corrosion initiation sites."
+    },
+    "proposed_conditioned_material_variables": {
+        "specimen_geometry_and_dimensions": "The macroscopic physical shape and explicit dimensions (e.g., length, width, thickness) of the tested material sample prior to masking and environmental exposure.",
+        "crevice_prevention_method": "The specific technique, masking material, or customized holder design (e.g., lacquering, argon bubble isolation) utilized to seal edges and prevent artifactual crevice corrosion, ensuring the measured breakdown accurately reflects true pitting potential."
+    },
+    "proposed_experiment_variables": {
+        "hydrodynamic_conditions": "The controlled state of fluid flow or agitation in the testing environment, including static conditions, stirring, or the explicit rotation speed (e.g., in rpm) of a rotating disk electrode (RDE), which dictates mass transport and local concentration gradients near the surface.",
+        "electrolyte_pH": "The explicitly measured or chemically adjusted initial hydrogen ion concentration (pH) of the testing solution, representing a fundamental thermodynamic variable that directly influences passive film stability and pitting susceptibility.",
+        "metastable_pitting_potential": "The specific electrochemical potential (often denoted as E_init) at which initial, transient current spikes occur, indicating the temporary nucleation and subsequent repassivation of metastable pits prior to the onset of stable pitting breakdown."
+    }
+}

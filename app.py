@@ -19,7 +19,7 @@ BASE_ONTOLOGY_FILE = "ontology\\ontology_v1.json"
 OUTPUT_PATH = "output"
 BATCH_SIZE = 10
 CONSOLIDATOR_THRESHOLD = 5
-PAPER_LIMIT = 30
+PAPER_LIMIT = 60
 
 
 def consolidate_and_merge(client, ontology_group, aggregator_entries, output_file):
@@ -95,6 +95,8 @@ def run_pipeline():
 
             new_ontology = Ontology()
 
+            print("Consolidating base materials...")
+
             new_ontology.base_material = consolidate_and_merge(
                 client,
                 ontology.base_material,
@@ -102,12 +104,16 @@ def run_pipeline():
                 os.path.join(batch_output_path, "base_material_consolidated.json")
             )
 
+            print("Consolidating conditioned materials...")
+
             new_ontology.conditioned_material = consolidate_and_merge(
                 client,
                 ontology.conditioned_material,
                 aggregator.conditioned_material_entries,
                 os.path.join(batch_output_path, "conditioned_material_consolidated.json")
             )
+
+            print("Consolidating experiments...")
 
             new_ontology.experiment = consolidate_and_merge(
                 client,

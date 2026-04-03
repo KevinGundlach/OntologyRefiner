@@ -1,0 +1,15 @@
+{
+    "proposed_base_material_variables": {
+        "configurational_entropy": "The calculated theoretical mixing entropy of the alloy, typically expressed as a multiple of the gas constant (R), used to thermodynamically classify and evaluate high-entropy and medium-entropy alloys.",
+        "pitting_resistance_equivalent_number": "A theoretical index value (PRE or PREN) calculated from the base material's chemical composition (e.g., Cr, Mo, W, and N content) used to predict and rank relative resistance to localized pitting corrosion."
+    },
+    "proposed_conditioned_material_variables": {
+        "sample_geometry_and_dimensions": "The specific physical shape, cut dimensions, and orientation of the conditioned metal specimen prepared for electrochemical testing, which dictates the bulk size prior to defining the exposed active area."
+    },
+    "proposed_experiment_variables": {
+        "electrolyte_ph": "The measured initial and/or final pH of the testing solution, representing the hydrogen ion concentration which dictates the thermodynamic stability of passive oxide films, localized repassivation kinetics, and specific active dissolution species.",
+        "repassivation_potential": "The protection potential (Erep) identified during cyclic potentiodynamic polarization at which the hysteresis loop closes and active localized pitting repassivates and arrests.",
+        "corrosion_potential": "The free or open-circuit resting potential (Ecorr or Eoc) of the alloy in the electrolyte measured at equilibrium prior to applying an external polarization sweep.",
+        "counter_electrode": "The specific material and structural form of the auxiliary electrode (e.g., platinum sheet, graphite rod) used in the multi-electrode electrochemical cell to complete the electrical circuit during testing."
+    }
+}

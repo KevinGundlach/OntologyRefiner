@@ -1,0 +1,26 @@
+{
+    "variable_mapping": {
+        "material_designation": "material_designation",
+        "bulk_chemical_composition": "bulk_chemical_composition",
+        "microstructural_properties": "microstructural_properties",
+        "as_cast_structural_state": "initial_structural_state",
+        "inclusion_characteristics": "inclusion_characteristics",
+        "grain_size": "grain_size",
+        "local_phase_chemical_composition": "phase_specific_chemical_composition",
+        "pitting_resistance_equivalent_number": "pitting_resistance_equivalent_number",
+        "solute_depleted_zone_characteristics": "solute_depleted_zone_characteristics",
+        "phase_elemental_partitioning": "phase_specific_chemical_composition",
+        "phase_specific_composition": "phase_specific_chemical_composition"
+    },
+    "normalized_definitions": {
+        "material_designation": "The standard designation, trade name, commercial grade, UNS code, broad categorization, and specific alloy family used to identify and group the base material based on distinct chemical characteristics.",
+        "bulk_chemical_composition": "The precise overall chemical elemental makeup of the base material or alloy, including trace elements, typically expressed in specific units of measure such as weight percent (wt%) or atomic percent (at%).",
+        "microstructural_properties": "Comprehensive details describing the internal structure of the material, encompassing the overall microstructure, secondary phases, precipitates, intermetallic compounds, non-metallic inclusions, and the quantitative volume fractions of these phases.",
+        "initial_structural_state": "The intrinsic physical and crystallographic state of the unconditioned base material directly after primary synthesis (e.g., fully amorphous glassy state), serving as the structural baseline before any devitrification or specific thermal conditioning is applied.",
+        "inclusion_characteristics": "Specific details regarding the chemical composition, morphology, size, and distribution of non-metallic inclusions (e.g., MnS, Al2O3) within the base material matrix, which serve as preferential localized nucleation sites for pit initiation.",
+        "grain_size": "The average physical size or diameter of the individual crystal grains within the metallic microstructure, which dictates grain boundary density and can directly influence the distribution of localized corrosion initiation sites.",
+        "phase_specific_chemical_composition": "The specific quantitative chemical makeup and elemental partitioning of distinct individual microstructural phases (e.g., austenite vs. ferrite) within the alloy, detailing how key alloying elements are distributed and govern localized micro-galvanic effects, identifying the weakest phase for site-specific pit initiation.",
+        "solute_depleted_zone_characteristics": "Details regarding localized chemical microsegregation or solute depletion (e.g., copper-depleted zones along grain boundaries in aged alloys), including its approximate localized composition, which dictates the earliest point of active dissolution and the lowest critical pitting potential.",
+        "pitting_resistance_equivalent_number": "A calculated empirical index (e.g., PREN or Creff) based on the bulk or phase-specific mass fractions of critical alloying elements (such as Cr, Mo, N, C), used to theoretically estimate, normalize, and compare the relative pitting corrosion resistance of the material or its distinct phases."
+    }
+}

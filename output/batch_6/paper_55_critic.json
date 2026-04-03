@@ -1,0 +1,14 @@
+{
+    "proposed_base_material_variables": {
+        "precursor_material_purity": "The specified elemental purity levels of the constituent raw metals or ingots used to fabricate the base alloy, which dictates the concentration of trace impurities that could serve as heterogeneous localized corrosion nucleation sites."
+    },
+    "proposed_conditioned_material_variables": {
+        "sample_geometry": "The physical form factor, shape, and overall dimensions of the prepared specimen (e.g., melt-spun ribbon, thin foil, bulk coupon) which can influence boundary defect populations, edge effects, and geometric constraints during testing."
+    },
+    "proposed_experiment_variables": {
+        "repassivation_potential": "The measured critical potential (Erp) at which actively growing localized pits passivate and halt dissolution upon the reversal of the anodic potential sweep, serving as an essential secondary metric for localized corrosion resistance.",
+        "passive_current_density": "The steady-state anodic current density (ipass) measured during the protective passive regime prior to the onset of localized pitting, indicating the general barrier dissolution rate.",
+        "scan_reversal_criteria": "The explicitly defined threshold (typically a specified target current density, such as 1,000 \u00b5A/cm\u00b2) at which the anodic potentiodynamic scan is reversed to cathodic direction to evaluate repassivation kinetics and pit growth stability.",
+        "electrochemical_cell_type": "The physical hardware configuration or design of the testing container (e.g., conventional flat cell, micro-capillary cell, Avesta cell) used to interface the working electrode with the electrolyte, which can affect crevice corrosion risks and measurement geometries."
+    }
+}

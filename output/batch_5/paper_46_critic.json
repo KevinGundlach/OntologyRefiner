@@ -1,0 +1,13 @@
+{
+    "proposed_base_material_variables": {},
+    "proposed_conditioned_material_variables": {
+        "specimen_geometry_and_dimensions": "The physical shape and exact dimensions of the test specimen (e.g., cylindrical electrodes 0.25 in. diameter by 0.75 in. long, or sheet specimens 0.060 x 1 x 3 in.), which can affect mass transport, electric field distribution, and edge effects during testing.",
+        "specimen_mounting_method": "The specific apparatus or technique used to secure and mask the specimen in the test cell (e.g., Stern-Mackrides-type holder, suspended by Teflon tape), which is critical for establishing the electrical connection and preventing unintended crevice corrosion."
+    },
+    "proposed_experiment_variables": {
+        "electrolyte_ph": "The explicitly measured or adjusted initial and final hydrogen ion concentration (pH) of the testing electrolyte, which is a fundamental thermodynamic variable directly governing passive film stability and pitting susceptibility.",
+        "gas_flow_rate": "The volumetric flow rate (e.g., 1.5 L/min) at which sparging, aerating, or deaerating gases are bubbled through the electrolyte, affecting both the concentration of dissolved reactive species and the hydrodynamic agitation of the solution.",
+        "electrolyte_volume": "The total volume of the testing solution used in the experimental cell (e.g., 600 ml), which influences the dilution or concentration of dissolved metallic ions and corrosion products over the duration of the test.",
+        "solution_redox_potential": "The measured oxidation-reduction potential of the bulk test solution (typically measured using an inert platinum electrode), serving as the driving force for local passivity breakdown in open-circuit chemical pitting tests."
+    }
+}

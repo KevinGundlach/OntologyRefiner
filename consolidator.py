@@ -19,7 +19,7 @@ You will be provided with a JSON list of key-value pairs representing proposed v
 3. Create a single "normalized definition" that captures the nuances of the merged variables.
 
 **Output Constraints:**
-You must output a valid JSON object strictly matching the structure below. Every originally proposed variable name must be mapped to exactly one normalized name.
+You must output a valid JSON object strictly matching the structure below. Every originally proposed variable name must be mapped to exactly one normalized name. Do not include markdown formatting or extra text outside the JSON object.
 
 ```json
 {
@@ -59,7 +59,17 @@ class ConsolidatorAgent:
         prompt = PROMPT_TEMPLATE.replace("[Paste Data Variables Here]", data_variables_section)
         
         text = client.generate(prompt, response_schema=OutputSchema)
-       
+        text = text.strip()
+
+        # Stupid hack. Shouldn't be needed once I have 
+        # the output schema working correctly. 
+        
+        if text.startswith("```json"):
+            text = text[7:]
+
+        if text.endswith("```"):
+            text = text[:-3]
+
         with open(output_path, "w", encoding="utf-8") as f:
             f.write(text)
 

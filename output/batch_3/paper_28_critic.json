@@ -1,0 +1,14 @@
+{
+    "proposed_base_material_variables": {
+        "phase_chemical_composition": "The localized elemental makeup of individual microstructural phases (e.g., A1 matrix vs. A2/B2 precipitates), which highlights elemental segregation directly responsible for localized corrosion initiation."
+    },
+    "proposed_conditioned_material_variables": {
+        "electron_work_function": "The surface electronic energy level or relative nobility of the specific microstructural phases measured (e.g., via Scanning Kelvin Probe Force Microscopy), which predicts the localized pitting tendency of the conditioned material."
+    },
+    "proposed_experiment_variables": {
+        "pitting_current_density_threshold": "The explicit current density criterion or threshold (e.g., 100 \u00b5A/cm\u00b2) utilized by the researchers to define and extract the critical pitting potential from the polarization curve.",
+        "exposed_working_electrode_area": "The specific geometric surface area of the specimen exposed to the electrolyte, which scales the measured current to current density and affects the statistical probability of capturing pitting defects.",
+        "open_circuit_potential_stabilization_time": "The exact duration the specimen is immersed in the electrolyte to freely corrode and establish a steady-state passive film prior to initiating the applied polarization scan.",
+        "counter_electrode": "The specific material composition and type of the auxiliary/counter electrode (e.g., platinum sheet) used to complete the circuit in the three-electrode electrochemical cell."
+    }
+}

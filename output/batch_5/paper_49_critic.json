@@ -1,0 +1,12 @@
+{
+    "proposed_base_material_variables": {
+        "pitting_resistance_equivalent_number": "An empirical calculated metric (PREN), based on the weight percentages of specific alloying elements like Cr, Mo, and N, used to quantitatively estimate and compare the intrinsic resistance of the bulk material to localized pitting corrosion."
+    },
+    "proposed_conditioned_material_variables": {
+        "chemical_passivation_treatment": "Specific chemical immersion procedures (e.g., exposure to nitric acid for a set duration) applied to the specimen surface prior to testing to artificially grow, stabilize, or standardize the protective oxide passive film, distinct from standard mechanical surface finishing."
+    },
+    "proposed_experiment_variables": {
+        "electrolyte_ph": "The precisely measured or controlled hydrogen ion concentration (pH) of the bulk testing solution at the start of the experiment, which acts as a key thermodynamic variable independent of the general salt composition.",
+        "pitting_potential_definition_criterion": "The explicit qualitative or quantitative threshold (e.g., a specific current density limit or a defined 'consistent increase in current density') used by the researchers to identify and extract the exact pitting potential value from the potentiodynamic polarization curve."
+    }
+}

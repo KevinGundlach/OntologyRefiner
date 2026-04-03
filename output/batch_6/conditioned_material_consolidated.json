@@ -1,0 +1,38 @@
+{
+  "variable_mapping": {
+    "material_identifier": "material_identifier",
+    "manufacturing_process": "manufacturing_process",
+    "thermal_treatment_parameters": "thermal_treatment_parameters",
+    "surface_preparation_and_treatment": "surface_preparation_and_treatment",
+    "exposed_surface_area": "exposed_surface_area",
+    "crevice_mitigation_strategy": "specimen_mounting_and_masking",
+    "sample_geometry": "specimen_geometry_and_dimensions",
+    "surface_roughness": "surface_roughness",
+    "passive_film_thickness": "passive_film_thickness",
+    "passive_film_composition": "passive_film_composition",
+    "electrode_mounting_method": "specimen_mounting_and_masking",
+    "specimen_form": "specimen_geometry_and_dimensions",
+    "specimen_dimensions": "specimen_geometry_and_dimensions",
+    "ion_implantation_species": "ion_implantation_species",
+    "ion_implantation_energy": "ion_implantation_energy",
+    "ion_implantation_dose": "ion_implantation_dose",
+    "surface_layer_composition": "surface_layer_composition",
+    "sample_mounting_method": "specimen_mounting_and_masking"
+  },
+  "normalized_definitions": {
+    "material_identifier": "The unique name, designation, or identification code of the conditioned material or alloy under investigation.",
+    "manufacturing_process": "A descriptive summary of the overall preparation, manufacturing, and processing steps applied to the base material prior to specimen extraction.",
+    "thermal_treatment_parameters": "Details of the thermal history applied to condition the material microstructure, including standard heat treatments (temperatures, durations, cooling methods) and simulated transient thermal cycles representing weld heat-affected zones.",
+    "surface_preparation_and_treatment": "The comprehensive mechanical and chemical procedures (e.g., grinding, polishing, etching, and specific chemical passivation immersions) applied to the specimen surface prior to testing to standardize surface finish, grow or stabilize the protective oxide passive film, and establish the surface roughness.",
+    "exposed_surface_area": "The explicitly defined geometric surface area of the working electrode actively exposed to the testing electrolyte, used to calculate current densities and scale the statistical probability of defect-driven pitting initiation.",
+    "specimen_mounting_and_masking": "The specific materials, techniques, and configurations (e.g., epoxy resin embedding, meniscus method) used to encapsulate, mount, or mask the specimen. This includes crevice mitigation strategies, such as applying a thin film of lacquer at the specimen/mount interface, to strictly define the exposed testing area, standardize exposure, and prevent unwanted artificial crevice corrosion artifacts at the sample edges.",
+    "specimen_geometry_and_dimensions": "The macroscopic physical dimensions (e.g., length, width, thickness), physical form factor, and overall shape of the tested sample (e.g., melt-spun ribbon, thin foil, bulk coupon) prior to any masking or mounting. This geometry dictates inherent structural constraints, available at-risk surface area, boundary defect populations, and potential edge effects during testing.",
+    "surface_roughness": "The quantitatively measured surface roughness of the conditioned specimen (e.g., root mean square (RMS) roughness in Angstroms or nanometers), which dictates the spacing of critical flaws and strongly influences the statistical probability of localized pit initiation.",
+    "passive_film_thickness": "The explicitly measured or calculated thickness of the protective oxide layer present on the material surface, often determined via ellipsometry, which dictates the induction period for pit initiation.",
+    "passive_film_composition": "The specific chemical makeup, elemental distribution, and oxidation states within the passive surface film (e.g., obtained via XPS), determining its thermodynamic stability and resistance against halide attack.",
+    "surface_layer_composition": "The distinct, chemically altered elemental composition, peak atomic concentration, or relative mass fraction present strictly in the modified near-surface region, differing completely from the base bulk chemical composition.",
+    "ion_implantation_species": "The exact elemental or molecular ions (e.g., Mo, Kr) directed and embedded into the near-surface region of the target material to selectively modify its localized electrochemical properties.",
+    "ion_implantation_energy": "The kinetic acceleration energy applied to the ion beam (e.g., 50 keV, 140 keV), which dictates the ultimate penetration depth, distribution profile, and extent of lattice radiation damage in the treated surface.",
+    "ion_implantation_dose": "The total retained fluence or concentration of ions delivered per unit area to the material surface (e.g., ions/cm^2), driving the degree of surface alloying and localized defect generation."
+  }
+}

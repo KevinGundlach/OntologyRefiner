@@ -1,0 +1,13 @@
+{
+    "proposed_base_material_variables": {
+        "crystal_structure": "The specific crystallographic lattice structure or distinct phases present in the base material (e.g., single FCC, duplex FCC-BCC, ordered BCC), which inherently influence selective dissolution and localized corrosion susceptibility."
+    },
+    "proposed_conditioned_material_variables": {
+        "exposed_surface_area": "The precise geometric area of the working electrode actively exposed to the testing electrolyte, which is required to correctly convert raw measured currents into current densities."
+    },
+    "proposed_experiment_variables": {
+        "open_circuit_stabilization_time": "The specific duration the specimen is immersed in the electrolyte at open circuit potential (OCP) to reach a quasi-steady-state before the potentiodynamic polarization scan begins.",
+        "cathodic_pre_conditioning": "The applied negative potential and its corresponding duration used in-situ immediately prior to the test to strip native air-formed oxides and standardize the initial surface state.",
+        "counter_electrode": "The specific material and configuration of the auxiliary electrode (e.g., Platinum) used to complete the electrical circuit in the multi-electrode cell setup."
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "proposed_base_material_variables": {
+        "inclusion_characteristics": "Specific details regarding the chemical composition, morphology, size, and distribution of non-metallic inclusions (e.g., MnS, Al2O3) within the base material matrix, which serve as preferential localized nucleation sites for pit initiation."
+    },
+    "proposed_conditioned_material_variables": {
+        "crevice_prevention_method": "The explicit materials and application methods (e.g., silicone sealant, corrosion-resistant enamel coatings) used to seal the physical boundary between the specimen and its mounting medium or test cell O-ring to prevent premature crevice corrosion from skewing the true pitting potential measurement."
+    },
+    "proposed_experiment_variables": {
+        "passivation_current_density": "The stable, relatively constant anodic current density (ipass) established during the passive regime of the polarization scan prior to the critical pitting breakdown, representing the protective quality of the passive film.",
+        "metastable_pitting_behavior": "The observation, frequency, and magnitude of transient anodic current spikes recorded in the passive potential region before reaching the stable pitting potential, reflecting the continuous breakdown and repassivation of the passive film."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "proposed_base_material_variables": {
+        "phase_volume_fractions": "The precise quantitative percentages or volume fractions of distinct microstructural phases (e.g., austenite, ferrite) present in the alloy, which directly dictate internal galvanic interactions and structural pitting susceptibility."
+    },
+    "proposed_conditioned_material_variables": {
+        "sample_mounting_method": "The physical configuration, sealing mechanism, and materials used to mount or mask the working electrode (e.g., flat Teflon gasket with a raised ring seal, epoxy embedding, O-ring), which are critical for defining the exposed area and preventing artificial crevice corrosion."
+    },
+    "proposed_experiment_variables": {
+        "pitting_potential_criterion": "The explicit threshold definition or metric used by the researchers to determine the exact onset of stable pitting from the polarization curve, such as a specific sustained current limit (e.g., 0.02 mA without repassivation).",
+        "solution_pH": "The measured or actively standardized pH level of the bulk electrolyte test solution (e.g., pH 5.0 adjusted via acetic acid), which acts as a fundamental thermodynamic variable governing passive film stability.",
+        "electrochemical_pre_treatment": "The specific applied potential (non-OCP) and duration used to actively passivate, reduce native oxides, or condition the working electrode surface prior to initiating the anodic polarization sweep."
+    }
+}

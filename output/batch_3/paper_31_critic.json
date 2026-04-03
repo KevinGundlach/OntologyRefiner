@@ -1,0 +1,15 @@
+{
+    "proposed_base_material_variables": {
+        "substrate_material": "The underlying base material or support structure (e.g., pure molybdenum, silicon, or copper) upon which a thin film or coating alloy is deposited, which influences film adhesion, physical integrity, and localized corrosion behavior."
+    },
+    "proposed_conditioned_material_variables": {
+        "coating_or_film_thickness": "The quantitative thickness of any applied surface coating or sputtered thin film (e.g., ~2 µm), which directly impacts the barrier properties and relative defect density during localized corrosion.",
+        "electrochemical_surface_modification": "Specific electrochemical pretreatments applied prior to the main testing phase, such as cathodic polarization to remove native oxides or surface nitriding to deposit active layers, which fundamentally alter the initial chemical state of the test surface."
+    },
+    "proposed_experiment_variables": {
+        "counter_electrode_configuration": "The material, physical placement, and isolation method of the counter (auxiliary) electrode (e.g., platinum placed in separated compartments with porous frits) designed to prevent contamination or plating onto the working electrode during testing.",
+        "corrosion_potential": "The measured open-circuit or free corrosion potential (Ecorr) of the working electrode in the test solution, providing the thermodynamic baseline prior to anodic polarization.",
+        "passive_current_density": "The measured steady-state current density (ipass) indicating the protectiveness and dissolution rate of the protective passive film prior to localized breakdown or transpassive dissolution.",
+        "critical_current_density": "The maximum active dissolution current density (icrit) observed prior to the active-to-passive transition during the potentiodynamic sweep."
+    }
+}

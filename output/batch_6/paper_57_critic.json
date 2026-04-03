@@ -1,0 +1,11 @@
+{
+    "proposed_base_material_variables": {},
+    "proposed_conditioned_material_variables": {
+        "passive_film_thickness": "The explicitly measured or calculated thickness of the protective oxide layer present on the material surface, often determined via ellipsometry, which dictates the induction period for pit initiation.",
+        "passive_film_composition": "The specific chemical makeup, elemental distribution, and oxidation states within the passive surface film (e.g., obtained via XPS), determining its thermodynamic stability and resistance against halide attack."
+    },
+    "proposed_experiment_variables": {
+        "transpassive_dissolution_potential": "The critical potential at which the passive film breaks down due to bulk oxidation of key alloying elements into higher-valency soluble states (e.g., Cr(III) to Cr(VI)), establishing the upper anodic limit for passivity independent of localized pitting.",
+        "passive_film_impedance": "The measured alternating current (AC) impedance or direct current (DC) resistance limit of the passive film at a specific hold potential, serving as a quantitative indicator of the film's protective quality and resistance to ionic transport."
+    }
+}

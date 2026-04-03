@@ -1,0 +1,12 @@
+{
+    "proposed_base_material_variables": {
+        "precursor_powder_characteristics": "The physical and chemical properties of the initial raw powders used in powder metallurgy or mechanical alloying, including elemental purity and particle size, which influence the final defect density and phase homogeneity."
+    },
+    "proposed_conditioned_material_variables": {
+        "powder_consolidation_parameters": "Specific parameters governing the compaction and sintering of powder-based materials, including applied mechanical pressure, heating rate, holding time, and ambient atmosphere used to achieve bulk density and solid-state bonding."
+    },
+    "proposed_experiment_variables": {
+        "counter_electrode": "The material (e.g., Platinum) and setup of the auxiliary electrode used in the three-electrode electrochemical cell to complete the circuit during polarization measurements.",
+        "open_circuit_potential_stabilization_protocol": "The defined time duration, rest period, or stability criteria applied to allow the working electrode to reach a steady-state open-circuit potential (OCP) in the electrolyte prior to beginning the potentiodynamic sweep."
+    }
+}

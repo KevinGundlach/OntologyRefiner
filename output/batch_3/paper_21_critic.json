@@ -1,0 +1,15 @@
+{
+    "proposed_base_material_variables": {
+        "material_purity": "The explicitly stated overall purity level of the base metal (e.g., 99.99%), which is critical when testing non-alloyed reference materials to ensure trace elements do not artificially influence localized corrosion."
+    },
+    "proposed_conditioned_material_variables": {
+        "sample_masking_technique": "The specific materials and methods (e.g., Teflon seal tape, epoxy resin undercoating) used to insulate the edges and unexposed portions of the specimen to prevent crevice corrosion artifacts during testing.",
+        "exposed_working_area": "The explicitly defined geometric surface area of the specimen (e.g., 1 cm2) that is actively exposed to the test electrolyte during the electrochemical measurement."
+    },
+    "proposed_experiment_variables": {
+        "electrolyte_pH": "The quantitatively measured or controlled pH level of the test solution, which fundamentally dictates the thermodynamic stability of passive oxides and dissolved inhibitor species.",
+        "critical_pitting_temperature": "The specifically extracted threshold temperature (T_pit) at which stable pitting corrosion initiates, serving as a primary and distinct measure of localized corrosion resistance alongside the pitting potential.",
+        "corrosion_potential": "The initial open-circuit or steady-state resting potential (E_corr) measured in the environment before the stepwise anodic polarization scan begins.",
+        "inhibitor_species_and_concentration": "The specific chemical identity and exact molar concentration of purposely added soluble inhibitors (e.g., Na2MoO4) designed to interact with the material and suppress pitting initiation."
+    }
+}

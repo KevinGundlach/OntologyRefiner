@@ -1,0 +1,16 @@
+{
+    "proposed_base_material_variables": {
+        "product_form": "The physical geometry, mill shape, and starting dimensions of the supplied base material (e.g., 2 mm thick sheet, rod, plate), which provides critical context regarding potential thermomechanical history, grain directionality, and resulting surface anisotropy."
+    },
+    "proposed_conditioned_material_variables": {
+        "ion_implantation_species": "The exact elemental or molecular ions (e.g., Mo, Kr) directed and embedded into the near-surface region of the target material to selectively modify its localized electrochemical properties.",
+        "ion_implantation_energy": "The kinetic acceleration energy applied to the ion beam (e.g., 50 keV, 140 keV), which dictates the ultimate penetration depth, distribution profile, and extent of lattice radiation damage in the treated surface.",
+        "ion_implantation_dose": "The total retained fluence or concentration of ions delivered per unit area to the material surface (e.g., ions/cm^2), driving the degree of surface alloying and localized defect generation.",
+        "surface_layer_composition": "The distinct, chemically altered elemental composition, peak atomic concentration, or relative mass fraction present strictly in the modified near-surface region, differing completely from the base bulk chemical composition."
+    },
+    "proposed_experiment_variables": {
+        "potentiostatic_holding_potential": "The explicit, constant anodic electrical potential applied to the working electrode to maintain the alloy in a targeted passive state while monitoring for delayed passive film breakdown.",
+        "dynamic_electrolyte_alteration": "The precise, in-situ timed addition of aggressive species (e.g., spiking the cell with chloride ions) or controlled changes to the solution chemistry while the electrochemical test is actively running.",
+        "time_to_pitting_breakdown": "The measured duration of time elapsed under a constant applied potential, or following a dynamic electrolyte alteration, before a permanent, logarithmic increase in anodic current signals stable pit initiation."
+    }
+}

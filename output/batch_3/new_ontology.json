@@ -1,0 +1,26 @@
+{
+    "base_material": {
+        "material_designation": "The standard designation, trade name, commercial grade, UNS code, broad categorization, and specific alloy family classification used to identify and group the base material based on distinct chemical characteristics.",
+        "bulk_chemical_composition": "The precise overall chemical elemental makeup of the alloy or base material, including trace elements, typically expressed in specific units of measure such as weight percent (wt%) or atomic percent (at%).",
+        "microstructural_properties": "Comprehensive details describing the internal structure of the material, encompassing the overall microstructure, secondary phases, precipitates, intermetallic compounds, non-metallic inclusions, and the quantitative volume fractions of these phases that influence localized pitting resistance."
+    },
+    "conditioned_material": {
+        "material_identifier": "The unique name, designation, or identification code of the conditioned material or alloy under investigation.",
+        "manufacturing_process": "A descriptive summary of the overall preparation, manufacturing, and processing steps applied to the base material prior to specimen extraction.",
+        "heat_treatment_parameters": "Details describing the applied thermal treatments, including temperatures, durations, and cooling methods used to condition the material microstructure.",
+        "surface_preparation_and_finish": "The comprehensive mechanical and chemical procedures (e.g., grinding, polishing, etching, passivation) applied to the specimen surface prior to testing, as well as the resulting surface roughness that influences localized pitting initiation.",
+        "exposed_surface_area": "The explicitly defined geometric surface area of the working electrode that is intentionally left uncoated and actively exposed to the testing electrolyte. This measurement is required to accurately convert raw measured currents into current densities and fundamentally scales the statistical probability of encountering a critical surface defect for localized pit initiation."
+    },
+    "experiment": {
+        "experimental_test_summary": "A high-level summary of the overall experimental procedure, including test type, solution chemistry, operating parameters, and environmental conditions.",
+        "pitting_potential": "The specific extracted critical potential value, including units of measure, at which stable localized pitting initiation occurs on the material surface.",
+        "electrolyte_temperature": "The explicitly controlled temperature of the test solution or electrolyte during the measurement, representing a critical thermodynamic variable that influences pitting susceptibility.",
+        "polarization_scan_rate": "The continuous potential sweep rate or the discrete step-size and holding duration applied to change the electrical potential during potentiodynamic polarization testing.",
+        "reference_electrode": "The standard reference electrode (e.g., SCE, Ag/AgCl) used during electrochemical testing to measure and standardize electrical potentials.",
+        "electrolyte_composition": "The precise chemical formulation of the testing solution, including the specific solvent, molar concentrations of primary salts, and the specific chemical identity and exact concentration of any purposely added soluble inhibitors designed to interact with the material and suppress pitting.",
+        "aeration_status": "The specific condition of dissolved reactive gases in the electrolyte, including whether the solution was aerated, naturally exposed to air, or deaerated/purged with an inert gas like nitrogen or argon.",
+        "corrosion_potential": "The measured open-circuit, free, or zero-current resting potential (Ecorr) established by the working electrode in the test solution at equilibrium, serving as the fundamental thermodynamic baseline prior to the application of an external anodic polarization sweep.",
+        "ocp_stabilization_protocol": "The explicit time duration, rest period, or stability criteria (e.g., potential fluctuation thresholds) applied prior to testing to ensure the specimen freely corrodes and reaches a steady-state open-circuit potential (OCP) electrochemical equilibrium with the environment before the polarization scan begins.",
+        "counter_electrode_details": "The material composition, structural form, physical geometry, exposed area, and precise configuration (including isolation methods to prevent contamination) of the auxiliary/counter electrode used to complete the electrical circuit in the multi-electrode electrochemical cell."
+    }
+}

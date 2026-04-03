@@ -1,0 +1,14 @@
+{
+    "proposed_base_material_variables": {
+        "grain_size": "The measured average dimensions of the crystalline grains or nanocrystals within the base or devitrified material, which dictates the density of grain boundaries acting as potential pitting initiation sites."
+    },
+    "proposed_conditioned_material_variables": {
+        "surface_roughness": "The quantitatively measured surface roughness of the conditioned specimen (e.g., root mean square (RMS) roughness in Angstroms or nanometers), which dictates the spacing of critical flaws and strongly influences the statistical probability of localized pit initiation."
+    },
+    "proposed_experiment_variables": {
+        "repassivation_potential": "The measured critical potential (Erp) during a reverse potentiodynamic polarization scan at which actively growing pits repassivate and the anodic current drops back to passive levels.",
+        "passive_current_density": "The baseline steady-state anodic current density (ipass) maintained by the protective oxide film prior to local breakdown.",
+        "pitting_definition_criterion": "The specific quantitative threshold (e.g., reaching a current density two orders of magnitude higher than the passive current density) used by the researchers to objectively define and record the pitting potential.",
+        "scan_reversal_criterion": "The precise current, current density, or potential threshold (e.g., 0.05 mA) that triggers the reversal of the polarization scan direction, dictating the extent of controlled pit growth prior to measuring the repassivation potential."
+    }
+}

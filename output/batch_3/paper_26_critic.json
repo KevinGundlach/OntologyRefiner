@@ -1,0 +1,13 @@
+{
+    "proposed_base_material_variables": {
+        "crystal_structure": "The predominant crystallographic phase arrangement (e.g., FCC, BCC, or mixed) of the alloy, which governs the structural stability, elemental solid solution limits, and intrinsic resistance to localized corrosion."
+    },
+    "proposed_conditioned_material_variables": {
+        "exposed_surface_area": "The precise physical area of the conditioned specimen that is exposed to the testing electrolyte, as the statistical probability of containing a critical surface defect for pitting nucleation scales with the exposed area."
+    },
+    "proposed_experiment_variables": {
+        "ocp_stabilization_time": "The specific duration the specimen is immersed in the test electrolyte to freely corrode and reach a steady-state Open Circuit Potential (OCP) prior to initiating the applied polarization scan.",
+        "cathodic_pre_treatment": "The specific in situ electrochemical parameters (applied cathodic potential and duration) used to reduce native surface oxides and ensure a highly standardized, reproducible starting surface state before testing.",
+        "counter_electrode": "The material composition and physical geometry/area of the auxiliary electrode used to complete the circuit in the electrochemical cell."
+    }
+}

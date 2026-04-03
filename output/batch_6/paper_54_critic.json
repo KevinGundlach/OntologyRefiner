@@ -1,0 +1,16 @@
+{
+    "proposed_base_material_variables": {
+        "alloy_equivalency_numbers": "Calculated compositional metrics, such as Chromium equivalent or Nickel equivalent, used to theoretically predict phase balances (e.g., ferrite vs. austenite boundaries) based on the bulk chemical composition."
+    },
+    "proposed_conditioned_material_variables": {
+        "crevice_mitigation_strategy": "The specific techniques or barrier materials (e.g., applying a thin film of lacquer at the specimen/epoxy mount interface) used to prevent artificial crevice corrosion from prematurely initiating and masking the true pitting potential."
+    },
+    "proposed_experiment_variables": {
+        "repassivation_potential": "The explicitly measured protection potential (Ep) at which the reverse anodic scan intersects the forward scan during cyclic polarization, indicating the potential where actively growing pits repassivate.",
+        "passive_current_density": "The measured steady-state anodic current density (ipassive) exhibited by the material within its passive potential region prior to localized breakdown.",
+        "pitting_current_density_threshold": "The specific anodic current density value (e.g., in µA/cm²) used by the researchers as the explicit mathematical or visual criterion to define the exact onset of the critical pitting potential (Ec).",
+        "polarization_scan_reversal_criteria": "The predefined threshold (either a specific current density limit or maximum vertex potential) at which the forward anodic scan is reversed to evaluate hysteresis and localized corrosion propagation.",
+        "hysteresis_charge_flow": "The integrated electric charge (measured in coulombs) representing the area within the hysteresis loop during a reversed cyclic polarization scan, used to quantify the extent of localized corrosion propagation.",
+        "electrochemical_instrumentation": "The specific make, model, and hardware/software configuration of the potentiostat (e.g., PAR Model 350, microprocessor-controlled) used to conduct the electrochemical tests and calculate polarization parameters."
+    }
+}

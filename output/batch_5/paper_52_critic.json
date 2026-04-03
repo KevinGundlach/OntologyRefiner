@@ -1,0 +1,13 @@
+{
+    "proposed_base_material_variables": {
+        "inclusion_density": "The quantitative measurement of non-metallic inclusions per unit area (e.g., inclusions/mm2) within the alloy matrix, which act as primary initiation sites for localized pitting corrosion.",
+        "pitting_resistance_equivalent_number": "A calculated theoretical index (PREN) based on the bulk chemical composition (e.g., %Cr + x%Mo) used to estimate and rank the inherent localized corrosion resistance of the alloy."
+    },
+    "proposed_conditioned_material_variables": {
+        "welding_parameters": "Specific process details for welded specimens, including the welding method, electrical current, travel speed, calculated heat input, and shielding gas flow rates, which dictate the microstructural evolution of the heat-affected zone (HAZ) and weld tinting."
+    },
+    "proposed_experiment_variables": {
+        "reversal_current_density": "The specific predetermined anodic current density threshold (e.g., 10^-5 A/cm2) at which the potentiodynamic polarization sweep is arrested or reversed, used to preserve localized initiation sites for microscopy or to assess repassivation behavior.",
+        "electrolyte_ph": "The explicit measured or controlled hydrogen ion concentration (pH level) of the bulk testing electrolyte, which directly influences passive film solubility and localized breakdown."
+    }
+}

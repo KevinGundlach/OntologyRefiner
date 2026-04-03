@@ -1,0 +1,13 @@
+{
+    "proposed_base_material_variables": {
+        "alloy_temper_condition": "The standard temper designation specifying the precise sequence of mechanical and thermal treatments (e.g., T351, T6) the alloy originally underwent to achieve its specific precipitation state, directly determining the type and distribution of intermetallics responsible for subsequent pit initiation."
+    },
+    "proposed_conditioned_material_variables": {
+        "specimen_orientation": "The specific macroscopic plane or directional axis of the tested surface relative to the material's original thermo-mechanical processing direction (e.g., rolling plane, longitudinal, short transverse), which dictates the specific exposure profile of elongated grains and intermetallic stringers to the electrolyte."
+    },
+    "proposed_experiment_variables": {
+        "electrolyte_ph": "The explicitly measured or chemically buffered pH level of the testing electrolyte, serving as a critical standalone parameter that strongly dictates localized passive film stability, intermetallic dissolution rates, and subsequent pitting potentials.",
+        "multiple_breakdown_potentials": "The distinct, sequentially occurring critical potential values (e.g., Eb1, Eb2) observed in multiphase alloys, explicitly capturing the selective localized dissolution of discrete microstructural phases (such as active intermetallic particles) prior to overall bulk matrix pitting.",
+        "hydrodynamic_conditions": "The defined state of bulk fluid flow or physical agitation applied within the test cell (e.g., stagnant, magnetically stirred, specific flow velocity), which governs boundary layer thickness, species mass transport, and the localized accumulation of aggressive pit-initiating ions."
+    }
+}

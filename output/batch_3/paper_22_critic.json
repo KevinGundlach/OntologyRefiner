@@ -1,0 +1,14 @@
+{
+    "proposed_base_material_variables": {
+        "crystal_structure": "The fundamental crystallographic phase arrangement of the alloy matrix and precipitates (e.g., FCC, BCC) determined via techniques like XRD, which governs structural stability and localized corrosion susceptibility."
+    },
+    "proposed_conditioned_material_variables": {
+        "specimen_dimensions": "The specific physical dimensions and geometry (e.g., length, width, thickness) of the prepared material specimen, which define the available surface area for testing and normalization."
+    },
+    "proposed_experiment_variables": {
+        "corrosion_potential": "The free corrosion potential or open-circuit potential (Ecorr) established by the material in the electrolyte, serving as the baseline thermodynamic state prior to anodic pitting breakdown.",
+        "corrosion_current_density": "The baseline uniform corrosion rate (icorr) measured in current per unit area, typically extracted from the Tafel region of the polarization curve.",
+        "polarization_potential_range": "The specific starting (initial) and ending (final) electrical potentials applied during the potentiodynamic scan, establishing the boundary conditions of the test.",
+        "test_standard_protocol": "The official standardized methodology or recognized industry standard (e.g., ASTM G59) adhered to for equipment calibration and execution of the electrochemical corrosion experiments."
+    }
+}

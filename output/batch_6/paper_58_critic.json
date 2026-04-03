@@ -1,0 +1,10 @@
+{
+    "proposed_base_material_variables": {},
+    "proposed_conditioned_material_variables": {
+        "electrode_mounting_method": "The specific technique, material, or configuration (e.g., epoxy embedding, meniscus method) used to mount the specimen, define the exposed testing area, and prevent unwanted crevice corrosion at the sample edges."
+    },
+    "proposed_experiment_variables": {
+        "hydrodynamic_conditions": "The controlled fluid flow, stirring mechanism, or specimen rotation rate (e.g., rotating disk electrode speed in rpm) applied during the electrochemical test to govern mass transport and diffusion at the electrode-electrolyte interface.",
+        "cathodic_pre_conditioning": "The deliberate application of a specific cathodic potential or current for a defined duration prior to the main polarization sweep or OCP stabilization, used to electrochemically reduce native air-formed oxides and ensure a reproducible initial surface state."
+    }
+}

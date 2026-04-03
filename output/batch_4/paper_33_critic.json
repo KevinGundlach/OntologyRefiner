@@ -1,0 +1,11 @@
+{
+    "proposed_base_material_variables": {},
+    "proposed_conditioned_material_variables": {
+        "specimen_geometry": "The physical shape, dimensional form, and form factor of the tested sample (e.g., 10 mm diameter disk, foil, wire, cylinder), which can significantly influence electric field distribution, hydrodynamics, and the presence of edge effects during electrochemical testing."
+    },
+    "proposed_experiment_variables": {
+        "cathodic_pretreatment": "The specific application of a constant cathodic potential or current for a defined duration (e.g., -1 V for 300 s) prior to the primary test, explicitly designed to electrochemically reduce native air-formed oxides and ensure a standardized, reproducible bare metal surface. This is distinct from passive OCP stabilization.",
+        "potentiostatic_passivation_parameters": "The explicit constant anodic potentials and holding durations applied to the working electrode to intentionally grow, stabilize, or study a passive film (e.g., 650 mV or 1050 mV for up to 120 min) prior to subsequent electrochemical measurements or surface analysis.",
+        "environmental_atmosphere_control": "The specific use of external atmospheric isolation systems, such as an inert gas glove box, employed to comprehensively prevent oxygen contamination of both the electrolyte and the specimen surface during preparation, testing, and transfer, going beyond standard in-solution gas purging."
+    }
+}

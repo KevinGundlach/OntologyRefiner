@@ -1,0 +1,28 @@
+{
+    "variable_mapping": {
+        "material_designation_and_classification": "material_designation",
+        "chemical_composition": "bulk_chemical_composition",
+        "microstructural_properties": "microstructural_properties",
+        "material_purity": "material_purity",
+        "crystal_structure": "crystal_structure",
+        "pitting_resistance_equivalent": "pitting_resistance_equivalent_number",
+        "precursor_powder_characteristics": "precursor_powder_characteristics",
+        "raw_material_purity": "material_purity",
+        "phase_chemical_composition": "phase_chemical_composition",
+        "configurational_entropy": "configurational_entropy",
+        "pitting_resistance_equivalent_number": "pitting_resistance_equivalent_number",
+        "substrate_material": "substrate_material"
+    },
+    "normalized_definitions": {
+        "material_designation": "The standard designation, trade name, commercial grade, UNS code, broad categorization, and specific alloy family classification used to identify and group the base material based on distinct chemical characteristics.",
+        "bulk_chemical_composition": "The precise overall chemical elemental makeup of the alloy or base material, including trace elements, typically expressed in specific units of measure such as weight percent (wt%) or atomic percent (at%).",
+        "microstructural_properties": "Comprehensive details describing the internal structure of the material, encompassing the overall microstructure, secondary phases, precipitates, intermetallic compounds, non-metallic inclusions, and the quantitative volume fractions of these phases that influence localized pitting resistance.",
+        "material_purity": "The explicitly stated overall elemental purity level of the base metal or initial constituent raw materials (e.g., 99.99%), which dictates the baseline concentration of trace impurities that can form inclusion-based pitting nucleation sites or artificially influence localized corrosion.",
+        "crystal_structure": "The fundamental crystallographic phase arrangement and lattice structure of the alloy matrix and precipitates (e.g., single FCC, duplex FCC-BCC, ordered BCC), often determined via techniques like XRD, which governs structural stability, elemental solid solution limits, and intrinsic resistance to selective dissolution and localized corrosion.",
+        "pitting_resistance_equivalent_number": "A theoretical and empirical index value (such as PRE or PREN) calculated from the base material's chemical composition (e.g., Cr, Mo, W, and N content) used to quantitatively estimate, predict, and rank relative resistance to localized pitting corrosion.",
+        "precursor_powder_characteristics": "The physical and chemical properties of the initial raw powders used in powder metallurgy or mechanical alloying, including elemental purity and particle size, which influence the final defect density and phase homogeneity.",
+        "phase_chemical_composition": "The localized elemental makeup of individual microstructural phases (e.g., matrix vs. precipitates), highlighting specific elemental segregation directly responsible for localized corrosion initiation.",
+        "configurational_entropy": "The calculated theoretical mixing entropy of the alloy, typically expressed as a multiple of the gas constant (R), used to thermodynamically classify and evaluate high-entropy and medium-entropy alloys.",
+        "substrate_material": "The underlying base material or support structure (e.g., pure molybdenum, silicon, or copper) upon which a thin film or coating alloy is deposited, influencing film adhesion, physical integrity, and localized corrosion behavior."
+    }
+}

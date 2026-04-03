@@ -1,0 +1,14 @@
+{
+    "proposed_base_material_variables": {
+        "solute_depleted_zone_characteristics": "Details regarding localized chemical microsegregation or solute depletion (e.g., copper-depleted zones along grain boundaries in aged alloys), including its approximate localized composition, which dictates the earliest point of active dissolution and the lowest critical pitting potential in multiphase systems."
+    },
+    "proposed_conditioned_material_variables": {
+        "exposed_phase_area_ratio": "The relative surface area ratio between microstructural anodic zones (e.g., grain boundaries/precipitate-free zones) and cathodic zones (e.g., bulk grain bodies or intermetallic precipitates) exposed on the prepared surface, which drives the galvanic coupling intensity and local dissolution rates."
+    },
+    "proposed_experiment_variables": {
+        "electrochemical_testing_mode": "The explicit potential application strategy used during the test (e.g., stepwise potentiostatic staircase, continuous potentiodynamic sweep, constant potential holding, or potential switching), which is necessary to differentiate between time-dependent induction phenomena and steady-state critical potentials.",
+        "secondary_breakdown_potential": "Any subsequent, distinct critical breakdown potentials observed during a single anodic polarization scan of a multiphase material, corresponding to the sequential localized breakdown of chemically distinct microstructural regions (e.g., grain boundaries breaking down before the bulk grain bodies).",
+        "pit_morphology_and_attack_type": "The physical geometry, shape, and distribution of the resulting localized corrosion (e.g., tunnel-like pits, hemispherical pits, or intergranular crevice-like attack), which can change drastically depending on the aggressive anion present (e.g., chlorides vs. nitrates).",
+        "electrolyte_ion_activity": "The rigorously calculated or measured thermodynamic activity of the aggressive species (e.g., a_NaCl) in the testing solution, providing a more accurate logarithmic correlation with the critical pitting potential than standard bulk molarity."
+    }
+}

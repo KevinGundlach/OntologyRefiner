@@ -1,0 +1,12 @@
+{
+    "proposed_base_material_variables": {
+        "phase_elemental_partitioning": "The specific localized chemical composition of distinct microstructural phases (e.g., partitioned concentrations of Cr, Mo, Ni, and N in ferrite vs. austenite), detailing how key alloying elements are distributed and fundamentally dictating the precise site of pitting initiation."
+    },
+    "proposed_conditioned_material_variables": {
+        "phase_volume_fractions": "The quantitative ratio or exact volume percentage of specific microstructural phases (e.g., % ferrite versus % austenite) resulting from applied heat treatments, which alters the internal dilution of beneficial alloying elements and directly impacts overall pitting susceptibility."
+    },
+    "proposed_experiment_variables": {
+        "pitting_potential_criterion": "The explicit quantitative threshold, typically a specific current density limit (e.g., 50 µA cm⁻²), defined by the researchers as the exact point of stable pit initiation to systematically extract the pitting potential value from the potentiodynamic polarization curve.",
+        "crevice_prevention_mounting_method": "The specific physical arrangement, mounting technique, or sample orientation used to expose the working electrode to the electrolyte (e.g., suspending the sample so only the end face touches the liquid surface) intentionally designed to eliminate crevice corrosion artifacts during testing."
+    }
+}

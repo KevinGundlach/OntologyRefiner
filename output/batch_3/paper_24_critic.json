@@ -1,0 +1,14 @@
+{
+    "proposed_base_material_variables": {
+        "pitting_resistance_equivalent": "An empirical index (e.g., PRE or PREN) calculated from the alloy's chemical composition (such as Cr, Mo, and N content) used to quantitatively estimate and compare relative resistance to localized pitting corrosion."
+    },
+    "proposed_conditioned_material_variables": {
+        "exposed_surface_area": "The specific geometric area of the specimen intentionally left uncoated and exposed to the electrolyte during testing, which influences the statistical probability of finding a critical defect for pit initiation."
+    },
+    "proposed_experiment_variables": {
+        "cathodic_preconditioning": "The application of a specific cathodic potential for a set duration prior to the main polarization test to electrochemically reduce native oxide films and standardize the initial surface state.",
+        "repassivation_potential": "The potential (often denoted as Erp or Eprot) recorded during the reverse scan of a cyclic polarization test at which actively growing pits repassivate and the current density returns to passive levels.",
+        "corrosion_potential": "The open-circuit or zero-current potential (Ecorr) measured in the specific test environment, serving as the fundamental thermodynamic baseline for the polarization scan.",
+        "passive_current_density": "The stable, relatively constant anodic current density (ipass) measured within the passive potential range prior to pitting breakdown, indicating the protective quality and dissolution rate of the passive film."
+    }
+}

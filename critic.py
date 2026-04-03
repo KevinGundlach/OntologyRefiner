@@ -71,7 +71,17 @@ class CriticAgent:
                                  .replace("[Paste Extractor Output Here]", extractor_output))
                 
         text = client.generate(prompt, paper, response_schema=OutputSchema)
-        
+        text = text.strip()
+
+        # Stupid hack. Shouldn't be needed once I have 
+        # the output schema working correctly.
+
+        if text.startswith("```json"):
+            text = text[7:]
+
+        if text.endswith("```"):
+            text = text[:-3]
+
         with open(output_path, "w", encoding="utf-8") as f:
             f.write(text)
 

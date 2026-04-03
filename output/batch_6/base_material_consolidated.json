@@ -1,0 +1,20 @@
+{
+    "variable_mapping": {
+        "material_designation": "Material_Designation",
+        "bulk_chemical_composition": "Chemical_Composition_and_Metrics",
+        "microstructural_properties": "Microstructural_Features",
+        "alloy_equivalency_numbers": "Chemical_Composition_and_Metrics",
+        "precursor_material_purity": "Chemical_Composition_and_Metrics",
+        "grain_size": "Microstructural_Features",
+        "material_density": "Material_Density",
+        "product_form": "Product_Form",
+        "pit_nucleation_sites": "Microstructural_Features"
+    },
+    "normalized_definitions": {
+        "Material_Designation": "The standard designation, trade name, commercial grade, UNS code, and broad alloy family used to uniquely identify and categorize the base material based on its distinct chemical characteristics.",
+        "Chemical_Composition_and_Metrics": "The complete elemental makeup and purity profile of the material, including bulk weight or atomic percentages, trace impurities from precursor raw metals, and derived theoretical metrics (e.g., equivalent numbers) used to predict phase balances and structural boundaries.",
+        "Microstructural_Features": "Comprehensive details regarding the internal crystalline structure of the material, encompassing overall microstructure, average grain dimensions, volume fractions of distinct phases or precipitates, and specific microstructural boundaries that act as preferential pit nucleation sites for localized corrosion.",
+        "Material_Density": "The measured or theoretical bulk density of the alloy, serving as a fundamental physical parameter essential for calculating corrosion metrics such as pit growth kinetics, equivalent weights, and electrochemical penetration depths.",
+        "Product_Form": "The physical geometry, mill shape, and starting dimensions of the supplied base material, which provide critical context regarding its thermomechanical processing history, grain directionality, and resulting surface anisotropy."
+    }
+}

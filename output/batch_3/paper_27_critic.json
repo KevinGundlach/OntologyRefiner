@@ -1,0 +1,15 @@
+{
+    "proposed_base_material_variables": {
+        "raw_material_purity": "The precise elemental purity percentage of the initial constituent materials (e.g., 99.95 wt.%) before alloying, which dictates the baseline concentration of trace impurities that can form inclusion-based pitting nucleation sites."
+    },
+    "proposed_conditioned_material_variables": {
+        "exposed_surface_area": "The exact geometric area of the working electrode (e.g., 0.5 cm2) intentionally exposed to the electrolyte, which statistically influences the probability of encountering a defect for pit initiation and is necessary for accurate current density normalization.",
+        "mounting_technique": "The precise method and hardware used to embed or isolate the specimen (e.g., cold mounted with a flat specimen holder kit) to prevent electrolyte ingress at the edges, which is critical for avoiding artifactual crevice corrosion that can be misidentified as pitting."
+    },
+    "proposed_experiment_variables": {
+        "electrolyte_ph": "The specific hydrogen ion concentration or pH level of the test solution, which dictates the thermodynamic stability of protective passive oxide films (e.g., Cr2O3) and fundamentally shifts the localized pitting breakdown potential.",
+        "ocp_stabilization_criteria": "The explicit duration and stability threshold applied prior to testing (e.g., 30 min with fluctuation less than 2 mV in 10 min) to ensure the specimen surface has reached a steady-state electrochemical equilibrium with the environment before the polarization scan begins.",
+        "repassivation_potential": "The protection potential (Eprot) extracted from the intersection of the forward and reversed branches of a cyclic polarization scan, representing the critical thermodynamic threshold below which established, active pits arrest and stop propagating.",
+        "cell_geometry_and_electrode_spacing": "The precisely measured physical distances between the working, counter, and reference electrodes in the electrochemical cell, which dictate the uncompensated solution resistance (IR drop) that can skew the measured true pitting potential."
+    }
+}

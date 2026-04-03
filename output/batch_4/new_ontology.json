@@ -1,0 +1,26 @@
+{
+    "base_material": {
+        "material_designation": "The standard designation, trade name, commercial grade, UNS code, broad categorization, and specific alloy family used to identify and group the base material based on distinct chemical characteristics.",
+        "bulk_chemical_composition": "The precise overall chemical elemental makeup of the base material or alloy, including trace elements, typically expressed in specific units of measure such as weight percent (wt%) or atomic percent (at%).",
+        "microstructural_properties": "Comprehensive details describing the internal structure of the material, encompassing the overall microstructure, secondary phases, precipitates, intermetallic compounds, non-metallic inclusions, and the quantitative volume fractions of these phases."
+    },
+    "conditioned_material": {
+        "material_identifier": "The unique name, designation, or identification code of the conditioned material or alloy under investigation.",
+        "manufacturing_process": "A descriptive summary of the overall preparation, manufacturing, and processing steps applied to the base material prior to specimen extraction.",
+        "thermal_treatment_parameters": "Details of the thermal history applied to condition the material microstructure, including standard heat treatments (temperatures, durations, cooling methods) and simulated transient thermal cycles (such as those representing weld heat-affected zones).",
+        "surface_preparation_and_finish": "The comprehensive mechanical and chemical procedures (e.g., grinding, polishing, etching, passivation) applied to the specimen surface prior to testing, as well as the resulting surface roughness that influences localized pitting initiation.",
+        "exposed_surface_area": "The explicitly defined geometric surface area of the working electrode actively exposed to the testing electrolyte, used to calculate current densities and scale the statistical probability of defect-driven pitting initiation."
+    },
+    "experiment": {
+        "experimental_test_summary": "A high-level summary of the overall experimental procedure, encompassing the test type, solution chemistry, operating parameters, and overarching environmental conditions.",
+        "pitting_potential": "The explicitly measured critical potential value, including units, at which stable localized pitting initiation occurs on the material surface during an anodic polarization sweep.",
+        "electrolyte_temperature": "The explicitly controlled thermodynamic temperature of the test solution or electrolyte during the measurement, which strongly influences pitting susceptibility.",
+        "polarization_scan_rate": "The continuous potential sweep rate or the discrete step-size and holding duration applied to change the electrical potential during potentiodynamic polarization testing.",
+        "reference_electrode": "The standard reference electrode (e.g., SCE, Ag/AgCl) used during the electrochemical testing to measure, reference, and standardize electrical potentials.",
+        "electrolyte_composition": "The precise chemical formulation of the testing solution, including the specific solvent, molar concentrations of primary salts, and the exact identity and concentration of any soluble inhibitors.",
+        "aeration_status": "The specific condition of dissolved reactive gases in the bulk electrolyte, denoting whether the solution was actively aerated, naturally exposed to air, or deaerated/purged with an inert gas.",
+        "corrosion_potential": "The measured open-circuit, free, or zero-current resting potential (Ecorr) established by the working electrode in the test solution at equilibrium, serving as the thermodynamic baseline prior to applying an external potential.",
+        "ocp_stabilization_protocol": "The defined time duration, rest period, or fluctuation threshold applied prior to active testing to ensure the freely corroding specimen reaches steady-state open-circuit potential equilibrium.",
+        "counter_electrode_details": "The material composition, structural form, physical geometry, exposed surface area, and isolation method of the auxiliary/counter electrode used to complete the electrical circuit."
+    }
+}
