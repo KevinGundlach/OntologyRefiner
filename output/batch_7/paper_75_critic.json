@@ -1,0 +1,15 @@
+
+{
+    "proposed_base_material_variables": {
+        "product_form": "The standard physical form or shape of the raw base material (e.g., foil, sheet, plate, wire, billet) prior to specimen extraction, which inherently influences the baseline metallurgical grain structure and defect distribution."
+    },
+    "proposed_conditioned_material_variables": {
+        "surface_oxide_characteristics": "Specific details regarding the origin, composition, and physical state of the passive oxide film present on the specimen surface (e.g., native air-formed, chemically passivated, anodized) and its thermodynamic properties, such as the point of zero charge (pH_pzc), which heavily dictates aggressive ion adsorption."
+    },
+    "proposed_experiment_variables": {
+        "anion_activity_and_coefficient": "The explicit thermodynamic activity and activity coefficient of the aggressive pitting anions (e.g., Cl-) in the test solution, providing a more accurate thermodynamic metric for pit initiation kinetics than standard molar concentration.",
+        "potentiostatic_test_duration": "The predefined time duration for which a constant electrical potential is held during potentiostatic polarization testing to monitor the time-dependent evolution of pitting currents or induction times.",
+        "steady_state_pitting_current": "The stabilized or plateaued anodic current measured at a constant pitting potential during potentiostatic testing, representing the steady-state electrochemical rate of active, localized pit propagation.",
+        "buffer_system_chemistry": "The specific chemical agents or weak acid/base formulations added explicitly to the testing solution to maintain a stable pH during the experiment, distinct from the primary aggressive salts, as buffer anions can competitively adsorb and alter pitting behavior."
+    }
+}

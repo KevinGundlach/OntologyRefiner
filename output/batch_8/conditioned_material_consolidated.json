@@ -1,0 +1,27 @@
+{
+  "variable_mapping": {
+    "material_identifier": "material_identification",
+    "manufacturing_process": "fabrication_and_processing_history",
+    "welding_procedure_and_filler_composition": "fabrication_and_processing_history",
+    "thermal_treatment_parameters": "thermal_conditioning_history",
+    "sensitization_status": "thermal_conditioning_history",
+    "secondary_phase_precipitation": "microstructural_and_phase_characteristics",
+    "elemental_partitioning_ratio": "microstructural_and_phase_characteristics",
+    "surface_preparation_and_finish": "surface_preparation_and_finish",
+    "film_thickness": "film_thickness",
+    "exposed_surface_area": "exposed_surface_area",
+    "sample_masking_technique": "specimen_mounting_and_crevice_mitigation",
+    "specimen_mounting_method": "specimen_mounting_and_crevice_mitigation",
+    "crevice_corrosion_mitigation": "specimen_mounting_and_crevice_mitigation"
+  },
+  "normalized_definitions": {
+    "material_identification": "The unique designation, name, or identification code of the conditioned material or alloy under investigation.",
+    "fabrication_and_processing_history": "A comprehensive summary of the overall preparation, manufacturing, and fabrication steps applied to the bulk base material, including any specific welding operations, techniques, and filler wire compositions used to produce the specimen prior to extraction.",
+    "thermal_conditioning_history": "Details of the thermal history applied to condition the material microstructure, encompassing standard heat treatments, cooling methods, simulated transient thermal cycles, and explicit indicators of purposeful sensitization to induce specific precipitation.",
+    "microstructural_and_phase_characteristics": "Specific details regarding the material's microstructural state resulting from thermal conditioning, including the identification, spatial distribution, and elemental partitioning ratios of secondary metallurgical phases, intermetallics, and elemental depletion zones.",
+    "surface_preparation_and_finish": "The comprehensive mechanical and chemical procedures (e.g., grinding, polishing, etching, passivation) applied to the specimen prior to testing to standardize surface topography, establish final roughness characteristics, and stabilize the protective passive film.",
+    "film_thickness": "The explicitly measured or target physical thickness of thin-film samples or surface coatings, which influences ohmic potential drop, diffusion paths, and repassivation behavior of localized pits.",
+    "exposed_surface_area": "The explicitly defined geometric surface area of the working electrode actively exposed to the testing electrolyte, utilized to calculate current densities and scale the statistical probability of defect-driven pitting initiation.",
+    "specimen_mounting_and_crevice_mitigation": "The specific materials, setups, and methodological steps used to mount, embed, or mask the specimen boundaries (e.g., resins, insulating tapes, o-rings) in order to explicitly define the exposed working area and successfully suppress edge-induced crevice corrosion during testing."
+  }
+}

@@ -1,0 +1,22 @@
+{
+    "variable_mapping": {
+        "Material_Designation": "material_identification",
+        "Chemical_Composition_and_Metrics": "chemical_composition",
+        "alloy_atomic_percentages": "chemical_composition",
+        "chemical_homogeneity": "chemical_composition",
+        "raw_material_precursors": "chemical_composition",
+        "Microstructural_Features": "microstructure_and_morphology",
+        "crystal_phase_structure": "microstructure_and_morphology",
+        "inclusion_characteristics": "microstructure_and_morphology",
+        "material_form": "product_form",
+        "product_form": "product_form",
+        "substrate_material_details": "substrate_details"
+    },
+    "normalized_definitions": {
+        "material_identification": "The standard designations, trade names, commercial grades, UNS codes, and broad alloy families used to uniquely identify and categorize the material based on its distinct characteristics.",
+        "chemical_composition": "The complete elemental makeup and purity profile of the material. This includes bulk weight and atomic percentages of critical alloying elements, spatial chemical homogeneity, trace impurities introduced from raw precursor metals, and derived theoretical metrics used to predict phase balances.",
+        "microstructure_and_morphology": "Comprehensive details regarding the internal crystalline structure of the material, encompassing overall microstructure, average grain dimensions, specific crystallographic phases or lattice structures, and the composition, size, and density of non-metallic inclusions or boundaries that may act as preferential defect sites.",
+        "product_form": "The standard physical product form or shape of the raw base material (e.g., rolled sheet, plate, foil, wire, cast ingot) prior to specimen extraction, which determines the underlying thermomechanical processing history, grain texture, and baseline defect distribution.",
+        "substrate_details": "The composition, crystallographic orientation, and geometry of the underlying substrate (e.g., single-crystal silicon wafer) used for depositing thin-film or coating samples, which influences epitaxial growth, residual stress, and microstructural defect density."
+    }
+}

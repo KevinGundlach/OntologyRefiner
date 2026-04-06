@@ -1,0 +1,14 @@
+{
+    "proposed_base_material_variables": {
+        "crystal_phase_structure": "The specific ordered crystallographic phase or lattice structure (e.g., DO3, B2) present in the alloy, which governs atomic arrangements and directly impacts localized corrosion behavior."
+    },
+    "proposed_conditioned_material_variables": {
+        "cold_work_percentage": "The explicit degree of plastic deformation or mechanical reduction (e.g., 10% cold working) applied to the material, which affects dislocation density and subsequent susceptibility to localized film breakdown.",
+        "crevice_assembly_specifications": "Details of any artificial crevice-forming devices attached to the specimen surface prior to testing, including the material of the crevice formers, the number of contact plateaus, and the ratio of exposed to shielded surface area."
+    },
+    "proposed_experiment_variables": {
+        "protection_potential": "The repassivation potential (Ep) at which active pitting or crevice corrosion ceases, typically identified as the point where the reverse scan intersects the forward scan during cyclic potentiodynamic polarization testing.",
+        "scan_reversal_threshold": "The predefined anodic current density limit (e.g., 10^-3 A/cm2) during a forward polarization sweep that triggers the reversal of the scan direction in cyclic testing.",
+        "crevice_fastening_torque": "The precise mechanical torque (e.g., 1.13 m-N) applied to the fastener of a crevice assembly to ensure consistent and reproducible crevice gap geometries across tests."
+    }
+}

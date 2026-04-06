@@ -1,0 +1,20 @@
+{
+    "variable_mapping": {
+        "material_identification": "material_identification",
+        "chemical_composition": "chemical_composition",
+        "microstructure_and_morphology": "microstructure_and_morphology",
+        "pitting_resistance_equivalent": "pitting_resistance_equivalent_number",
+        "material_form": "material_form",
+        "pitting_resistance_equivalent_number": "pitting_resistance_equivalent_number",
+        "phase_volume_fraction": "phase_volume_fraction",
+        "phase_volume_fractions": "phase_volume_fraction"
+    },
+    "normalized_definitions": {
+        "material_identification": "The standard designations, trade names, commercial grades, UNS codes, and broad alloy families used to uniquely identify and categorize the material based on its distinct characteristics.",
+        "chemical_composition": "The complete elemental makeup and purity profile of the material. This includes bulk weight and atomic percentages of critical alloying elements, spatial chemical homogeneity, trace impurities introduced from raw precursor metals, and derived theoretical metrics used to predict phase balances.",
+        "microstructure_and_morphology": "Comprehensive details regarding the internal crystalline structure of the material, encompassing overall microstructure, average grain dimensions, specific crystallographic phases or lattice structures, and the composition, size, and density of non-metallic inclusions or boundaries that may act as preferential defect sites.",
+        "pitting_resistance_equivalent_number": "A calculated empirical metric or theoretical index (such as PRE, PREN, or PRENMn) derived from the bulk weight percentages of specific alloying elements (e.g., Cr, Mo, W, N) used to quantitatively estimate, compare, and design the inherent resistance of the bulk alloy or its individual microstructural phases to localized pitting and crevice corrosion.",
+        "material_form": "The physical state or macroscopic dimensionality of the base material (e.g., bulk solid, sheet, sputter-deposited thin film, powder), which heavily influences localized corrosion mechanisms such as 2-D versus 3-D pit growth.",
+        "phase_volume_fraction": "The measured volumetric proportion, percentage, or ratio of distinct microstructural or crystallographic phases present in the bulk alloy (e.g., austenite and ferrite). This metric dictates the bulk element balance and explicitly governs phase-specific localized corrosion mechanisms, defect distributions, and pitting resistance optimization."
+    }
+}

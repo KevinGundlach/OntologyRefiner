@@ -1,0 +1,13 @@
+{
+    "proposed_base_material_variables": {
+        "material_form": "The physical product form of the raw base material (e.g., rolled sheet, wire, cast ingot), which dictates the underlying thermomechanical history and potential grain texture affecting directional pitting susceptibility."
+    },
+    "proposed_conditioned_material_variables": {
+        "final_surface_roughness": "The explicitly stated final mechanical polishing abrasive size (e.g., 1000 grit) or measured surface roughness value, which determines the physical topography and density of micro-crevices acting as pit nucleation sites."
+    },
+    "proposed_experiment_variables": {
+        "potentiostatic_pre_conditioning": "The specific applied electrical potential and defined hold duration used to artificially grow, stabilize, or condition the passive oxide film on the working electrode prior to standard potentiodynamic scanning or surface analysis.",
+        "inhibitor_addition_parameters": "The specific chemical identity and precise molar concentration of deliberate localized corrosion inhibitors (e.g., tungstate ions) added specifically to suppress pitting, extracted separately from the bulk electrolyte formulation.",
+        "electrochemical_instrumentation": "The hardware make, model, and configuration of the potentiostat and recording equipment used (e.g., Tacussel set), which defines the measurement sensitivity, control stability, and data acquisition rate."
+    }
+}

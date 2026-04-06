@@ -1,0 +1,11 @@
+{
+    "proposed_base_material_variables": {},
+    "proposed_conditioned_material_variables": {
+        "crevice_mitigation_strategy": "Specific physical or chemical masking techniques (e.g., applying alkyd varnish, specific lacquers, or specialized gaskets) applied to the specimen-mount interface to prevent artificial early breakdown from crevice corrosion, ensuring the measured potential reflects true surface pitting."
+    },
+    "proposed_experiment_variables": {
+        "repassivation_potential": "The measured potential (Ep or Eprot) during a cyclic or reverse potentiodynamic scan at which active, localized pitting repassivates, typically identified where the reverse scan intersects the forward passive current curve.",
+        "sweep_reversal_criterion": "The predefined testing threshold (e.g., a specific maximum anodic current density, such as 10 mA/cm^2, or a set vertex potential) that triggers the reversal of the potential scan direction during cyclic polarization testing.",
+        "difference_potential": "The calculated mathematical difference between the critical breakdown/pitting potential and the repassivation potential (Ec - Ep), utilized as a semi-quantitative index to evaluate the material's susceptibility to pit propagation and crevice corrosion."
+    }
+}

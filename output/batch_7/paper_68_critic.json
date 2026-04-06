@@ -1,0 +1,13 @@
+{
+    "proposed_base_material_variables": {
+        "inclusion_characteristics": "Details regarding non-metallic inclusions within the base material matrix, such as sulphide or oxide inclusions, including their composition, size distribution, and spatial density, which frequently serve as primary initiation sites for localized pitting."
+    },
+    "proposed_conditioned_material_variables": {
+        "specimen_geometry": "The physical shape, structural configuration, and spatial dimensions of the tested specimen (e.g., flat coupon, 'lead-in-pencil' wire cross-section, cylindrical rod) which dictate physical mass transport constraints, diffusion profiles, and edge effects during localized corrosion."
+    },
+    "proposed_experiment_variables": {
+        "protection_potential": "The explicitly measured critical potential (often denoted as Epp, Erep, or repassivation potential) at which previously initiated, actively propagating localized pits repassivate and cease growing during a reverse (cathodic) potential sweep.",
+        "ir_drop_correction": "The specific experimental method (e.g., high-frequency AC signal, current interrupt) and application protocol used to measure solution resistance and correct the recorded applied potentials for ohmic voltage drop, which is critical for accurate high-current active pit dissolution kinetics.",
+        "pit_initiation_protocol": "The specific pre-conditioning or potentiostatic polarization parameters (e.g., specific applied overpotential and holding duration) used to intentionally initiate and stably grow active pits before reversing the potential scan to measure repassivation phenomena."
+    }
+}

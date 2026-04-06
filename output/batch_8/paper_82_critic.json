@@ -1,0 +1,14 @@
+{
+    "proposed_base_material_variables": {
+        "pitting_resistance_equivalent_number": "A calculated empirical metric (e.g., PREN) used to quantitatively estimate the localized pitting and crevice corrosion resistance of the bulk alloy or its individual microstructural phases based on elemental composition.",
+        "phase_volume_fraction": "The measured volumetric proportion of distinct microstructural phases (e.g., austenite and ferrite) present in the bulk alloy, which dictates the bulk element balance."
+    },
+    "proposed_conditioned_material_variables": {
+        "elemental_partitioning_ratio": "The measured distribution or concentration ratio of critical alloying elements (e.g., Cr, Mo, Ni, N) between specific microstructural phases, which is highly dependent on the applied thermal conditioning and annealing temperatures."
+    },
+    "proposed_experiment_variables": {
+        "critical_crevice_corrosion_temperature": "The lowest threshold temperature (Tccc) at which localized crevice corrosion attack is detected during exposure to a standardized aggressive environment (e.g., 6% FeCl3 per ASTM G48).",
+        "passivation_potential": "The critical anodic potential (Epass) on a polarization curve at which the material completes the active-to-passive transition, often used as a comparative localized corrosion ranking metric when pitting does not occur.",
+        "critical_current_density": "The peak active dissolution current density (ikrit) observed during an anodic potentiodynamic sweep immediately prior to the onset of surface passivation."
+    }
+}

@@ -19,7 +19,7 @@ BASE_ONTOLOGY_FILE = "ontology\\ontology_v1.json"
 OUTPUT_PATH = "output"
 BATCH_SIZE = 10
 CONSOLIDATOR_THRESHOLD = 5
-PAPER_LIMIT = 60
+PAPER_LIMIT = 77
 
 
 def consolidate_and_merge(client, ontology_group, aggregator_entries, output_file):

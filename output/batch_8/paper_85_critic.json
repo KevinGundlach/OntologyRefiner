@@ -1,0 +1,13 @@
+
+{
+    "proposed_base_material_variables": {
+        "phase_volume_fractions": "The specific quantitative ratio or percentage of distinct microstructural phases present in the alloy (e.g., the austenite-ferrite ratio), which the authors highlight as a primary controlling factor for optimizing pitting resistance."
+    },
+    "proposed_conditioned_material_variables": {
+        "welding_procedure_and_filler_composition": "Specific details regarding any welding operations used to produce the specimen, including the welding technique (e.g., manual metal arc) and the specific chemical composition of the filler wire or electrodes (e.g., high nickel electrodes) used to create the weld deposit."
+    },
+    "proposed_experiment_variables": {
+        "potentiostatic_applied_potential": "The chosen fixed electrical potential continuously applied to the specimen during potentiostatic tests designed to evaluate localized breakdown and steady-state pitting current.",
+        "potentiostatic_holding_time": "The specific duration (e.g., 16 hours) for which a constant potential is applied during potentiostatic testing before terminal pitting current density measurements are recorded."
+    }
+}

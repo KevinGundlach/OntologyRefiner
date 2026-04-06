@@ -1,0 +1,14 @@
+{
+    "proposed_base_material_variables": {
+        "pitting_resistance_equivalent": "A calculated theoretical index (PRE or PREN) based on the bulk weight percentages of specific alloying elements (e.g., Cr, Mo, W, N) used to empirically predict, rank, and design the inherent resistance of the base alloy to localized pitting corrosion."
+    },
+    "proposed_conditioned_material_variables": {
+        "secondary_phase_precipitation": "Specific details regarding the specific intermetallic or secondary metallurgical phases (e.g., sigma phase, chi phase) formed during thermal conditioning or aging, including their identification, spatial distribution (e.g., grain boundary precipitation), and elemental depletion zones that act as preferential localized pitting sites."
+    },
+    "proposed_experiment_variables": {
+        "critical_pitting_temperature": "The precise measured solution temperature at which stable localized pitting corrosion abruptly initiates on the material surface while subjected to a constant applied anodic potential.",
+        "applied_potentiostatic_potential": "The fixed, constant anodic electrical potential applied to the working electrode during specialized localized corrosion tests, such as Critical Pitting Temperature (CPT) measurements.",
+        "temperature_scan_rate": "The controlled rate (e.g., degrees Celsius per minute) at which the thermodynamic temperature of the bulk testing electrolyte is continuously increased during Critical Pitting Temperature (CPT) testing.",
+        "purge_gas": "The specific gas (e.g., nitrogen, argon) actively used to purge and deaerate the bulk testing electrolyte prior to and during the electrochemical experiment to remove dissolved oxygen."
+    }
+}

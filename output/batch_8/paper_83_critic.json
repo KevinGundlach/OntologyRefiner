@@ -1,0 +1,15 @@
+{
+    "proposed_base_material_variables": {
+        "pitting_resistance_equivalent_number": "An empirical calculated metric (such as PRE, PREN, or PRENMn) derived from the bulk elemental composition (e.g., %Cr, %Mo, %N) used to estimate and compare the intrinsic pitting corrosion resistance of the base alloy."
+    },
+    "proposed_conditioned_material_variables": {
+        "crevice_corrosion_mitigation": "The specific physical setup, shielding method, or cell design (e.g., using insulating tape or flush-mounted resins) applied to the conditioned specimen to explicitly suppress marginal crevice corrosion during localized pitting tests."
+    },
+    "proposed_experiment_variables": {
+        "critical_pitting_temperature": "The precise measured threshold temperature at which stable localized pitting initiates, either derived from a sharp transition in potentiodynamic tests or explicitly measured during a temperature-ramped potentiostatic hold.",
+        "temperature_scan_rate": "The continuous rate at which the bulk solution or specimen temperature is actively increased over time during a potentiostatic critical pitting temperature (CPT) test (e.g., 1 °C/min).",
+        "transpassive_potential": "The measured electrochemical potential at which the protective oxide film breaks down due to uniform transpassive dissolution rather than localized defect-driven pitting.",
+        "repassivation_potential": "The specific potential at which actively growing pits arrest and the material returns to a passive state, typically determined during the reverse downward scan of a cyclic potentiodynamic polarization test.",
+        "pitting_current_density_threshold": "The precise anodic current density threshold (e.g., 100 µA/cm²) established by the testing protocol as the quantitative indicator for the onset of stable pitting or to dictate the termination of the experiment."
+    }
+}

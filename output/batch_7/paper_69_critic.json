@@ -1,0 +1,13 @@
+{
+    "proposed_base_material_variables": {
+        "substrate_material_details": "The composition, crystallographic orientation, and geometry of the underlying substrate (e.g., single-crystal silicon wafer) onto which thin-film or coating samples are deposited, which can influence epitaxial growth, microstructural defect density, and residual stress of the base material."
+    },
+    "proposed_conditioned_material_variables": {
+        "surface_passive_film_chemistry": "The explicitly measured chemical composition, elemental ratios, and specific oxidation/valence states (e.g., Mo+4, Mo+6) present within the protective surface oxide layer prior to or during polarization, which often differs significantly from the bulk alloy composition and directly governs pitting resistance.",
+        "deposited_film_thickness": "The explicitly measured thickness of the surface coating or sputtered thin film under investigation, which influences whether the material exhibits bulk-like behavior and determines the physical distance to the underlying substrate interface."
+    },
+    "proposed_experiment_variables": {
+        "cathodic_tafel_slope": "The measured rate of change of potential with respect to the logarithm of the cathodic current density (\u03b2c), providing quantitative insight into the kinetics of the dominant reduction half-reaction (e.g., hydrogen evolution) that couples with the anodic pitting mechanism.",
+        "hydrodynamic_conditions": "The explicitly defined state of fluid flow or mechanical agitation applied to the bulk electrolyte during the test (e.g., vigorous magnetic stirring, rotating disk rpm, or stagnant conditions), which dictates the mass transport of aggressive anions to the surface and the diffusion of dissolved metal ions away from developing pits."
+    }
+}

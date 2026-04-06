@@ -1,0 +1,14 @@
+{
+    "proposed_base_material_variables": {
+        "material_form": "The physical state or macroscopic dimensionality of the base material (e.g., bulk solid, sheet, sputter-deposited thin film, powder), which heavily influences localized corrosion mechanisms such as 2-D versus 3-D pit growth."
+    },
+    "proposed_conditioned_material_variables": {
+        "film_thickness": "The explicitly measured or target physical thickness of thin-film samples or surface coatings, which affects the ohmic potential drop, diffusion path, and repassivation behavior of localized pits.",
+        "sample_masking_technique": "The specific materials and methodological steps used to mask the sample boundaries (e.g., sputter-deposited oxide layers, Viton o-rings, lacquers) to define the exposed area and successfully prevent edge-induced crevice corrosion."
+    },
+    "proposed_experiment_variables": {
+        "repassivation_potential": "The precise electrochemical potential (often denoted as Er) at which an actively growing, stable pit ceases to propagate and passivates when the potential is scanned or stepped back in the active (cathodic) direction.",
+        "repassivation_test_protocol": "The detailed electrochemical sequence utilized to find the repassivation potential after pit initiation, encompassing the direction of reversal, downward potential step sizes (e.g., 10-100 mV), and holding durations at each step.",
+        "critical_pit_current_density": "The specific, localized anodic current density measured within a stable pit just before repassivation occurs, representing the minimum dissolution rate required to maintain the critical aggressive local pit environment."
+    }
+}

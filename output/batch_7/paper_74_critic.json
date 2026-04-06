@@ -1,0 +1,15 @@
+
+{
+    "proposed_base_material_variables": {
+        "alloy_atomic_percentages": "The calculated atomic percentage (at.%) of critical alloying elements (e.g., Mo, W), which is often used to comparatively analyze fundamental elemental effects based on molar quantities rather than mass."
+    },
+    "proposed_conditioned_material_variables": {
+        "specimen_geometry_and_dimensions": "The physical shape, dimensions, and structural form (e.g., 2 mm thick sheets) of the final conditioned material samples subjected to electrochemical testing."
+    },
+    "proposed_experiment_variables": {
+        "pitting_current_density_threshold": "The explicit anodic current density value (e.g., 10 µA cm^-2) used as the quantitative criterion to define film breakdown and the onset of stable pitting when determining the pitting potential.",
+        "primary_passivation_potential": "The measured potential (Epp) at the active-to-passive transition peak, indicating the exact potential where the protective passive film begins to form.",
+        "critical_anodic_current_density": "The peak anodic current density (Ic) measured at the active-to-passive transition, representing the maximum dissolution rate of the alloy before passivity is achieved.",
+        "testing_standard_reference": "The specific documented industry standard (e.g., ASTM G5) adopted for the experimental cell configuration, hardware setup, or polarization protocol."
+    }
+}

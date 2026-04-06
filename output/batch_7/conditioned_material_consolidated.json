@@ -1,0 +1,32 @@
+{
+    "variable_mapping": {
+        "material_identifier": "material_identifier",
+        "manufacturing_process": "manufacturing_process",
+        "thermal_treatment_parameters": "thermal_treatment_parameters",
+        "surface_preparation_and_treatment": "surface_preparation_and_finish",
+        "exposed_surface_area": "exposed_surface_area",
+        "cold_work_percentage": "cold_work_percentage",
+        "crevice_assembly_specifications": "crevice_assembly_specifications",
+        "specimen_geometry": "specimen_geometry_and_mounting",
+        "surface_passive_film_chemistry": "surface_passive_film_properties",
+        "deposited_film_thickness": "deposited_film_thickness",
+        "crevice_mitigation_strategy": "crevice_mitigation_strategy",
+        "final_surface_roughness": "surface_preparation_and_finish",
+        "specimen_geometry_and_dimensions": "specimen_geometry_and_mounting",
+        "surface_oxide_characteristics": "surface_passive_film_properties",
+        "working_electrode_geometry_and_mounting": "specimen_geometry_and_mounting"
+    },
+    "normalized_definitions": {
+        "material_identifier": "The unique designation, name, or identification code of the conditioned material or alloy under investigation.",
+        "manufacturing_process": "A descriptive summary of the overall preparation, manufacturing, and processing steps applied to the bulk base material prior to specimen extraction.",
+        "thermal_treatment_parameters": "Details of the thermal history applied to condition the material microstructure, encompassing standard heat treatments (temperatures, durations, cooling methods) and simulated transient thermal cycles such as weld heat-affected zones.",
+        "surface_preparation_and_finish": "The comprehensive mechanical and chemical procedures applied prior to testing (e.g., grinding, polishing, etching, passivation) to standardize the surface topography, establish specific final roughness characteristics (including abrasive size), and stabilize the protective passive film.",
+        "exposed_surface_area": "The explicitly defined geometric surface area of the working electrode actively exposed to the testing electrolyte, utilized to calculate current densities and scale the statistical probability of defect-driven pitting initiation.",
+        "cold_work_percentage": "The specific degree of plastic deformation or mechanical reduction applied to the material, influencing dislocation density and subsequent susceptibility to localized film breakdown.",
+        "crevice_assembly_specifications": "Specific details regarding any artificial crevice-forming devices attached to the specimen surface prior to testing, including the material of the crevice formers, the number of contact plateaus, and the ratio of exposed to shielded surface area.",
+        "specimen_geometry_and_mounting": "The physical shape, structural configuration, spatial dimensions, and mounting specifications (including insulating materials) of the test specimen. These factors dictate physical mass transport constraints, electric field distribution, and the definition of the exposed boundary to mitigate edge effects.",
+        "surface_passive_film_properties": "The detailed origin, physical state, thermodynamic properties (e.g., pH_pzc), and measured chemical composition (including elemental ratios and oxidation/valence states) of the protective surface oxide layer, which often differs from the bulk alloy and directly governs pitting resistance.",
+        "deposited_film_thickness": "The explicitly measured thickness of the surface coating or sputtered thin film under investigation, which influences whether the material exhibits bulk-like behavior and determines the physical distance to the underlying substrate interface.",
+        "crevice_mitigation_strategy": "The specific physical or chemical masking techniques (e.g., varnishes, lacquers, or specialized gaskets) applied to the specimen-mount interface to prevent unintended early breakdown from crevice corrosion, ensuring measured potentials accurately reflect true surface pitting."
+    }
+}

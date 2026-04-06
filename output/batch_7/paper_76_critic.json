@@ -1,0 +1,11 @@
+
+{
+    "proposed_base_material_variables": {},
+    "proposed_conditioned_material_variables": {},
+    "proposed_experiment_variables": {
+        "pitting_induction_time": "The measured time delay (\u03c4_ind) required for stable, localized pit nucleation to occur when the specimen is held at a constant anodic potential during potentiostatic testing.",
+        "pit_number_density": "The quantitative count or surface density of stable corrosion pits (n) formed on the exposed material surface at a specific applied potential, used to evaluate the extent of localized breakdown and extrapolate zero-pit potentials.",
+        "critical_passivation_potential": "The explicit electrochemical potential (Ekp) at which the active-to-passive transition occurs, marking the initial formation of the protective passive film prior to reaching the pitting potential.",
+        "critical_passivation_current_density": "The peak anodic current density (ikp) observed at the critical passivation potential, representing the maximum active dissolution rate immediately before the passive film stabilizes."
+    }
+}

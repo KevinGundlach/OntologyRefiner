@@ -1,0 +1,12 @@
+{
+    "proposed_base_material_variables": {
+        "chemical_homogeneity": "The degree of spatial uniformity of alloying elements within the bulk material, including the verification methods used (e.g., microprobe analysis) to ensure the absence of elemental segregation that could act as localized pit initiation sites."
+    },
+    "proposed_conditioned_material_variables": {
+        "working_electrode_geometry_and_mounting": "The physical shape, form factor (e.g., disk, flat plate), and specific insulating materials (e.g., PTFE shrink tubing, epoxy) used to mount the specimen, which is critical for defining the exposed boundary and preventing unintended crevice corrosion from being misidentified as pitting."
+    },
+    "proposed_experiment_variables": {
+        "hydrodynamic_flow_conditions": "The controlled state of relative movement between the testing electrolyte and the working electrode surface, explicitly including the rotation rate (e.g., rpm for a rotating disk electrode) or flow velocity, which governs mass transport and the accumulation of dissolution products at the surface.",
+        "electrochemical_preconditioning_parameters": "The specific active potentiostatic or galvanostatic sequence (e.g., cathodic prepolarization at -700 mV for 10 minutes) applied to the working electrode immediately before testing to reduce air-formed native oxides, serving as an active alternative to passive OCP stabilization."
+    }
+}

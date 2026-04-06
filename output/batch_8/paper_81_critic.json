@@ -1,0 +1,11 @@
+{
+    "proposed_base_material_variables": {},
+    "proposed_conditioned_material_variables": {
+        "specimen_mounting_method": "The specific materials and techniques used to mount, embed, or mask the specimen (e.g., Teflon gasket, cold-mount epoxy), which are critical for standardizing the exposed area and identifying potential crevice corrosion interference."
+    },
+    "proposed_experiment_variables": {
+        "electrochemical_test_mode": "The overarching electrochemical technique used to determine the pitting potential (e.g., stepwise potentiostatic polarization, continuous potentiodynamic sweep), serving as a distinct primary classification rather than grouping it under scan rate.",
+        "pitting_determination_criterion": "The explicit quantitative threshold (e.g., a specific sustained current density) or qualitative observation (e.g., microscopic confirmation of pits, continuous current increase) used by the authors to define the definitive onset of stable pitting.",
+        "potentiostatic_holding_time": "The specific duration for which the applied potential is held constant during potentiostatic or step-wise polarization tests to ensure steady-state conditions before evaluating pitting initiation."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "proposed_base_material_variables": {
+        "phase_volume_fractions": "The specific volumetric percentages or ratios of distinct crystallographic phases present within the bulk material (e.g., 50:50 austenite-ferrite in duplex stainless steels), which explicitly govern phase-specific localized corrosion mechanisms and defect distributions."
+    },
+    "proposed_conditioned_material_variables": {
+        "sensitization_status": "An explicit indicator of whether the material was purposefully subjected to thermal conditions (e.g., held at intermediate temperatures like 650 \u00b0C) to induce grain boundary carbide precipitation and chromium depletion prior to testing."
+    },
+    "proposed_experiment_variables": {
+        "testing_standard_reference": "The specifically cited international or industry testing guidelines (e.g., ASTM G.1) followed to standardize the electrochemical cell setup, electrode preparation, and overarching methodology.",
+        "applied_constant_potential": "The fixed electrochemical potential continuously applied to the working electrode during potentiostatic (constant-potential) tests, used to evaluate time-dependent localized corrosion initiation.",
+        "potentiostatic_hold_duration": "The predefined, continuous length of time for which a constant electrochemical potential is applied during potentiostatic testing before recording the terminal current density.",
+        "potentiostatic_current_density": "The specific current density recorded after holding the working electrode at a fixed constant potential for a designated duration, utilized to evaluate long-term localized pitting susceptibility."
+    }
+}

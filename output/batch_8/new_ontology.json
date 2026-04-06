@@ -1,0 +1,28 @@
+{
+    "base_material": {
+        "material_identification": "The standard designations, trade names, commercial grades, UNS codes, and broad alloy families used to uniquely identify and categorize the material based on its distinct characteristics.",
+        "chemical_composition": "The complete elemental makeup and purity profile of the material. This includes bulk weight and atomic percentages of critical alloying elements, spatial chemical homogeneity, trace impurities introduced from raw precursor metals, and derived theoretical metrics used to predict phase balances.",
+        "microstructure_and_morphology": "Comprehensive details regarding the internal crystalline structure of the material, encompassing overall microstructure, average grain dimensions, specific crystallographic phases or lattice structures, and the composition, size, and density of non-metallic inclusions or boundaries that may act as preferential defect sites."
+    },
+    "conditioned_material": {
+        "material_identification": "The unique designation, name, or identification code of the conditioned material or alloy under investigation.",
+        "fabrication_and_processing_history": "A comprehensive summary of the overall preparation, manufacturing, and fabrication steps applied to the bulk base material, including any specific welding operations, techniques, and filler wire compositions used to produce the specimen prior to extraction.",
+        "thermal_conditioning_history": "Details of the thermal history applied to condition the material microstructure, encompassing standard heat treatments, cooling methods, simulated transient thermal cycles, and explicit indicators of purposeful sensitization to induce specific precipitation.",
+        "surface_preparation_and_finish": "The comprehensive mechanical and chemical procedures (e.g., grinding, polishing, etching, passivation) applied to the specimen prior to testing to standardize surface topography, establish final roughness characteristics, and stabilize the protective passive film.",
+        "exposed_surface_area": "The explicitly defined geometric surface area of the working electrode actively exposed to the testing electrolyte, utilized to calculate current densities and scale the statistical probability of defect-driven pitting initiation."
+    },
+    "experiment": {
+        "experimental_test_summary": "A comprehensive overview of the experimental procedure, covering test types, electrochemical modes, solution chemistry, operating parameters, and overarching environmental conditions.",
+        "pitting_potential": "The measured critical electrochemical potential at which stable, localized pitting initiates and continuously propagates on the material surface.",
+        "electrolyte_temperature": "The thermodynamic temperature of the bulk test solution, representing a key variable influencing generalized and localized corrosion susceptibility.",
+        "polarization_scan_rate": "The continuous sweep rate or discrete step-size and holding duration applied to change the electrical potential during potentiodynamic or stepwise polarization testing.",
+        "reference_electrode": "The specific standard electrode (e.g., SCE, Ag/AgCl) utilized to measure, reference, and establish standardized electrical potentials within the electrochemical cell.",
+        "electrolyte_composition": "The precise chemical formulation of the testing solution, detailing solvents, primary salts, molar concentrations, and soluble additives.",
+        "electrolyte_aeration_and_purge_gas": "The dissolved gas condition within the bulk electrolyte, specifying whether the solution is actively aerated, naturally exposed to air, or deaerated/purged, alongside the specific inert gas (e.g., nitrogen, argon) used for purging.",
+        "corrosion_potential": "The steady-state open-circuit resting potential (Ecorr) of the working electrode measured in the test solution prior to any active external polarization.",
+        "ocp_stabilization_protocol": "The specific methodology, resting duration, or stability threshold used to establish a steady-state open-circuit equilibrium prior to active electrochemical testing.",
+        "counter_electrode_details": "The composition, physical geometry, exposed area, and isolation method of the auxiliary electrode utilized to complete the electrochemical circuit.",
+        "electrolyte_ph": "The explicitly measured, controlled, or actively adjusted hydrogen ion concentration (pH) of the bulk testing electrolyte.",
+        "passive_current_density": "The baseline, steady-state anodic current density maintained by the material's protective oxide layer across its passive potential domain prior to localized breakdown."
+    }
+}

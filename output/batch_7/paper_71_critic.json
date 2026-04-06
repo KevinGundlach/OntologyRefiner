@@ -1,0 +1,13 @@
+{
+    "proposed_base_material_variables": {
+        "raw_material_precursors": "The specific high-purity metals or master alloys (e.g., electrolytic chromium, Japanese iron, high-nitrogen ferro-chromium) used to melt and cast the base material, which establish the baseline trace impurities that can influence localized corrosion."
+    },
+    "proposed_conditioned_material_variables": {
+        "specimen_geometry": "The physical shape and explicit dimensions of the prepared test specimen (e.g., cylindrical geometry), which can influence electric field distribution, current density calculations, and the occurrence of edge-related pitting effects."
+    },
+    "proposed_experiment_variables": {
+        "cathodic_pretreatment_protocol": "The specific applied potential and duration (e.g., -1.5 V for 5 min) used immediately prior to the polarization scan to actively reduce native oxides and electrochemically clean the surface, which is distinct from standard passive open-circuit stabilization.",
+        "pitting_current_density_threshold": "The precise anodic current density value (e.g., 10^-5 A/cm2) explicitly designated by the researchers as the quantitative criterion to define and extract the critical pitting potential from the potentiodynamic curve.",
+        "crevice_former_application": "The material, size, and application method of any artificial crevice-inducing device (e.g., a fastened 2.5 mm round section neoprene ring) used to deliberately shield the surface and assess breakdown potential under standardized crevice conditions."
+    }
+}
