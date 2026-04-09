@@ -71,9 +71,10 @@ class LLMClient:
 
     def generate(self, prompt:str, paper:Paper|None=None, response_schema:Any|None=None) -> str:
         
-        # Disable for now. It turns out Gemini doesn't support schemas that
-        # use json objects with dynamically generated keys.
-        response_schema = None 
+        # Uncomment to disable forcing output to a given pydantic schema.
+        # Gemini API doesn't like schemas involving dictionaries with 
+        # dynamically generated keys. I changed the agent prompts to get rid of those.  
+        # response_schema = None 
         
         if self.use_google_genai:
             return self._generate_genai(prompt, paper, response_schema)

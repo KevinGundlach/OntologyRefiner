@@ -9,42 +9,41 @@ import os
 PROMPT_TEMPLATE = """
 **System/Instruction Prompt:**
 
-You are an Ontology Consolidation Agent. Your task is to clean, deduplicate, and standardize a list of proposed data variables collected from various research papers.
-
-You will be provided with a JSON list of key-value pairs representing proposed variable names and their definitions. Because these were generated across different papers, many variables will be semantic duplicates (e.g., "solution_temp", "electrolyte_temperature", and "test_temp" all mean the same thing).
+You are a highly logical Data Schema Consolidator. You will be provided with a raw JSON list of variable names and definitions proposed by various extraction agents across multiple materials science papers.
 
 **Your Task:**
-1. Group all semantic duplicates together.
-2. Assign a single, highly descriptive "normalized name" to each group.
-3. Create a single "normalized definition" that captures the nuances of the merged variables.
+Analyze the list to identify duplicates, synonyms, and overlapping concepts. Consolidate these into a clean, normalized list of variables.
 
-**Output Constraints:**
-You must output a valid JSON object strictly matching the structure below. Every originally proposed variable name must be mapped to exactly one normalized name. Do not include markdown formatting or extra text outside the JSON object.
+**Guidelines:**
+* **Normalize Names:** Standardize the naming convention to `snake_case`. 
+* **Merge Wisely:** Group clearly synonymous concepts (e.g., "solution_ph" and "electrolyte_ph"). 
+* **Respect Physical Distinctions:** Do NOT merge variables if they represent fundamentally different metallurgical or chemical processes, even if they sound similar (e.g., do not merge "anodic_scan_rate" with "cathodic_scan_rate").
+* **Normalize Definitions:** Combine the nuances of the proposed definitions into a single, comprehensive definition for the normalized variable.
+* Output your response STRICTLY as a JSON object matching the schema below.
 
-```json
+**Expected JSON Schema:**
+
 {
-    "variable_mapping": {
-        "original_variable_name_1": "normalized_name_A",
-        "original_variable_name_2": "normalized_name_A",
-        "original_variable_name_3": "normalized_name_B"
-    },
-    "normalized_definitions": {
-        "normalized_name_A": "Comprehensive definition incorporating the nuances of the grouped variables.",
-        "normalized_name_B": "Comprehensive definition incorporating the nuances of the grouped variables."
-    }
+  "normalized_variable_mapping": [ {"original_name": "...", "normalized_name": "..."} ],
+  "normalized_variable_definitions": [ {"normalized_name": "...", "normalized_definition": "..."} ]
 }
-```
 
 <data_variables>
 [Paste Data Variables Here]
 </data_variables>
-
 """
 
-class OutputSchema(BaseModel):
-    variable_mapping: dict[str, str]
-    normalized_definitions: dict[str, str]
+class NormalizedVariableMapping(BaseModel):
+    original_name: str
+    normalized_name: str
 
+class NormalizedVariableDefinition(BaseModel):
+    normalized_name: str
+    normalized_definition: str
+
+class OutputSchema(BaseModel):
+    normalized_variable_mapping: list[NormalizedVariableMapping]
+    normalized_variable_definitions: list[NormalizedVariableDefinition]
 
 class ConsolidatorAgent:
 
@@ -60,15 +59,6 @@ class ConsolidatorAgent:
         
         text = client.generate(prompt, response_schema=OutputSchema)
         text = text.strip()
-
-        # Stupid hack. Shouldn't be needed once I have 
-        # the output schema working correctly. 
-        
-        if text.startswith("```json"):
-            text = text[7:]
-
-        if text.endswith("```"):
-            text = text[:-3]
 
         with open(output_path, "w", encoding="utf-8") as f:
             f.write(text)

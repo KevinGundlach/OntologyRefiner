@@ -3,7 +3,7 @@
 
 We are building a set of LLM agents for the purpose of extracting information on metal alloy corrosion testing from a given set of research papers in materials science. 
 
-Our ultimate goal is to construct a self-supervised agentic framework that compiles a list of all variables deemed important for predicting the pitting potential of a metal alloy in a given test solution under a given test environment. 
+Our ultimate goal is to construct a self-supervised agentic framework that compiles a detailed list of all variables deemed important for predicting the pitting potential of a metal alloy in a given test solution under a given test environment. 
 
 In each paper there is a list of "base materials" - the metal alloys that are studied. The variables for each "base material" will include things like chemical composition, type of alloy (e.g., austenitic stainless steel, duplex, ferritic, martensitic, Ni-base superalloy), and microstructure (e.g., fully recrystallized, sigma-phase precipitates, elongated grains, martensitic).
 
@@ -13,11 +13,11 @@ The Pessall & Nurminen paper, for example, identifies "W5" as a base material, w
 
 For each "conditioned material" we have one or more "experiments". Each experiment represents a single complete procedure for measuring the pitting potentials of a conditioned material in a particular test solution in a particular environment. The variables for each "experiment" will include things like the test solution's chemical composition, ph value, and temperature.
 
-Since we are unaware of precisely which variables are relevant, the agentic system needs to be self-refining. The system consists of three agents - a "Data Extractor", a "Critic", and a "Consolidator".
+Since we are unaware of precisely which variables are relevant, the agentic system needs to be self-refining. The system consists of four agents - a "Data Extractor", a "Critic", a "Consolidator", and a "Refiner".
 
 1. Data Extractor
 
-The data extractor's job is to populate a markdown document with the requested information, given the pdf of a materials science research paper like one of the attached examples. The document structure is as follows:
+The data extractor's job is to populate a markdown document with the requested information, given a materials science research paper like one of the attached examples. The document structure is as follows:
 
 # Base Material
 
@@ -47,8 +47,6 @@ The data extractor's job is to populate a markdown document with the requested i
 
 There can be one or more "Experiment" sections per "Conditioned Material" section, and there can be one or more "Conditioned Material" sections per "Base Material" section. 
 
-The data extractor must be instructed to scan not just the text, but also check any provided figures, tables, and plots for important measurements and values. It is acceptable to estimate values from a given plot, such as the pitting potentials, if precise figures are not provided in the text.
-
 The data extractor's output is in simple plain-text markdown so that it can focus all its attention on extracting accurate comprehensive data, rather than on trying to fit it to a strict complex schema.
 
 2. Critic
@@ -61,20 +59,23 @@ The Critic's output should thus be a JSON object with the following structure:
 
 {
     "proposed_base_material_variables": [
-        {"variable_name": "definition"},
-        {"variable_name": "definition"},
+        {"name": "example_variable_1", "definition": "example definition of variable 1"},
+        {"name": "example_variable_2", "definition": "example definition of variable 2"},
+        {"name": "example_variable_3", "definition": "example definition of variable 3"},
         etc...
     ],
 
     "proposed_conditioned_material_variables": [
-        {"variable_name": "definition"},
-        {"variable_name": "definition"},
+        {"name": "example_variable_4", "definition": "example definition of variable 4"},
+        {"name": "example_variable_5", "definition": "example definition of variable 5"},
+        {"name": "example_variable_6", "definition": "example definition of variable 6"},
         etc...
     ],
 
     "proposed_experiment_variables": [
-        {"variable_name": "definition"},
-        {"variable_name": "definition"},
+        {"name": "example_variable_7", "definition": "example definition of variable 7"},
+        {"name": "example_variable_8", "definition": "example definition of variable 8"},
+        {"name": "example_variable_9", "definition": "example definition of variable 9"},
         etc...
     ],
 }
@@ -84,12 +85,12 @@ The Critic's output should thus be a JSON object with the following structure:
 
 The critic may recommend many unimportant extraneous 'edge case' variables, or repeatedly recommend the same variables when given different papers but with different names and slightly different definitions. 
 
-After the data extractor & critic have been run on a batch of papers (perhaps 10 or 20), the consolidator will run. It will be given a set of variables & corresponding definitions as a list of key-value pairs, consisting of those the data extractor is requesting along with those the critic recommends. That is, the input will have the form: 
+After the data extractor & critic have been run on a batch of papers (perhaps 10 or 20), the consolidator will run. It will be given a set of variables & corresponding definitions, consisting of those the data extractor is requesting along with those the critic recommends. That is, the input will have the form: 
 
 [
-    {"variable_name": "definition"},
-    {"variable_name": "definition"},
-    {"variable_name": "definition"},
+    {"name": "example_variable_1", "definition": "example definition of variable 1"},
+    {"name": "example_variable_2", "definition": "example definition of variable 2"},
+    {"name": "example_variable_3", "definition": "example definition of variable 3"},
     etc...
 ]
 
@@ -100,15 +101,16 @@ The consolidator will then output a JSON object having the following form. It wi
 Thus, the output of the consolidator will be a JSON object having the form: 
 
 {
-    "normalized_variable_names": [
-        {"recommended_variable_name": "normalized_name"},
-        {"recommended_variable_name": "normalized_name"},
+    "normalized_variable_mapping": [
+        {"original_name": "example_variable_1", "normalized_name": "normalized_variable_1"},
+        {"original_name": "example_variable_2", "normalized_name": "normalized_variable_1"},
+        {"original_name": "example_variable_3", "normalized_name": "normalized_variable_2"},
         ...
     ],
     
     "normalized_variable_definitions": [
-        {"normalized_name": "normalized_definition"},
-        {"normalized_name": "normalized_definition"},
+        {"name": "normalized_variable_1", "definition": "definition of normalized variable 1},
+        {"name": "normalized_variable_2", "definition": "definition of normalized variable 2},
         ...
     ]
 }
@@ -117,8 +119,16 @@ A human will then review the complete list of normalized variable names and defi
 
 Any variables deemed important will be manually added to the appropriate sections of the data extractor's template. The extractor->critic->consolidator loop will then be run again on another batch of 10-20 papers.
 
-The purpose of this agentic framework is simply to identify all the important concepts/variables that will later be used to construct an ontology/knowledge graph of all the important information provided in these research papers for the purpose of training an AI model to predict corrosion pitting potential. There are about 100 research papers in total, in pdf format.
 
-Please provide me the prompts to use for all three agents - the Data Extractor, the Critic, and the Consolidator. 
+4. Refiner
 
-Also, are there any shortcomings with this approach? Are there any critical details that I've failed to account for in this agentic refinement loop? Any pitfalls I may run into? Note that these agents will use the Gemini 3 Pro LLM.
+When all batches of papers have been processed through the Data Extractor, Critic, and Consolidator, the data extractor's template will likely contain some variables whose definitions are overly broad. In the above example Data Extractor template, we mentioned "test solution and environment" as one variable having a complex comprehensive definition. Many of the details, such as such as the chemical composition of the test solution, the ph value, the temperature, etc... should be split into separate variables rather than aggregated into a single one.
+
+The agentic framework may then be run again on the full collection of papers, beginning with this new refined data extractor template. It is our expectation to see the Data Extractor template converge to a single comprehensive list of all variables deemed relevant to a metal alloy's pitting potential. 
+
+
+The purpose of this agentic framework is to construct a collection of knowledge graphs - one for each experiment - to serve as the dataset on which to train a graph neural network to predict corrosion pitting potential. There are about 100 research papers in total. These papers are provided in Markdown format.
+
+Please provide me the prompts to use for all four agents - the Data Extractor, the Critic, the Consolidator, and the Refiner. 
+
+Also, are there any shortcomings with this approach? Are there any critical details that I've failed to account for in this agentic refinement loop? Any pitfalls I may run into? We intend to run these agents on a computing cluster running the latest Qwen3.5-122B-A10B model, although other large state-of-the-art LLMs will likely also be tested for comparison.
