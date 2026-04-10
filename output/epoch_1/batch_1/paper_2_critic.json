@@ -1,0 +1,14 @@
+{
+    "proposed_base_material_variables": {
+        "purity_grade": "Classification of the alloy's purity level regarding residual or trace elements like carbon and nitrogen (e.g., commercial purity vs. high-purity)."
+    },
+    "proposed_conditioned_material_variables": {
+        "surface_finish": "The specific final polishing or grinding treatment applied to the specimen surface prior to corrosion testing (e.g., 0.3 micron alumina slurry)."
+    },
+    "proposed_experiment_variables": {
+        "scan_rate": "The rate at which the electrical potential is swept during potentiodynamic polarization testing (e.g., 600 mV/hr).",
+        "reference_electrode": "The specific electrode used as a reference point for all measured potentials (e.g., Saturated Calomel Electrode / SCE).",
+        "sample_masking": "The method or material used to seal the edges of the exposed area (e.g., electroplater's tape or acrylic mount) to prevent crevice corrosion.",
+        "repassivating_pitting_potential": "The potential at which metastable pitting occurs (current blips that repassivate), which is distinct from the stable pitting potential."
+    }
+}

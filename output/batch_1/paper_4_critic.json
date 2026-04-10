@@ -1,16 +1,48 @@
 {
-    "proposed_base_material_variables": {
-        "UNS_designation": "The standard Unified Numbering System code identifying the specific alloy."
-    },
-    "proposed_conditioned_material_variables": {
-        "surface_finish": "Specific abrasive, polishing, or finishing treatment applied to the specimen surface prior to testing (e.g., wet ground to 600 grit SiC)."
-    },
-    "proposed_experiment_variables": {
-        "temperature": "The exact temperature of the electrolyte during the electrochemical test.",
-        "chloride_concentration": "The mass percentage or molar concentration of chloride ions in the test solution.",
-        "reference_electrode": "The type of reference electrode used experimentally before any conversions (e.g., SCE, Ag/AgCl).",
-        "scan_rate": "The precise rate of potential sweep used during potentiodynamic polarization (e.g., 20 mV/min).",
-        "reversal_current_density": "The threshold current density criterion at which the anodic scan is reversed in a cyclic polarization test.",
-        "crevice_former_details": "Specifications regarding artificial crevice formers, such as washer material, geometry, and applied mechanical torque."
+  "proposed_base_material_variables": [
+    {
+      "name": "pitting_resistance_equivalent_number_formula",
+      "definition": "The specific empirical formula (e.g., Cr + 3.3Mo) used to calculate the alloy's relative resistance to pitting based on its chemical composition."
     }
+  ],
+  "proposed_conditioned_material_variables": [
+    {
+      "name": "surface_finish_grit",
+      "definition": "The grit size or final abrasive grade used during mechanical grinding or polishing of the specimen surface."
+    },
+    {
+      "name": "crevice_former_details",
+      "definition": "The material, geometry, and configuration of devices used to create artificial crevices (e.g., radially grooved PTFE washers)."
+    },
+    {
+      "name": "crevice_assembly_torque",
+      "definition": "The specific mechanical torque applied to tighten the crevice-forming assembly to the specimen, which influences crevice tightness."
+    }
+  ],
+  "proposed_experiment_variables": [
+    {
+      "name": "repassivation_potential",
+      "definition": "The potential (Ep) during the reverse scan of a cyclic polarization curve where the current density returns to passive levels, representing the potential below which localized corrosion is inhibited."
+    },
+    {
+      "name": "scan_reversal_current_density",
+      "definition": "The threshold current density reached during the forward sweep at which the potential scan direction is reversed in cyclic polarization tests."
+    },
+    {
+      "name": "reference_electrode_thermal_state",
+      "definition": "Specifies whether the reference electrode was maintained at ambient room temperature or at the elevated test solution temperature, critical for accurate potential conversion."
+    },
+    {
+      "name": "deaeration_gas_type",
+      "definition": "The specific gas (e.g., nitrogen, argon) used to remove oxygen from the electrolyte prior to or during testing."
+    },
+    {
+      "name": "immersion_exposure_duration",
+      "definition": "The total length of time the specimen was exposed to the corrosive environment during non-electrochemical immersion tests."
+    },
+    {
+      "name": "critical_crevice_corrosion_temperature",
+      "definition": "The minimum temperature at which crevice corrosion initiation is observed in immersion tests for a given chloride concentration."
+    }
+  ]
 }

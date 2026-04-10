@@ -14,12 +14,13 @@ import json
 import math
 
 
-PAPERS_FOLDER = "papers"
+# PAPERS_FOLDER = "papers"
+PAPERS_FOLDER = "papers_markdown\\docling"
 BASE_ONTOLOGY_FILE = "ontology\\ontology_v1.json"
 OUTPUT_PATH = "output"
 BATCH_SIZE = 10
-CONSOLIDATOR_THRESHOLD = 5
-PAPER_LIMIT = 77
+CONSOLIDATOR_THRESHOLD = 2
+PAPER_LIMIT = 5
 
 
 def consolidate_and_merge(client, ontology_group, aggregator_entries, output_file):
@@ -27,8 +28,11 @@ def consolidate_and_merge(client, ontology_group, aggregator_entries, output_fil
     consolidator = ConsolidatorAgent()
     consolidated_data = consolidator.run(client, aggregator_entries, output_file)
     
-    normalized_mappings = consolidated_data['variable_mapping']    
-    normalized_definitions = consolidated_data['normalized_definitions']
+    normalized_mappings = {d['original_name']: d['normalized_name'] 
+                           for d in consolidated_data['normalized_variable_mapping']}    
+    
+    normalized_definitions = {d['normalized_name']: d['normalized_definition'] 
+                              for d in consolidated_data['normalized_variable_definitions']}
 
     existing_variables = [normalized_mappings[name] for name in ontology_group.keys()]
     
@@ -55,9 +59,16 @@ def run_pipeline():
     collection = PaperCollection(PAPERS_FOLDER)
     collection.papers = collection.papers[:PAPER_LIMIT]
     
-    with LLMClient(ModelSettings.gemini_pro(), use_google_genai=True) as client:
+    # Going through the Gemini API directly allows us to extract information from 
+    # the plots/figures embedded in the pdf files. Turning this off means we 
+    # go through the OpenAI "chat completions" API instead, allowing us to use any LLM
+    # but papers have to be sent in Markdown format, stripped of all plots/figures.
+    use_google_genai = False 
 
-        collection.sync_with_gemini(client.client)
+    with LLMClient(ModelSettings.gemini_flash_2_5(), use_google_genai=use_google_genai) as client:
+
+        if use_google_genai:
+            collection.sync_with_gemini(client.client)
         
         ontology = Ontology(BASE_ONTOLOGY_FILE)
         

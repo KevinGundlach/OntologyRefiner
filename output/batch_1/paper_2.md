@@ -1,288 +1,92 @@
 # Base Material
-- identifier: High-nickel austenitic series (0.025% Mo)
-- alloy composition: 19.97 wt% Cr, 39.09 wt% Ni, 0.025 wt% Mo, 1.21 wt% Mn, 0.46 wt% Si, 0.056 wt% C, 0.040 wt% N, balance Fe [Page 1, Table I]
-- alloy type: High-nickel austenitic stainless steel [Page 1, text]
-- microstructure: Completely austenitic [Page 4, text]
+- identifier: High-nickel austenitic series
+- alloy composition: 19.97 to 20.01 wt% Cr, 39.09 to 39.13 wt% Ni, 0.025 to 4.85 wt% Mo, 1.21 wt% Mn, 0.46 wt% Si, 0.058 wt% C, 0.039 wt% N (Procedures, Table I)
+- alloy type: Austenitic stainless steels with high nickel content (approximately 39%) used to study the interaction between molybdenum and nickel on pitting resistance (Abstract; Procedures).
+- microstructure: Completely austenitic (Measurements in 1M NaCI).
 
 ## Conditioned Material
-- identifier: As-annealed (1150 °C)
-- process_description: Induction-melted in an argon atmosphere and cast in air using the split heat technique. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm, then cold-rolled to 0.38 cm [Page 1, text].
-- heat_treatment: Annealed at 1150 °C for 1 hr and water-quenched [Page 1, text].
+- identifier: 20Cr-39Ni-0.025Mo
+- process_description: Induction-melted in an argon atmosphere and cast in air. The ingot was hot-forged and hot-rolled to 0.76 cm, then cold-rolled to 0.38 cm. The exposed surface was polished with 0.3µ alumina slurry and masked with electroplater's tape (Scotch 470) to a 0.3 cm diameter circular area (Procedures).
+- heat_treatment: Annealed at 1150°C for 1 hr and water-quenched (Procedures).
 
 ### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode. Scanning rate of 600 mv/hr up to potentials about 0.2-0.3 V less noble than the expected pitting potential, at which point the scanning rate was decreased to 60 mv/hr [Page 2, text].
-- test_solution_and_environment: Argon-saturated 0.1N HCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: 0.64 V vs. SCE [Page 3, Table III]
+- test_procedure: Potentiodynamic polarization scan. Potential scan started at -0.7V in the active region to form the passive film in situ. Scanning rate was 600 mv/hr up to potentials about 0.2-0.3V less noble than the expected pitting potential, then decreased to 60 mv/hr (Procedures).
+- test_solution_and_environment: Argon-saturated 0.1N HCl; Temperature: 24°C ± 1°C; Saturated calomel reference electrode (Procedures; Measurements in 0.1N HCl).
+- pitting_potential: 0.64 v vs. SCE (Measurements in 0.1N HCl, Table III).
 
 ### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode [Page 2, text; Page 4, Fig 7].
-- test_solution_and_environment: Argon-saturated 1.0M NaCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: ~0.53 V vs. SCE (estimated from plot) [Page 4, Fig 7]
+- test_procedure: Potentiodynamic polarization scan. Potential scan started at -0.7V. Scanning rate was 600 mv/hr up to potentials about 0.2-0.3V less noble than the expected pitting potential, then decreased to 60 mv/hr (Procedures).
+- test_solution_and_environment: Argon-saturated 1.0M NaCl; Temperature: 24°C ± 1°C; Saturated calomel reference electrode (Procedures; Measurements in 1M NaCI).
+- pitting_potential: approximately 0.2 v vs. SCE (Measurements in 1M NaCI, Fig. 7).
 
-***
+## Conditioned Material
+- identifier: 20Cr-39Ni-0.97Mo
+- process_description: Produced via split heat technique (induction-melted in argon, cast in air). Ingot hot-forged and hot-rolled to 0.76 cm, then cold-rolled to 0.38 cm. Polished with 0.3µ alumina slurry and masked with electroplater's tape (Procedures).
+- heat_treatment: Annealed at 1150°C for 1 hr and water-quenched (Procedures).
+
+### Experiment
+- test_procedure: Potentiodynamic polarization scan. Scan started at -0.7V. Scanning rate 600 mv/hr, reduced to 60 mv/hr near pitting potential (Procedures).
+- test_solution_and_environment: Argon-saturated 0.1N HCl; Temperature: 24°C ± 1°C; Saturated calomel reference electrode (Procedures; Measurements in 0.1N HCl).
+- pitting_potential: No pitting (NP) up to transpassive range (~0.8V) (Measurements in 0.1N HCl, Table III).
+
+### Experiment
+- test_procedure: Potentiodynamic polarization scan. Scan started at -0.7V. Scanning rate 600 mv/hr, reduced to 60 mv/hr near pitting potential (Procedures).
+- test_solution_and_environment: Argon-saturated 1.0M NaCl; Temperature: 24°C ± 1°C; Saturated calomel reference electrode (Procedures; Measurements in 1M NaCI).
+- pitting_potential: No pitting (NP) up to transpassive range (~0.8V) (Measurements in 1M NaCI, Fig. 7).
 
 # Base Material
-- identifier: High-nickel austenitic series (0.97% Mo)
-- alloy composition: Not analyzed but ~20 wt% Cr, Not analyzed but ~39 wt% Ni, 0.97 wt% Mo, balance Fe [Page 1, Table I]
-- alloy type: High-nickel austenitic stainless steel [Page 1, text]
-- microstructure: Completely austenitic [Page 4, text]
+- identifier: Low-nickel austenitic series
+- alloy composition: 17.60 to 17.67 wt% Cr, 13.50 to 13.57 wt% Ni, 1.99 to 3.89 wt% Mo, 1.72 to 1.84 wt% Mn, 0.45 to 0.53 wt% Si, 0.025 to 0.027 wt% C, 0.030 to 0.033 wt% N (Procedures, Table I)
+- alloy type: Austenitic stainless steels with low nickel content (approximately 13.5%) used to investigate the effect of molybdenum variations on chloride pitting (Abstract; Procedures).
+- microstructure: Delta ferrite is present in alloys containing over 2.9% molybdenum (Measurements in 1M NaCI).
 
 ## Conditioned Material
-- identifier: As-annealed (1150 °C)
-- process_description: Induction-melted in an argon atmosphere and cast in air using the split heat technique. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm, then cold-rolled to 0.38 cm [Page 1, text].
-- heat_treatment: Annealed at 1150 °C for 1 hr and water-quenched [Page 1, text].
+- identifier: 17.6Cr-13.6Ni-1.99Mo
+- process_description: Induction-melted in argon, cast in air. Hot-forged and hot-rolled to 0.76 cm, then cold-rolled to 0.38 cm. Polished with 0.3µ alumina slurry and masked with electroplater's tape (Procedures).
+- heat_treatment: Annealed at 1120°C for 1 hr and water-quenched (Procedures).
 
 ### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode. Scanning rate of 600 mv/hr up to potentials about 0.2-0.3 V less noble than the expected pitting potential, at which point the scanning rate was decreased to 60 mv/hr [Page 2, text].
-- test_solution_and_environment: Argon-saturated 0.1N HCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: > 0.8 V vs. SCE (Reported as NP: no pitting up to 0.8 V) [Page 3, Table III]
+- test_procedure: Potentiodynamic polarization scan. Scan started at -0.7V. Scanning rate 600 mv/hr, reduced to 60 mv/hr near pitting potential (Procedures).
+- test_solution_and_environment: Argon-saturated 0.1N HCl; Temperature: 24°C ± 1°C; Saturated calomel reference electrode (Procedures; Measurements in 0.1N HCl).
+- pitting_potential: 0.39 v vs. SCE (Measurements in 0.1N HCl, Table III).
 
 ### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode [Page 2, text].
-- test_solution_and_environment: Argon-saturated 1.0M NaCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: > 0.8 V vs. SCE (No stable pit growth at potentials below the transpassive region) [Page 4, text]
+- test_procedure: Potentiodynamic polarization scan. Scan started at -0.7V. Scanning rate 600 mv/hr, reduced to 60 mv/hr near pitting potential (Procedures).
+- test_solution_and_environment: Argon-saturated 1.0M NaCl; Temperature: 24°C ± 1°C; Saturated calomel reference electrode (Procedures; Measurements in 1M NaCI).
+- pitting_potential: approximately 0.28 v vs. SCE (Measurements in 1M NaCI, Fig. 7).
 
-***
+## Conditioned Material
+- identifier: 17.6Cr-13.6Ni-2.93Mo
+- process_description: Induction-melted in argon, cast in air. Hot-forged and hot-rolled to 0.76 cm, then cold-rolled to 0.38 cm. Polished with 0.3µ alumina slurry and masked with electroplater's tape (Procedures).
+- heat_treatment: Annealed at 1120°C for 1 hr and water-quenched (Procedures).
+
+### Experiment
+- test_procedure: Potentiodynamic polarization scan. Scan started at -0.7V. Potential scan rate varied to test sensitivity: 600 mv/hr to +0.3V then 60 mv/hr (Measurements in 1M NaCI).
+- test_solution_and_environment: Argon-saturated 1.0M NaCl; Temperature: 24°C ± 1°C; Saturated calomel reference electrode (Procedures; Measurements in 1M NaCI).
+- pitting_potential: 0.525 v vs. SCE (Measurements in 1M NaCI, Table IV).
+
+### Experiment
+- test_procedure: Potentiodynamic polarization scan. Scan rate: 600 mv/hr to +0.3V then 20 mv/hr (Measurements in 1M NaCI).
+- test_solution_and_environment: Argon-saturated 1.0M NaCl; Temperature: 24°C ± 1°C; Saturated calomel reference electrode (Procedures; Measurements in 1M NaCI).
+- pitting_potential: 0.655 v vs. SCE (Measurements in 1M NaCI, Table IV).
 
 # Base Material
-- identifier: High-nickel austenitic series (3.03% Mo)
-- alloy composition: Not analyzed but ~20 wt% Cr, Not analyzed but ~39 wt% Ni, 3.03 wt% Mo, balance Fe [Page 1, Table I]
-- alloy type: High-nickel austenitic stainless steel [Page 1, text]
-- microstructure: Completely austenitic [Page 4, text]
+- identifier: High-purity austenitic series
+- alloy composition: 17.86 to 18.07 wt% Cr, 16.13 to 16.25 wt% Ni, 0.067 to 4.99 wt% Mo, <0.01 wt% Mn, 0.08 to 0.09 wt% Si, 0.002 to 0.004 wt% C, 0.010 to 0.012 wt% N (Procedures, Table I)
+- alloy type: High-purity vacuum-melted austenitic stainless steels with low carbon and nitrogen content (Abstract; Procedures).
+- microstructure: Not specified in text.
 
 ## Conditioned Material
-- identifier: As-annealed (1150 °C)
-- process_description: Induction-melted in an argon atmosphere and cast in air using the split heat technique. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm, then cold-rolled to 0.38 cm [Page 1, text].
-- heat_treatment: Annealed at 1150 °C for 1 hr and water-quenched [Page 1, text].
+- identifier: 17.9Cr-16.1Ni-0.067Mo
+- process_description: Prepared as separate heats by melting and casting in vacuum. Hot-forged and hot-rolled to 0.76 cm, cold-rolled to 0.38 cm. Polished with 0.3µ alumina slurry and masked with electroplater's tape (Procedures).
+- heat_treatment: Annealed at 1150°C for 1 hr and water-quenched (Procedures).
 
 ### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode. Scanning rate of 600 mv/hr up to potentials about 0.2-0.3 V less noble than the expected pitting potential, at which point the scanning rate was decreased to 60 mv/hr [Page 2, text].
-- test_solution_and_environment: Argon-saturated 0.1N HCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: > 0.8 V vs. SCE (Reported as NP: no pitting up to 0.8 V) [Page 3, Table III]
+- test_procedure: Potentiodynamic polarization scan. Scan started at -0.7V. Scanning rate 600 mv/hr, reduced to 60 mv/hr near pitting potential (Procedures).
+- test_solution_and_environment: Argon-saturated 0.1N HCl; Temperature: 24°C ± 1°C; Saturated calomel reference electrode (Procedures).
+- pitting_potential: No pitting (NP) up to transpassive range (~0.8V) (Measurements in 0.1N HCl, Table III).
 
 ### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode [Page 2, text].
-- test_solution_and_environment: Argon-saturated 1.0M NaCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: > 0.8 V vs. SCE (No stable pit growth at potentials below the transpassive region) [Page 4, text]
-
-***
-
-# Base Material
-- identifier: High-nickel austenitic series (4.85% Mo)
-- alloy composition: 20.01 wt% Cr, 39.13 wt% Ni, 4.85 wt% Mo, 0.039 wt% N, balance Fe [Page 1, Table I]
-- alloy type: High-nickel austenitic stainless steel [Page 1, text]
-- microstructure: Completely austenitic [Page 4, text]
-
-## Conditioned Material
-- identifier: As-annealed (1150 °C)
-- process_description: Induction-melted in an argon atmosphere and cast in air using the split heat technique. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm, then cold-rolled to 0.38 cm [Page 1, text].
-- heat_treatment: Annealed at 1150 °C for 1 hr and water-quenched [Page 1, text].
-
-### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode. Scanning rate of 600 mv/hr up to potentials about 0.2-0.3 V less noble than the expected pitting potential, at which point the scanning rate was decreased to 60 mv/hr [Page 2, text].
-- test_solution_and_environment: Argon-saturated 0.1N HCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: > 0.8 V vs. SCE (Reported as NP: no pitting up to 0.8 V) [Page 3, Table III]
-
-### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode [Page 2, text].
-- test_solution_and_environment: Argon-saturated 1.0M NaCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: > 0.8 V vs. SCE (No stable pit growth at potentials below the transpassive region) [Page 4, text]
-
-***
-
-# Base Material
-- identifier: Low-nickel austenitic series (1.99% Mo)
-- alloy composition: 17.67 wt% Cr, 13.57 wt% Ni, 1.99 wt% Mo, 1.84 wt% Mn, 0.45 wt% Si, 0.025 wt% C, 0.030 wt% N, balance Fe [Page 1, Table I]
-- alloy type: Low-nickel austenitic stainless steel [Page 1, text]
-- microstructure: Austenitic [Page 1, text; Page 4, text]
-
-## Conditioned Material
-- identifier: As-annealed (1120 °C)
-- process_description: Induction-melted in an argon atmosphere and cast in air using the split heat technique. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm, then cold-rolled to 0.38 cm [Page 1, text].
-- heat_treatment: Annealed at 1120 °C for 1 hr and water-quenched [Page 1, text].
-
-### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode. Scanning rate of 600 mv/hr up to potentials about 0.2-0.3 V less noble than the expected pitting potential, at which point the scanning rate was decreased to 60 mv/hr [Page 2, text].
-- test_solution_and_environment: Argon-saturated 0.1N HCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: 0.39 V vs. SCE [Page 3, Table III]
-
-### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode [Page 2, text; Page 4, Fig 7].
-- test_solution_and_environment: Argon-saturated 1.0M NaCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: ~0.24 V vs. SCE (estimated from plot) [Page 4, Fig 7]
-
-***
-
-# Base Material
-- identifier: Low-nickel austenitic series (2.45% Mo)
-- alloy composition: Not analyzed but ~18 wt% Cr, Not analyzed but ~13.5 wt% Ni, 2.45 wt% Mo, balance Fe [Page 1, Table I]
-- alloy type: Low-nickel austenitic stainless steel [Page 1, text]
-- microstructure: Austenitic [Page 1, text; Page 4, text]
-
-## Conditioned Material
-- identifier: As-annealed (1120 °C)
-- process_description: Induction-melted in an argon atmosphere and cast in air using the split heat technique. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm, then cold-rolled to 0.38 cm [Page 1, text].
-- heat_treatment: Annealed at 1120 °C for 1 hr and water-quenched [Page 1, text].
-
-### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode. Scanning rate of 600 mv/hr up to potentials about 0.2-0.3 V less noble than the expected pitting potential, at which point the scanning rate was decreased to 60 mv/hr [Page 2, text].
-- test_solution_and_environment: Argon-saturated 0.1N HCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: > 0.8 V vs. SCE (Reported as NP: no pitting up to 0.8 V) [Page 3, Table III]
-
-### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode [Page 2, text; Page 4, Fig 7].
-- test_solution_and_environment: Argon-saturated 1.0M NaCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: ~0.37 V vs. SCE (estimated from plot) [Page 4, Fig 7]
-
-***
-
-# Base Material
-- identifier: Low-nickel austenitic series (2.93% Mo)
-- alloy composition: Not analyzed but ~17.6 wt% Cr, Not analyzed but ~13.5 wt% Ni, 2.93 wt% Mo, balance Fe [Page 1, Table I; Page 4, Table IV]
-- alloy type: Low-nickel austenitic stainless steel [Page 1, text]
-- microstructure: Austenitic (delta ferrite begins to be present in alloys >2.9% Mo) [Page 4, text]
-
-## Conditioned Material
-- identifier: As-annealed (1120 °C)
-- process_description: Induction-melted in an argon atmosphere and cast in air using the split heat technique. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm, then cold-rolled to 0.38 cm [Page 1, text].
-- heat_treatment: Annealed at 1120 °C for 1 hr and water-quenched [Page 1, text].
-
-### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode. Scanning rate of 600 mv/hr up to potentials about 0.2-0.3 V less noble than the expected pitting potential, at which point the scanning rate was decreased to 60 mv/hr [Page 2, text].
-- test_solution_and_environment: Argon-saturated 0.1N HCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: > 0.8 V vs. SCE (Reported as NP: no pitting up to 0.8 V) [Page 3, Table III]
-
-### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode. Scanning rate: 2000 mv/hr [Page 4, Table IV].
-- test_solution_and_environment: Argon-saturated 1.0M NaCl. Temperature: 24 °C ± 1 °C [Page 4, Table IV].
-- pitting_potential: 0.43 V vs. SCE (Repassivating pitting potential: 0.29 V vs. SCE) [Page 4, Table IV]
-
-### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode. Scanning rate: 600 mv/hr [Page 4, Table IV].
-- test_solution_and_environment: Argon-saturated 1.0M NaCl. Temperature: 24 °C ± 1 °C [Page 4, Table IV].
-- pitting_potential: 0.47 V vs. SCE (Repassivating pitting potential: 0.32 V vs. SCE) [Page 4, Table IV]
-
-### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode. Scanning rate: 600 mv/hr from -0.7 to +0.3 V, then decreased to 60 mv/hr [Page 4, Table IV].
-- test_solution_and_environment: Argon-saturated 1.0M NaCl. Temperature: 24 °C ± 1 °C [Page 4, Table IV].
-- pitting_potential: 0.525 V vs. SCE and 0.495 V vs. SCE (two values reported) (Repassivating pitting potential: 0.29 V vs. SCE) [Page 4, Table IV]
-
-### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode. Scanning rate: 600 mv/hr from -0.7 to +0.3 V, then decreased to 20 mv/hr [Page 4, Table IV].
-- test_solution_and_environment: Argon-saturated 1.0M NaCl. Temperature: 24 °C ± 1 °C [Page 4, Table IV].
-- pitting_potential: 0.655 V vs. SCE (Repassivating pitting potential: 0.31 V vs. SCE) [Page 4, Table IV]
-
-***
-
-# Base Material
-- identifier: Low-nickel austenitic series (3.37% Mo)
-- alloy composition: Not analyzed but ~18 wt% Cr, Not analyzed but ~13.5 wt% Ni, 3.37 wt% Mo, balance Fe [Page 1, Table I]
-- alloy type: Low-nickel austenitic stainless steel [Page 1, text]
-- microstructure: Austenitic with the presence of delta ferrite [Page 4, text]
-
-## Conditioned Material
-- identifier: As-annealed (1120 °C)
-- process_description: Induction-melted in an argon atmosphere and cast in air using the split heat technique. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm, then cold-rolled to 0.38 cm [Page 1, text].
-- heat_treatment: Annealed at 1120 °C for 1 hr and water-quenched [Page 1, text].
-
-### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode. Scanning rate of 600 mv/hr up to potentials about 0.2-0.3 V less noble than the expected pitting potential, at which point the scanning rate was decreased to 60 mv/hr [Page 2, text].
-- test_solution_and_environment: Argon-saturated 0.1N HCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: > 0.8 V vs. SCE (Reported as NP: no pitting up to 0.8 V) [Page 3, Table III]
-
-### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode [Page 2, text; Page 4, Fig 7].
-- test_solution_and_environment: Argon-saturated 1.0M NaCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: ~0.64 V vs. SCE (estimated from plot) [Page 4, Fig 7]
-
-***
-
-# Base Material
-- identifier: Low-nickel austenitic series (3.89% Mo)
-- alloy composition: 17.60 wt% Cr, 13.56 wt% Ni, 3.89 wt% Mo, 1.72 wt% Mn, 0.53 wt% Si, 0.027 wt% C, 0.033 wt% N, balance Fe [Page 1, Table I]
-- alloy type: Low-nickel austenitic stainless steel [Page 1, text]
-- microstructure: Austenitic with an appreciable amount of delta ferrite [Page 4, text]
-
-## Conditioned Material
-- identifier: As-annealed (1120 °C)
-- process_description: Induction-melted in an argon atmosphere and cast in air using the split heat technique. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm, then cold-rolled to 0.38 cm [Page 1, text].
-- heat_treatment: Annealed at 1120 °C for 1 hr and water-quenched [Page 1, text].
-
-### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode. Scanning rate of 600 mv/hr up to potentials about 0.2-0.3 V less noble than the expected pitting potential, at which point the scanning rate was decreased to 60 mv/hr [Page 2, text].
-- test_solution_and_environment: Argon-saturated 0.1N HCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: > 0.8 V vs. SCE (Reported as NP: no pitting up to 0.8 V) [Page 3, Table III]
-
-### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode [Page 2, text; Page 4, Fig 7].
-- test_solution_and_environment: Argon-saturated 1.0M NaCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: ~0.49 V vs. SCE (estimated from plot; exhibits anomalous potential drop relative to 3.37% Mo due to delta ferrite) [Page 4, Fig 7 and text]
-
-***
-
-# Base Material
-- identifier: High-purity austenitic series (0.067% Mo)
-- alloy composition: 17.86 wt% Cr, 16.13 wt% Ni, 0.067 wt% Mo, 0.09 wt% Si, 0.002 wt% C, 0.010 wt% N, balance Fe (Mn not added) [Page 1, Table I]
-- alloy type: High-purity austenitic stainless steel [Page 1, text]
-- microstructure: Austenitic [Page 1, abstract]
-
-## Conditioned Material
-- identifier: As-annealed (1150 °C)
-- process_description: Prepared as separate heats by melting and casting in vacuum. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm, then cold-rolled to 0.38 cm [Page 1, text].
-- heat_treatment: Annealed at 1150 °C for 1 hr and water-quenched [Page 1, text].
-
-### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode. Scanning rate of 600 mv/hr up to potentials about 0.2-0.3 V less noble than the expected pitting potential, at which point the scanning rate was decreased to 60 mv/hr [Page 2, text].
-- test_solution_and_environment: Argon-saturated 0.1N HCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: > 0.8 V vs. SCE (Reported as NP: no pitting up to 0.8 V) [Page 3, Table III]
-
-### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode [Page 2, text].
-- test_solution_and_environment: Argon-saturated 1.0M NaCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: 0.79 V vs. SCE [Page 4, text]
-
-***
-
-# Base Material
-- identifier: High-purity austenitic series (2.48% Mo)
-- alloy composition: 18.01 wt% Cr, 16.25 wt% Ni, 2.48 wt% Mo, 0.08 wt% Si, 0.003 wt% C, 0.012 wt% N, balance Fe (Mn not added) [Page 1, Table I]
-- alloy type: High-purity austenitic stainless steel [Page 1, text]
-- microstructure: Austenitic [Page 1, abstract]
-
-## Conditioned Material
-- identifier: As-annealed (1150 °C)
-- process_description: Prepared as separate heats by melting and casting in vacuum. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm, then cold-rolled to 0.38 cm [Page 1, text].
-- heat_treatment: Annealed at 1150 °C for 1 hr and water-quenched [Page 1, text].
-
-### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode. Scanning rate of 600 mv/hr up to potentials about 0.2-0.3 V less noble than the expected pitting potential, at which point the scanning rate was decreased to 60 mv/hr [Page 2, text].
-- test_solution_and_environment: Argon-saturated 0.1N HCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: > 0.8 V vs. SCE (Reported as NP: no pitting up to 0.8 V) [Page 3, Table III]
-
-### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode [Page 2, text].
-- test_solution_and_environment: Argon-saturated 1.0M NaCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: > 0.8 V vs. SCE (Not pitted on scanning up to 0.8 V) [Page 4, text]
-
-***
-
-# Base Material
-- identifier: High-purity austenitic series (4.99% Mo)
-- alloy composition: 18.07 wt% Cr, 16.17 wt% Ni, 4.99 wt% Mo, 0.09 wt% Si, 0.004 wt% C, 0.012 wt% N, balance Fe (Mn not added) [Page 1, Table I]
-- alloy type: High-purity austenitic stainless steel [Page 1, text]
-- microstructure: Austenitic [Page 1, abstract]
-
-## Conditioned Material
-- identifier: As-annealed (1150 °C)
-- process_description: Prepared as separate heats by melting and casting in vacuum. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm, then cold-rolled to 0.38 cm [Page 1, text].
-- heat_treatment: Annealed at 1150 °C for 1 hr and water-quenched [Page 1, text].
-
-### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode. Scanning rate of 600 mv/hr up to potentials about 0.2-0.3 V less noble than the expected pitting potential, at which point the scanning rate was decreased to 60 mv/hr [Page 2, text].
-- test_solution_and_environment: Argon-saturated 0.1N HCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: > 0.8 V vs. SCE (Reported as NP: no pitting up to 0.8 V) [Page 3, Table III]
-
-### Experiment
-- test_procedure: Potentiodynamic polarization using a saturated calomel reference electrode (SCE). Masked electrode [Page 2, text].
-- test_solution_and_environment: Argon-saturated 1.0M NaCl. Temperature: 24 °C ± 1 °C [Page 2, text].
-- pitting_potential: > 0.8 V vs. SCE (Not pitted on scanning up to 0.8 V) [Page 4, text]
+- test_procedure: Potentiodynamic polarization scan. Scan started at -0.7V. Scanning rate 600 mv/hr, reduced to 60 mv/hr near pitting potential (Procedures).
+- test_solution_and_environment: Argon-saturated 1.0M NaCl; Temperature: 24°C ± 1°C; Saturated calomel reference electrode (Procedures).
+- pitting_potential: 0.79 v vs. SCE (Measurements in 1M NaCI, Fig. 7).

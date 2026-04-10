@@ -14,6 +14,14 @@ class ModelSettings:
     model : str 
 
     @classmethod
+    def gemini_flash_2_5(cls):
+        return ModelSettings(
+            model_url = "https://generativelanguage.googleapis.com/v1beta/openai/",
+            model_api_key = os.environ.get('ONTOLOGY_REFINER_GEMINI_API_KEY'),
+            model = "gemini-2.5-flash"
+        )
+
+    @classmethod
     def gemini_flash(cls):
         return ModelSettings(
             model_url = "https://generativelanguage.googleapis.com/v1beta/openai/",
@@ -73,7 +81,7 @@ class LLMClient:
         
         # Uncomment to disable forcing output to a given pydantic schema.
         # Gemini API doesn't like schemas involving dictionaries with 
-        # dynamically generated keys. I changed the agent prompts to get rid of those.  
+        # dynamically generated keys so I had to briefly disable response schemas. 
         # response_schema = None 
         
         if self.use_google_genai:
@@ -123,12 +131,15 @@ class LLMClient:
         # since we're not actually connecting to ChatGPT - we're connecting
         # to Ollama, Gemini, and perhaps vLLM (when we move to the Dais cluster).
         # They're all compatible with the older API. 
-
-        messages = [{"role": "system", "content": prompt}]
         
         if paper is not None:
             paper_text = paper.read_all()
-            messages.append({"role": "user", "content": f"Here is the paper to analyze:\n\n{paper_text}"})
+            messages = [
+                {"role": "system", "content": prompt},
+                {"role": "user", "content": f"Here is the paper to analyze:\n\n{paper_text}"}]
+        else:
+            messages = [
+                {"role": "user", "content": prompt}]
 
         kwargs = {
             "model": self.settings.model,
@@ -137,7 +148,8 @@ class LLMClient:
 
         if response_schema is not None:
             kwargs["response_format"] = response_schema
-
-        response = self.client.chat.completions.create(**kwargs)
+            response = self.client.chat.completions.parse(**kwargs)
+        else:
+            response = self.client.chat.completions.create(**kwargs)
         
         return response.choices[0].message.content

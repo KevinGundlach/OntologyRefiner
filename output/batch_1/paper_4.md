@@ -1,73 +1,36 @@
 # Base Material
-- identifier: Alloy C-276 (UNS N10276) [Page 2, Table 1]
-- alloy composition: Ni bal, Cr 15.70 wt%, Mo 15.69 wt%, Fe 6.06 wt%, C 0.002 wt%, Mn 0.47 wt%, Si 0.02 wt%, S 0.002 wt%, P 0.008 wt%, V 0.14 wt%, W 3.65 wt%, Co 1.87 wt% [Page 2, Table 1]
-- alloy type: Molybdenum-bearing nickel alloy. Identified as a passive alloy candidate container material for the Canadian Nuclear Fuel Waste Management Program. [Page 1, Introduction]
-- microstructure: Not specified in text.
+- identifier: Alloy C-276 (UNS N10276)
+- alloy composition: Ni (balance), 15.70 wt% Cr, 15.69 wt% Mo, 6.06 wt% Fe, 0.002 wt% C, 0.47 wt% Mn, 0.02 wt% Si, 0.002 wt% S, 0.008 wt% P, 0.14 wt% V, 3.65 wt% W, 1.87 wt% Co [Table 1]
+- alloy type: Molybdenum-bearing nickel alloy evaluated for nuclear fuel waste management containers [Introduction]
+- microstructure: Mill-annealed condition [Test Specimens]
 
 ## Conditioned Material
-- identifier: Alloy C-276 (As-received, mill-annealed) [Page 1, Experimental]
-- process_description: Machined from plate into plain block specimens (11 x 11 x 7 mm thick) and radially grooved washer assembly specimens (25 x 13 x 7 mm thick). Surfaces were wet ground on silicon carbide papers down to 600 grade. [Page 1, Experimental]
-- heat_treatment: As-received in the mill-annealed condition. [Page 1, Experimental]
+- identifier: Mill-annealed C-276 Plate
+- process_description: Test specimens were machined from plate. Surfaces were wet ground on silicon carbide papers down to 600 grade. Specimens were configured either as plain blocks (11 x 11 x 7 mm) with a PTFE compression gasket or as blocks (25 x 13 x 7 mm) fitted with a radially grooved PTFE washer assembly [Test Specimens].
+- heat_treatment: As received, mill-annealed [Test Specimens]
 
 ### Experiment
-- test_procedure: Cyclic potentiodynamic polarization tests (ASTM Standard G-61). Scans started at $E_{corr}$ with a scan rate of dE/dt = 20 mV/min, and were reversed at an anodic current density of i = 1 mA/cm$^2$. [Page 1, Procedures]
-- test_solution_and_environment: 0.1 wt% NaCl solution, deaerated with nitrogen. Tested across various temperatures. Conducated in 1-L glass corrosion cells at ≤ 100 °C and Parr 1-L titanium autoclaves at > 100 °C. [Page 1, Experimental & Page 3, Figure 4]
-- pitting_potential: Note: Measured as passivation breakdown potential ($E_b$) where separating pitting and crevice corrosion potentials is difficult. Estimated from Figure 4 [Page 3, Figure 4]:
-  - ~ 0.82 V vs SHE(T) at 25 °C
-  - ~ 0.50 V vs SHE(T) at 55 °C
-  - ~ 0.18 V vs SHE(T) at 100 °C
-  - ~ 0.05 V vs SHE(T) at 125 °C
-  - ~ 0.05 V vs SHE(T) at 150 °C
-  - ~ 0.05 V vs SHE(T) at 175 °C
-  - ~ 0.20 V vs SHE(T) at 200 °C
-
-### Experiment
-- test_procedure: Cyclic potentiodynamic polarization tests (ASTM Standard G-61). Scans started at $E_{corr}$ with a scan rate of dE/dt = 20 mV/min, and were reversed at an anodic current density of i = 1 mA/cm$^2$. [Page 1, Procedures]
-- test_solution_and_environment: 1.0 wt% NaCl solution, deaerated with nitrogen. Tested across various temperatures. Conducted in 1-L glass corrosion cells at ≤ 100 °C and Parr 1-L titanium autoclaves at > 100 °C. [Page 1, Experimental & Page 3, Figure 4]
-- pitting_potential: Note: Measured as passivation breakdown potential ($E_b$). Estimated from Figure 4 [Page 3, Figure 4]:
-  - ~ 0.95 V vs SHE(T) at 100 °C (off-scale high)
-  - ~ 0.00 V vs SHE(T) at 125 °C
-  - ~ -0.02 V vs SHE(T) at 150 °C
-  - ~ 0.05 V vs SHE(T) at 175 °C
-  - ~ 0.25 V vs SHE(T) at 200 °C
-
-### Experiment
-- test_procedure: Cyclic potentiodynamic polarization tests (ASTM Standard G-61). Scans started at $E_{corr}$ with a scan rate of dE/dt = 20 mV/min, and were reversed at an anodic current density of i = 1 mA/cm$^2$. [Page 1, Procedures]
-- test_solution_and_environment: 20 wt% NaCl solution, deaerated with nitrogen. Tested across various temperatures. Conducted in 1-L glass corrosion cells at ≤ 100 °C and Parr 1-L titanium autoclaves at > 100 °C. [Page 1, Experimental & Page 3, Figure 4]
-- pitting_potential: Note: Measured as passivation breakdown potential ($E_b$). Estimated from Figure 4 [Page 3, Figure 4]:
-  - ~ 0.65 V vs SHE(T) at 55 °C
-  - ~ 0.15 V vs SHE(T) at 100 °C
-  - ~ 0.02 V vs SHE(T) at 125 °C
-  - ~ 0.00 V vs SHE(T) at 150 °C
-  - ~ 0.00 V vs SHE(T) at 175 °C
-  - ~ 0.02 V vs SHE(T) at 200 °C
+- test_procedure: Cyclic potentiodynamic polarization starting at Ecorr with a scan rate (dE/dt) of 20 mV/min. Scans were reversed at a current density of 1 mA/cm² and terminated below the repassivation potential. Potentials were converted to the SHE(T) scale [Procedures, Electrochemical Studies].
+- test_solution_and_environment: Solutions deaerated with nitrogen; NaCl concentrations of 0.1 wt%, 1 wt%, and 20 wt%; temperature range 25 to 200 °C [Procedures, Figure 4].
+- pitting_potential: Passivation breakdown potentials (Eb) extracted from SHE(T) scale: 
+  - 0.1% NaCl: ~0.9 V at 100 °C, ~0.8 V at 150 °C, ~0.75 V at 200 °C. 
+  - 1% NaCl: ~0.85 V at 100 °C, ~0.7 V at 150 °C, ~0.7 V at 200 °C.
+  - 20% NaCl: ~0.7 V at 100 °C, ~0.4 V at 150 °C, ~0.4 V at 200 °C [Figure 4].
 
 # Base Material
-- identifier: Alloy 625 (UNS N06625) [Page 2, Table 1]
-- alloy composition: Ni 60.80 wt%, Cr 21.63 wt%, Mo 8.52 wt%, Fe 4.68 wt%, C 0.03 wt%, Mn 0.10 wt%, Si 0.31 wt%, S 0.001 wt%, Cb+Ta 3.54 wt%, P 0.009 wt%, Al 0.14 wt%, Ti 0.24 wt% [Page 2, Table 1]
-- alloy type: Molybdenum-bearing nickel alloy. Identified as a passive alloy candidate container material for the Canadian Nuclear Fuel Waste Management Program. [Page 1, Introduction]
-- microstructure: Not specified in text.
+- identifier: Alloy 625 (UNS N06625)
+- alloy composition: 60.80 wt% Ni, 21.63 wt% Cr, 8.52 wt% Mo, 4.68 wt% Fe, 0.03 wt% C, 0.10 wt% Mn, 0.31 wt% Si, 0.001 wt% S, 3.54 wt% Cb + Ta, 0.009 wt% P, 0.14 wt% Al, 0.24 wt% Ti [Table 1]
+- alloy type: Molybdenum-bearing nickel alloy evaluated for nuclear fuel waste management containers [Introduction]
+- microstructure: Mill-annealed condition [Test Specimens]
 
 ## Conditioned Material
-- identifier: Alloy 625 (As-received, mill-annealed) [Page 1, Experimental]
-- process_description: Machined from plate into plain block specimens (11 x 11 x 7 mm thick) and radially grooved washer assembly specimens (25 x 13 x 7 mm thick). Surfaces were wet ground on silicon carbide papers down to 600 grade. [Page 1, Experimental]
-- heat_treatment: As-received in the mill-annealed condition. [Page 1, Experimental]
+- identifier: Mill-annealed 625 Plate
+- process_description: Test specimens were machined from plate. Surfaces were wet ground on silicon carbide papers down to 600 grade. Specimens were configured either as plain blocks (11 x 11 x 7 mm) with a PTFE compression gasket or as blocks (25 x 13 x 7 mm) fitted with a radially grooved PTFE washer assembly [Test Specimens].
+- heat_treatment: As received, mill-annealed [Test Specimens]
 
 ### Experiment
-- test_procedure: Cyclic potentiodynamic polarization tests (ASTM Standard G-61). Scans started at $E_{corr}$ with a scan rate of dE/dt = 20 mV/min, and were reversed at an anodic current density of i = 1 mA/cm$^2$. [Page 1, Procedures]
-- test_solution_and_environment: 0.1 wt% NaCl solution, deaerated with nitrogen. Tested across various temperatures. Conducted in 1-L glass corrosion cells at ≤ 100 °C and Parr 1-L titanium autoclaves at > 100 °C. [Page 1, Experimental & Page 3, Figure 4]
-- pitting_potential: Note: Measured as passivation breakdown potential ($E_b$). Estimated from Figure 4 [Page 3, Figure 4]:
-  - ~ 0.05 V vs SHE(T) at 100 °C
-  - ~ 0.00 V vs SHE(T) at 125 °C
-  - ~ -0.02 V vs SHE(T) at 150 °C
-  - ~ 0.15 V vs SHE(T) at 200 °C
-
-### Experiment
-- test_procedure: Cyclic potentiodynamic polarization tests (ASTM Standard G-61). Scans started at $E_{corr}$ with a scan rate of dE/dt = 20 mV/min, and were reversed at an anodic current density of i = 1 mA/cm$^2$. [Page 1, Procedures]
-- test_solution_and_environment: 20 wt% NaCl solution, deaerated with nitrogen. Tested across various temperatures. Conducted in 1-L glass corrosion cells at ≤ 100 °C and Parr 1-L titanium autoclaves at > 100 °C. [Page 1, Experimental & Page 3, Figure 4]
-- pitting_potential: Note: Measured as passivation breakdown potential ($E_b$). Estimated from Figure 4 [Page 3, Figure 4]:
-  - ~ 0.78 V vs SHE(T) at 25 °C
-  - ~ 0.30 V vs SHE(T) at 60 °C
-  - ~ 0.15 V vs SHE(T) at 80 °C
-  - ~ 0.00 V vs SHE(T) at 100 °C
-  - ~ -0.10 V vs SHE(T) at 125 °C
+- test_procedure: Cyclic potentiodynamic polarization starting at Ecorr with a scan rate (dE/dt) of 20 mV/min. Scans were reversed at a current density of 1 mA/cm² and terminated below the repassivation potential. Potentials were converted to the SHE(T) scale [Procedures, Electrochemical Studies].
+- test_solution_and_environment: Solutions deaerated with nitrogen; NaCl concentrations of 0.1 wt% and 20 wt%; temperature range 25 to 200 °C [Procedures, Figure 4].
+- pitting_potential: Passivation breakdown potentials (Eb) extracted from SHE(T) scale:
+  - 0.1% NaCl: ~0.6 V at 100 °C, ~0.4 V at 150 °C, ~0.35 V at 200 °C.
+  - 20% NaCl: ~0.2 V at 100 °C, ~0.2 V at 150 °C, ~0.2 V at 200 °C [Figure 4].

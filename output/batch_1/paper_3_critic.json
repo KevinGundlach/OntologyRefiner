@@ -1,14 +1,48 @@
 {
-    "proposed_base_material_variables": {},
-    "proposed_conditioned_material_variables": {
-        "surface_preparation": "Specific surface treatments applied before testing, such as pickling, electropolishing, or sandblasting, which significantly affect surface defect density and pitting initiation.",
-        "sample_geometry_and_dimensions": "The physical dimensions and shape of the test specimen (e.g., flat coupon size, sheet thickness, or disc diameter), which can influence exposure area and edge effects."
+  "proposed_base_material_variables": [
+    {
+      "name": "interstitial_content",
+      "definition": "The concentration of interstitial elements such as Carbon (C), Oxygen (O), Sulfur (S), Nitrogen (N), and Phosphorus (P), typically measured in parts per million (ppm)."
     },
-    "proposed_experiment_variables": {
-        "reference_electrode": "The specific standard electrode against which the pitting potential is measured and reported (e.g., Saturated Calomel Electrode / SCE). Without this, potential values lack thermodynamic context.",
-        "polarization_scan_rate": "The rate at which the applied potential is swept during potentiodynamic anodic polarization testing (e.g., 10 mV/min), which influences the measured critical pitting potential.",
-        "temperature": "The specific operating temperature of the test solution during the electrochemical measurement, extracted as a discrete thermodynamic variable rather than being buried in a general environment description.",
-        "pH": "The measured acidity or alkalinity of the test solution environment, extracted as a discrete numeric value.",
-        "dissolved_oxygen_concentration": "The specific level of dissolved oxygen in the test solution (e.g., deaerated, <5 ppb, 200 ppb), which is heavily manipulated in the study and acts as a critical variable for crevice and pitting corrosion behavior."
+    {
+      "name": "alloy_design_substitution",
+      "definition": "Details regarding the atomic percentage (at%) of primary alloying elements (like Cr or Mo) replaced by secondary additions (like Si, Ni, Al, Nb, or Mn) to study synergistic effects on corrosion resistance."
     }
+  ],
+  "proposed_conditioned_material_variables": [
+    {
+      "name": "rolling_temperature_range",
+      "definition": "The specific temperature range (maximum and minimum) maintained during the hot rolling process (e.g., 1090 °C or 816–982 °C)."
+    },
+    {
+      "name": "cold_reduction_ratio",
+      "definition": "The percentage or specific thickness change achieved during cold rolling (e.g., reduction from 0.100 inch to 0.0625 inch)."
+    },
+    {
+      "name": "quenching_medium",
+      "definition": "The medium used for rapid cooling after heat treatment, such as water or argon, which affects the retention of phases."
+    },
+    {
+      "name": "secondary_phase_presence",
+      "definition": "The identification of specific deleterious phases in the microstructure, such as sigma-phase or chi-phase precipitates, often found along grain boundaries."
+    }
+  ],
+  "proposed_experiment_variables": [
+    {
+      "name": "scratch_potential_Escr",
+      "definition": "The specific pitting potential value determined by the scratch method, which is independent of surface finish and polarization rate."
+    },
+    {
+      "name": "dissolved_oxygen_concentration",
+      "definition": "The level of dissolved oxygen in the electrolyte, measured in ppb or ppm, identified as a critical governing factor for corrosion susceptibility."
+    },
+    {
+      "name": "solution_pretreatment",
+      "definition": "Specific chemical or thermal treatments applied to the electrolyte before testing, such as sulfuric acid neutralization of bicarbonate alkalinity or boiling for deaeration."
+    },
+    {
+      "name": "electrolyte_flow_velocity",
+      "definition": "The speed of the solution relative to the specimen surface, measured in feet per second (fps) or similar units."
+    }
+  ]
 }

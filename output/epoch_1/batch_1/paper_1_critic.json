@@ -1,0 +1,15 @@
+{
+    "proposed_base_material_variables": {
+        "raw_material_purity": "The specific grade, purity percentage, or synthesis method of the elemental components used to cast the alloy (e.g., special high purity Cr, electrolytic grade Fe), which influences baseline inclusion and defect levels."
+    },
+    "proposed_conditioned_material_variables": {
+        "surface_preparation": "The exact mechanical abrasion grit size and chemical pickling parameters (e.g., acid concentration, temperature, time) applied to the sample prior to testing to remove cold-worked layers.",
+        "specimen_geometry": "The precise dimensions and shape of the test electrode (e.g., rod diameter, sheet thickness) that dictate the exposed testing area."
+    },
+    "proposed_experiment_variables": {
+        "temperature": "The controlled temperature of the electrolyte during the test, which the authors show causes drastic and sometimes non-linear shifts in the pitting potential.",
+        "polarization_rate": "The specific step size and holding duration (e.g., 50 mV increments per 5 minutes) or continuous scan rate, as the text explicitly notes that rapid polarization artificially shifts potentials prematurely.",
+        "steady_state_indicator": "An explicit indicator of whether the extracted potential is a steady-state measurement (Vc, held for >10 hours) or a non-steady-state/dynamic measurement (V'c).",
+        "immersion_and_mounting_condition": "Specific details on whether the sample was totally or partially immersed (meniscus formation) and the type of masking/gasket used (e.g., Teflon interface), which the authors note changes potential and acts as preferential pitting sites."
+    }
+}

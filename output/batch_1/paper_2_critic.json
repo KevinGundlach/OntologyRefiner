@@ -1,14 +1,56 @@
 {
-    "proposed_base_material_variables": {
-        "purity_grade": "Classification of the alloy's purity level regarding residual or trace elements like carbon and nitrogen (e.g., commercial purity vs. high-purity)."
+  "proposed_base_material_variables": [
+    {
+      "name": "purity_grade_classification",
+      "definition": "A classification of the alloy's cleanliness or impurity level, such as commercial-purity (induction-melted) versus high-purity (vacuum-melted) series."
     },
-    "proposed_conditioned_material_variables": {
-        "surface_finish": "The specific final polishing or grinding treatment applied to the specimen surface prior to corrosion testing (e.g., 0.3 micron alumina slurry)."
-    },
-    "proposed_experiment_variables": {
-        "scan_rate": "The rate at which the electrical potential is swept during potentiodynamic polarization testing (e.g., 600 mV/hr).",
-        "reference_electrode": "The specific electrode used as a reference point for all measured potentials (e.g., Saturated Calomel Electrode / SCE).",
-        "sample_masking": "The method or material used to seal the edges of the exposed area (e.g., electroplater's tape or acrylic mount) to prevent crevice corrosion.",
-        "repassivating_pitting_potential": "The potential at which metastable pitting occurs (current blips that repassivate), which is distinct from the stable pitting potential."
+    {
+      "name": "delta_ferrite_content",
+      "definition": "The presence or qualitative amount of delta ferrite phase within the austenitic matrix, which the paper identifies as detrimental to pitting resistance."
     }
+  ],
+  "proposed_conditioned_material_variables": [
+    {
+      "name": "surface_polishing_specification",
+      "definition": "Specific details of the final surface preparation, including abrasive size and carrier (e.g., 0.3µm alumina distilled water slurry)."
+    },
+    {
+      "name": "crevice_protection_method",
+      "definition": "The specific technique or material used to mask the specimen and prevent crevice corrosion at the mounting interface (e.g., Scotch 470 electroplater's tape)."
+    },
+    {
+      "name": "mechanical_working_history",
+      "definition": "Details on the thermo-mechanical processing of the material, including hot-forging, hot-rolling, and cold-rolling thicknesses."
+    }
+  ],
+  "proposed_experiment_variables": [
+    {
+      "name": "initial_polarization_scan_rate",
+      "definition": "The scan rate applied during the early stage of the polarization test (e.g., 600 mv/hr)."
+    },
+    {
+      "name": "near_pit_polarization_scan_rate",
+      "definition": "The reduced scan rate applied as the potential approaches the expected pitting region (e.g., 60 mv/hr or 20 mv/hr)."
+    },
+    {
+      "name": "scan_start_potential",
+      "definition": "The potential value where the polarization scan was initiated, which determines if the passive film is formed in situ."
+    },
+    {
+      "name": "deaeration_gas",
+      "definition": "The specific inert gas used to saturate the solution and remove oxygen (e.g., Argon)."
+    },
+    {
+      "name": "repassivating_pitting_potential",
+      "definition": "The potential at which transient/metastable pits initiate and immediately repassivate, characterized by current pulses or 'blips'."
+    },
+    {
+      "name": "critical_passivation_current_density",
+      "definition": "The maximum anodic current density reached in the active region before the onset of passivity."
+    },
+    {
+      "name": "primary_passivation_potential",
+      "definition": "The potential at which the critical current density for passivation is achieved."
+    }
+  ]
 }
