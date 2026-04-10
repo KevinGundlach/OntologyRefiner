@@ -24,8 +24,19 @@ Analyze the list to identify duplicates, synonyms, and overlapping concepts. Con
 **Expected JSON Schema:**
 
 {
-  "normalized_variable_mapping": [ {"original_name": "...", "normalized_name": "..."} ],
-  "normalized_variable_definitions": [ {"normalized_name": "...", "normalized_definition": "..."} ]
+    "normalized_variable_mapping": [ 
+        {
+            "original_name": "...", 
+            "normalized_name": "..."
+        } 
+    ],
+
+    "normalized_variable_definitions": [ 
+        {
+            "normalized_name": "...", 
+            "normalized_definition": "..."
+        } 
+    ]
 }
 
 <data_variables>
