@@ -1,0 +1,748 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High-entropy alloys (HEAs) [1. Introduction]
+- elemental_weight_percentages: Al: 0, Co: 27.12, Cr: 23.74, Fe: 23.99, Ni: 25.14 wt.% [Table 1]
+- elemental_atomic_percentages: Al: 0, Co: 25.93, Cr: 25.73, Fe: 24.21, Ni: 24.13 at.% [Table 6]
+- spatial_chemical_homogeneity: Single FCC phase indicating chemical homogeneity within the phase [3.5. Metallographic examination and EDS analysis]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Single FCC phase [3.5. Metallographic examination and EDS analysis]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: FCC [3.5. Metallographic examination and EDS analysis]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy C-0 [2.1. Test specimens for electrochemical tests and weight loss measurements]
+- fabrication_steps: Prepared according to molar ratios in a vacuum arc remelter to form as-cast alloys [2.1. Test specimens for electrochemical tests and weight loss measurements]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Cut to 0.8 cm x 0.8 cm x 0.3 cm, cold-mounted in epoxy, ground and polished with silicon carbide paper, fine polished up to 0.05 μm Al2O3 powder, rinsed, and dried [2.1. Test specimens for electrochemical tests and weight loss measurements; 2.4. Scanning electron microscopy (SEM) metallograph examination and energy dispersed X-ray spectroscopy (EDS) analysis]
+- chemical_surface_preparation: Cathodically polarized at a potential of -0.4 V_SHE for 300 s to remove surface oxides [2.3. Electrochemical test]
+- final_surface_roughness: Polished up to 0.05 μm Al2O3 powder [2.4. Scanning electron microscopy (SEM) metallograph examination and energy dispersed X-ray spectroscopy (EDS) analysis]
+- exposed_surface_area: 0.64 cm2 (0.8 cm x 0.8 cm) [2.1. Test specimens for electrochemical tests and weight loss measurements]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.1. Potentiodynamic polarization and weight loss at 25 °C]
+- electrochemical_mode: Potentiodynamic [3.1. Potentiodynamic polarization and weight loss at 25 °C]
+- solution_chemistry_summary: 0.5 M sulfuric acid base solution [2.2. Test solutions]
+- operating_parameters_summary: Scan speed 1 mV/s for scan potential ranging from -0.6 to 1.4 V_SHE [2.3. Electrochemical test]
+- overarching_environmental_conditions: Deaerated by a nitrogen gas flow of 120 ml/min [2.2. Test solutions]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 25 °C [2.2. Test solutions]
+- continuous_sweep_rate: 1 mV/s [2.3. Electrochemical test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode saturated in 3 M KCl (-0.205 V_SHE) [2.3. Electrochemical test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 0.5 M H2SO4 [2.2. Test solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.2. Test solutions]
+- purge_gas_type: Nitrogen [2.2. Test solutions]
+- corrosion_potential: -0.081 V_SHE [Table 2]
+- ocp_stabilization_methodology: Quasi-steady-state time for open circuit [2.3. Electrochemical test]
+- ocp_resting_duration: 900 s [2.3. Electrochemical test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [2.3. Electrochemical test]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 4.5 μA/cm2 [Table 2]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- electrochemical_mode: Potentiodynamic [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- solution_chemistry_summary: 0.5 M sulfuric acid solution containing 0.25 M sodium chloride [2.2. Test solutions]
+- operating_parameters_summary: Scan speed 1 mV/s for scan potential ranging from -0.6 to 1.4 V_SHE [2.3. Electrochemical test]
+- overarching_environmental_conditions: Deaerated by a nitrogen gas flow of 120 ml/min [2.2. Test solutions]
+- pitting_potential: Almost independent of chloride concentration [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- electrolyte_temperature: 25 °C [2.2. Test solutions]
+- continuous_sweep_rate: 1 mV/s [2.3. Electrochemical test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode saturated in 3 M KCl (-0.205 V_SHE) [2.3. Electrochemical test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride [2.2. Test solutions]
+- electrolyte_molar_concentrations: 0.5 M H2SO4, 0.25 M NaCl [2.2. Test solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.2. Test solutions]
+- purge_gas_type: Nitrogen [2.2. Test solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Quasi-steady-state time for open circuit [2.3. Electrochemical test]
+- ocp_resting_duration: 900 s [2.3. Electrochemical test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [2.3. Electrochemical test]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- electrochemical_mode: Potentiodynamic [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- solution_chemistry_summary: 0.5 M sulfuric acid solution containing 0.50 M sodium chloride [2.2. Test solutions]
+- operating_parameters_summary: Scan speed 1 mV/s for scan potential ranging from -0.6 to 1.4 V_SHE [2.3. Electrochemical test]
+- overarching_environmental_conditions: Deaerated by a nitrogen gas flow of 120 ml/min [2.2. Test solutions]
+- pitting_potential: Almost independent of chloride concentration [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- electrolyte_temperature: 25 °C [2.2. Test solutions]
+- continuous_sweep_rate: 1 mV/s [2.3. Electrochemical test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode saturated in 3 M KCl (-0.205 V_SHE) [2.3. Electrochemical test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride [2.2. Test solutions]
+- electrolyte_molar_concentrations: 0.5 M H2SO4, 0.50 M NaCl [2.2. Test solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.2. Test solutions]
+- purge_gas_type: Nitrogen [2.2. Test solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Quasi-steady-state time for open circuit [2.3. Electrochemical test]
+- ocp_resting_duration: 900 s [2.3. Electrochemical test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [2.3. Electrochemical test]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- electrochemical_mode: Potentiodynamic [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- solution_chemistry_summary: 0.5 M sulfuric acid solution containing 1.00 M sodium chloride [2.2. Test solutions]
+- operating_parameters_summary: Scan speed 1 mV/s for scan potential ranging from -0.6 to 1.4 V_SHE [2.3. Electrochemical test]
+- overarching_environmental_conditions: Deaerated by a nitrogen gas flow of 120 ml/min [2.2. Test solutions]
+- pitting_potential: Almost independent of chloride concentration [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- electrolyte_temperature: 25 °C [2.2. Test solutions]
+- continuous_sweep_rate: 1 mV/s [2.3. Electrochemical test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode saturated in 3 M KCl (-0.205 V_SHE) [2.3. Electrochemical test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride [2.2. Test solutions]
+- electrolyte_molar_concentrations: 0.5 M H2SO4, 1.00 M NaCl [2.2. Test solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.2. Test solutions]
+- purge_gas_type: Nitrogen [2.2. Test solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Quasi-steady-state time for open circuit [2.3. Electrochemical test]
+- ocp_resting_duration: 900 s [2.3. Electrochemical test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [2.3. Electrochemical test]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High-entropy alloys (HEAs) [1. Introduction]
+- elemental_weight_percentages: Al: 3.05, Co: 25.14, Cr: 22.48, Fe: 24.15, Ni: 25.18 wt.% [Table 1]
+- elemental_atomic_percentages: Al: 6.16, Co: 23.27, Cr: 23.58, Fe: 23.59, Ni: 23.40 at.% [Table 6]
+- spatial_chemical_homogeneity: Single FCC phase indicating chemical homogeneity within the phase [3.5. Metallographic examination and EDS analysis]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Single FCC phase [3.5. Metallographic examination and EDS analysis]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: FCC [3.5. Metallographic examination and EDS analysis]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy C-0.25 [2.1. Test specimens for electrochemical tests and weight loss measurements]
+- fabrication_steps: Prepared according to molar ratios in a vacuum arc remelter to form as-cast alloys [2.1. Test specimens for electrochemical tests and weight loss measurements]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Cut to 0.8 cm x 0.8 cm x 0.3 cm, cold-mounted in epoxy, ground and polished with silicon carbide paper, fine polished up to 0.05 μm Al2O3 powder, rinsed, and dried [2.1. Test specimens for electrochemical tests and weight loss measurements; 2.4. Scanning electron microscopy (SEM) metallograph examination and energy dispersed X-ray spectroscopy (EDS) analysis]
+- chemical_surface_preparation: Cathodically polarized at a potential of -0.4 V_SHE for 300 s to remove surface oxides [2.3. Electrochemical test]
+- final_surface_roughness: Polished up to 0.05 μm Al2O3 powder [2.4. Scanning electron microscopy (SEM) metallograph examination and energy dispersed X-ray spectroscopy (EDS) analysis]
+- exposed_surface_area: 0.64 cm2 (0.8 cm x 0.8 cm) [2.1. Test specimens for electrochemical tests and weight loss measurements]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.1. Potentiodynamic polarization and weight loss at 25 °C]
+- electrochemical_mode: Potentiodynamic [3.1. Potentiodynamic polarization and weight loss at 25 °C]
+- solution_chemistry_summary: 0.5 M sulfuric acid base solution [2.2. Test solutions]
+- operating_parameters_summary: Scan speed 1 mV/s for scan potential ranging from -0.6 to 1.4 V_SHE [2.3. Electrochemical test]
+- overarching_environmental_conditions: Deaerated by a nitrogen gas flow of 120 ml/min [2.2. Test solutions]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 25 °C [2.2. Test solutions]
+- continuous_sweep_rate: 1 mV/s [2.3. Electrochemical test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode saturated in 3 M KCl (-0.205 V_SHE) [2.3. Electrochemical test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 0.5 M H2SO4 [2.2. Test solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.2. Test solutions]
+- purge_gas_type: Nitrogen [2.2. Test solutions]
+- corrosion_potential: -0.095 V_SHE [Table 2]
+- ocp_stabilization_methodology: Quasi-steady-state time for open circuit [2.3. Electrochemical test]
+- ocp_resting_duration: 900 s [2.3. Electrochemical test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [2.3. Electrochemical test]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 7.1 μA/cm2 [Table 2]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- electrochemical_mode: Potentiodynamic [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- solution_chemistry_summary: 0.5 M sulfuric acid solution containing 0.25 M sodium chloride [2.2. Test solutions]
+- operating_parameters_summary: Scan speed 1 mV/s for scan potential ranging from -0.6 to 1.4 V_SHE [2.3. Electrochemical test]
+- overarching_environmental_conditions: Deaerated by a nitrogen gas flow of 120 ml/min [2.2. Test solutions]
+- pitting_potential: Decreases to 0.2–0.5 V_SHE [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- electrolyte_temperature: 25 °C [2.2. Test solutions]
+- continuous_sweep_rate: 1 mV/s [2.3. Electrochemical test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode saturated in 3 M KCl (-0.205 V_SHE) [2.3. Electrochemical test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride [2.2. Test solutions]
+- electrolyte_molar_concentrations: 0.5 M H2SO4, 0.25 M NaCl [2.2. Test solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.2. Test solutions]
+- purge_gas_type: Nitrogen [2.2. Test solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Quasi-steady-state time for open circuit [2.3. Electrochemical test]
+- ocp_resting_duration: 900 s [2.3. Electrochemical test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [2.3. Electrochemical test]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- electrochemical_mode: Potentiodynamic [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- solution_chemistry_summary: 0.5 M sulfuric acid solution containing 0.50 M sodium chloride [2.2. Test solutions]
+- operating_parameters_summary: Scan speed 1 mV/s for scan potential ranging from -0.6 to 1.4 V_SHE [2.3. Electrochemical test]
+- overarching_environmental_conditions: Deaerated by a nitrogen gas flow of 120 ml/min [2.2. Test solutions]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 25 °C [2.2. Test solutions]
+- continuous_sweep_rate: 1 mV/s [2.3. Electrochemical test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode saturated in 3 M KCl (-0.205 V_SHE) [2.3. Electrochemical test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride [2.2. Test solutions]
+- electrolyte_molar_concentrations: 0.5 M H2SO4, 0.50 M NaCl [2.2. Test solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.2. Test solutions]
+- purge_gas_type: Nitrogen [2.2. Test solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Quasi-steady-state time for open circuit [2.3. Electrochemical test]
+- ocp_resting_duration: 900 s [2.3. Electrochemical test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [2.3. Electrochemical test]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- electrochemical_mode: Potentiodynamic [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- solution_chemistry_summary: 0.5 M sulfuric acid solution containing 1.00 M sodium chloride [2.2. Test solutions]
+- operating_parameters_summary: Scan speed 1 mV/s for scan potential ranging from -0.6 to 1.4 V_SHE [2.3. Electrochemical test]
+- overarching_environmental_conditions: Deaerated by a nitrogen gas flow of 120 ml/min [2.2. Test solutions]
+- pitting_potential: Decreases abruptly for a chloride concentration exceeding 0.50 M [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- electrolyte_temperature: 25 °C [2.2. Test solutions]
+- continuous_sweep_rate: 1 mV/s [2.3. Electrochemical test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode saturated in 3 M KCl (-0.205 V_SHE) [2.3. Electrochemical test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride [2.2. Test solutions]
+- electrolyte_molar_concentrations: 0.5 M H2SO4, 1.00 M NaCl [2.2. Test solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.2. Test solutions]
+- purge_gas_type: Nitrogen [2.2. Test solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Quasi-steady-state time for open circuit [2.3. Electrochemical test]
+- ocp_resting_duration: 900 s [2.3. Electrochemical test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [2.3. Electrochemical test]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High-entropy alloys (HEAs) [1. Introduction]
+- elemental_weight_percentages: Al: 5.59, Co: 25.25, Cr: 22.13, Fe: 22.80, Ni: 24.22 wt.% [Table 1]
+- elemental_atomic_percentages: Al: 11.01, Co: 22.77, Cr: 22.61, Fe: 21.70, Ni: 21.92 at.% [Table 6]
+- spatial_chemical_homogeneity: Contains compositional variations between the FCC matrix and BCC phase [3.5. Metallographic examination and EDS analysis]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Duplex FCC-BCC [3.5. Metallographic examination and EDS analysis]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: FCC, BCC [3.5. Metallographic examination and EDS analysis]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy C-0.50 [2.1. Test specimens for electrochemical tests and weight loss measurements]
+- fabrication_steps: Prepared according to molar ratios in a vacuum arc remelter to form as-cast alloys [2.1. Test specimens for electrochemical tests and weight loss measurements]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Cut to 0.8 cm x 0.8 cm x 0.3 cm, cold-mounted in epoxy, ground and polished with silicon carbide paper, fine polished up to 0.05 μm Al2O3 powder, rinsed, and dried [2.1. Test specimens for electrochemical tests and weight loss measurements; 2.4. Scanning electron microscopy (SEM) metallograph examination and energy dispersed X-ray spectroscopy (EDS) analysis]
+- chemical_surface_preparation: Cathodically polarized at a potential of -0.4 V_SHE for 300 s to remove surface oxides [2.3. Electrochemical test]
+- final_surface_roughness: Polished up to 0.05 μm Al2O3 powder [2.4. Scanning electron microscopy (SEM) metallograph examination and energy dispersed X-ray spectroscopy (EDS) analysis]
+- exposed_surface_area: 0.64 cm2 (0.8 cm x 0.8 cm) [2.1. Test specimens for electrochemical tests and weight loss measurements]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.1. Potentiodynamic polarization and weight loss at 25 °C]
+- electrochemical_mode: Potentiodynamic [3.1. Potentiodynamic polarization and weight loss at 25 °C]
+- solution_chemistry_summary: 0.5 M sulfuric acid base solution [2.2. Test solutions]
+- operating_parameters_summary: Scan speed 1 mV/s for scan potential ranging from -0.6 to 1.4 V_SHE [2.3. Electrochemical test]
+- overarching_environmental_conditions: Deaerated by a nitrogen gas flow of 120 ml/min [2.2. Test solutions]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 25 °C [2.2. Test solutions]
+- continuous_sweep_rate: 1 mV/s [2.3. Electrochemical test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode saturated in 3 M KCl (-0.205 V_SHE) [2.3. Electrochemical test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 0.5 M H2SO4 [2.2. Test solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.2. Test solutions]
+- purge_gas_type: Nitrogen [2.2. Test solutions]
+- corrosion_potential: -0.084 V_SHE [Table 2]
+- ocp_stabilization_methodology: Quasi-steady-state time for open circuit [2.3. Electrochemical test]
+- ocp_resting_duration: 900 s [2.3. Electrochemical test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [2.3. Electrochemical test]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 6.4 μA/cm2 [Table 2]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- electrochemical_mode: Potentiodynamic [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- solution_chemistry_summary: 0.5 M sulfuric acid solution containing 0.25 M sodium chloride [2.2. Test solutions]
+- operating_parameters_summary: Scan speed 1 mV/s for scan potential ranging from -0.6 to 1.4 V_SHE [2.3. Electrochemical test]
+- overarching_environmental_conditions: Deaerated by a nitrogen gas flow of 120 ml/min [2.2. Test solutions]
+- pitting_potential: Decreases to 0.2–0.5 V_SHE [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- electrolyte_temperature: 25 °C [2.2. Test solutions]
+- continuous_sweep_rate: 1 mV/s [2.3. Electrochemical test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode saturated in 3 M KCl (-0.205 V_SHE) [2.3. Electrochemical test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride [2.2. Test solutions]
+- electrolyte_molar_concentrations: 0.5 M H2SO4, 0.25 M NaCl [2.2. Test solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.2. Test solutions]
+- purge_gas_type: Nitrogen [2.2. Test solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Quasi-steady-state time for open circuit [2.3. Electrochemical test]
+- ocp_resting_duration: 900 s [2.3. Electrochemical test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [2.3. Electrochemical test]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- electrochemical_mode: Potentiodynamic [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- solution_chemistry_summary: 0.5 M sulfuric acid solution containing 0.50 M sodium chloride [2.2. Test solutions]
+- operating_parameters_summary: Scan speed 1 mV/s for scan potential ranging from -0.6 to 1.4 V_SHE [2.3. Electrochemical test]
+- overarching_environmental_conditions: Deaerated by a nitrogen gas flow of 120 ml/min [2.2. Test solutions]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 25 °C [2.2. Test solutions]
+- continuous_sweep_rate: 1 mV/s [2.3. Electrochemical test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode saturated in 3 M KCl (-0.205 V_SHE) [2.3. Electrochemical test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride [2.2. Test solutions]
+- electrolyte_molar_concentrations: 0.5 M H2SO4, 0.50 M NaCl [2.2. Test solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.2. Test solutions]
+- purge_gas_type: Nitrogen [2.2. Test solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Quasi-steady-state time for open circuit [2.3. Electrochemical test]
+- ocp_resting_duration: 900 s [2.3. Electrochemical test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [2.3. Electrochemical test]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- electrochemical_mode: Potentiodynamic [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- solution_chemistry_summary: 0.5 M sulfuric acid solution containing 1.00 M sodium chloride [2.2. Test solutions]
+- operating_parameters_summary: Scan speed 1 mV/s for scan potential ranging from -0.6 to 1.4 V_SHE [2.3. Electrochemical test]
+- overarching_environmental_conditions: Deaerated by a nitrogen gas flow of 120 ml/min [2.2. Test solutions]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 25 °C [2.2. Test solutions]
+- continuous_sweep_rate: 1 mV/s [2.3. Electrochemical test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode saturated in 3 M KCl (-0.205 V_SHE) [2.3. Electrochemical test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride [2.2. Test solutions]
+- electrolyte_molar_concentrations: 0.5 M H2SO4, 1.00 M NaCl [2.2. Test solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.2. Test solutions]
+- purge_gas_type: Nitrogen [2.2. Test solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Quasi-steady-state time for open circuit [2.3. Electrochemical test]
+- ocp_resting_duration: 900 s [2.3. Electrochemical test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [2.3. Electrochemical test]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High-entropy alloys (HEAs) [1. Introduction]
+- elemental_weight_percentages: Al: 10.02, Co: 23.84, Cr: 21.11, Fe: 21.99, Ni: 23.03 wt.% [Table 1]
+- elemental_atomic_percentages: Al: 18.88, Co: 20.55, Cr: 20.63, Fe: 20.01, Ni: 19.93 at.% [Table 6]
+- spatial_chemical_homogeneity: Contains compositional variations in BCC phase [3.5. Metallographic examination and EDS analysis]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: BCC-ordered BCC phases [3.5. Metallographic examination and EDS analysis]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: BCC, ordered BCC [3.5. Metallographic examination and EDS analysis]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy C-1.00 [2.1. Test specimens for electrochemical tests and weight loss measurements]
+- fabrication_steps: Prepared according to molar ratios in a vacuum arc remelter to form as-cast alloys [2.1. Test specimens for electrochemical tests and weight loss measurements]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Cut to 0.8 cm x 0.8 cm x 0.3 cm, cold-mounted in epoxy, ground and polished with silicon carbide paper, fine polished up to 0.05 μm Al2O3 powder, rinsed, and dried [2.1. Test specimens for electrochemical tests and weight loss measurements; 2.4. Scanning electron microscopy (SEM) metallograph examination and energy dispersed X-ray spectroscopy (EDS) analysis]
+- chemical_surface_preparation: Cathodically polarized at a potential of -0.4 V_SHE for 300 s to remove surface oxides [2.3. Electrochemical test]
+- final_surface_roughness: Polished up to 0.05 μm Al2O3 powder [2.4. Scanning electron microscopy (SEM) metallograph examination and energy dispersed X-ray spectroscopy (EDS) analysis]
+- exposed_surface_area: 0.64 cm2 (0.8 cm x 0.8 cm) [2.1. Test specimens for electrochemical tests and weight loss measurements]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.1. Potentiodynamic polarization and weight loss at 25 °C]
+- electrochemical_mode: Potentiodynamic [3.1. Potentiodynamic polarization and weight loss at 25 °C]
+- solution_chemistry_summary: 0.5 M sulfuric acid base solution [2.2. Test solutions]
+- operating_parameters_summary: Scan speed 1 mV/s for scan potential ranging from -0.6 to 1.4 V_SHE [2.3. Electrochemical test]
+- overarching_environmental_conditions: Deaerated by a nitrogen gas flow of 120 ml/min [2.2. Test solutions]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 25 °C [2.2. Test solutions]
+- continuous_sweep_rate: 1 mV/s [2.3. Electrochemical test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode saturated in 3 M KCl (-0.205 V_SHE) [2.3. Electrochemical test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 0.5 M H2SO4 [2.2. Test solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.2. Test solutions]
+- purge_gas_type: Nitrogen [2.2. Test solutions]
+- corrosion_potential: -0.094 V_SHE [Table 2]
+- ocp_stabilization_methodology: Quasi-steady-state time for open circuit [2.3. Electrochemical test]
+- ocp_resting_duration: 900 s [2.3. Electrochemical test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [2.3. Electrochemical test]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 13.9 μA/cm2 [Table 2]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- electrochemical_mode: Potentiodynamic [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- solution_chemistry_summary: 0.5 M sulfuric acid solution containing 0.25 M sodium chloride [2.2. Test solutions]
+- operating_parameters_summary: Scan speed 1 mV/s for scan potential ranging from -0.6 to 1.4 V_SHE [2.3. Electrochemical test]
+- overarching_environmental_conditions: Deaerated by a nitrogen gas flow of 120 ml/min [2.2. Test solutions]
+- pitting_potential: Decreases to 0.2–0.5 V_SHE [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- electrolyte_temperature: 25 °C [2.2. Test solutions]
+- continuous_sweep_rate: 1 mV/s [2.3. Electrochemical test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode saturated in 3 M KCl (-0.205 V_SHE) [2.3. Electrochemical test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride [2.2. Test solutions]
+- electrolyte_molar_concentrations: 0.5 M H2SO4, 0.25 M NaCl [2.2. Test solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.2. Test solutions]
+- purge_gas_type: Nitrogen [2.2. Test solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Quasi-steady-state time for open circuit [2.3. Electrochemical test]
+- ocp_resting_duration: 900 s [2.3. Electrochemical test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [2.3. Electrochemical test]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- electrochemical_mode: Potentiodynamic [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- solution_chemistry_summary: 0.5 M sulfuric acid solution containing 0.50 M sodium chloride [2.2. Test solutions]
+- operating_parameters_summary: Scan speed 1 mV/s for scan potential ranging from -0.6 to 1.4 V_SHE [2.3. Electrochemical test]
+- overarching_environmental_conditions: Deaerated by a nitrogen gas flow of 120 ml/min [2.2. Test solutions]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 25 °C [2.2. Test solutions]
+- continuous_sweep_rate: 1 mV/s [2.3. Electrochemical test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode saturated in 3 M KCl (-0.205 V_SHE) [2.3. Electrochemical test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride [2.2. Test solutions]
+- electrolyte_molar_concentrations: 0.5 M H2SO4, 0.50 M NaCl [2.2. Test solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.2. Test solutions]
+- purge_gas_type: Nitrogen [2.2. Test solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Quasi-steady-state time for open circuit [2.3. Electrochemical test]
+- ocp_resting_duration: 900 s [2.3. Electrochemical test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [2.3. Electrochemical test]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- electrochemical_mode: Potentiodynamic [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- solution_chemistry_summary: 0.5 M sulfuric acid solution containing 1.00 M sodium chloride [2.2. Test solutions]
+- operating_parameters_summary: Scan speed 1 mV/s for scan potential ranging from -0.6 to 1.4 V_SHE [2.3. Electrochemical test]
+- overarching_environmental_conditions: Deaerated by a nitrogen gas flow of 120 ml/min [2.2. Test solutions]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 25 °C [2.2. Test solutions]
+- continuous_sweep_rate: 1 mV/s [2.3. Electrochemical test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode saturated in 3 M KCl (-0.205 V_SHE) [2.3. Electrochemical test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride [2.2. Test solutions]
+- electrolyte_molar_concentrations: 0.5 M H2SO4, 1.00 M NaCl [2.2. Test solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.2. Test solutions]
+- purge_gas_type: Nitrogen [2.2. Test solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Quasi-steady-state time for open circuit [2.3. Electrochemical test]
+- ocp_resting_duration: 900 s [2.3. Electrochemical test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [2.3. Electrochemical test]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+
+# Base Material
+- standard_designation: SS 304 [1. Introduction]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Stainless steel [1. Introduction]
+- elemental_weight_percentages: Al: 0, Co: 0, Cr: 19.40, Fe: 72.68, Ni: 7.92 wt.% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: SS 304 [Table 1]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Cut to 0.8 cm x 0.8 cm x 0.3 cm, cold-mounted in epoxy, ground and polished with silicon carbide paper, fine polished up to 0.05 μm Al2O3 powder, rinsed, and dried [2.1. Test specimens for electrochemical tests and weight loss measurements]
+- chemical_surface_preparation: Cathodically polarized at a potential of -0.4 V_SHE for 300 s to remove surface oxides [2.3. Electrochemical test]
+- final_surface_roughness: Polished up to 0.05 μm Al2O3 powder [2.4. Scanning electron microscopy (SEM) metallograph examination and energy dispersed X-ray spectroscopy (EDS) analysis]
+- exposed_surface_area: 0.64 cm2 (0.8 cm x 0.8 cm) [2.1. Test specimens for electrochemical tests and weight loss measurements]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.1. Potentiodynamic polarization and weight loss at 25 °C]
+- electrochemical_mode: Potentiodynamic [3.1. Potentiodynamic polarization and weight loss at 25 °C]
+- solution_chemistry_summary: 0.5 M sulfuric acid base solution [2.2. Test solutions]
+- operating_parameters_summary: Scan speed 1 mV/s for scan potential ranging from -0.6 to 1.4 V_SHE [2.3. Electrochemical test]
+- overarching_environmental_conditions: Deaerated by a nitrogen gas flow of 120 ml/min [2.2. Test solutions]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 25 °C [2.2. Test solutions]
+- continuous_sweep_rate: 1 mV/s [2.3. Electrochemical test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode saturated in 3 M KCl (-0.205 V_SHE) [2.3. Electrochemical test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 0.5 M H2SO4 [2.2. Test solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.2. Test solutions]
+- purge_gas_type: Nitrogen [2.2. Test solutions]
+- corrosion_potential: -0.185 V_SHE [Table 2]
+- ocp_stabilization_methodology: Quasi-steady-state time for open circuit [2.3. Electrochemical test]
+- ocp_resting_duration: 900 s [2.3. Electrochemical test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [2.3. Electrochemical test]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 19.1 μA/cm2 [Table 2]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- electrochemical_mode: Potentiodynamic [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- solution_chemistry_summary: 0.5 M sulfuric acid solution containing 0.25 M sodium chloride [2.2. Test solutions]
+- operating_parameters_summary: Scan speed 1 mV/s for scan potential ranging from -0.6 to 1.4 V_SHE [2.3. Electrochemical test]
+- overarching_environmental_conditions: Deaerated by a nitrogen gas flow of 120 ml/min [2.2. Test solutions]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 25 °C [2.2. Test solutions]
+- continuous_sweep_rate: 1 mV/s [2.3. Electrochemical test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode saturated in 3 M KCl (-0.205 V_SHE) [2.3. Electrochemical test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride [2.2. Test solutions]
+- electrolyte_molar_concentrations: 0.5 M H2SO4, 0.25 M NaCl [2.2. Test solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.2. Test solutions]
+- purge_gas_type: Nitrogen [2.2. Test solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Quasi-steady-state time for open circuit [2.3. Electrochemical test]
+- ocp_resting_duration: 900 s [2.3. Electrochemical test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [2.3. Electrochemical test]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- electrochemical_mode: Potentiodynamic [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- solution_chemistry_summary: 0.5 M sulfuric acid solution containing 0.50 M sodium chloride [2.2. Test solutions]
+- operating_parameters_summary: Scan speed 1 mV/s for scan potential ranging from -0.6 to 1.4 V_SHE [2.3. Electrochemical test]
+- overarching_environmental_conditions: Deaerated by a nitrogen gas flow of 120 ml/min [2.2. Test solutions]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 25 °C [2.2. Test solutions]
+- continuous_sweep_rate: 1 mV/s [2.3. Electrochemical test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode saturated in 3 M KCl (-0.205 V_SHE) [2.3. Electrochemical test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride [2.2. Test solutions]
+- electrolyte_molar_concentrations: 0.5 M H2SO4, 0.50 M NaCl [2.2. Test solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.2. Test solutions]
+- purge_gas_type: Nitrogen [2.2. Test solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Quasi-steady-state time for open circuit [2.3. Electrochemical test]
+- ocp_resting_duration: 900 s [2.3. Electrochemical test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [2.3. Electrochemical test]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- electrochemical_mode: Potentiodynamic [3.4. Polarization behaviour for alloys in a chloride-containing H2SO4 solution]
+- solution_chemistry_summary: 0.5 M sulfuric acid solution containing 1.00 M sodium chloride [2.2. Test solutions]
+- operating_parameters_summary: Scan speed 1 mV/s for scan potential ranging from -0.6 to 1.4 V_SHE [2.3. Electrochemical test]
+- overarching_environmental_conditions: Deaerated by a nitrogen gas flow of 120 ml/min [2.2. Test solutions]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 25 °C [2.2. Test solutions]
+- continuous_sweep_rate: 1 mV/s [2.3. Electrochemical test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode saturated in 3 M KCl (-0.205 V_SHE) [2.3. Electrochemical test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride [2.2. Test solutions]
+- electrolyte_molar_concentrations: 0.5 M H2SO4, 1.00 M NaCl [2.2. Test solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.2. Test solutions]
+- purge_gas_type: Nitrogen [2.2. Test solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Quasi-steady-state time for open circuit [2.3. Electrochemical test]
+- ocp_resting_duration: 900 s [2.3. Electrochemical test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [2.3. Electrochemical test]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

@@ -1,0 +1,90 @@
+# Base Material
+- standard_designation: 2024 [Abstract]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Aluminium alloy [Abstract]
+- elemental_weight_percentages: Al base, Si 0.06 wt%, Fe 0.17 wt%, Cu 4.54 wt%, Mn 0.63 wt%, Mg 1.51 wt%, Cr 0.01 wt%, Zn 0.08 wt%, Ti 0.03 wt% [2.1. Material]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: The grains are elongated in the rolling direction, with a uniform distribution of coarse intermetallic particles throughout [3.1. Microstructure]
+- average_grain_dimensions: 50 µm to 700 µm [3.1. Microstructure]
+- crystallographic_phases: Al2CuMg (S phase), Al6(Cu,Fe,Mn), Al7Fe2Cu, (Al,Cu)6Mn, Al20Mn3Cu2 [3.1. Microstructure]
+- inclusion_composition: Al-Cu-Mg-containing particles, Al-Cu-Mn-Fe-containing particles, Al2CuMg (hardening precipitates), Al20Mn3Cu2 (dispersoids) [3.1. Microstructure]
+- inclusion_size: Coarse intermetallic particles reaching 20 µm; needle-shaped hardening precipitates around 100 nm; rod-shaped dispersoids with an average length of 200 nm [3.1. Microstructure]
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 2024 T351 [Abstract]
+- fabrication_steps: Supplied in the form of a 25 mm thick plate; prepared by cutting coupons of 10 x 10 mm2 from the alloy plates [2.1. Material]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically polished with 4000 grit SiC paper, and then with 1 µm diamond paste [2.1. Material]
+- chemical_surface_preparation: Rinsed with distilled water [2.1. Material]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 100 mm2 [2.1. Material]
+
+### Experiment
+- experimental_test_type: Potentiodynamic test [2.2. Potentiodynamic test]
+- electrochemical_mode: Potentiokinetic polarization [2.2. Potentiodynamic test]
+- solution_chemistry_summary: 1 M NaCl solution [2.2. Potentiodynamic test]
+- operating_parameters_summary: Polarization from a cathodic potential of -900 mV/SCE to the highest potential of -400 mV/SCE at a potential sweep rate of 500 mV/h [2.2. Potentiodynamic test]
+- overarching_environmental_conditions: Room temperature [2.2. Potentiodynamic test]
+- pitting_potential: Eb1 close to -720 mV/SCE (S phase dissolution); Eb2 close to -620 mV/SCE (matrix breakdown, pitting and intergranular corrosion) [3.2. Polarization curve in sodium chloride solution and breakdown potential]
+- electrolyte_temperature: Room temperature [2.2. Potentiodynamic test]
+- continuous_sweep_rate: 500 mV/h [2.2. Potentiodynamic test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.2. Potentiodynamic test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [2.2. Potentiodynamic test]
+- electrolyte_molar_concentrations: 1 M NaCl [2.2. Potentiodynamic test]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Naturally aerated [2.2. Potentiodynamic test]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.2. Potentiodynamic test]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: pH = 6 [2.2. Potentiodynamic test]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic test [3.3. First breakdown potential: Cu-Mg-rich intermetallic particle behaviour]
+- electrochemical_mode: Potentiokinetic polarization [3.3. First breakdown potential: Cu-Mg-rich intermetallic particle behaviour]
+- solution_chemistry_summary: 1 M NaCl solution acidified to pH 2 [3.3. First breakdown potential: Cu-Mg-rich intermetallic particle behaviour]
+- operating_parameters_summary: Polarization to a potential 30 mV higher than Eb1 [3.3. First breakdown potential: Cu-Mg-rich intermetallic particle behaviour]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [3.3. First breakdown potential: Cu-Mg-rich intermetallic particle behaviour]
+- electrolyte_molar_concentrations: 1 M NaCl [3.3. First breakdown potential: Cu-Mg-rich intermetallic particle behaviour]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: pH 2 [3.3. First breakdown potential: Cu-Mg-rich intermetallic particle behaviour]
+- passive_current_density: Not specified in text.

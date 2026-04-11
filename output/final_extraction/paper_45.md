@@ -1,0 +1,419 @@
+# Base Material
+- standard_designation: Type 304 [EXPERIMENTAL]
+- trade_name: Not specified in text.
+- commercial_grade: commercial-grade [EXPERIMENTAL]
+- uns_code: UNS S30400 [RESULTS]
+- alloy_family: wrought austenitic stainless steels [INTRODUCTION]
+- elemental_weight_percentages: Cr 18.1, Ni 9.3, Mo < 0.4, C 0.065, S < 0.017, P 0.025, Mn 1.1, Si 0.63, Cu < 0.1 [TABLE 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: austenite [INTRODUCTION]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Type 304 SS [RESULTS]
+- fabrication_steps: cold-rolled to 1-mm thickness, cut into rectangular coupons 25 mm by 15 mm by 1 mm [EXPERIMENTAL]
+- welding_operations: spot-welded to one side of each coupon [EXPERIMENTAL]
+- welding_techniques: spot-welded [EXPERIMENTAL]
+- filler_wire_composition: Not specified in text.
+- heat_treatments: sealed in silica (SiO2) tubes under a helium (He) atmosphere, solution-annealed in a furnace at 1,100°C for 20 min [EXPERIMENTAL]
+- cooling_methods: quenched with water [EXPERIMENTAL]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: mounted in epoxy resin and ground using 600-grit emery paper, scratch-free samples were produced by diamond polishing [EXPERIMENTAL]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: scratch-free [EXPERIMENTAL]
+- exposed_surface_area: Approximately 3 cm2 [EXPERIMENTAL]
+
+### Experiment
+- experimental_test_type: Polarization studies [EXPERIMENTAL]
+- electrochemical_mode: potential step technique [EXPERIMENTAL]
+- solution_chemistry_summary: 1 N HCl solution [RESULTS]
+- operating_parameters_summary: sample kept at OCP for 5 min, then anodic potential was increased in steps of 20 mVSCE and current was recorded after waiting 1 min at each step [EXPERIMENTAL]
+- overarching_environmental_conditions: room temperature [RESULTS]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: room temperature [RESULTS]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 20 mVSCE [EXPERIMENTAL]
+- holding_duration: 1 min [EXPERIMENTAL]
+- reference_electrode: saturated calomel electrode (SCE) [EXPERIMENTAL]
+- electrolyte_solvents: double-distilled water [EXPERIMENTAL]
+- electrolyte_primary_salts: hydrochloric acid (HCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 1 N HCl [RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated [EXPERIMENTAL]
+- purge_gas_type: purified hydrogen (H2) [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: immersed in the experimental solution [EXPERIMENTAL]
+- ocp_resting_duration: 5 min [EXPERIMENTAL]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: platinum (Pt) [EXPERIMENTAL]
+- counter_electrode_geometry: smooth [EXPERIMENTAL]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+
+# Base Material
+- standard_designation: Type 316L [EXPERIMENTAL]
+- trade_name: Not specified in text.
+- commercial_grade: commercial-grade [EXPERIMENTAL]
+- uns_code: UNS S31603 [RESULTS]
+- alloy_family: wrought austenitic stainless steels [INTRODUCTION]
+- elemental_weight_percentages: Cr 16.44, Ni 12.32, Mo 2.29, C 0.03, N 0.07, S 0.02, P 0.04, Mn 1.48, Si 0.38 [TABLE 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: austenite [INTRODUCTION]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Type 316L SS [RESULTS]
+- fabrication_steps: cold-rolled to 1-mm thickness, cut into rectangular coupons 25 mm by 15 mm by 1 mm [EXPERIMENTAL]
+- welding_operations: spot-welded to one side of each coupon [EXPERIMENTAL]
+- welding_techniques: spot-welded [EXPERIMENTAL]
+- filler_wire_composition: Not specified in text.
+- heat_treatments: sealed in silica (SiO2) tubes under a helium (He) atmosphere, solution-annealed in a furnace at 1,100°C for 20 min [EXPERIMENTAL]
+- cooling_methods: quenched with water [EXPERIMENTAL]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: mounted in epoxy resin and ground using 600-grit emery paper, scratch-free samples were produced by diamond polishing [EXPERIMENTAL]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: scratch-free [EXPERIMENTAL]
+- exposed_surface_area: Approximately 3 cm2 [EXPERIMENTAL]
+
+### Experiment
+- experimental_test_type: Polarization studies [EXPERIMENTAL]
+- electrochemical_mode: potential step technique [EXPERIMENTAL]
+- solution_chemistry_summary: 1 N HCl solution [RESULTS]
+- operating_parameters_summary: sample kept at OCP for 5 min, then anodic potential was increased in steps of 20 mVSCE and current was recorded after waiting 1 min at each step [EXPERIMENTAL]
+- overarching_environmental_conditions: room temperature [RESULTS]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: room temperature [RESULTS]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 20 mVSCE [EXPERIMENTAL]
+- holding_duration: 1 min [EXPERIMENTAL]
+- reference_electrode: saturated calomel electrode (SCE) [EXPERIMENTAL]
+- electrolyte_solvents: double-distilled water [EXPERIMENTAL]
+- electrolyte_primary_salts: hydrochloric acid (HCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 1 N HCl [RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated [EXPERIMENTAL]
+- purge_gas_type: purified hydrogen (H2) [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: immersed in the experimental solution [EXPERIMENTAL]
+- ocp_resting_duration: 5 min [EXPERIMENTAL]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: platinum (Pt) [EXPERIMENTAL]
+- counter_electrode_geometry: smooth [EXPERIMENTAL]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Polarization studies [EXPERIMENTAL]
+- electrochemical_mode: potential step technique [EXPERIMENTAL]
+- solution_chemistry_summary: 0.1 N HCl solution [RESULTS]
+- operating_parameters_summary: sample kept at OCP for 5 min, then anodic potential was increased in steps of 20 mVSCE and current was recorded after waiting 1 min at each step [EXPERIMENTAL]
+- overarching_environmental_conditions: room temperature [RESULTS]
+- pitting_potential: -60 mVSCE [RESULTS]
+- electrolyte_temperature: room temperature [RESULTS]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 20 mVSCE [EXPERIMENTAL]
+- holding_duration: 1 min [EXPERIMENTAL]
+- reference_electrode: saturated calomel electrode (SCE) [EXPERIMENTAL]
+- electrolyte_solvents: double-distilled water [EXPERIMENTAL]
+- electrolyte_primary_salts: hydrochloric acid (HCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 0.1 N HCl [RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated [EXPERIMENTAL]
+- purge_gas_type: purified hydrogen (H2) [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: immersed in the experimental solution [EXPERIMENTAL]
+- ocp_resting_duration: 5 min [EXPERIMENTAL]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: platinum (Pt) [EXPERIMENTAL]
+- counter_electrode_geometry: smooth [EXPERIMENTAL]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Polarization studies [EXPERIMENTAL]
+- electrochemical_mode: potential step technique [EXPERIMENTAL]
+- solution_chemistry_summary: 1 N NaCl solution [RESULTS]
+- operating_parameters_summary: sample kept at OCP for 5 min, then anodic potential was increased in steps of 20 mVSCE and current was recorded after waiting 1 min at each step [EXPERIMENTAL]
+- overarching_environmental_conditions: room temperature [RESULTS]
+- pitting_potential: +40 mVSCE [RESULTS]
+- electrolyte_temperature: room temperature [RESULTS]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 20 mVSCE [EXPERIMENTAL]
+- holding_duration: 1 min [EXPERIMENTAL]
+- reference_electrode: saturated calomel electrode (SCE) [EXPERIMENTAL]
+- electrolyte_solvents: double-distilled water [EXPERIMENTAL]
+- electrolyte_primary_salts: sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 1 N NaCl [RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated [EXPERIMENTAL]
+- purge_gas_type: purified hydrogen (H2) [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: immersed in the experimental solution [EXPERIMENTAL]
+- ocp_resting_duration: 5 min [EXPERIMENTAL]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: platinum (Pt) [EXPERIMENTAL]
+- counter_electrode_geometry: smooth [EXPERIMENTAL]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+
+# Base Material
+- standard_designation: Type 316LN [EXPERIMENTAL]
+- trade_name: Not specified in text.
+- commercial_grade: commercial-grade [EXPERIMENTAL]
+- uns_code: UNS S31653 [ABSTRACT]
+- alloy_family: wrought austenitic stainless steels [INTRODUCTION]
+- elemental_weight_percentages: Cr 17.4, Ni 13.2, Mo 2.57, C 0.019, N 0.16, S 0.03, P 0.021, Mn 1.73, Si 0.64, Fe 64.23 [TABLE 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: austenite [INTRODUCTION]
+- inclusion_composition: duplex oxide-sulfide [RESULTS]
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Type 316LN SS [RESULTS]
+- fabrication_steps: cold-rolled to 1-mm thickness, cut into rectangular coupons 25 mm by 15 mm by 1 mm [EXPERIMENTAL]
+- welding_operations: spot-welded to one side of each coupon [EXPERIMENTAL]
+- welding_techniques: spot-welded [EXPERIMENTAL]
+- filler_wire_composition: Not specified in text.
+- heat_treatments: sealed in silica (SiO2) tubes under a helium (He) atmosphere, solution-annealed in a furnace at 1,100°C for 20 min [EXPERIMENTAL]
+- cooling_methods: quenched with water [EXPERIMENTAL]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: mounted in epoxy resin and ground using 600-grit emery paper, scratch-free samples were produced by diamond polishing [EXPERIMENTAL]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: scratch-free [EXPERIMENTAL]
+- exposed_surface_area: Approximately 3 cm2 [EXPERIMENTAL]
+
+### Experiment
+- experimental_test_type: Polarization studies [EXPERIMENTAL]
+- electrochemical_mode: potential step technique [EXPERIMENTAL]
+- solution_chemistry_summary: 1 N HCl solution [RESULTS]
+- operating_parameters_summary: sample kept at OCP for 5 min, then anodic potential was increased in steps of 20 mVSCE and current was recorded after waiting 1 min at each step [EXPERIMENTAL]
+- overarching_environmental_conditions: room temperature [RESULTS]
+- pitting_potential: +500 mVSCE [RESULTS]
+- electrolyte_temperature: room temperature [RESULTS]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 20 mVSCE [EXPERIMENTAL]
+- holding_duration: 1 min [EXPERIMENTAL]
+- reference_electrode: saturated calomel electrode (SCE) [EXPERIMENTAL]
+- electrolyte_solvents: double-distilled water [EXPERIMENTAL]
+- electrolyte_primary_salts: hydrochloric acid (HCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 1 N HCl [RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated [EXPERIMENTAL]
+- purge_gas_type: purified hydrogen (H2) [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: immersed in the experimental solution [EXPERIMENTAL]
+- ocp_resting_duration: 5 min [EXPERIMENTAL]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: platinum (Pt) [EXPERIMENTAL]
+- counter_electrode_geometry: smooth [EXPERIMENTAL]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Polarization studies [EXPERIMENTAL]
+- electrochemical_mode: potential step technique [EXPERIMENTAL]
+- solution_chemistry_summary: 0.1 N HCl solution [RESULTS]
+- operating_parameters_summary: sample kept at OCP for 5 min, then anodic potential was increased in steps of 20 mVSCE and current was recorded after waiting 1 min at each step [EXPERIMENTAL]
+- overarching_environmental_conditions: room temperature [RESULTS]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: room temperature [RESULTS]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 20 mVSCE [EXPERIMENTAL]
+- holding_duration: 1 min [EXPERIMENTAL]
+- reference_electrode: saturated calomel electrode (SCE) [EXPERIMENTAL]
+- electrolyte_solvents: double-distilled water [EXPERIMENTAL]
+- electrolyte_primary_salts: hydrochloric acid (HCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 0.1 N HCl [RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated [EXPERIMENTAL]
+- purge_gas_type: purified hydrogen (H2) [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: immersed in the experimental solution [EXPERIMENTAL]
+- ocp_resting_duration: 5 min [EXPERIMENTAL]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: platinum (Pt) [EXPERIMENTAL]
+- counter_electrode_geometry: smooth [EXPERIMENTAL]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Polarization studies [EXPERIMENTAL]
+- electrochemical_mode: potential step technique [EXPERIMENTAL]
+- solution_chemistry_summary: 1 N NaCl solution [RESULTS]
+- operating_parameters_summary: sample kept at OCP for 5 min, then anodic potential was increased in steps of 20 mVSCE and current was recorded after waiting 1 min at each step [EXPERIMENTAL]
+- overarching_environmental_conditions: room temperature [RESULTS]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: room temperature [RESULTS]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 20 mVSCE [EXPERIMENTAL]
+- holding_duration: 1 min [EXPERIMENTAL]
+- reference_electrode: saturated calomel electrode (SCE) [EXPERIMENTAL]
+- electrolyte_solvents: double-distilled water [EXPERIMENTAL]
+- electrolyte_primary_salts: sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 1 N NaCl [RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated [EXPERIMENTAL]
+- purge_gas_type: purified hydrogen (H2) [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: immersed in the experimental solution [EXPERIMENTAL]
+- ocp_resting_duration: 5 min [EXPERIMENTAL]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: platinum (Pt) [EXPERIMENTAL]
+- counter_electrode_geometry: smooth [EXPERIMENTAL]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Polarization studies [EXPERIMENTAL]
+- electrochemical_mode: potential step technique [EXPERIMENTAL]
+- solution_chemistry_summary: Saturated NaCl (~6.2 N) solution [RESULTS]
+- operating_parameters_summary: sample kept at OCP for 5 min, then anodic potential was increased in steps of 20 mVSCE and current was recorded after waiting 1 min at each step [EXPERIMENTAL]
+- overarching_environmental_conditions: room temperature [RESULTS]
+- pitting_potential: +350 mVSCE [RESULTS]
+- electrolyte_temperature: room temperature [RESULTS]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 20 mVSCE [EXPERIMENTAL]
+- holding_duration: 1 min [EXPERIMENTAL]
+- reference_electrode: saturated calomel electrode (SCE) [EXPERIMENTAL]
+- electrolyte_solvents: double-distilled water [EXPERIMENTAL]
+- electrolyte_primary_salts: sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: ~6.2 N NaCl [RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated [EXPERIMENTAL]
+- purge_gas_type: purified hydrogen (H2) [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: immersed in the experimental solution [EXPERIMENTAL]
+- ocp_resting_duration: 5 min [EXPERIMENTAL]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: platinum (Pt) [EXPERIMENTAL]
+- counter_electrode_geometry: smooth [EXPERIMENTAL]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Polarization studies [EXPERIMENTAL]
+- electrochemical_mode: potential step technique [EXPERIMENTAL]
+- solution_chemistry_summary: 1.5 N to 2.5 N NaCl solution [RESULTS]
+- operating_parameters_summary: sample kept at OCP for 5 min, then anodic potential was increased in steps of 20 mVSCE and current was recorded after waiting 1 min at each step [EXPERIMENTAL]
+- overarching_environmental_conditions: room temperature [RESULTS]
+- pitting_potential: +1,000 mVSCE [RESULTS]
+- electrolyte_temperature: room temperature [RESULTS]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 20 mVSCE [EXPERIMENTAL]
+- holding_duration: 1 min [EXPERIMENTAL]
+- reference_electrode: saturated calomel electrode (SCE) [EXPERIMENTAL]
+- electrolyte_solvents: double-distilled water [EXPERIMENTAL]
+- electrolyte_primary_salts: sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 1.5 N to 2.5 N NaCl [RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated [EXPERIMENTAL]
+- purge_gas_type: purified hydrogen (H2) [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: immersed in the experimental solution [EXPERIMENTAL]
+- ocp_resting_duration: 5 min [EXPERIMENTAL]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: platinum (Pt) [EXPERIMENTAL]
+- counter_electrode_geometry: smooth [EXPERIMENTAL]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Polarization studies [EXPERIMENTAL]
+- electrochemical_mode: potential step technique [EXPERIMENTAL]
+- solution_chemistry_summary: 3 N NaCl solution [RESULTS]
+- operating_parameters_summary: sample kept at OCP for 5 min, then anodic potential was increased in steps of 20 mVSCE and current was recorded after waiting 1 min at each step [EXPERIMENTAL]
+- overarching_environmental_conditions: room temperature [RESULTS]
+- pitting_potential: +720 mVSCE [RESULTS]
+- electrolyte_temperature: room temperature [RESULTS]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 20 mVSCE [EXPERIMENTAL]
+- holding_duration: 1 min [EXPERIMENTAL]
+- reference_electrode: saturated calomel electrode (SCE) [EXPERIMENTAL]
+- electrolyte_solvents: double-distilled water [EXPERIMENTAL]
+- electrolyte_primary_salts: sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 3 N NaCl [RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated [EXPERIMENTAL]
+- purge_gas_type: purified hydrogen (H2) [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: immersed in the experimental solution [EXPERIMENTAL]
+- ocp_resting_duration: 5 min [EXPERIMENTAL]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: platinum (Pt) [EXPERIMENTAL]
+- counter_electrode_geometry: smooth [EXPERIMENTAL]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Polarization studies [EXPERIMENTAL]
+- electrochemical_mode: potential step technique [EXPERIMENTAL]
+- solution_chemistry_summary: 4 N NaCl solution [RESULTS]
+- operating_parameters_summary: sample kept at OCP for 5 min, then anodic potential was increased in steps of 20 mVSCE and current was recorded after waiting 1 min at each step [EXPERIMENTAL]
+- overarching_environmental_conditions: room temperature [RESULTS]
+- pitting_potential: +500 mVSCE [RESULTS]
+- electrolyte_temperature: room temperature [RESULTS]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 20 mVSCE [EXPERIMENTAL]
+- holding_duration: 1 min [EXPERIMENTAL]
+- reference_electrode: saturated calomel electrode (SCE) [EXPERIMENTAL]
+- electrolyte_solvents: double-distilled water [EXPERIMENTAL]
+- electrolyte_primary_salts: sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 4 N NaCl [RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated [EXPERIMENTAL]
+- purge_gas_type: purified hydrogen (H2) [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: immersed in the experimental solution [EXPERIMENTAL]
+- ocp_resting_duration: 5 min [EXPERIMENTAL]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: platinum (Pt) [EXPERIMENTAL]
+- counter_electrode_geometry: smooth [EXPERIMENTAL]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

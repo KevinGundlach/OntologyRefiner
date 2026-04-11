@@ -1,0 +1,677 @@
+# Base Material
+- standard_designation: Type 316L / 316LN SS [1. Introduction]
+- trade_name: Not specified in text.
+- commercial_grade: L series [2.1. Materials]
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [1. Introduction]
+- elemental_weight_percentages: Mn <0.01 to 0.01 wt.%, Ni 14.08 to 14.26 wt.%, Cr 16.36 to 16.64 wt.%, Mo 2.23 to 2.29 wt.%, Si 0.01 to 0.02 wt.%, Al 0.045 to 0.078 wt.%, C 0.0014 to 0.0042 wt.%, O 0.0020 wt.%, P <0.001 to 0.001 wt.%, S 0.001 wt.%, N 0.002 to 0.171 wt.%, balance Fe [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Solid-solutioned in the austenitic phase without forming any nitrides [Abstract]
+- trace_impurities: S [1. Introduction]
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Single austenitic phase [3.2. Microstructural characterization]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [3.2. Microstructural characterization]
+- inclusion_composition: Al2O3 [3.2. Microstructural characterization]
+- inclusion_size: Not specified in text.
+- inclusion_density: Hardly found in the L series [3.2. Microstructural characterization]
+
+## Conditioned Material
+- material_identification: L1 (N = 0.002 wt.%) [Table 1]
+- fabrication_steps: Induction melted in a vacuum furnace and cast into ingots. The ingots were hot-rolled in a controlled atmosphere, and then cold-rolled to 2.154 mm thick sheets. [2.1. Materials]
+- welding_operations: Cu-wire was spot-welded to one side of each specimen [2.2. Potentiodynamic polarization tests]
+- welding_techniques: Spot-welding [2.2. Potentiodynamic polarization tests]
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealed for 20 min at 1150°C [2.1. Materials]
+- cooling_methods: Water quenched [2.1. Materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to 2000 grade silicon carbide [2.2. Potentiodynamic polarization tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 2000 grade silicon carbide finish [2.2. Potentiodynamic polarization tests]
+- exposed_surface_area: Approximately 1 cm2 [2.2. Potentiodynamic polarization tests]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization tests [2.2. Potentiodynamic polarization tests]
+- electrochemical_mode: Anodic potentiodynamic polarization [2.2. Potentiodynamic polarization tests]
+- solution_chemistry_summary: 1 M KCl solution prepared from double-distilled water [2.2. Potentiodynamic polarization tests]
+- operating_parameters_summary: Anodic sweep from -100 mV below Ecorr at a scan rate of 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- overarching_environmental_conditions: Room temperature [2.2. Potentiodynamic polarization tests]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [2.2. Potentiodynamic polarization tests]
+- continuous_sweep_rate: 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.2. Potentiodynamic polarization tests]
+- electrolyte_solvents: Double-distilled water [2.2. Potentiodynamic polarization tests]
+- electrolyte_primary_salts: KCl [2.2. Potentiodynamic polarization tests]
+- electrolyte_molar_concentrations: 1 M [2.2. Potentiodynamic polarization tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Degassed by purging before and during the test [2.2. Potentiodynamic polarization tests]
+- purge_gas_type: Purified N2 gas [2.2. Potentiodynamic polarization tests]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Kept immersed in the test solution at open-circuit potential [2.2. Potentiodynamic polarization tests]
+- ocp_resting_duration: 2 h [2.2. Potentiodynamic polarization tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.2. Potentiodynamic polarization tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization tests [2.2. Potentiodynamic polarization tests]
+- electrochemical_mode: Anodic potentiodynamic polarization [2.2. Potentiodynamic polarization tests]
+- solution_chemistry_summary: 0.5 M HCl solution prepared from double-distilled water [2.2. Potentiodynamic polarization tests]
+- operating_parameters_summary: Anodic sweep from -100 mV below Ecorr at a scan rate of 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- overarching_environmental_conditions: Room temperature [2.2. Potentiodynamic polarization tests]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [2.2. Potentiodynamic polarization tests]
+- continuous_sweep_rate: 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.2. Potentiodynamic polarization tests]
+- electrolyte_solvents: Double-distilled water [2.2. Potentiodynamic polarization tests]
+- electrolyte_primary_salts: HCl [2.2. Potentiodynamic polarization tests]
+- electrolyte_molar_concentrations: 0.5 M [2.2. Potentiodynamic polarization tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Degassed by purging before and during the test [2.2. Potentiodynamic polarization tests]
+- purge_gas_type: Purified N2 gas [2.2. Potentiodynamic polarization tests]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Kept immersed in the test solution at open-circuit potential [2.2. Potentiodynamic polarization tests]
+- ocp_resting_duration: 2 h [2.2. Potentiodynamic polarization tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.2. Potentiodynamic polarization tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: L2 (N = 0.058 wt.%) [Table 1]
+- fabrication_steps: Induction melted in a vacuum furnace and cast into ingots. The ingots were hot-rolled in a controlled atmosphere, and then cold-rolled to 2.154 mm thick sheets. [2.1. Materials]
+- welding_operations: Cu-wire was spot-welded to one side of each specimen [2.2. Potentiodynamic polarization tests]
+- welding_techniques: Spot-welding [2.2. Potentiodynamic polarization tests]
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealed for 20 min at 1150°C [2.1. Materials]
+- cooling_methods: Water quenched [2.1. Materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to 2000 grade silicon carbide [2.2. Potentiodynamic polarization tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 2000 grade silicon carbide finish [2.2. Potentiodynamic polarization tests]
+- exposed_surface_area: Approximately 1 cm2 [2.2. Potentiodynamic polarization tests]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization tests [2.2. Potentiodynamic polarization tests]
+- electrochemical_mode: Anodic potentiodynamic polarization [2.2. Potentiodynamic polarization tests]
+- solution_chemistry_summary: 1 M KCl solution prepared from double-distilled water [2.2. Potentiodynamic polarization tests]
+- operating_parameters_summary: Anodic sweep from -100 mV below Ecorr at a scan rate of 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- overarching_environmental_conditions: Room temperature [2.2. Potentiodynamic polarization tests]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [2.2. Potentiodynamic polarization tests]
+- continuous_sweep_rate: 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.2. Potentiodynamic polarization tests]
+- electrolyte_solvents: Double-distilled water [2.2. Potentiodynamic polarization tests]
+- electrolyte_primary_salts: KCl [2.2. Potentiodynamic polarization tests]
+- electrolyte_molar_concentrations: 1 M [2.2. Potentiodynamic polarization tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Degassed by purging before and during the test [2.2. Potentiodynamic polarization tests]
+- purge_gas_type: Purified N2 gas [2.2. Potentiodynamic polarization tests]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Kept immersed in the test solution at open-circuit potential [2.2. Potentiodynamic polarization tests]
+- ocp_resting_duration: 2 h [2.2. Potentiodynamic polarization tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.2. Potentiodynamic polarization tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization tests [2.2. Potentiodynamic polarization tests]
+- electrochemical_mode: Anodic potentiodynamic polarization [2.2. Potentiodynamic polarization tests]
+- solution_chemistry_summary: 0.5 M HCl solution prepared from double-distilled water [2.2. Potentiodynamic polarization tests]
+- operating_parameters_summary: Anodic sweep from -100 mV below Ecorr at a scan rate of 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- overarching_environmental_conditions: Room temperature [2.2. Potentiodynamic polarization tests]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [2.2. Potentiodynamic polarization tests]
+- continuous_sweep_rate: 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.2. Potentiodynamic polarization tests]
+- electrolyte_solvents: Double-distilled water [2.2. Potentiodynamic polarization tests]
+- electrolyte_primary_salts: HCl [2.2. Potentiodynamic polarization tests]
+- electrolyte_molar_concentrations: 0.5 M [2.2. Potentiodynamic polarization tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Degassed by purging before and during the test [2.2. Potentiodynamic polarization tests]
+- purge_gas_type: Purified N2 gas [2.2. Potentiodynamic polarization tests]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Kept immersed in the test solution at open-circuit potential [2.2. Potentiodynamic polarization tests]
+- ocp_resting_duration: 2 h [2.2. Potentiodynamic polarization tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.2. Potentiodynamic polarization tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: L3 (N = 0.116 wt.%) [Table 1]
+- fabrication_steps: Induction melted in a vacuum furnace and cast into ingots. The ingots were hot-rolled in a controlled atmosphere, and then cold-rolled to 2.154 mm thick sheets. [2.1. Materials]
+- welding_operations: Cu-wire was spot-welded to one side of each specimen [2.2. Potentiodynamic polarization tests]
+- welding_techniques: Spot-welding [2.2. Potentiodynamic polarization tests]
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealed for 20 min at 1150°C [2.1. Materials]
+- cooling_methods: Water quenched [2.1. Materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to 2000 grade silicon carbide [2.2. Potentiodynamic polarization tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 2000 grade silicon carbide finish [2.2. Potentiodynamic polarization tests]
+- exposed_surface_area: Approximately 1 cm2 [2.2. Potentiodynamic polarization tests]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization tests [2.2. Potentiodynamic polarization tests]
+- electrochemical_mode: Anodic potentiodynamic polarization [2.2. Potentiodynamic polarization tests]
+- solution_chemistry_summary: 1 M KCl solution prepared from double-distilled water [2.2. Potentiodynamic polarization tests]
+- operating_parameters_summary: Anodic sweep from -100 mV below Ecorr at a scan rate of 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- overarching_environmental_conditions: Room temperature [2.2. Potentiodynamic polarization tests]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [2.2. Potentiodynamic polarization tests]
+- continuous_sweep_rate: 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.2. Potentiodynamic polarization tests]
+- electrolyte_solvents: Double-distilled water [2.2. Potentiodynamic polarization tests]
+- electrolyte_primary_salts: KCl [2.2. Potentiodynamic polarization tests]
+- electrolyte_molar_concentrations: 1 M [2.2. Potentiodynamic polarization tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Degassed by purging before and during the test [2.2. Potentiodynamic polarization tests]
+- purge_gas_type: Purified N2 gas [2.2. Potentiodynamic polarization tests]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Kept immersed in the test solution at open-circuit potential [2.2. Potentiodynamic polarization tests]
+- ocp_resting_duration: 2 h [2.2. Potentiodynamic polarization tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.2. Potentiodynamic polarization tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization tests [2.2. Potentiodynamic polarization tests]
+- electrochemical_mode: Anodic potentiodynamic polarization [2.2. Potentiodynamic polarization tests]
+- solution_chemistry_summary: 0.5 M HCl solution prepared from double-distilled water [2.2. Potentiodynamic polarization tests]
+- operating_parameters_summary: Anodic sweep from -100 mV below Ecorr at a scan rate of 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- overarching_environmental_conditions: Room temperature [2.2. Potentiodynamic polarization tests]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [2.2. Potentiodynamic polarization tests]
+- continuous_sweep_rate: 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.2. Potentiodynamic polarization tests]
+- electrolyte_solvents: Double-distilled water [2.2. Potentiodynamic polarization tests]
+- electrolyte_primary_salts: HCl [2.2. Potentiodynamic polarization tests]
+- electrolyte_molar_concentrations: 0.5 M [2.2. Potentiodynamic polarization tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Degassed by purging before and during the test [2.2. Potentiodynamic polarization tests]
+- purge_gas_type: Purified N2 gas [2.2. Potentiodynamic polarization tests]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Kept immersed in the test solution at open-circuit potential [2.2. Potentiodynamic polarization tests]
+- ocp_resting_duration: 2 h [2.2. Potentiodynamic polarization tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.2. Potentiodynamic polarization tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: L4 (N = 0.171 wt.%) [Table 1]
+- fabrication_steps: Induction melted in a vacuum furnace and cast into ingots. The ingots were hot-rolled in a controlled atmosphere, and then cold-rolled to 2.154 mm thick sheets. [2.1. Materials]
+- welding_operations: Cu-wire was spot-welded to one side of each specimen [2.2. Potentiodynamic polarization tests]
+- welding_techniques: Spot-welding [2.2. Potentiodynamic polarization tests]
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealed for 20 min at 1150°C [2.1. Materials]
+- cooling_methods: Water quenched [2.1. Materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to 2000 grade silicon carbide [2.2. Potentiodynamic polarization tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 2000 grade silicon carbide finish [2.2. Potentiodynamic polarization tests]
+- exposed_surface_area: Approximately 1 cm2 [2.2. Potentiodynamic polarization tests]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization tests [2.2. Potentiodynamic polarization tests]
+- electrochemical_mode: Anodic potentiodynamic polarization [2.2. Potentiodynamic polarization tests]
+- solution_chemistry_summary: 1 M KCl solution prepared from double-distilled water [2.2. Potentiodynamic polarization tests]
+- operating_parameters_summary: Anodic sweep from -100 mV below Ecorr at a scan rate of 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- overarching_environmental_conditions: Room temperature [2.2. Potentiodynamic polarization tests]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [2.2. Potentiodynamic polarization tests]
+- continuous_sweep_rate: 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.2. Potentiodynamic polarization tests]
+- electrolyte_solvents: Double-distilled water [2.2. Potentiodynamic polarization tests]
+- electrolyte_primary_salts: KCl [2.2. Potentiodynamic polarization tests]
+- electrolyte_molar_concentrations: 1 M [2.2. Potentiodynamic polarization tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Degassed by purging before and during the test [2.2. Potentiodynamic polarization tests]
+- purge_gas_type: Purified N2 gas [2.2. Potentiodynamic polarization tests]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Kept immersed in the test solution at open-circuit potential [2.2. Potentiodynamic polarization tests]
+- ocp_resting_duration: 2 h [2.2. Potentiodynamic polarization tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.2. Potentiodynamic polarization tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization tests [2.2. Potentiodynamic polarization tests]
+- electrochemical_mode: Anodic potentiodynamic polarization [2.2. Potentiodynamic polarization tests]
+- solution_chemistry_summary: 0.5 M HCl solution prepared from double-distilled water [2.2. Potentiodynamic polarization tests]
+- operating_parameters_summary: Anodic sweep from -100 mV below Ecorr at a scan rate of 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- overarching_environmental_conditions: Room temperature [2.2. Potentiodynamic polarization tests]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [2.2. Potentiodynamic polarization tests]
+- continuous_sweep_rate: 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.2. Potentiodynamic polarization tests]
+- electrolyte_solvents: Double-distilled water [2.2. Potentiodynamic polarization tests]
+- electrolyte_primary_salts: HCl [2.2. Potentiodynamic polarization tests]
+- electrolyte_molar_concentrations: 0.5 M [2.2. Potentiodynamic polarization tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Degassed by purging before and during the test [2.2. Potentiodynamic polarization tests]
+- purge_gas_type: Purified N2 gas [2.2. Potentiodynamic polarization tests]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Kept immersed in the test solution at open-circuit potential [2.2. Potentiodynamic polarization tests]
+- ocp_resting_duration: 2 h [2.2. Potentiodynamic polarization tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.2. Potentiodynamic polarization tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: 20 wt.% Mn-substituted type 316LN SS / 316L SS [Title, 2.1. Materials]
+- trade_name: Not specified in text.
+- commercial_grade: M series [2.1. Materials]
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [1. Introduction]
+- elemental_weight_percentages: Mn 20.00 to 20.26 wt.%, Ni 14.26 to 14.39 wt.%, Cr 16.62 to 16.96 wt.%, Mo 2.18 to 2.26 wt.%, Si 0.01 wt.%, Al 0.009 to 0.018 wt.%, C 0.0019 to 0.0028 wt.%, O 0.0021 to 0.0050 wt.%, P <0.001 wt.%, S 0.002 to 0.003 wt.%, N 0.004 to 0.394 wt.%, balance Fe [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Solid-solutioned in the austenitic phase without forming any nitrides [Abstract]
+- trace_impurities: S [1. Introduction]
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Single austenitic phase [3.2. Microstructural characterization]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [3.2. Microstructural characterization]
+- inclusion_composition: MnS and alumina (Al2O3) [3.2. Microstructural characterization]
+- inclusion_size: Large and elongated/elliptical shapes for sulfides [3.2. Microstructural characterization]
+- inclusion_density: Much higher than that in the L series [4. Discussion]
+
+## Conditioned Material
+- material_identification: M1 (N = 0.004 wt.%) [Table 1]
+- fabrication_steps: Induction melted in a vacuum furnace and cast into ingots. The ingots were hot-rolled in a controlled atmosphere, and then cold-rolled to 2.154 mm thick sheets. [2.1. Materials]
+- welding_operations: Cu-wire was spot-welded to one side of each specimen [2.2. Potentiodynamic polarization tests]
+- welding_techniques: Spot-welding [2.2. Potentiodynamic polarization tests]
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealed for 20 min at 1150°C [2.1. Materials]
+- cooling_methods: Water quenched [2.1. Materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to 2000 grade silicon carbide [2.2. Potentiodynamic polarization tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 2000 grade silicon carbide finish [2.2. Potentiodynamic polarization tests]
+- exposed_surface_area: Approximately 1 cm2 [2.2. Potentiodynamic polarization tests]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization tests [2.2. Potentiodynamic polarization tests]
+- electrochemical_mode: Anodic potentiodynamic polarization [2.2. Potentiodynamic polarization tests]
+- solution_chemistry_summary: 1 M KCl solution prepared from double-distilled water [2.2. Potentiodynamic polarization tests]
+- operating_parameters_summary: Anodic sweep from -100 mV below Ecorr at a scan rate of 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- overarching_environmental_conditions: Room temperature [2.2. Potentiodynamic polarization tests]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [2.2. Potentiodynamic polarization tests]
+- continuous_sweep_rate: 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.2. Potentiodynamic polarization tests]
+- electrolyte_solvents: Double-distilled water [2.2. Potentiodynamic polarization tests]
+- electrolyte_primary_salts: KCl [2.2. Potentiodynamic polarization tests]
+- electrolyte_molar_concentrations: 1 M [2.2. Potentiodynamic polarization tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Degassed by purging before and during the test [2.2. Potentiodynamic polarization tests]
+- purge_gas_type: Purified N2 gas [2.2. Potentiodynamic polarization tests]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Kept immersed in the test solution at open-circuit potential [2.2. Potentiodynamic polarization tests]
+- ocp_resting_duration: 2 h [2.2. Potentiodynamic polarization tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.2. Potentiodynamic polarization tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization tests [2.2. Potentiodynamic polarization tests]
+- electrochemical_mode: Anodic potentiodynamic polarization [2.2. Potentiodynamic polarization tests]
+- solution_chemistry_summary: 0.1 M KCl solution prepared from double-distilled water [2.2. Potentiodynamic polarization tests]
+- operating_parameters_summary: Anodic sweep from -100 mV below Ecorr at a scan rate of 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- overarching_environmental_conditions: Room temperature [2.2. Potentiodynamic polarization tests]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [2.2. Potentiodynamic polarization tests]
+- continuous_sweep_rate: 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.2. Potentiodynamic polarization tests]
+- electrolyte_solvents: Double-distilled water [2.2. Potentiodynamic polarization tests]
+- electrolyte_primary_salts: KCl [2.2. Potentiodynamic polarization tests]
+- electrolyte_molar_concentrations: 0.1 M [2.2. Potentiodynamic polarization tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Degassed by purging before and during the test [2.2. Potentiodynamic polarization tests]
+- purge_gas_type: Purified N2 gas [2.2. Potentiodynamic polarization tests]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Kept immersed in the test solution at open-circuit potential [2.2. Potentiodynamic polarization tests]
+- ocp_resting_duration: 2 h [2.2. Potentiodynamic polarization tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.2. Potentiodynamic polarization tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization tests [2.2. Potentiodynamic polarization tests]
+- electrochemical_mode: Anodic potentiodynamic polarization [2.2. Potentiodynamic polarization tests]
+- solution_chemistry_summary: 0.5 M HCl solution prepared from double-distilled water [2.2. Potentiodynamic polarization tests]
+- operating_parameters_summary: Anodic sweep from -100 mV below Ecorr at a scan rate of 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- overarching_environmental_conditions: Room temperature [2.2. Potentiodynamic polarization tests]
+- pitting_potential: Could not be defined. [3.1. Potentiodynamic polarization tests]
+- electrolyte_temperature: Room temperature [2.2. Potentiodynamic polarization tests]
+- continuous_sweep_rate: 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.2. Potentiodynamic polarization tests]
+- electrolyte_solvents: Double-distilled water [2.2. Potentiodynamic polarization tests]
+- electrolyte_primary_salts: HCl [2.2. Potentiodynamic polarization tests]
+- electrolyte_molar_concentrations: 0.5 M [2.2. Potentiodynamic polarization tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Degassed by purging before and during the test [2.2. Potentiodynamic polarization tests]
+- purge_gas_type: Purified N2 gas [2.2. Potentiodynamic polarization tests]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Kept immersed in the test solution at open-circuit potential [2.2. Potentiodynamic polarization tests]
+- ocp_resting_duration: 2 h [2.2. Potentiodynamic polarization tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.2. Potentiodynamic polarization tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: M2 (N = 0.314 wt.%) [Table 1]
+- fabrication_steps: Induction melted in a vacuum furnace and cast into ingots. The ingots were hot-rolled in a controlled atmosphere, and then cold-rolled to 2.154 mm thick sheets. [2.1. Materials]
+- welding_operations: Cu-wire was spot-welded to one side of each specimen [2.2. Potentiodynamic polarization tests]
+- welding_techniques: Spot-welding [2.2. Potentiodynamic polarization tests]
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealed for 20 min at 1150°C [2.1. Materials]
+- cooling_methods: Water quenched [2.1. Materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to 2000 grade silicon carbide [2.2. Potentiodynamic polarization tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 2000 grade silicon carbide finish [2.2. Potentiodynamic polarization tests]
+- exposed_surface_area: Approximately 1 cm2 [2.2. Potentiodynamic polarization tests]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization tests [2.2. Potentiodynamic polarization tests]
+- electrochemical_mode: Anodic potentiodynamic polarization [2.2. Potentiodynamic polarization tests]
+- solution_chemistry_summary: 1 M KCl solution prepared from double-distilled water [2.2. Potentiodynamic polarization tests]
+- operating_parameters_summary: Anodic sweep from -100 mV below Ecorr at a scan rate of 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- overarching_environmental_conditions: Room temperature [2.2. Potentiodynamic polarization tests]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [2.2. Potentiodynamic polarization tests]
+- continuous_sweep_rate: 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.2. Potentiodynamic polarization tests]
+- electrolyte_solvents: Double-distilled water [2.2. Potentiodynamic polarization tests]
+- electrolyte_primary_salts: KCl [2.2. Potentiodynamic polarization tests]
+- electrolyte_molar_concentrations: 1 M [2.2. Potentiodynamic polarization tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Degassed by purging before and during the test [2.2. Potentiodynamic polarization tests]
+- purge_gas_type: Purified N2 gas [2.2. Potentiodynamic polarization tests]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Kept immersed in the test solution at open-circuit potential [2.2. Potentiodynamic polarization tests]
+- ocp_resting_duration: 2 h [2.2. Potentiodynamic polarization tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.2. Potentiodynamic polarization tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization tests [2.2. Potentiodynamic polarization tests]
+- electrochemical_mode: Anodic potentiodynamic polarization [2.2. Potentiodynamic polarization tests]
+- solution_chemistry_summary: 0.1 M KCl solution prepared from double-distilled water [2.2. Potentiodynamic polarization tests]
+- operating_parameters_summary: Anodic sweep from -100 mV below Ecorr at a scan rate of 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- overarching_environmental_conditions: Room temperature [2.2. Potentiodynamic polarization tests]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [2.2. Potentiodynamic polarization tests]
+- continuous_sweep_rate: 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.2. Potentiodynamic polarization tests]
+- electrolyte_solvents: Double-distilled water [2.2. Potentiodynamic polarization tests]
+- electrolyte_primary_salts: KCl [2.2. Potentiodynamic polarization tests]
+- electrolyte_molar_concentrations: 0.1 M [2.2. Potentiodynamic polarization tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Degassed by purging before and during the test [2.2. Potentiodynamic polarization tests]
+- purge_gas_type: Purified N2 gas [2.2. Potentiodynamic polarization tests]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Kept immersed in the test solution at open-circuit potential [2.2. Potentiodynamic polarization tests]
+- ocp_resting_duration: 2 h [2.2. Potentiodynamic polarization tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.2. Potentiodynamic polarization tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization tests [2.2. Potentiodynamic polarization tests]
+- electrochemical_mode: Anodic potentiodynamic polarization [2.2. Potentiodynamic polarization tests]
+- solution_chemistry_summary: 0.5 M HCl solution prepared from double-distilled water [2.2. Potentiodynamic polarization tests]
+- operating_parameters_summary: Anodic sweep from -100 mV below Ecorr at a scan rate of 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- overarching_environmental_conditions: Room temperature [2.2. Potentiodynamic polarization tests]
+- pitting_potential: Could not be defined. [3.1. Potentiodynamic polarization tests]
+- electrolyte_temperature: Room temperature [2.2. Potentiodynamic polarization tests]
+- continuous_sweep_rate: 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.2. Potentiodynamic polarization tests]
+- electrolyte_solvents: Double-distilled water [2.2. Potentiodynamic polarization tests]
+- electrolyte_primary_salts: HCl [2.2. Potentiodynamic polarization tests]
+- electrolyte_molar_concentrations: 0.5 M [2.2. Potentiodynamic polarization tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Degassed by purging before and during the test [2.2. Potentiodynamic polarization tests]
+- purge_gas_type: Purified N2 gas [2.2. Potentiodynamic polarization tests]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Kept immersed in the test solution at open-circuit potential [2.2. Potentiodynamic polarization tests]
+- ocp_resting_duration: 2 h [2.2. Potentiodynamic polarization tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.2. Potentiodynamic polarization tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: M3 (N = 0.394 wt.%) [Table 1]
+- fabrication_steps: Induction melted in a vacuum furnace and cast into ingots. The ingots were hot-rolled in a controlled atmosphere, and then cold-rolled to 2.154 mm thick sheets. [2.1. Materials]
+- welding_operations: Cu-wire was spot-welded to one side of each specimen [2.2. Potentiodynamic polarization tests]
+- welding_techniques: Spot-welding [2.2. Potentiodynamic polarization tests]
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealed for 20 min at 1150°C [2.1. Materials]
+- cooling_methods: Water quenched [2.1. Materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to 2000 grade silicon carbide [2.2. Potentiodynamic polarization tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 2000 grade silicon carbide finish [2.2. Potentiodynamic polarization tests]
+- exposed_surface_area: Approximately 1 cm2 [2.2. Potentiodynamic polarization tests]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization tests [2.2. Potentiodynamic polarization tests]
+- electrochemical_mode: Anodic potentiodynamic polarization [2.2. Potentiodynamic polarization tests]
+- solution_chemistry_summary: 1 M KCl solution prepared from double-distilled water [2.2. Potentiodynamic polarization tests]
+- operating_parameters_summary: Anodic sweep from -100 mV below Ecorr at a scan rate of 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- overarching_environmental_conditions: Room temperature [2.2. Potentiodynamic polarization tests]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [2.2. Potentiodynamic polarization tests]
+- continuous_sweep_rate: 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.2. Potentiodynamic polarization tests]
+- electrolyte_solvents: Double-distilled water [2.2. Potentiodynamic polarization tests]
+- electrolyte_primary_salts: KCl [2.2. Potentiodynamic polarization tests]
+- electrolyte_molar_concentrations: 1 M [2.2. Potentiodynamic polarization tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Degassed by purging before and during the test [2.2. Potentiodynamic polarization tests]
+- purge_gas_type: Purified N2 gas [2.2. Potentiodynamic polarization tests]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Kept immersed in the test solution at open-circuit potential [2.2. Potentiodynamic polarization tests]
+- ocp_resting_duration: 2 h [2.2. Potentiodynamic polarization tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.2. Potentiodynamic polarization tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization tests [2.2. Potentiodynamic polarization tests]
+- electrochemical_mode: Anodic potentiodynamic polarization [2.2. Potentiodynamic polarization tests]
+- solution_chemistry_summary: 0.1 M KCl solution prepared from double-distilled water [2.2. Potentiodynamic polarization tests]
+- operating_parameters_summary: Anodic sweep from -100 mV below Ecorr at a scan rate of 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- overarching_environmental_conditions: Room temperature [2.2. Potentiodynamic polarization tests]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [2.2. Potentiodynamic polarization tests]
+- continuous_sweep_rate: 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.2. Potentiodynamic polarization tests]
+- electrolyte_solvents: Double-distilled water [2.2. Potentiodynamic polarization tests]
+- electrolyte_primary_salts: KCl [2.2. Potentiodynamic polarization tests]
+- electrolyte_molar_concentrations: 0.1 M [2.2. Potentiodynamic polarization tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Degassed by purging before and during the test [2.2. Potentiodynamic polarization tests]
+- purge_gas_type: Purified N2 gas [2.2. Potentiodynamic polarization tests]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Kept immersed in the test solution at open-circuit potential [2.2. Potentiodynamic polarization tests]
+- ocp_resting_duration: 2 h [2.2. Potentiodynamic polarization tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.2. Potentiodynamic polarization tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization tests [2.2. Potentiodynamic polarization tests]
+- electrochemical_mode: Anodic potentiodynamic polarization [2.2. Potentiodynamic polarization tests]
+- solution_chemistry_summary: 0.5 M HCl solution prepared from double-distilled water [2.2. Potentiodynamic polarization tests]
+- operating_parameters_summary: Anodic sweep from -100 mV below Ecorr at a scan rate of 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- overarching_environmental_conditions: Room temperature [2.2. Potentiodynamic polarization tests]
+- pitting_potential: Could not be defined. [3.1. Potentiodynamic polarization tests]
+- electrolyte_temperature: Room temperature [2.2. Potentiodynamic polarization tests]
+- continuous_sweep_rate: 0.2 mV/s [2.2. Potentiodynamic polarization tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.2. Potentiodynamic polarization tests]
+- electrolyte_solvents: Double-distilled water [2.2. Potentiodynamic polarization tests]
+- electrolyte_primary_salts: HCl [2.2. Potentiodynamic polarization tests]
+- electrolyte_molar_concentrations: 0.5 M [2.2. Potentiodynamic polarization tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Degassed by purging before and during the test [2.2. Potentiodynamic polarization tests]
+- purge_gas_type: Purified N2 gas [2.2. Potentiodynamic polarization tests]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Kept immersed in the test solution at open-circuit potential [2.2. Potentiodynamic polarization tests]
+- ocp_resting_duration: 2 h [2.2. Potentiodynamic polarization tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.2. Potentiodynamic polarization tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: M2 (N ~ 0.314 - 0.317 wt.%) - In situ observation specimen [2.4. In situ observation of the pitting process]
+- fabrication_steps: Induction melted in a vacuum furnace and cast into ingots. The ingots were hot-rolled in a controlled atmosphere, and then cold-rolled to 2.154 mm thick sheets. [2.1. Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealed for 20 min at 1150°C [2.1. Materials]
+- cooling_methods: Water quenched [2.1. Materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically polished with diamond paste to a size of 1 um [2.4. In situ observation of the pitting process]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 1 um finish [2.4. In situ observation of the pitting process]
+- exposed_surface_area: Approximately 5 x 5 mm2 [2.4. In situ observation of the pitting process]
+
+### Experiment
+- experimental_test_type: In situ observation of the pitting process using a scanning probe microscope (SPM) [2.4. In situ observation of the pitting process]
+- electrochemical_mode: Anodic potentiodynamic polarization [2.4. In situ observation of the pitting process]
+- solution_chemistry_summary: 0.1 M KCl solution with air-saturation [2.4. In situ observation of the pitting process]
+- operating_parameters_summary: Anodic sweep raised from -500 mV at a scan rate of 0.2 mV/s [2.4. In situ observation of the pitting process]
+- overarching_environmental_conditions: Room temperature [2.4. In situ observation of the pitting process]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [2.4. In situ observation of the pitting process]
+- continuous_sweep_rate: 0.2 mV/s [2.4. In situ observation of the pitting process]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: KCl [2.4. In situ observation of the pitting process]
+- electrolyte_molar_concentrations: 0.1 M [2.4. In situ observation of the pitting process]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Air-saturation [2.4. In situ observation of the pitting process]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

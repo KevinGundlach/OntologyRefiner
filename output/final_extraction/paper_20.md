@@ -1,0 +1,472 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High Entropy Alloys (HEAs) [1. Introduction]
+- elemental_weight_percentages: Fe 17.87%, Ni 18.79%, Cr 16.65%, Cu 10.17%, Al 8.63%, Si 8.99%, Co 18.86%, C 0.03%, P 0.006%, S 0.003% [2.1. Test materials]
+- elemental_atomic_percentages: Cu 7.690%, Ni 15.385%, Al 15.385%, Co 15.385%, Cr 15.385%, Fe 15.385%, Si 15.385% [3.3. Anodic polarization curves]
+- spatial_chemical_homogeneity: Contains a dendritic phase and an interdendritic phase with Cu-rich segregated phases [3.1. Microstructure characteristics]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Equivalent weight (EW) = 15.09 [3.3. Anodic polarization curves]
+- overall_microstructure: Nearly amorphous eutectic structure; the dendritic phase is mainly non-crystalline with a little BCC structure, while the interdendritic phase is amorphous containing small amounts of nano-scale crystalline precipitates [3.1. Microstructure characteristics]
+- average_grain_dimensions: ~50 Å (for the nano-scale precipitates in the interdendritic phase) [3.1. Microstructure characteristics]
+- crystallographic_phases: Dendritic phase contains a little body centered cubic (BCC) structure (lattice constant 2.91 Å). Interdendritic phase contains face centered cubic (FCC) nano-scale precipitates (lattice constant 3.72 Å). [3.1. Microstructure characteristics]
+- inclusion_composition: White island-like areas rich in Cr, Si and O, possibly in the form of oxides, e.g., Cr2O3 and SiO2 [3.1. Microstructure characteristics]
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Cu0.5NiAlCoCrFeSi HEA [2.1. Test materials]
+- fabrication_steps: Prepared from a mixture of pure elements and smelted by arc melting on a water-cooled copper hearth under a purified argon gas atmosphere. Repetitively melted and solidified by turning the solidified ingots over each time. Solidified in a water-cooled copper mold. The bulk material was cut using a water-cooled grinding wheel into pieces 2 mm thick, 1.91 cm long by 0.89 cm wide. [2.1. Test materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Solidification occurred in a water-cooled copper mold [2.1. Test materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically polished with 600–1500 grit emery cloths, thoroughly cleaned with distilled water and acetone, and dried in air [2.4.1. Test solutions]
+- chemical_surface_preparation: Cathodically polarized at -2.0 V with respect to the corrosion potential (Ecorr) for 1 min to reduce any oxides on the exposed surface [2.4.1. Test solutions]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1.7 cm² (exposed through cold-mounted epoxy resin) [2.1. Test materials]
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [2.4.2. Anodic polarization]
+- electrochemical_mode: Potentiodynamic [2.4.2. Anodic polarization]
+- solution_chemistry_summary: 1 M NaCl solution in distilled water [2.4.1. Test solutions]
+- operating_parameters_summary: Scan rate of 1 mV/s, automatically terminated at 100 mA or 1.241 V. Stirred constantly. [2.4.1. Test solutions; 2.4.2. Anodic polarization]
+- overarching_environmental_conditions: Ambient room temperature (~25 °C) [2.4.1. Test solutions]
+- pitting_potential: -0.25 V (SCE) [3.3. Anodic polarization curves]
+- electrolyte_temperature: ~25 °C [3.3. Anodic polarization curves]
+- continuous_sweep_rate: 1 mV/s [2.4.2. Anodic polarization]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.4.2. Anodic polarization]
+- electrolyte_solvents: Distilled water [2.4.1. Test solutions]
+- electrolyte_primary_salts: NaCl [2.4.1. Test solutions]
+- electrolyte_molar_concentrations: 1 M [3.3. Anodic polarization curves]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.4.1. Test solutions]
+- purge_gas_type: Purified nitrogen gas [2.4.1. Test solutions]
+- corrosion_potential: -0.53 V (SCE) [3.3. Anodic polarization curves]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Smooth Pt sheet [2.4.2. Anodic polarization]
+- counter_electrode_geometry: Sheet [2.4.2. Anodic polarization]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.4 [2.4.1. Test solutions]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [2.4.2. Anodic polarization]
+- electrochemical_mode: Potentiodynamic [2.4.2. Anodic polarization]
+- solution_chemistry_summary: 0.1 M NaCl solution in distilled water [2.4.1. Test solutions]
+- operating_parameters_summary: Scan rate of 1 mV/s, automatically terminated at 100 mA or 1.241 V. Stirred constantly. [2.4.1. Test solutions; 2.4.2. Anodic polarization]
+- overarching_environmental_conditions: Ambient room temperature (~25 °C) [2.4.1. Test solutions]
+- pitting_potential: 0.58 V (SCE) [3.3. Anodic polarization curves]
+- electrolyte_temperature: ~25 °C [3.3. Anodic polarization curves]
+- continuous_sweep_rate: 1 mV/s [2.4.2. Anodic polarization]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.4.2. Anodic polarization]
+- electrolyte_solvents: Distilled water [2.4.1. Test solutions]
+- electrolyte_primary_salts: NaCl [2.4.1. Test solutions]
+- electrolyte_molar_concentrations: 0.1 M [3.3. Anodic polarization curves]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.4.1. Test solutions]
+- purge_gas_type: Purified nitrogen gas [2.4.1. Test solutions]
+- corrosion_potential: 0.01 V (SCE) [3.3. Anodic polarization curves]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Smooth Pt sheet [2.4.2. Anodic polarization]
+- counter_electrode_geometry: Sheet [2.4.2. Anodic polarization]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Adjusted by adding HCl or NaOH [2.4.1. Test solutions]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [2.4.2. Anodic polarization]
+- electrochemical_mode: Potentiodynamic [2.4.2. Anodic polarization]
+- solution_chemistry_summary: 1 N H2SO4 solution in distilled water [2.4.1. Test solutions]
+- operating_parameters_summary: Scan rate of 1 mV/s, automatically terminated at 100 mA or 1.241 V. Stirred constantly. [2.4.1. Test solutions; 2.4.2. Anodic polarization]
+- overarching_environmental_conditions: Ambient room temperature (~25 °C) [2.4.1. Test solutions]
+- pitting_potential: 0.09 V (SCE) (reported as breakdown potential, Eb; pitting is absent in chloride-free H2SO4) [3.3. Anodic polarization curves]
+- electrolyte_temperature: ~25 °C [3.3. Anodic polarization curves]
+- continuous_sweep_rate: 1 mV/s [2.4.2. Anodic polarization]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.4.2. Anodic polarization]
+- electrolyte_solvents: Distilled water [2.4.1. Test solutions]
+- electrolyte_primary_salts: H2SO4 [2.4.1. Test solutions]
+- electrolyte_molar_concentrations: 1 N [3.3. Anodic polarization curves]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.4.1. Test solutions]
+- purge_gas_type: Purified nitrogen gas [2.4.1. Test solutions]
+- corrosion_potential: -0.17 V (SCE) [3.3. Anodic polarization curves]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Smooth Pt sheet [2.4.2. Anodic polarization]
+- counter_electrode_geometry: Sheet [2.4.2. Anodic polarization]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 0.5 [2.4.1. Test solutions]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [2.4.2. Anodic polarization]
+- electrochemical_mode: Potentiodynamic [2.4.2. Anodic polarization]
+- solution_chemistry_summary: 0.1 N H2SO4 solution in distilled water [2.4.1. Test solutions]
+- operating_parameters_summary: Scan rate of 1 mV/s, automatically terminated at 100 mA or 1.241 V. Stirred constantly. [2.4.1. Test solutions; 2.4.2. Anodic polarization]
+- overarching_environmental_conditions: Ambient room temperature (~25 °C) [2.4.1. Test solutions]
+- pitting_potential: 0.11 V (SCE) (reported as breakdown potential, Eb; pitting is absent in chloride-free H2SO4) [3.3. Anodic polarization curves]
+- electrolyte_temperature: ~25 °C [3.3. Anodic polarization curves]
+- continuous_sweep_rate: 1 mV/s [2.4.2. Anodic polarization]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.4.2. Anodic polarization]
+- electrolyte_solvents: Distilled water [2.4.1. Test solutions]
+- electrolyte_primary_salts: H2SO4 [2.4.1. Test solutions]
+- electrolyte_molar_concentrations: 0.1 N [3.3. Anodic polarization curves]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.4.1. Test solutions]
+- purge_gas_type: Purified nitrogen gas [2.4.1. Test solutions]
+- corrosion_potential: -0.06 V (SCE) [3.3. Anodic polarization curves]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Smooth Pt sheet [2.4.2. Anodic polarization]
+- counter_electrode_geometry: Sheet [2.4.2. Anodic polarization]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Adjusted by adding HCl or NaOH [2.4.1. Test solutions]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [2.4.2. Anodic polarization]
+- electrochemical_mode: Potentiodynamic [2.4.2. Anodic polarization]
+- solution_chemistry_summary: 1 N H2SO4 + 1 M NaCl solution in distilled water [3.3. Anodic polarization curves]
+- operating_parameters_summary: Scan rate of 1 mV/s, automatically terminated at 100 mA or 1.241 V. Stirred constantly. [2.4.1. Test solutions; 2.4.2. Anodic polarization]
+- overarching_environmental_conditions: Ambient room temperature (~25 °C) [2.4.1. Test solutions]
+- pitting_potential: -0.28 V (SCE) [3.3. Anodic polarization curves]
+- electrolyte_temperature: ~25 °C [3.3. Anodic polarization curves]
+- continuous_sweep_rate: 1 mV/s [2.4.2. Anodic polarization]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.4.2. Anodic polarization]
+- electrolyte_solvents: Distilled water [2.4.1. Test solutions]
+- electrolyte_primary_salts: H2SO4 and NaCl [3.3. Anodic polarization curves]
+- electrolyte_molar_concentrations: 1 N H2SO4 and 1 M NaCl [3.3. Anodic polarization curves]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.4.1. Test solutions]
+- purge_gas_type: Purified nitrogen gas [2.4.1. Test solutions]
+- corrosion_potential: -0.45 V (SCE) [3.3. Anodic polarization curves]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Smooth Pt sheet [2.4.2. Anodic polarization]
+- counter_electrode_geometry: Sheet [2.4.2. Anodic polarization]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Adjusted by adding HCl or NaOH [2.4.1. Test solutions]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [2.4.2. Anodic polarization]
+- electrochemical_mode: Potentiodynamic [2.4.2. Anodic polarization]
+- solution_chemistry_summary: 1 N H2SO4 + 0.6 M NaCl solution in distilled water [3.3. Anodic polarization curves]
+- operating_parameters_summary: Scan rate of 1 mV/s, automatically terminated at 100 mA or 1.241 V. Stirred constantly. [2.4.1. Test solutions; 2.4.2. Anodic polarization]
+- overarching_environmental_conditions: Ambient room temperature (~25 °C) [2.4.1. Test solutions]
+- pitting_potential: -0.23 V (SCE) [3.3. Anodic polarization curves]
+- electrolyte_temperature: ~25 °C [3.3. Anodic polarization curves]
+- continuous_sweep_rate: 1 mV/s [2.4.2. Anodic polarization]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.4.2. Anodic polarization]
+- electrolyte_solvents: Distilled water [2.4.1. Test solutions]
+- electrolyte_primary_salts: H2SO4 and NaCl [3.3. Anodic polarization curves]
+- electrolyte_molar_concentrations: 1 N H2SO4 and 0.6 M NaCl [3.3. Anodic polarization curves]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.4.1. Test solutions]
+- purge_gas_type: Purified nitrogen gas [2.4.1. Test solutions]
+- corrosion_potential: -0.47 V (SCE) [3.3. Anodic polarization curves]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Smooth Pt sheet [2.4.2. Anodic polarization]
+- counter_electrode_geometry: Sheet [2.4.2. Anodic polarization]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Adjusted by adding HCl or NaOH [2.4.1. Test solutions]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [2.4.2. Anodic polarization]
+- electrochemical_mode: Potentiodynamic [2.4.2. Anodic polarization]
+- solution_chemistry_summary: 1 N H2SO4 + 0.5 M NaCl solution in distilled water [3.3. Anodic polarization curves]
+- operating_parameters_summary: Scan rate of 1 mV/s, automatically terminated at 100 mA or 1.241 V. Stirred constantly. [2.4.1. Test solutions; 2.4.2. Anodic polarization]
+- overarching_environmental_conditions: Ambient room temperature (~25 °C) [2.4.1. Test solutions]
+- pitting_potential: -0.21 V (SCE) [3.3. Anodic polarization curves]
+- electrolyte_temperature: ~25 °C [3.3. Anodic polarization curves]
+- continuous_sweep_rate: 1 mV/s [2.4.2. Anodic polarization]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.4.2. Anodic polarization]
+- electrolyte_solvents: Distilled water [2.4.1. Test solutions]
+- electrolyte_primary_salts: H2SO4 and NaCl [3.3. Anodic polarization curves]
+- electrolyte_molar_concentrations: 1 N H2SO4 and 0.5 M NaCl [3.3. Anodic polarization curves]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.4.1. Test solutions]
+- purge_gas_type: Purified nitrogen gas [2.4.1. Test solutions]
+- corrosion_potential: -0.48 V (SCE) [3.3. Anodic polarization curves]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Smooth Pt sheet [2.4.2. Anodic polarization]
+- counter_electrode_geometry: Sheet [2.4.2. Anodic polarization]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Adjusted by adding HCl or NaOH [2.4.1. Test solutions]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [2.4.2. Anodic polarization]
+- electrochemical_mode: Potentiodynamic [2.4.2. Anodic polarization]
+- solution_chemistry_summary: 1 N H2SO4 + 0.4 M NaCl solution in distilled water [3.3. Anodic polarization curves]
+- operating_parameters_summary: Scan rate of 1 mV/s, automatically terminated at 100 mA or 1.241 V. Stirred constantly. [2.4.1. Test solutions; 2.4.2. Anodic polarization]
+- overarching_environmental_conditions: Ambient room temperature (~25 °C) [2.4.1. Test solutions]
+- pitting_potential: -0.215 V (SCE) [3.3. Anodic polarization curves]
+- electrolyte_temperature: ~25 °C [3.3. Anodic polarization curves]
+- continuous_sweep_rate: 1 mV/s [2.4.2. Anodic polarization]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.4.2. Anodic polarization]
+- electrolyte_solvents: Distilled water [2.4.1. Test solutions]
+- electrolyte_primary_salts: H2SO4 and NaCl [3.3. Anodic polarization curves]
+- electrolyte_molar_concentrations: 1 N H2SO4 and 0.4 M NaCl [3.3. Anodic polarization curves]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.4.1. Test solutions]
+- purge_gas_type: Purified nitrogen gas [2.4.1. Test solutions]
+- corrosion_potential: -0.46 V (SCE) [3.3. Anodic polarization curves]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Smooth Pt sheet [2.4.2. Anodic polarization]
+- counter_electrode_geometry: Sheet [2.4.2. Anodic polarization]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Adjusted by adding HCl or NaOH [2.4.1. Test solutions]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [2.4.2. Anodic polarization]
+- electrochemical_mode: Potentiodynamic [2.4.2. Anodic polarization]
+- solution_chemistry_summary: 1 N H2SO4 + 0.1 M NaCl solution in distilled water [3.3. Anodic polarization curves]
+- operating_parameters_summary: Scan rate of 1 mV/s, automatically terminated at 100 mA or 1.241 V. Stirred constantly. [2.4.1. Test solutions; 2.4.2. Anodic polarization]
+- overarching_environmental_conditions: Ambient room temperature (~25 °C) [2.4.1. Test solutions]
+- pitting_potential: -0.24 V (SCE) [3.3. Anodic polarization curves]
+- electrolyte_temperature: ~25 °C [3.3. Anodic polarization curves]
+- continuous_sweep_rate: 1 mV/s [2.4.2. Anodic polarization]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.4.2. Anodic polarization]
+- electrolyte_solvents: Distilled water [2.4.1. Test solutions]
+- electrolyte_primary_salts: H2SO4 and NaCl [3.3. Anodic polarization curves]
+- electrolyte_molar_concentrations: 1 N H2SO4 and 0.1 M NaCl [3.3. Anodic polarization curves]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.4.1. Test solutions]
+- purge_gas_type: Purified nitrogen gas [2.4.1. Test solutions]
+- corrosion_potential: -0.44 V (SCE) [3.3. Anodic polarization curves]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Smooth Pt sheet [2.4.2. Anodic polarization]
+- counter_electrode_geometry: Sheet [2.4.2. Anodic polarization]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Adjusted by adding HCl or NaOH [2.4.1. Test solutions]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [2.4.2. Anodic polarization]
+- electrochemical_mode: Potentiodynamic [2.4.2. Anodic polarization]
+- solution_chemistry_summary: 1 N H2SO4 + 0.01 M NaCl solution in distilled water [3.3. Anodic polarization curves]
+- operating_parameters_summary: Scan rate of 1 mV/s, automatically terminated at 100 mA or 1.241 V. Stirred constantly. [2.4.1. Test solutions; 2.4.2. Anodic polarization]
+- overarching_environmental_conditions: Ambient room temperature (~25 °C) [2.4.1. Test solutions]
+- pitting_potential: -0.22 V (SCE) [3.3. Anodic polarization curves]
+- electrolyte_temperature: ~25 °C [3.3. Anodic polarization curves]
+- continuous_sweep_rate: 1 mV/s [2.4.2. Anodic polarization]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.4.2. Anodic polarization]
+- electrolyte_solvents: Distilled water [2.4.1. Test solutions]
+- electrolyte_primary_salts: H2SO4 and NaCl [3.3. Anodic polarization curves]
+- electrolyte_molar_concentrations: 1 N H2SO4 and 0.01 M NaCl [3.3. Anodic polarization curves]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.4.1. Test solutions]
+- purge_gas_type: Purified nitrogen gas [2.4.1. Test solutions]
+- corrosion_potential: -0.43 V (SCE) [3.3. Anodic polarization curves]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Smooth Pt sheet [2.4.2. Anodic polarization]
+- counter_electrode_geometry: Sheet [2.4.2. Anodic polarization]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Adjusted by adding HCl or NaOH [2.4.1. Test solutions]
+- passive_current_density: Not specified in text.
+
+
+# Base Material
+- standard_designation: AISI type-304 [2.1. Test materials]
+- trade_name: Not specified in text.
+- commercial_grade: Type-304 [1. Introduction]
+- uns_code: Not specified in text.
+- alloy_family: Stainless steels (SS), Ferrous alloys [1. Introduction]
+- elemental_weight_percentages: Fe 70.77%, Ni 8.00%, Cr 17.99%, Cu 0.35%, Si 1.00%, Mn 1.67%, Co 0.11%, C 0.06%, P 0.030%, S 0.020% [2.1. Test materials]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Equivalent weight (EW) = 25.12 [3.3. Anodic polarization curves]
+- overall_microstructure: Crystalline structure [1. Introduction]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 304S [2.1. Test materials]
+- fabrication_steps: 1-inch diameter 304S rod was machined down to 1.22 cm diameter, and then cut into 1-cm-long pieces [2.1. Test materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically polished with 600–1500 grit emery cloths, thoroughly cleaned with distilled water and acetone, and dried in air [2.4.1. Test solutions]
+- chemical_surface_preparation: Cathodically polarized at -2.0 V with respect to the corrosion potential (Ecorr) for 1 min to reduce any oxides on the exposed surface [2.4.1. Test solutions]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1.17 cm² (exposed through cold-mounted epoxy resin) [2.1. Test materials]
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [2.4.2. Anodic polarization]
+- electrochemical_mode: Potentiodynamic [2.4.2. Anodic polarization]
+- solution_chemistry_summary: 1 M NaCl solution in distilled water [2.4.1. Test solutions]
+- operating_parameters_summary: Scan rate of 1 mV/s, automatically terminated at 100 mA or 1.241 V. Stirred constantly. [2.4.1. Test solutions; 2.4.2. Anodic polarization]
+- overarching_environmental_conditions: Ambient room temperature (~25 °C) [2.4.1. Test solutions]
+- pitting_potential: 0.17 V (SCE) [3.3. Anodic polarization curves]
+- electrolyte_temperature: ~25 °C [3.3. Anodic polarization curves]
+- continuous_sweep_rate: 1 mV/s [2.4.2. Anodic polarization]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.4.2. Anodic polarization]
+- electrolyte_solvents: Distilled water [2.4.1. Test solutions]
+- electrolyte_primary_salts: NaCl [2.4.1. Test solutions]
+- electrolyte_molar_concentrations: 1 M [3.3. Anodic polarization curves]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.4.1. Test solutions]
+- purge_gas_type: Purified nitrogen gas [2.4.1. Test solutions]
+- corrosion_potential: -0.59 V (SCE) [3.3. Anodic polarization curves]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Smooth Pt sheet [2.4.2. Anodic polarization]
+- counter_electrode_geometry: Sheet [2.4.2. Anodic polarization]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.4 [2.4.1. Test solutions]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [2.4.2. Anodic polarization]
+- electrochemical_mode: Potentiodynamic [2.4.2. Anodic polarization]
+- solution_chemistry_summary: 0.1 M NaCl solution in distilled water [2.4.1. Test solutions]
+- operating_parameters_summary: Scan rate of 1 mV/s, automatically terminated at 100 mA or 1.241 V. Stirred constantly. [2.4.1. Test solutions; 2.4.2. Anodic polarization]
+- overarching_environmental_conditions: Ambient room temperature (~25 °C) [2.4.1. Test solutions]
+- pitting_potential: 0.46 V (SCE) [3.3. Anodic polarization curves]
+- electrolyte_temperature: ~25 °C [3.3. Anodic polarization curves]
+- continuous_sweep_rate: 1 mV/s [2.4.2. Anodic polarization]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.4.2. Anodic polarization]
+- electrolyte_solvents: Distilled water [2.4.1. Test solutions]
+- electrolyte_primary_salts: NaCl [2.4.1. Test solutions]
+- electrolyte_molar_concentrations: 0.1 M [3.3. Anodic polarization curves]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.4.1. Test solutions]
+- purge_gas_type: Purified nitrogen gas [2.4.1. Test solutions]
+- corrosion_potential: -0.25 V (SCE) [3.3. Anodic polarization curves]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Smooth Pt sheet [2.4.2. Anodic polarization]
+- counter_electrode_geometry: Sheet [2.4.2. Anodic polarization]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Adjusted by adding HCl or NaOH [2.4.1. Test solutions]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [2.4.2. Anodic polarization]
+- electrochemical_mode: Potentiodynamic [2.4.2. Anodic polarization]
+- solution_chemistry_summary: 1 N H2SO4 solution in distilled water [2.4.1. Test solutions]
+- operating_parameters_summary: Scan rate of 1 mV/s, automatically terminated at 100 mA or 1.241 V. Stirred constantly. [2.4.1. Test solutions; 2.4.2. Anodic polarization]
+- overarching_environmental_conditions: Ambient room temperature (~25 °C) [2.4.1. Test solutions]
+- pitting_potential: 1.06 V (SCE) (reported as breakdown potential, Eb; pitting is absent in chloride-free H2SO4) [3.3. Anodic polarization curves]
+- electrolyte_temperature: ~25 °C [3.3. Anodic polarization curves]
+- continuous_sweep_rate: 1 mV/s [2.4.2. Anodic polarization]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.4.2. Anodic polarization]
+- electrolyte_solvents: Distilled water [2.4.1. Test solutions]
+- electrolyte_primary_salts: H2SO4 [2.4.1. Test solutions]
+- electrolyte_molar_concentrations: 1 N [3.3. Anodic polarization curves]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.4.1. Test solutions]
+- purge_gas_type: Purified nitrogen gas [2.4.1. Test solutions]
+- corrosion_potential: -0.22 V (SCE) [3.3. Anodic polarization curves]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Smooth Pt sheet [2.4.2. Anodic polarization]
+- counter_electrode_geometry: Sheet [2.4.2. Anodic polarization]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 0.5 [2.4.1. Test solutions]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [2.4.2. Anodic polarization]
+- electrochemical_mode: Potentiodynamic [2.4.2. Anodic polarization]
+- solution_chemistry_summary: 0.1 N H2SO4 solution in distilled water [2.4.1. Test solutions]
+- operating_parameters_summary: Scan rate of 1 mV/s, automatically terminated at 100 mA or 1.241 V. Stirred constantly. [2.4.1. Test solutions; 2.4.2. Anodic polarization]
+- overarching_environmental_conditions: Ambient room temperature (~25 °C) [2.4.1. Test solutions]
+- pitting_potential: 1.12 V (SCE) (reported as breakdown potential, Eb; pitting is absent in chloride-free H2SO4) [3.3. Anodic polarization curves]
+- electrolyte_temperature: ~25 °C [3.3. Anodic polarization curves]
+- continuous_sweep_rate: 1 mV/s [2.4.2. Anodic polarization]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.4.2. Anodic polarization]
+- electrolyte_solvents: Distilled water [2.4.1. Test solutions]
+- electrolyte_primary_salts: H2SO4 [2.4.1. Test solutions]
+- electrolyte_molar_concentrations: 0.1 N [3.3. Anodic polarization curves]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.4.1. Test solutions]
+- purge_gas_type: Purified nitrogen gas [2.4.1. Test solutions]
+- corrosion_potential: -0.05 V (SCE) [3.3. Anodic polarization curves]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Smooth Pt sheet [2.4.2. Anodic polarization]
+- counter_electrode_geometry: Sheet [2.4.2. Anodic polarization]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Adjusted by adding HCl or NaOH [2.4.1. Test solutions]
+- passive_current_density: Not specified in text.

@@ -1,0 +1,433 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [EXPERIMENTAL METHOD]
+- elemental_weight_percentages: C 0.053, Si 0.54, Mn 1.53, P 0.009, S 0.010, Cr 20.06, Ni 25.58, Mo 0.01 [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 20Cr-25Ni [Table 1]
+- fabrication_steps: Rolled sheets [EXPERIMENTAL METHOD]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heated in vacuo at 1050°C for 2 h [EXPERIMENTAL METHOD]
+- cooling_methods: Water-quenched to 0°C [EXPERIMENTAL METHOD]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically polished with emery paper up to No. 6/0 and with cloth using a dilute suspension of chromium oxide [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Degreased with absolute ethyl alcohol, washed in distilled water, and finally dried by air blasting [EXPERIMENTAL METHOD]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 x 1 cm² [EXPERIMENTAL METHOD]
+
+### Experiment
+- experimental_test_type: Electrochemical polarization measurement [EXPERIMENTAL METHOD]
+- electrochemical_mode: Potentiostatic step [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 1N HCl (pH = 0.02) [Electrolytic solutions]
+- operating_parameters_summary: Electrode potential was regulated by a potentiostat and current recording was made after holding the potential for 1 min at each setting, increased successively in steps of 25 mV from the corrosion potential [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: De-oxygenated solutions at room temperature (25°C) under stationary conditions [EXPERIMENTAL METHOD]
+- pitting_potential: Not explicitly stated in text (curve presented in Fig. 1) [Anodic polarization curves]
+- electrolyte_temperature: 25°C [EXPERIMENTAL METHOD]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 25 mV [EXPERIMENTAL METHOD]
+- holding_duration: 1 min [EXPERIMENTAL METHOD]
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: HCl [Electrolytic solutions]
+- electrolyte_molar_concentrations: 1N [Electrolytic solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: De-aerated [Electrolytic solutions]
+- purge_gas_type: Purified nitrogen [Electrolytic solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 0.02 [Electrolytic solutions]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [EXPERIMENTAL METHOD]
+- elemental_weight_percentages: C 0.057, Si 0.48, Mn 1.48, P 0.009, S 0.010, Cr 19.99, Ni 25.88, Mo 1.05 [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 20Cr-25Ni-1Mo [Table 1]
+- fabrication_steps: Rolled sheets [EXPERIMENTAL METHOD]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heated in vacuo at 1050°C for 2 h [EXPERIMENTAL METHOD]
+- cooling_methods: Water-quenched to 0°C [EXPERIMENTAL METHOD]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically polished with emery paper up to No. 6/0 and with cloth using a dilute suspension of chromium oxide [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Degreased with absolute ethyl alcohol, washed in distilled water, and finally dried by air blasting [EXPERIMENTAL METHOD]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 x 1 cm² [EXPERIMENTAL METHOD]
+
+### Experiment
+- experimental_test_type: Electrochemical polarization measurement [EXPERIMENTAL METHOD]
+- electrochemical_mode: Potentiostatic step [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 1N HCl (pH = 0.02) [Electrolytic solutions]
+- operating_parameters_summary: Electrode potential was regulated by a potentiostat and current recording was made after holding the potential for 1 min at each setting, increased successively in steps of 25 mV from the corrosion potential [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: De-oxygenated solutions at room temperature (25°C) under stationary conditions [EXPERIMENTAL METHOD]
+- pitting_potential: Not explicitly stated in text (curve presented in Fig. 1) [Anodic polarization curves]
+- electrolyte_temperature: 25°C [EXPERIMENTAL METHOD]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 25 mV [EXPERIMENTAL METHOD]
+- holding_duration: 1 min [EXPERIMENTAL METHOD]
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: HCl [Electrolytic solutions]
+- electrolyte_molar_concentrations: 1N [Electrolytic solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: De-aerated [Electrolytic solutions]
+- purge_gas_type: Purified nitrogen [Electrolytic solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 0.02 [Electrolytic solutions]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [EXPERIMENTAL METHOD]
+- elemental_weight_percentages: C 0.064, Si 0.52, Mn 1.47, P 0.009, S 0.010, Cr 20.16, Ni 25.52, Mo 2.97 [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 20Cr-25Ni-3Mo [Table 1]
+- fabrication_steps: Rolled sheets [EXPERIMENTAL METHOD]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heated in vacuo at 1050°C for 2 h [EXPERIMENTAL METHOD]
+- cooling_methods: Water-quenched to 0°C [EXPERIMENTAL METHOD]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically polished with emery paper up to No. 6/0 and with cloth using a dilute suspension of chromium oxide [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Degreased with absolute ethyl alcohol, washed in distilled water, and finally dried by air blasting [EXPERIMENTAL METHOD]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 x 1 cm² [EXPERIMENTAL METHOD]
+
+### Experiment
+- experimental_test_type: Electrochemical polarization measurement [EXPERIMENTAL METHOD]
+- electrochemical_mode: Potentiostatic step [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 1N HCl (pH = 0.02) [Electrolytic solutions]
+- operating_parameters_summary: Electrode potential was regulated by a potentiostat and current recording was made after holding the potential for 1 min at each setting, increased successively in steps of 25 mV from the corrosion potential [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: De-oxygenated solutions at room temperature (25°C) under stationary conditions [EXPERIMENTAL METHOD]
+- pitting_potential: Not explicitly stated in text (curve presented in Fig. 1) [Anodic polarization curves]
+- electrolyte_temperature: 25°C [EXPERIMENTAL METHOD]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 25 mV [EXPERIMENTAL METHOD]
+- holding_duration: 1 min [EXPERIMENTAL METHOD]
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: HCl [Electrolytic solutions]
+- electrolyte_molar_concentrations: 1N [Electrolytic solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: De-aerated [Electrolytic solutions]
+- purge_gas_type: Purified nitrogen [Electrolytic solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 0.02 [Electrolytic solutions]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [EXPERIMENTAL METHOD]
+- elemental_weight_percentages: C 0.059, Si 0.46, Mn 1.44, P 0.008, S 0.010, Cr 19.96, Ni 25.66, Mo 5.06 [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 20Cr-25Ni-5Mo [Table 1]
+- fabrication_steps: Rolled sheets [EXPERIMENTAL METHOD]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heated in vacuo at 1050°C for 2 h [EXPERIMENTAL METHOD]
+- cooling_methods: Water-quenched to 0°C [EXPERIMENTAL METHOD]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically polished with emery paper up to No. 6/0 and with cloth using a dilute suspension of chromium oxide [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Degreased with absolute ethyl alcohol, washed in distilled water, and finally dried by air blasting [EXPERIMENTAL METHOD]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 x 1 cm² [EXPERIMENTAL METHOD]
+
+### Experiment
+- experimental_test_type: Electrochemical polarization measurement [EXPERIMENTAL METHOD]
+- electrochemical_mode: Potentiostatic step [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 1N HCl (pH = 0.02) [Electrolytic solutions]
+- operating_parameters_summary: Electrode potential was regulated by a potentiostat and current recording was made after holding the potential for 1 min at each setting, increased successively in steps of 25 mV from the corrosion potential [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: De-oxygenated solutions at room temperature (25°C) under stationary conditions [EXPERIMENTAL METHOD]
+- pitting_potential: > +0.85 V (pitting does not occur up to transpassive dissolution) [Anodic polarization curves]
+- electrolyte_temperature: 25°C [EXPERIMENTAL METHOD]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 25 mV [EXPERIMENTAL METHOD]
+- holding_duration: 1 min [EXPERIMENTAL METHOD]
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: HCl [Electrolytic solutions]
+- electrolyte_molar_concentrations: 1N [Electrolytic solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: De-aerated [Electrolytic solutions]
+- purge_gas_type: Purified nitrogen [Electrolytic solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 0.02 [Electrolytic solutions]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [EXPERIMENTAL METHOD]
+- elemental_weight_percentages: Cr 17, Ni 25, Mo 5 (implied) [Anodic polarization curves]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 17Cr-25Ni-5Mo [Anodic polarization curves]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Subjected to suitable heat treatments to obtain homogeneous and annealed structures [EXPERIMENTAL METHOD]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically polished with emery paper up to No. 6/0 and with cloth using a dilute suspension of chromium oxide [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Degreased with absolute ethyl alcohol, washed in distilled water, and finally dried by air blasting [EXPERIMENTAL METHOD]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 x 1 cm² [EXPERIMENTAL METHOD]
+
+### Experiment
+- experimental_test_type: Electrochemical polarization measurement [EXPERIMENTAL METHOD]
+- electrochemical_mode: Potentiostatic step [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 1N HCl (pH = 0.02) [Electrolytic solutions]
+- operating_parameters_summary: Electrode potential was regulated by a potentiostat and current recording was made after holding the potential for 1 min at each setting, increased successively in steps of 25 mV from the corrosion potential [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: De-oxygenated solutions at room temperature (25°C) under stationary conditions [EXPERIMENTAL METHOD]
+- pitting_potential: +0.40 V [Anodic polarization curves]
+- electrolyte_temperature: 25°C [EXPERIMENTAL METHOD]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 25 mV [EXPERIMENTAL METHOD]
+- holding_duration: 1 min [EXPERIMENTAL METHOD]
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: HCl [Electrolytic solutions]
+- electrolyte_molar_concentrations: 1N [Electrolytic solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: De-aerated [Electrolytic solutions]
+- purge_gas_type: Purified nitrogen [Electrolytic solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 0.02 [Electrolytic solutions]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Pure metals [EXPERIMENTAL METHOD]
+- elemental_weight_percentages: Cr 100 (implied) [EXPERIMENTAL METHOD]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Pure Cr [EXPERIMENTAL METHOD]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Subjected to suitable heat treatments to obtain homogeneous and annealed structures [EXPERIMENTAL METHOD]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically polished with emery paper up to No. 6/0 and with cloth using a dilute suspension of chromium oxide [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Degreased with absolute ethyl alcohol, washed in distilled water, and finally dried by air blasting [EXPERIMENTAL METHOD]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 x 1 cm² [EXPERIMENTAL METHOD]
+
+### Experiment
+- experimental_test_type: Electrochemical polarization measurement [EXPERIMENTAL METHOD]
+- electrochemical_mode: Potentiostatic step [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 1N HCl (pH = 0.02) [Electrolytic solutions]
+- operating_parameters_summary: Electrode potential was regulated by a potentiostat and current recording was made after holding the potential for 1 min at each setting, increased successively in steps of 25 mV from the corrosion potential [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: De-oxygenated solutions at room temperature (25°C) under stationary conditions [EXPERIMENTAL METHOD]
+- pitting_potential: > +0.85 V (did not show pitting and maintained passivity up to +0.85 V) [Anodic polarization curves]
+- electrolyte_temperature: 25°C [EXPERIMENTAL METHOD]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 25 mV [EXPERIMENTAL METHOD]
+- holding_duration: 1 min [EXPERIMENTAL METHOD]
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: HCl [Electrolytic solutions]
+- electrolyte_molar_concentrations: 1N [Electrolytic solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: De-aerated [Electrolytic solutions]
+- purge_gas_type: Purified nitrogen [Electrolytic solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 0.02 [Electrolytic solutions]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Binary alloys [EXPERIMENTAL METHOD]
+- elemental_weight_percentages: Cr 15-70 [EXPERIMENTAL METHOD]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Fe-Cr alloys [EXPERIMENTAL METHOD]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Subjected to suitable heat treatments to obtain homogeneous and annealed structures [EXPERIMENTAL METHOD]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically polished with emery paper up to No. 6/0 and with cloth using a dilute suspension of chromium oxide [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Degreased with absolute ethyl alcohol, washed in distilled water, and finally dried by air blasting [EXPERIMENTAL METHOD]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 x 1 cm² [EXPERIMENTAL METHOD]
+
+### Experiment
+- experimental_test_type: Electrochemical polarization measurement [EXPERIMENTAL METHOD]
+- electrochemical_mode: Potentiostatic step [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 1N HCl (pH = 0.02) [Electrolytic solutions]
+- operating_parameters_summary: Electrode potential was regulated by a potentiostat and current recording was made after holding the potential for 1 min at each setting, increased successively in steps of 25 mV from the corrosion potential [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: De-oxygenated solutions at room temperature (25°C) under stationary conditions [EXPERIMENTAL METHOD]
+- pitting_potential: Pitting did not occur when alloys contained > 40 wt% Cr [Anodic polarization curves]
+- electrolyte_temperature: 25°C [EXPERIMENTAL METHOD]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 25 mV [EXPERIMENTAL METHOD]
+- holding_duration: 1 min [EXPERIMENTAL METHOD]
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: HCl [Electrolytic solutions]
+- electrolyte_molar_concentrations: 1N [Electrolytic solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: De-aerated [Electrolytic solutions]
+- purge_gas_type: Purified nitrogen [Electrolytic solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 0.02 [Electrolytic solutions]
+- passive_current_density: Not specified in text.

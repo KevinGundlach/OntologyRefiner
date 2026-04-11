@@ -1,0 +1,180 @@
+```markdown
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: UNS S30100 (ABSTRACT)
+- alloy_family: austenitic stainless steel (ABSTRACT)
+- elemental_weight_percentages: C 0.108, Si 0.55, Mn 1.01, P 0.04, S 0.012, Cr 17.0, Mo 0.17, Ni 8.1, Co 0.16, Cu 0.19, O2 0.012, N2 0.05, Ti 0.12 (Table 1)
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: annealed (EXPERIMENTAL PROCEDURES)
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Unimplanted Control Sample (EXPERIMENTAL RESULTS)
+- fabrication_steps: A 2 mm thick sheet of annealed base material was the starting material. Samples were cut into 10 mm circular discs. Samples were designed either to fit into a specially constructed Teflon sample holder or to be coated at the edges and back with a protective epoxy (Lepage "5-minute"). (EXPERIMENTAL PROCEDURES)
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: annealed (EXPERIMENTAL PROCEDURES)
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: One side of each disc was metallographically polished to 1 micron diamond finish. (EXPERIMENTAL PROCEDURES)
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 1 micron diamond finish (EXPERIMENTAL PROCEDURES)
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: anodic polarization characteristics (EXPERIMENTAL RESULTS)
+- electrochemical_mode: potentiostatically-controlled potential scan (Fig. 3)
+- solution_chemistry_summary: 0.1M Na2SO4 + 0.6M NaCl deaerated with N2 (Fig. 3)
+- operating_parameters_summary: Anodic potential scan to examine anodic polarization characteristics and passivity breakdown. (EXPERIMENTAL RESULTS)
+- overarching_environmental_conditions: aqueous sulphate/chloride solutions similar to the constitution of sea-waters (ABSTRACT)
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE (EXPERIMENTAL RESULTS)
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: sodium sulphate, sodium chloride (EXPERIMENTAL RESULTS)
+- electrolyte_molar_concentrations: 0.1M Na2SO4, 0.6M NaCl (Fig. 3)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated (Fig. 3)
+- purge_gas_type: N2 (Fig. 3)
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: pit initiation / current-time test (EXPERIMENTAL RESULTS)
+- electrochemical_mode: constant potential holding (EXPERIMENTAL RESULTS)
+- solution_chemistry_summary: 0.1M sodium sulphate initially, then chloride was added at the 30 min mark to create a 0.6M sodium chloride solution. (EXPERIMENTAL RESULTS)
+- operating_parameters_summary: Sample maintained at a constant potential of 500 mV(SCE) while monitoring anodic current variation with time before and after chloride addition. (EXPERIMENTAL RESULTS)
+- overarching_environmental_conditions: aqueous sulphate/chloride solutions (ABSTRACT)
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Maintained >50 minutes total (Fig. 4)
+- reference_electrode: SCE (EXPERIMENTAL RESULTS)
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: sodium sulphate, sodium chloride (EXPERIMENTAL RESULTS)
+- electrolyte_molar_concentrations: 0.1M Na2SO4 initially, 0.6M NaCl added (EXPERIMENTAL RESULTS)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Implanted alloy sample #10 (Table 2)
+- fabrication_steps: 10 mm circular discs of the base material were ion-implanted at room temperature using a McMaster 400 keV ion implanter. The ion beam was rastered to cover an area of 30 cm2 at a current density of 10^-6 A/cm2. Implanted with 140 keV molybdenum ions to a retained implanted dose of 5.55 x 10^16 cm^-2. (EXPERIMENTAL PROCEDURES & Table 2)
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: annealed (EXPERIMENTAL PROCEDURES)
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: One side of each disc was metallographically polished to 1 micron diamond finish before ion implantation. (EXPERIMENTAL PROCEDURES)
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 1 micron diamond finish (EXPERIMENTAL PROCEDURES)
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: anodic polarization characteristics (EXPERIMENTAL RESULTS)
+- electrochemical_mode: potentiostatically-controlled potential scan (Fig. 3)
+- solution_chemistry_summary: 0.1M Na2SO4 + 0.6M NaCl deaerated with N2 (Fig. 3)
+- operating_parameters_summary: Anodic potential scan to examine anodic polarization characteristics and passivity breakdown. (EXPERIMENTAL RESULTS)
+- overarching_environmental_conditions: aqueous sulphate/chloride solutions similar to the constitution of sea-waters (ABSTRACT)
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE (EXPERIMENTAL RESULTS)
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: sodium sulphate, sodium chloride (EXPERIMENTAL RESULTS)
+- electrolyte_molar_concentrations: 0.1M Na2SO4, 0.6M NaCl (Fig. 3)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated (Fig. 3)
+- purge_gas_type: N2 (Fig. 3)
+- corrosion_potential: Shifted approximately 100 mV in the active direction compared to unimplanted alloy. Exact value not specified in text. (EXPERIMENTAL RESULTS)
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Implanted alloy sample #9 (Table 2)
+- fabrication_steps: 10 mm circular discs of the base material were ion-implanted at room temperature using a McMaster 400 keV ion implanter. The ion beam was rastered to cover an area of 30 cm2 at a current density of 10^-6 A/cm2. Implanted with 140 keV molybdenum ions to a retained implanted dose of 3.10 x 10^16 cm^-2. (EXPERIMENTAL PROCEDURES & Table 2)
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: annealed (EXPERIMENTAL PROCEDURES)
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: One side of each disc was metallographically polished to 1 micron diamond finish before ion implantation. (EXPERIMENTAL PROCEDURES)
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 1 micron diamond finish (EXPERIMENTAL PROCEDURES)
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: pit initiation / current-time test (EXPERIMENTAL RESULTS)
+- electrochemical_mode: constant potential holding (EXPERIMENTAL RESULTS)
+- solution_chemistry_summary: 0.1M sodium sulphate initially, then chloride was added at the 30 min mark to create a 0.6M sodium chloride solution. (EXPERIMENTAL RESULTS)
+- operating_parameters_summary: Sample maintained at a constant potential of 500 mV(SCE) while monitoring anodic current variation with time before and after chloride addition. (EXPERIMENTAL RESULTS)
+- overarching_environmental_conditions: aqueous sulphate/chloride solutions (ABSTRACT)
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Maintained >50 minutes total (Fig. 4)
+- reference_electrode: SCE (EXPERIMENTAL RESULTS)
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: sodium sulphate, sodium chloride (EXPERIMENTAL RESULTS)
+- electrolyte_molar_concentrations: 0.1M Na2SO4 initially, 0.6M NaCl added (EXPERIMENTAL RESULTS)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+```

@@ -1,6 +1,7 @@
 from data_extractor import DataExtractorAgent
 from critic import CriticAgent
 from consolidator import ConsolidatorAgent
+from refiner import RefinerAgent
 from aggregator import DataAggregator
 from paper_collection import PaperCollection, Paper
 from pdf_to_markdown import convert
@@ -14,14 +15,18 @@ import json
 import math
 
 
-# PAPERS_FOLDER = "papers"
-PAPERS_FOLDER = "papers_markdown\\docling"
-BASE_ONTOLOGY_FILE = "ontology\\ontology_v1.json"
+PAPERS_FOLDER = "papers"
+# PAPERS_FOLDER = "papers_markdown\\docling"
+
+ONTOLOGY_FOLDER = "ontology"
+BASE_ONTOLOGY_FILE = os.path.join(ONTOLOGY_FOLDER, "ontology_v2.json")
+CANDIDATE_ONTOLOGY_FILE = os.path.join("output", "epoch_1", "batch_8", "new_ontology.json")
+REFINED_ONTOLOGY_OUTPUT_FILE = os.path.join(ONTOLOGY_FOLDER, "refined_ontology.md")
+
 OUTPUT_PATH = "output"
 BATCH_SIZE = 10
 CONSOLIDATOR_THRESHOLD = 2
 PAPER_LIMIT = 5
-
 
 def consolidate_and_merge(client, ontology_group, aggregator_entries, output_file):
     
@@ -139,8 +144,42 @@ def run_pipeline():
             ontology = new_ontology
 
 
+def refine_ontology():
+    
+    candidate_ontology = Ontology(CANDIDATE_ONTOLOGY_FILE)
+
+    refiner = RefinerAgent()
+
+    with LLMClient(ModelSettings.gemini_pro(), use_google_genai=True) as client:
+        refiner.run(client, candidate_ontology, REFINED_ONTOLOGY_OUTPUT_FILE)
+   
+
+def run_final_extraction():
+
+    final_extraction_output_path = os.path.join(OUTPUT_PATH, "final_extraction")
+    os.makedirs(final_extraction_output_path, exist_ok=True)
+
+    collection = PaperCollection(PAPERS_FOLDER)
+    extractor = DataExtractorAgent()
+
+    with LLMClient(ModelSettings.gemini_pro(), use_google_genai=True) as client:
+        
+        collection.sync_with_gemini(client.client)
+        ontology = Ontology(BASE_ONTOLOGY_FILE)
+        
+        pbar = tqdm(collection.papers)
+
+        for paper in pbar:
+            
+            pbar.set_description(f"Extracting {paper.file_name}")
+            output_file_path = os.path.join(final_extraction_output_path, f"paper_{paper.reference}.md")
+            extractor.run(client, paper, ontology, output_file_path)
+
+
 def main():
-    run_pipeline()
+    # run_pipeline()
+    # refine_ontology()
+    run_final_extraction()
 
 
 if __name__ == "__main__":

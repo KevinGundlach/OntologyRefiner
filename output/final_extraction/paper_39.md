@@ -1,0 +1,570 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Aluminum [Abstract]
+- elemental_weight_percentages: 99.99% Al [EXPERIMENTAL]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Pure Al 99.99% [EXPERIMENTAL]
+- fabrication_steps: Cut into coupons of 10 × 30 mm from a 1 mm thick cold-rolled sheet. Annealed for 2 h at 600°C and water quenched. Edges and surface covered with a cured-epoxy resin, leaving an uncovered area of about 1 cm2. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed for 2 h at 600°C [EXPERIMENTAL]
+- cooling_methods: Water quenched [EXPERIMENTAL]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Electropolished in a HClO4 acetic anhydride bath [EXPERIMENTAL]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: About 1 cm2 [EXPERIMENTAL]
+
+### Experiment
+- experimental_test_type: Potentiostatic anodic polarization [EXPERIMENTAL]
+- electrochemical_mode: Stepped potentiostatic [RESULTS]
+- solution_chemistry_summary: 1M deaerated NaCl solution [RESULTS]
+- operating_parameters_summary: Conducted at 25°C in a Pyrex glass cell with a platinum counter electrode. Potential controlled with a Tacussel PRT 20-2-M potentiostat. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated with purified N2 at 25°C [EXPERIMENTAL]
+- pitting_potential: -0.53 V(nhe) [RESULTS]
+- electrolyte_temperature: 25°C [EXPERIMENTAL]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 10 mV [RESULTS]
+- holding_duration: Waiting at each point until a stationary current was observed [RESULTS]
+- reference_electrode: Saturated calomel electrode, referred to the normal hydrogen electrode scale (nhe) [EXPERIMENTAL]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [RESULTS]
+- electrolyte_molar_concentrations: 1M [RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Purified N2 [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic anodic polarization [EXPERIMENTAL]
+- electrochemical_mode: Stepped potentiostatic [RESULTS]
+- solution_chemistry_summary: 1M deaerated KBr solution [Table 2]
+- operating_parameters_summary: Conducted at 25°C in a Pyrex glass cell with a platinum counter electrode. Potential controlled with a Tacussel PRT 20-2-M potentiostat. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated with purified N2 at 25°C [EXPERIMENTAL]
+- pitting_potential: -0.42 V(nhe) [Table 2]
+- electrolyte_temperature: 25°C [EXPERIMENTAL]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 10 mV [RESULTS]
+- holding_duration: Waiting at each point until a stationary current was observed [RESULTS]
+- reference_electrode: Saturated calomel electrode, referred to the normal hydrogen electrode scale (nhe) [EXPERIMENTAL]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: KBr [Table 2]
+- electrolyte_molar_concentrations: 1M [Table 2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Purified N2 [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic anodic polarization [EXPERIMENTAL]
+- electrochemical_mode: Stepped potentiostatic [RESULTS]
+- solution_chemistry_summary: 1M deaerated KI solution [Table 2]
+- operating_parameters_summary: Conducted at 25°C in a Pyrex glass cell with a platinum counter electrode. Potential controlled with a Tacussel PRT 20-2-M potentiostat. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated with purified N2 at 25°C [EXPERIMENTAL]
+- pitting_potential: -0.26 V(nhe) [Table 2]
+- electrolyte_temperature: 25°C [EXPERIMENTAL]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 10 mV [RESULTS]
+- holding_duration: Waiting at each point until a stationary current was observed [RESULTS]
+- reference_electrode: Saturated calomel electrode, referred to the normal hydrogen electrode scale (nhe) [EXPERIMENTAL]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: KI [Table 2]
+- electrolyte_molar_concentrations: 1M [Table 2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Purified N2 [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic anodic polarization [EXPERIMENTAL]
+- electrochemical_mode: Stepped potentiostatic [RESULTS]
+- solution_chemistry_summary: 1M deaerated NaClO4 solution [Table 2]
+- operating_parameters_summary: Conducted at 25°C in a Pyrex glass cell with a platinum counter electrode. Potential controlled with a Tacussel PRT 20-2-M potentiostat. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated with purified N2 at 25°C [EXPERIMENTAL]
+- pitting_potential: -0.17 V(nhe) [Table 2]
+- electrolyte_temperature: 25°C [EXPERIMENTAL]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 10 mV [RESULTS]
+- holding_duration: Waiting at each point until a stationary current was observed [RESULTS]
+- reference_electrode: Saturated calomel electrode, referred to the normal hydrogen electrode scale (nhe) [EXPERIMENTAL]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaClO4 [Table 2]
+- electrolyte_molar_concentrations: 1M [Table 2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Purified N2 [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic anodic polarization [EXPERIMENTAL]
+- electrochemical_mode: Stepped potentiostatic [RESULTS]
+- solution_chemistry_summary: 1M deaerated NaNO3 solution [Table 2]
+- operating_parameters_summary: Conducted at 25°C in a Pyrex glass cell with a platinum counter electrode. Potential controlled with a Tacussel PRT 20-2-M potentiostat. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated with purified N2 at 25°C [EXPERIMENTAL]
+- pitting_potential: +1.80 V(nhe) [Table 2]
+- electrolyte_temperature: 25°C [EXPERIMENTAL]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 10 mV [RESULTS]
+- holding_duration: Waiting at each point until a stationary current was observed [RESULTS]
+- reference_electrode: Saturated calomel electrode, referred to the normal hydrogen electrode scale (nhe) [EXPERIMENTAL]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaNO3 [Table 2]
+- electrolyte_molar_concentrations: 1M [Table 2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Purified N2 [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Al-Cu Alloys [Abstract]
+- elemental_weight_percentages: 4.07% Cu, balance Al [EXPERIMENTAL]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Solubilized Al-4%Cu [EXPERIMENTAL]
+- fabrication_steps: Cut into coupons of 10 × 30 mm from a 1 mm thick cold-rolled sheet. Heated for 2 h at 550°C and water quenched. Edges and surface covered with a cured-epoxy resin, leaving an uncovered area of about 1 cm2. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heated for 2 h at 550°C [EXPERIMENTAL]
+- cooling_methods: Water quenching [EXPERIMENTAL]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Electropolished in a HClO4 acetic anhydride bath [EXPERIMENTAL]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: About 1 cm2 [EXPERIMENTAL]
+
+### Experiment
+- experimental_test_type: Potentiostatic anodic polarization [EXPERIMENTAL]
+- electrochemical_mode: Stepped potentiostatic [RESULTS]
+- solution_chemistry_summary: 1M deaerated NaCl solution [Table 1]
+- operating_parameters_summary: Conducted at 25°C in a Pyrex glass cell with a platinum counter electrode. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated with purified N2 at 25°C [EXPERIMENTAL]
+- pitting_potential: -0.40 V(nhe) [Table 1]
+- electrolyte_temperature: 25°C [EXPERIMENTAL]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 10 mV [RESULTS]
+- holding_duration: Waiting at each point until a stationary current was observed [RESULTS]
+- reference_electrode: Saturated calomel electrode, referred to the normal hydrogen electrode scale (nhe) [EXPERIMENTAL]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Table 1]
+- electrolyte_molar_concentrations: 1M [Table 1]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Purified N2 [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic anodic polarization [EXPERIMENTAL]
+- electrochemical_mode: Stepped potentiostatic [RESULTS]
+- solution_chemistry_summary: 1M deaerated KBr solution [Table 2]
+- operating_parameters_summary: Conducted at 25°C in a Pyrex glass cell with a platinum counter electrode. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated with purified N2 at 25°C [EXPERIMENTAL]
+- pitting_potential: -0.28 V(nhe) [Table 2]
+- electrolyte_temperature: 25°C [EXPERIMENTAL]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 10 mV [RESULTS]
+- holding_duration: Waiting at each point until a stationary current was observed [RESULTS]
+- reference_electrode: Saturated calomel electrode, referred to the normal hydrogen electrode scale (nhe) [EXPERIMENTAL]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: KBr [Table 2]
+- electrolyte_molar_concentrations: 1M [Table 2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Purified N2 [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic anodic polarization [EXPERIMENTAL]
+- electrochemical_mode: Stepped potentiostatic [RESULTS]
+- solution_chemistry_summary: 1M deaerated KI solution [Table 2]
+- operating_parameters_summary: Conducted at 25°C in a Pyrex glass cell with a platinum counter electrode. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated with purified N2 at 25°C [EXPERIMENTAL]
+- pitting_potential: -0.13 V(nhe) [Table 2]
+- electrolyte_temperature: 25°C [EXPERIMENTAL]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 10 mV [RESULTS]
+- holding_duration: Waiting at each point until a stationary current was observed [RESULTS]
+- reference_electrode: Saturated calomel electrode, referred to the normal hydrogen electrode scale (nhe) [EXPERIMENTAL]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: KI [Table 2]
+- electrolyte_molar_concentrations: 1M [Table 2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Purified N2 [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic anodic polarization [EXPERIMENTAL]
+- electrochemical_mode: Stepped potentiostatic [RESULTS]
+- solution_chemistry_summary: 1M deaerated NaClO4 solution [Table 2]
+- operating_parameters_summary: Conducted at 25°C in a Pyrex glass cell with a platinum counter electrode. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated with purified N2 at 25°C [EXPERIMENTAL]
+- pitting_potential: +0.03 V(nhe) [Table 2]
+- electrolyte_temperature: 25°C [EXPERIMENTAL]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 10 mV [RESULTS]
+- holding_duration: Waiting at each point until a stationary current was observed [RESULTS]
+- reference_electrode: Saturated calomel electrode, referred to the normal hydrogen electrode scale (nhe) [EXPERIMENTAL]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaClO4 [Table 2]
+- electrolyte_molar_concentrations: 1M [Table 2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Purified N2 [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic anodic polarization [EXPERIMENTAL]
+- electrochemical_mode: Stepped potentiostatic [RESULTS]
+- solution_chemistry_summary: 1M deaerated NaNO3 solution [Table 2]
+- operating_parameters_summary: Conducted at 25°C in a Pyrex glass cell with a platinum counter electrode. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated with purified N2 at 25°C [EXPERIMENTAL]
+- pitting_potential: +1.85 V(nhe) [Table 2]
+- electrolyte_temperature: 25°C [EXPERIMENTAL]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 10 mV [RESULTS]
+- holding_duration: Waiting at each point until a stationary current was observed [RESULTS]
+- reference_electrode: Saturated calomel electrode, referred to the normal hydrogen electrode scale (nhe) [EXPERIMENTAL]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaNO3 [Table 2]
+- electrolyte_molar_concentrations: 1M [Table 2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Purified N2 [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Aged Al-4%Cu [EXPERIMENTAL]
+- fabrication_steps: Cut into coupons of 10 × 30 mm from a 1 mm thick cold-rolled sheet. Heated for 2 h at 550°C and water quenched, followed by an aging treatment. Edges and surface covered with a cured-epoxy resin, leaving an uncovered area of about 1 cm2. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solubilized specimens heated for 3 h at 176°C [EXPERIMENTAL]
+- cooling_methods: Water quenched after initial solubilization [EXPERIMENTAL]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Electropolished in a HClO4 acetic anhydride bath [EXPERIMENTAL]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: About 1 cm2 [EXPERIMENTAL]
+
+### Experiment
+- experimental_test_type: Potentiostatic anodic polarization [RESULTS]
+- electrochemical_mode: Stepped potentiostatic [RESULTS]
+- solution_chemistry_summary: 1M deaerated NaCl solution [RESULTS]
+- operating_parameters_summary: Conducted at 25°C in a Pyrex glass cell with a platinum counter electrode. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated with purified N2 at 25°C [EXPERIMENTAL]
+- pitting_potential: -0.52 V(nhe) for intergranular breakdown and -0.40 V(nhe) for generalized pitting [Table 1]
+- electrolyte_temperature: 25°C [EXPERIMENTAL]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 10 mV [RESULTS]
+- holding_duration: 1 minute [RESULTS]
+- reference_electrode: Saturated calomel electrode, referred to the normal hydrogen electrode scale (nhe) [EXPERIMENTAL]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [RESULTS]
+- electrolyte_molar_concentrations: 1M [RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Purified N2 [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Over-aged Al-4%Cu [EXPERIMENTAL]
+- fabrication_steps: Cut into coupons of 10 × 30 mm from a 1 mm thick cold-rolled sheet. Heated for 2 h at 550°C and water quenched, followed by an over-aging treatment. Edges and surface covered with a cured-epoxy resin, leaving an uncovered area of about 1 cm2. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solubilized material heated for 1 h at 430°C [EXPERIMENTAL]
+- cooling_methods: Water quenched after initial solubilization [EXPERIMENTAL]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Electropolished in a HClO4 acetic anhydride bath [EXPERIMENTAL]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: About 1 cm2 [EXPERIMENTAL]
+
+### Experiment
+- experimental_test_type: Potentiostatic anodic polarization [RESULTS]
+- electrochemical_mode: Stepped potentiostatic [RESULTS]
+- solution_chemistry_summary: 1M deaerated NaCl solution [Table 1]
+- operating_parameters_summary: Conducted at 25°C in a Pyrex glass cell with a platinum counter electrode. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated with purified N2 at 25°C [EXPERIMENTAL]
+- pitting_potential: -0.52 V(nhe) [Table 1]
+- electrolyte_temperature: 25°C [EXPERIMENTAL]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 10 mV [RESULTS]
+- holding_duration: Waiting at each point until a stationary current was observed [RESULTS]
+- reference_electrode: Saturated calomel electrode, referred to the normal hydrogen electrode scale (nhe) [EXPERIMENTAL]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Table 1]
+- electrolyte_molar_concentrations: 1M [Table 1]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Purified N2 [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Al-Cu Alloys [Abstract]
+- elemental_weight_percentages: 0.27% Cu, balance Al [EXPERIMENTAL]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Al-0.2%Cu [EXPERIMENTAL]
+- fabrication_steps: Cut into coupons of 10 × 30 mm from a 1 mm thick cold-rolled sheet. Annealed for 2 h at 600°C and water quenched. Edges and surface covered with a cured-epoxy resin, leaving an uncovered area of about 1 cm2. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed for 2 h at 600°C [EXPERIMENTAL]
+- cooling_methods: Water quenched [EXPERIMENTAL]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Electropolished in a HClO4 acetic anhydride bath [EXPERIMENTAL]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: About 1 cm2 [EXPERIMENTAL]
+
+### Experiment
+- experimental_test_type: Potentiostatic anodic polarization [RESULTS]
+- electrochemical_mode: Stepped potentiostatic [RESULTS]
+- solution_chemistry_summary: Deaerated NaCl solutions [RESULTS]
+- operating_parameters_summary: Conducted at 25°C in a Pyrex glass cell with a platinum counter electrode. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated with purified N2 at 25°C [EXPERIMENTAL]
+- pitting_potential: EpI = -0.536 - 0.073 log (aNaCl) V(nhe) [RESULTS]
+- electrolyte_temperature: 25°C [EXPERIMENTAL]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 10 mV [RESULTS]
+- holding_duration: Waiting at each point until a stationary current was observed [RESULTS]
+- reference_electrode: Saturated calomel electrode, referred to the normal hydrogen electrode scale (nhe) [EXPERIMENTAL]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [RESULTS]
+- electrolyte_molar_concentrations: Varies [RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Purified N2 [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Intermetallic Compounds [Abstract]
+- elemental_weight_percentages: 56.1% Cu, balance Al [EXPERIMENTAL]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Intermetallic Al2Cu [EXPERIMENTAL]
+- fabrication_steps: Cast rods of about 6 mm dia. Surface covered with cured-epoxy resin, and one end mechanically taper polished with diamond powder, leaving an exposed area of about 1 cm2. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically taper polished with diamond powder [EXPERIMENTAL]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: About 1 cm2 [EXPERIMENTAL]
+
+### Experiment
+- experimental_test_type: Potentiostatic anodic polarization [RESULTS]
+- electrochemical_mode: Stepped potentiostatic [RESULTS]
+- solution_chemistry_summary: Deaerated NaCl solutions [RESULTS]
+- operating_parameters_summary: Conducted at 25°C in a Pyrex glass cell with a platinum counter electrode. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated with purified N2 at 25°C [EXPERIMENTAL]
+- pitting_potential: EpIII = -0.420 - 0.055 log (aNaCl) V(nhe) [RESULTS]
+- electrolyte_temperature: 25°C [EXPERIMENTAL]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 10 mV [RESULTS]
+- holding_duration: Waiting at each point until a stationary current was observed [RESULTS]
+- reference_electrode: Saturated calomel electrode, referred to the normal hydrogen electrode scale (nhe) [EXPERIMENTAL]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [RESULTS]
+- electrolyte_molar_concentrations: Varies [RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Purified N2 [EXPERIMENTAL]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

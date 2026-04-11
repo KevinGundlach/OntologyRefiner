@@ -1,0 +1,837 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Al-based metallic glasses [Abstract]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: 90% Al, 5% Fe, 5% Gd [Abstract]
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Examined in fully amorphous, partially nanocrystalline, and fully crystalline microstructures [Abstract]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Solute-depleted face-centered cubic (fcc) Al nanocrystals dispersed in the remaining amorphous matrix [Abstract]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Fully amorphous Al90Fe5Gd5 [Abstract]
+- fabrication_steps: Fabricated using a single roller melt spinning technique. The amorphous ribbons were encapsulated in Pyrex or quartz tubes that were back-filled with argon gas. [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted on end in a low curing temperature epoxy. Wet polished in 1 and 0.05 µm alumina suspensions and rinsed in deionized water. [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 2 × 10^-4 cm^2 [Experimental]
+
+### Experiment
+- experimental_test_type: Anodic polarization scans [Experimental]
+- electrochemical_mode: Potentiodynamic [Experimental]
+- solution_chemistry_summary: 0.6 M (3.5 wt %) NaCl electrolyte prepared using 18.2 MΩ-cm resistivity deionized water and ACS certified reagents [Experimental]
+- operating_parameters_summary: Conducted at a scan rate of 0.1 mV/s with a reverse in scan direction when the current density reached 10 mA/cm^2 [Experimental]
+- overarching_environmental_conditions: Deaerated prior to experimentation [Experimental]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: 18.2 MΩ-cm resistivity deionized water [Experimental]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated with nitrogen [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open-circuit potential was measured after introducing the electrolyte to the cell [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: ~1 µA/cm^2 [Experimental]
+
+## Conditioned Material
+- material_identification: Partially nanocrystalline Al90Fe5Gd5 (AM + 6.5 nm spherical NC) [Table I]
+- fabrication_steps: Fabricated using a single roller melt spinning technique. The amorphous ribbons were encapsulated in Pyrex or quartz tubes that were back-filled with argon gas and isothermally heat-treated. [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Isothermally heat-treated at 150 °C for 8 min [Table I]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted on end in a low curing temperature epoxy. Wet polished in 1 and 0.05 µm alumina suspensions and rinsed in deionized water. [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 2 × 10^-4 cm^2 [Experimental]
+
+### Experiment
+- experimental_test_type: Anodic polarization scans [Experimental]
+- electrochemical_mode: Potentiodynamic [Experimental]
+- solution_chemistry_summary: 0.6 M (3.5 wt %) NaCl electrolyte prepared using 18.2 MΩ-cm resistivity deionized water and ACS certified reagents [Experimental]
+- operating_parameters_summary: Conducted at a scan rate of 0.1 mV/s with a reverse in scan direction when the current density reached 10 mA/cm^2 [Experimental]
+- overarching_environmental_conditions: Deaerated prior to experimentation [Experimental]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: 18.2 MΩ-cm resistivity deionized water [Experimental]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated with nitrogen [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open-circuit potential was measured after introducing the electrolyte to the cell [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: ~1 µA/cm^2 [Experimental]
+
+## Conditioned Material
+- material_identification: Partially nanocrystalline Al90Fe5Gd5 (AM + 10 nm spherical NC) [Table I]
+- fabrication_steps: Fabricated using a single roller melt spinning technique. The amorphous ribbons were encapsulated in Pyrex or quartz tubes that were back-filled with argon gas and isothermally heat-treated. [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Isothermally heat-treated at 180 °C for 25 h [Table I]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted on end in a low curing temperature epoxy. Wet polished in 1 and 0.05 µm alumina suspensions and rinsed in deionized water. [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 2 × 10^-4 cm^2 [Experimental]
+
+### Experiment
+- experimental_test_type: Anodic polarization scans [Experimental]
+- electrochemical_mode: Potentiodynamic [Experimental]
+- solution_chemistry_summary: 0.6 M (3.5 wt %) NaCl electrolyte prepared using 18.2 MΩ-cm resistivity deionized water and ACS certified reagents [Experimental]
+- operating_parameters_summary: Conducted at a scan rate of 0.1 mV/s with a reverse in scan direction when the current density reached 10 mA/cm^2 [Experimental]
+- overarching_environmental_conditions: Deaerated prior to experimentation [Experimental]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: 18.2 MΩ-cm resistivity deionized water [Experimental]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated with nitrogen [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open-circuit potential was measured after introducing the electrolyte to the cell [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: ~1 µA/cm^2 [Experimental]
+
+## Conditioned Material
+- material_identification: Partially nanocrystalline Al90Fe5Gd5 (AM + 12 nm spherical NC) [Table I]
+- fabrication_steps: Fabricated using a single roller melt spinning technique. The amorphous ribbons were encapsulated in Pyrex or quartz tubes that were back-filled with argon gas and isothermally heat-treated. [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Isothermally heat-treated at 280 °C for 5 min [Table I]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted on end in a low curing temperature epoxy. Wet polished in 1 and 0.05 µm alumina suspensions and rinsed in deionized water. [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 2 × 10^-4 cm^2 [Experimental]
+
+### Experiment
+- experimental_test_type: Anodic polarization scans [Experimental]
+- electrochemical_mode: Potentiodynamic [Experimental]
+- solution_chemistry_summary: 0.6 M (3.5 wt %) NaCl electrolyte prepared using 18.2 MΩ-cm resistivity deionized water and ACS certified reagents [Experimental]
+- operating_parameters_summary: Conducted at a scan rate of 0.1 mV/s with a reverse in scan direction when the current density reached 10 mA/cm^2 [Experimental]
+- overarching_environmental_conditions: Deaerated prior to experimentation [Experimental]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: 18.2 MΩ-cm resistivity deionized water [Experimental]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated with nitrogen [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open-circuit potential was measured after introducing the electrolyte to the cell [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: ~1 µA/cm^2 [Experimental]
+
+## Conditioned Material
+- material_identification: Partially nanocrystalline Al90Fe5Gd5 (AM + 14 nm spherical NC) [Table I]
+- fabrication_steps: Fabricated using a single roller melt spinning technique. The amorphous ribbons were encapsulated in Pyrex or quartz tubes that were back-filled with argon gas and isothermally heat-treated. [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Isothermally heat-treated at 300 °C for 2 h [Table I]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted on end in a low curing temperature epoxy. Wet polished in 1 and 0.05 µm alumina suspensions and rinsed in deionized water. [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 2 × 10^-4 cm^2 [Experimental]
+
+### Experiment
+- experimental_test_type: Anodic polarization scans [Experimental]
+- electrochemical_mode: Potentiodynamic [Experimental]
+- solution_chemistry_summary: 0.6 M (3.5 wt %) NaCl electrolyte prepared using 18.2 MΩ-cm resistivity deionized water and ACS certified reagents [Experimental]
+- operating_parameters_summary: Conducted at a scan rate of 0.1 mV/s with a reverse in scan direction when the current density reached 10 mA/cm^2 [Experimental]
+- overarching_environmental_conditions: Deaerated prior to experimentation [Experimental]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: 18.2 MΩ-cm resistivity deionized water [Experimental]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated with nitrogen [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open-circuit potential was measured after introducing the electrolyte to the cell [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: ~1 µA/cm^2 [Experimental]
+
+## Conditioned Material
+- material_identification: Fully crystalline Al90Fe5Gd5 [Table I]
+- fabrication_steps: Fabricated using a single roller melt spinning technique. The amorphous ribbons were encapsulated in Pyrex or quartz tubes that were back-filled with argon gas and isothermally heat-treated. [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Isothermally heat-treated at 550 °C for 1 h [Table I]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted on end in a low curing temperature epoxy. Wet polished in 1 and 0.05 µm alumina suspensions and rinsed in deionized water. [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 2 × 10^-4 cm^2 [Experimental]
+
+### Experiment
+- experimental_test_type: Anodic polarization scans [Experimental]
+- electrochemical_mode: Potentiodynamic [Experimental]
+- solution_chemistry_summary: 0.6 M (3.5 wt %) NaCl electrolyte prepared using 18.2 MΩ-cm resistivity deionized water and ACS certified reagents [Experimental]
+- operating_parameters_summary: Conducted at a scan rate of 0.1 mV/s with a reverse in scan direction when the current density reached 10 mA/cm^2 [Experimental]
+- overarching_environmental_conditions: Deaerated prior to experimentation [Experimental]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: 18.2 MΩ-cm resistivity deionized water [Experimental]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated with nitrogen [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open-circuit potential was measured after introducing the electrolyte to the cell [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: ~1 µA/cm^2 [Experimental]
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Al-based metallic glasses [Abstract]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: 90% Al, 3% Co, 7% Ce [Abstract]
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Examined in fully amorphous, partially nanocrystalline, and fully crystalline microstructures [Abstract]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Solute-depleted face-centered cubic (fcc) Al nanocrystals dispersed in the remaining amorphous matrix [Abstract]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Fully amorphous Al90Co3Ce7 [Abstract]
+- fabrication_steps: Fabricated using a single roller melt spinning technique. The amorphous ribbons were encapsulated in Pyrex or quartz tubes that were back-filled with argon gas. [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted on end in a low curing temperature epoxy. Wet polished in 1 and 0.05 µm alumina suspensions and rinsed in deionized water. [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 2 × 10^-4 cm^2 [Experimental]
+
+### Experiment
+- experimental_test_type: Anodic polarization scans [Experimental]
+- electrochemical_mode: Potentiodynamic [Experimental]
+- solution_chemistry_summary: 0.6 M (3.5 wt %) NaCl electrolyte prepared using 18.2 MΩ-cm resistivity deionized water and ACS certified reagents [Experimental]
+- operating_parameters_summary: Conducted at a scan rate of 0.1 mV/s with a reverse in scan direction when the current density reached 10 mA/cm^2 [Experimental]
+- overarching_environmental_conditions: Deaerated prior to experimentation [Experimental]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: 18.2 MΩ-cm resistivity deionized water [Experimental]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated with nitrogen [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open-circuit potential was measured after introducing the electrolyte to the cell [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: ~1 µA/cm^2 [Experimental]
+
+## Conditioned Material
+- material_identification: Partially nanocrystalline Al90Co3Ce7 (AM + 5 nm dendritic NC) [Table I]
+- fabrication_steps: Fabricated using a single roller melt spinning technique. The amorphous ribbons were encapsulated in Pyrex or quartz tubes that were back-filled with argon gas and isothermally heat-treated. [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Isothermally heat-treated at 200 °C for 10 min [Table I]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted on end in a low curing temperature epoxy. Wet polished in 1 and 0.05 µm alumina suspensions and rinsed in deionized water. [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 2 × 10^-4 cm^2 [Experimental]
+
+### Experiment
+- experimental_test_type: Anodic polarization scans [Experimental]
+- electrochemical_mode: Potentiodynamic [Experimental]
+- solution_chemistry_summary: 0.6 M (3.5 wt %) NaCl electrolyte prepared using 18.2 MΩ-cm resistivity deionized water and ACS certified reagents [Experimental]
+- operating_parameters_summary: Conducted at a scan rate of 0.1 mV/s with a reverse in scan direction when the current density reached 10 mA/cm^2 [Experimental]
+- overarching_environmental_conditions: Deaerated prior to experimentation [Experimental]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: 18.2 MΩ-cm resistivity deionized water [Experimental]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated with nitrogen [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open-circuit potential was measured after introducing the electrolyte to the cell [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: ~1 µA/cm^2 [Experimental]
+
+## Conditioned Material
+- material_identification: Partially nanocrystalline Al90Co3Ce7 (AM + 25 nm dendritic NC) [Table I]
+- fabrication_steps: Fabricated using a single roller melt spinning technique. The amorphous ribbons were encapsulated in Pyrex or quartz tubes that were back-filled with argon gas and isothermally heat-treated. [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Isothermally heat-treated at 200 °C for 1 h [Table I]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted on end in a low curing temperature epoxy. Wet polished in 1 and 0.05 µm alumina suspensions and rinsed in deionized water. [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 2 × 10^-4 cm^2 [Experimental]
+
+### Experiment
+- experimental_test_type: Anodic polarization scans [Experimental]
+- electrochemical_mode: Potentiodynamic [Experimental]
+- solution_chemistry_summary: 0.6 M (3.5 wt %) NaCl electrolyte prepared using 18.2 MΩ-cm resistivity deionized water and ACS certified reagents [Experimental]
+- operating_parameters_summary: Conducted at a scan rate of 0.1 mV/s with a reverse in scan direction when the current density reached 10 mA/cm^2 [Experimental]
+- overarching_environmental_conditions: Deaerated prior to experimentation [Experimental]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: 18.2 MΩ-cm resistivity deionized water [Experimental]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated with nitrogen [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open-circuit potential was measured after introducing the electrolyte to the cell [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: ~1 µA/cm^2 [Experimental]
+
+## Conditioned Material
+- material_identification: Partially nanocrystalline Al90Co3Ce7 (AM + 50 nm dendritic NC) [Table I]
+- fabrication_steps: Fabricated using a single roller melt spinning technique. The amorphous ribbons were encapsulated in Pyrex or quartz tubes that were back-filled with argon gas and isothermally heat-treated. [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Isothermally heat-treated at 200 °C for 3 h [Table I]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted on end in a low curing temperature epoxy. Wet polished in 1 and 0.05 µm alumina suspensions and rinsed in deionized water. [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 2 × 10^-4 cm^2 [Experimental]
+
+### Experiment
+- experimental_test_type: Anodic polarization scans [Experimental]
+- electrochemical_mode: Potentiodynamic [Experimental]
+- solution_chemistry_summary: 0.6 M (3.5 wt %) NaCl electrolyte prepared using 18.2 MΩ-cm resistivity deionized water and ACS certified reagents [Experimental]
+- operating_parameters_summary: Conducted at a scan rate of 0.1 mV/s with a reverse in scan direction when the current density reached 10 mA/cm^2 [Experimental]
+- overarching_environmental_conditions: Deaerated prior to experimentation [Experimental]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: 18.2 MΩ-cm resistivity deionized water [Experimental]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated with nitrogen [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open-circuit potential was measured after introducing the electrolyte to the cell [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: ~1 µA/cm^2 [Experimental]
+
+## Conditioned Material
+- material_identification: Fully crystalline Al90Co3Ce7 [Table I]
+- fabrication_steps: Fabricated using a single roller melt spinning technique. The amorphous ribbons were encapsulated in Pyrex or quartz tubes that were back-filled with argon gas and isothermally heat-treated. [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Isothermally heat-treated at 500 °C for 15 days [Table I]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted on end in a low curing temperature epoxy. Wet polished in 1 and 0.05 µm alumina suspensions and rinsed in deionized water. [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 2 × 10^-4 cm^2 [Experimental]
+
+### Experiment
+- experimental_test_type: Anodic polarization scans [Experimental]
+- electrochemical_mode: Potentiodynamic [Experimental]
+- solution_chemistry_summary: 0.6 M (3.5 wt %) NaCl electrolyte prepared using 18.2 MΩ-cm resistivity deionized water and ACS certified reagents [Experimental]
+- operating_parameters_summary: Conducted at a scan rate of 0.1 mV/s with a reverse in scan direction when the current density reached 10 mA/cm^2 [Experimental]
+- overarching_environmental_conditions: Deaerated prior to experimentation [Experimental]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: 18.2 MΩ-cm resistivity deionized water [Experimental]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated with nitrogen [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open-circuit potential was measured after introducing the electrolyte to the cell [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: ~1 µA/cm^2 [Experimental]
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Al-based metallic glasses [Abstract]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: 87% Al, 7% Ni, 6% Gd [Abstract]
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Examined in fully amorphous, partially nanocrystalline, and fully crystalline microstructures [Abstract]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Solute-depleted face-centered cubic (fcc) Al nanocrystals dispersed in the remaining amorphous matrix [Abstract]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Fully amorphous Al87Ni7Gd6 [Abstract]
+- fabrication_steps: Fabricated using a single roller melt spinning technique. The amorphous ribbons were encapsulated in Pyrex or quartz tubes that were back-filled with argon gas. [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted on end in a low curing temperature epoxy. Wet polished in 1 and 0.05 µm alumina suspensions and rinsed in deionized water. [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 2 × 10^-4 cm^2 [Experimental]
+
+### Experiment
+- experimental_test_type: Anodic polarization scans [Experimental]
+- electrochemical_mode: Potentiodynamic [Experimental]
+- solution_chemistry_summary: 0.6 M (3.5 wt %) NaCl electrolyte prepared using 18.2 MΩ-cm resistivity deionized water and ACS certified reagents [Experimental]
+- operating_parameters_summary: Conducted at a scan rate of 0.1 mV/s with a reverse in scan direction when the current density reached 10 mA/cm^2 [Experimental]
+- overarching_environmental_conditions: Deaerated prior to experimentation [Experimental]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: 18.2 MΩ-cm resistivity deionized water [Experimental]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated with nitrogen [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open-circuit potential was measured after introducing the electrolyte to the cell [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: ~1 µA/cm^2 [Experimental]
+
+## Conditioned Material
+- material_identification: Partially nanocrystalline Al87Ni7Gd6 (AM + 20 nm spherical NC low density) [Table I]
+- fabrication_steps: Fabricated using a single roller melt spinning technique. The amorphous ribbons were encapsulated in Pyrex or quartz tubes that were back-filled with argon gas and isothermally heat-treated. [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Isothermally heat-treated at 250 °C for 10 min [Table I]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted on end in a low curing temperature epoxy. Wet polished in 1 and 0.05 µm alumina suspensions and rinsed in deionized water. [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 2 × 10^-4 cm^2 [Experimental]
+
+### Experiment
+- experimental_test_type: Anodic polarization scans [Experimental]
+- electrochemical_mode: Potentiodynamic [Experimental]
+- solution_chemistry_summary: 0.6 M (3.5 wt %) NaCl electrolyte prepared using 18.2 MΩ-cm resistivity deionized water and ACS certified reagents [Experimental]
+- operating_parameters_summary: Conducted at a scan rate of 0.1 mV/s with a reverse in scan direction when the current density reached 10 mA/cm^2 [Experimental]
+- overarching_environmental_conditions: Deaerated prior to experimentation [Experimental]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: 18.2 MΩ-cm resistivity deionized water [Experimental]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated with nitrogen [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open-circuit potential was measured after introducing the electrolyte to the cell [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: ~1 µA/cm^2 [Experimental]
+
+## Conditioned Material
+- material_identification: Partially nanocrystalline Al87Ni7Gd6 (AM + 40 nm spherical NC high density) [Table I]
+- fabrication_steps: Fabricated using a single roller melt spinning technique. The amorphous ribbons were encapsulated in Pyrex or quartz tubes that were back-filled with argon gas and isothermally heat-treated. [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Isothermally heat-treated at 250 °C for 24 h [Table I]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted on end in a low curing temperature epoxy. Wet polished in 1 and 0.05 µm alumina suspensions and rinsed in deionized water. [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 2 × 10^-4 cm^2 [Experimental]
+
+### Experiment
+- experimental_test_type: Anodic polarization scans [Experimental]
+- electrochemical_mode: Potentiodynamic [Experimental]
+- solution_chemistry_summary: 0.6 M (3.5 wt %) NaCl electrolyte prepared using 18.2 MΩ-cm resistivity deionized water and ACS certified reagents [Experimental]
+- operating_parameters_summary: Conducted at a scan rate of 0.1 mV/s with a reverse in scan direction when the current density reached 10 mA/cm^2 [Experimental]
+- overarching_environmental_conditions: Deaerated prior to experimentation [Experimental]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: 18.2 MΩ-cm resistivity deionized water [Experimental]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated with nitrogen [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open-circuit potential was measured after introducing the electrolyte to the cell [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: ~1 µA/cm^2 [Experimental]
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Al-based metallic glasses [Abstract]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: 85% Al, 7% Fe, 8% Gd [Abstract]
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Examined in fully amorphous, partially nanocrystalline, and fully crystalline microstructures [Abstract]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Solute-depleted face-centered cubic (fcc) Al nanocrystals dispersed in the remaining amorphous matrix [Abstract]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Fully amorphous Al85Fe7Gd8 [Abstract]
+- fabrication_steps: Fabricated using a single roller melt spinning technique. The amorphous ribbons were encapsulated in Pyrex or quartz tubes that were back-filled with argon gas. [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted on end in a low curing temperature epoxy. Wet polished in 1 and 0.05 µm alumina suspensions and rinsed in deionized water. [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 2 × 10^-4 cm^2 [Experimental]
+
+### Experiment
+- experimental_test_type: Anodic polarization scans [Experimental]
+- electrochemical_mode: Potentiodynamic [Experimental]
+- solution_chemistry_summary: 0.6 M (3.5 wt %) NaCl electrolyte prepared using 18.2 MΩ-cm resistivity deionized water and ACS certified reagents [Experimental]
+- operating_parameters_summary: Conducted at a scan rate of 0.1 mV/s with a reverse in scan direction when the current density reached 10 mA/cm^2 [Experimental]
+- overarching_environmental_conditions: Deaerated prior to experimentation [Experimental]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: 18.2 MΩ-cm resistivity deionized water [Experimental]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated with nitrogen [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open-circuit potential was measured after introducing the electrolyte to the cell [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: ~1 µA/cm^2 [Experimental]
+
+## Conditioned Material
+- material_identification: Partially nanocrystalline Al85Fe7Gd8 (AM + 100 nm dendritic NC) [Table I]
+- fabrication_steps: Fabricated using a single roller melt spinning technique. The amorphous ribbons were encapsulated in Pyrex or quartz tubes that were back-filled with argon gas and isothermally heat-treated. [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Isothermally heat-treated at 210 °C for 24 h [Table I]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted on end in a low curing temperature epoxy. Wet polished in 1 and 0.05 µm alumina suspensions and rinsed in deionized water. [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 2 × 10^-4 cm^2 [Experimental]
+
+### Experiment
+- experimental_test_type: Anodic polarization scans [Experimental]
+- electrochemical_mode: Potentiodynamic [Experimental]
+- solution_chemistry_summary: 0.6 M (3.5 wt %) NaCl electrolyte prepared using 18.2 MΩ-cm resistivity deionized water and ACS certified reagents [Experimental]
+- operating_parameters_summary: Conducted at a scan rate of 0.1 mV/s with a reverse in scan direction when the current density reached 10 mA/cm^2 [Experimental]
+- overarching_environmental_conditions: Deaerated prior to experimentation [Experimental]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: 18.2 MΩ-cm resistivity deionized water [Experimental]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated with nitrogen [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open-circuit potential was measured after introducing the electrolyte to the cell [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: ~1 µA/cm^2 [Experimental]
+
+# Base Material
+- standard_designation: High-purity (99.999%) polycrystalline aluminum foils (Alfa Aesar) [Experimental]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Aluminum [Experimental]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: 99.999% Al [Experimental]
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Polycrystalline [Experimental]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Face-centered cubic (fcc) aluminum [Abstract]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 99.999% polycrystalline Al [Experimental]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted on end in a low curing temperature epoxy. Wet polished in 1 µm diamond and 0.05 µm silica suspensions and rinsed in deionized water. [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 2 × 10^-4 cm^2 [Experimental]
+
+### Experiment
+- experimental_test_type: Anodic polarization scans [Experimental]
+- electrochemical_mode: Potentiodynamic [Experimental]
+- solution_chemistry_summary: 0.6 M (3.5 wt %) NaCl electrolyte prepared using 18.2 MΩ-cm resistivity deionized water and ACS certified reagents [Experimental]
+- operating_parameters_summary: Conducted at a scan rate of 0.1 mV/s with a reverse in scan direction when the current density reached 10 mA/cm^2 [Experimental]
+- overarching_environmental_conditions: Deaerated prior to experimentation [Experimental]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: 18.2 MΩ-cm resistivity deionized water [Experimental]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated with nitrogen [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open-circuit potential was measured after introducing the electrolyte to the cell [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: ~1 µA/cm^2 [Experimental]

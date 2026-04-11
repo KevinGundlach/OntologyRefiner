@@ -1,0 +1,167 @@
+# Base Material
+- standard_designation: Pure Al [Results]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Aluminum [Abstract]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: 100% Al [Results]
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Freshly sputter deposited pure Al [Results]
+- fabrication_steps: Thin-film sputter-deposited samples, with thickness in the range of 1000-2000 Ǻ. Tested within a few months of deposition. [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: No pre-treatment of the surface, other than washing with water. [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization and repassivation testing [Experimental]
+- electrochemical_mode: Anodic potential scan followed by potentiostatic holding and downward stepping [Experimental]
+- solution_chemistry_summary: Stagnant, air-exposed 0.1M NaCl [Experimental]
+- operating_parameters_summary: Scanned at a rate of 1 mV/s anodically from open circuit until a stable pit formed. Scan was halted and potential held constant, then stepped downward in increments of 10-100 mV and maintained for periods of 15-120 s. [Experimental]
+- overarching_environmental_conditions: Room temperature in laboratory atmosphere [Experimental]
+- pitting_potential: -690 mV SCE [Results]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 mV/s [Experimental]
+- discrete_step_size: 10-100 mV [Experimental]
+- holding_duration: 15-120 s [Experimental]
+- reference_electrode: SCE [Experimental]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Air-exposed [Experimental]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Aged pure Al [Results]
+- fabrication_steps: Thin-film sputter-deposited samples, with thickness in the range of 1000-2000 Ǻ. Deposited 4 years earlier and kept unprotected from the laboratory atmosphere. [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Kept during storage period at room temperature in plastic boxes for 4 years. [Experimental]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: No pre-treatment of the surface, other than washing with water. [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization and repassivation testing [Experimental]
+- electrochemical_mode: Anodic potential scan followed by potentiostatic holding and downward stepping [Experimental]
+- solution_chemistry_summary: Stagnant, air-exposed 0.1M NaCl [Experimental]
+- operating_parameters_summary: Scanned at a rate of 1 mV/s anodically from open circuit until a stable pit formed. Scan was halted and potential held constant, then stepped downward in increments of 10-100 mV and maintained for periods of 15-120 s. [Experimental]
+- overarching_environmental_conditions: Room temperature in laboratory atmosphere [Experimental]
+- pitting_potential: ~ -490 mV SCE (about 200 mV higher than freshly deposited samples) [Results]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 mV/s [Experimental]
+- discrete_step_size: 10-100 mV [Experimental]
+- holding_duration: 15-120 s [Experimental]
+- reference_electrode: SCE [Experimental]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Air-exposed [Experimental]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Sputter-Deposited Aluminum Binary Alloys [Abstract]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: 5.2% W [Results]
+- spatial_chemical_homogeneity: Supersaturated [Abstract]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Freshly deposited Al-5.2% W [Results]
+- fabrication_steps: Thin-film sputter-deposited samples, with thickness in the range of 1000-2000 Ǻ. Tested within a few months of deposition. [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: No pre-treatment of the surface, other than washing with water. [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization and repassivation testing [Experimental]
+- electrochemical_mode: Anodic potential scan followed by potentiostatic holding and downward stepping [Experimental]
+- solution_chemistry_summary: Stagnant, air-exposed 0.1M NaCl [Experimental]
+- operating_parameters_summary: Scanned at a rate of 1 mV/s anodically from open circuit until a stable pit formed. Scan was halted and potential held constant, then stepped downward in increments of 10-100 mV and maintained for periods of 15-120 s. [Experimental]
+- overarching_environmental_conditions: Room temperature in laboratory atmosphere [Experimental]
+- pitting_potential: ~ -60 mV SCE [Results]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 mV/s [Experimental]
+- discrete_step_size: 10-100 mV [Experimental]
+- holding_duration: 15-120 s [Experimental]
+- reference_electrode: SCE [Experimental]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Air-exposed [Experimental]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

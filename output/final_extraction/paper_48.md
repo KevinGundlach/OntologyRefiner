@@ -1,0 +1,867 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic Stainless Steel [EXPERIMENTAL]
+- elemental_weight_percentages: 0.009% C, 0.29% Si, 1.00% Mn, 18.0% Cr, < 0.003% Mo, 0.004% Ni, 0.004% N [EXPERIMENTAL]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Corrosion index (Cr + 3xMo) = 18.0 [EXPERIMENTAL]
+- overall_microstructure: Ferritic structure [EXPERIMENTAL]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F1 [EXPERIMENTAL]
+- fabrication_steps: Produced from 50 kg vacuum-melted ingots and rolled to sheets 1 mm to 1.5 mm thick, with intermediate annealing and pickling. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Intermediate annealing [EXPERIMENTAL]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to a 600-grit finish [EXPERIMENTAL]
+- chemical_surface_preparation: Degreased with acetone [EXPERIMENTAL]
+- final_surface_roughness: 600-grit finish [EXPERIMENTAL]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization for pitting potential (Ep) [EXPERIMENTAL]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL]
+- solution_chemistry_summary: Deaerated 3.5% sodium chloride (NaCl) solution [EXPERIMENTAL]
+- operating_parameters_summary: Anodic polarization at 80°C with a sweep rate of 20 mV/min; pitting potential (Ep) determined as the potential at which the polarizing current exceeded 10 µA/cm² and continued to increase without oscillation. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated, 80°C [EXPERIMENTAL]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 80°C [EXPERIMENTAL]
+- continuous_sweep_rate: 20 mV/min [EXPERIMENTAL]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Silver-silver chloride (Ag-AgCl) [EXPERIMENTAL RESULTS]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 3.5% [EXPERIMENTAL]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Argon (Ar) [EXPERIMENTAL RESULTS]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic Stainless Steel [EXPERIMENTAL]
+- elemental_weight_percentages: 0.010% C, 0.28% Si, 1.08% Mn, 18.4% Cr, 1.96% Mo, 0.004% Ni, 0.005% N [EXPERIMENTAL]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Corrosion index (Cr + 3xMo) = 24.3 [EXPERIMENTAL]
+- overall_microstructure: Ferritic structure [EXPERIMENTAL]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F2 [EXPERIMENTAL]
+- fabrication_steps: Produced from 50 kg vacuum-melted ingots and rolled to sheets 1 mm to 1.5 mm thick, with intermediate annealing and pickling. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Intermediate annealing [EXPERIMENTAL]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to a 600-grit finish [EXPERIMENTAL]
+- chemical_surface_preparation: Degreased with acetone [EXPERIMENTAL]
+- final_surface_roughness: 600-grit finish [EXPERIMENTAL]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization for pitting potential (Ep) [EXPERIMENTAL]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL]
+- solution_chemistry_summary: Deaerated 3.5% sodium chloride (NaCl) solution [EXPERIMENTAL]
+- operating_parameters_summary: Anodic polarization at 80°C with a sweep rate of 20 mV/min; pitting potential (Ep) determined as the potential at which the polarizing current exceeded 10 µA/cm² and continued to increase without oscillation. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated, 80°C [EXPERIMENTAL]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 80°C [EXPERIMENTAL]
+- continuous_sweep_rate: 20 mV/min [EXPERIMENTAL]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Silver-silver chloride (Ag-AgCl) [EXPERIMENTAL RESULTS]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 3.5% [EXPERIMENTAL]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Argon (Ar) [EXPERIMENTAL RESULTS]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic Stainless Steel [EXPERIMENTAL]
+- elemental_weight_percentages: 0.009% C, 0.31% Si, 0.99% Mn, 22.2% Cr, 0.03% Mo, 0.007% Ni, 0.004% N [EXPERIMENTAL]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Corrosion index (Cr + 3xMo) = 22.3 [EXPERIMENTAL]
+- overall_microstructure: Ferritic structure [EXPERIMENTAL]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F3 [EXPERIMENTAL]
+- fabrication_steps: Produced from 50 kg vacuum-melted ingots and rolled to sheets 1 mm to 1.5 mm thick, with intermediate annealing and pickling. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Intermediate annealing [EXPERIMENTAL]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to a 600-grit finish [EXPERIMENTAL]
+- chemical_surface_preparation: Degreased with acetone [EXPERIMENTAL]
+- final_surface_roughness: 600-grit finish [EXPERIMENTAL]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization for pitting potential (Ep) [EXPERIMENTAL]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL]
+- solution_chemistry_summary: Deaerated 3.5% sodium chloride (NaCl) solution [EXPERIMENTAL]
+- operating_parameters_summary: Anodic polarization at 80°C with a sweep rate of 20 mV/min; pitting potential (Ep) determined as the potential at which the polarizing current exceeded 10 µA/cm² and continued to increase without oscillation. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated, 80°C [EXPERIMENTAL]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 80°C [EXPERIMENTAL]
+- continuous_sweep_rate: 20 mV/min [EXPERIMENTAL]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Silver-silver chloride (Ag-AgCl) [EXPERIMENTAL RESULTS]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 3.5% [EXPERIMENTAL]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Argon (Ar) [EXPERIMENTAL RESULTS]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic Stainless Steel [EXPERIMENTAL]
+- elemental_weight_percentages: 0.009% C, 0.30% Si, 0.99% Mn, 22.4% Cr, 1.91% Mo, 0.004% Ni, 0.003% N [EXPERIMENTAL]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Corrosion index (Cr + 3xMo) = 28.2 [EXPERIMENTAL]
+- overall_microstructure: Ferritic structure [EXPERIMENTAL]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F4 [EXPERIMENTAL]
+- fabrication_steps: Produced from 50 kg vacuum-melted ingots and rolled to sheets 1 mm to 1.5 mm thick, with intermediate annealing and pickling. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Intermediate annealing [EXPERIMENTAL]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to a 600-grit finish [EXPERIMENTAL]
+- chemical_surface_preparation: Degreased with acetone [EXPERIMENTAL]
+- final_surface_roughness: 600-grit finish [EXPERIMENTAL]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization for pitting potential (Ep) [EXPERIMENTAL]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL]
+- solution_chemistry_summary: Deaerated 3.5% sodium chloride (NaCl) solution [EXPERIMENTAL]
+- operating_parameters_summary: Anodic polarization at 80°C with a sweep rate of 20 mV/min; pitting potential (Ep) determined as the potential at which the polarizing current exceeded 10 µA/cm² and continued to increase without oscillation. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated, 80°C [EXPERIMENTAL]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 80°C [EXPERIMENTAL]
+- continuous_sweep_rate: 20 mV/min [EXPERIMENTAL]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Silver-silver chloride (Ag-AgCl) [EXPERIMENTAL RESULTS]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 3.5% [EXPERIMENTAL]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Argon (Ar) [EXPERIMENTAL RESULTS]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic Stainless Steel [EXPERIMENTAL]
+- elemental_weight_percentages: 0.008% C, 0.30% Si, 1.00% Mn, 26.5% Cr, 0.04% Mo, 0.004% Ni, 0.004% N [EXPERIMENTAL]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Corrosion index (Cr + 3xMo) = 26.7 [EXPERIMENTAL]
+- overall_microstructure: Ferritic structure [EXPERIMENTAL]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F5 [EXPERIMENTAL]
+- fabrication_steps: Produced from 50 kg vacuum-melted ingots and rolled to sheets 1 mm to 1.5 mm thick, with intermediate annealing and pickling. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Intermediate annealing [EXPERIMENTAL]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to a 600-grit finish [EXPERIMENTAL]
+- chemical_surface_preparation: Degreased with acetone [EXPERIMENTAL]
+- final_surface_roughness: 600-grit finish [EXPERIMENTAL]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization for pitting potential (Ep) [EXPERIMENTAL]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL]
+- solution_chemistry_summary: Deaerated 3.5% sodium chloride (NaCl) solution [EXPERIMENTAL]
+- operating_parameters_summary: Anodic polarization at 80°C with a sweep rate of 20 mV/min; pitting potential (Ep) determined as the potential at which the polarizing current exceeded 10 µA/cm² and continued to increase without oscillation. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated, 80°C [EXPERIMENTAL]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 80°C [EXPERIMENTAL]
+- continuous_sweep_rate: 20 mV/min [EXPERIMENTAL]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Silver-silver chloride (Ag-AgCl) [EXPERIMENTAL RESULTS]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 3.5% [EXPERIMENTAL]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Argon (Ar) [EXPERIMENTAL RESULTS]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic Stainless Steel [EXPERIMENTAL]
+- elemental_weight_percentages: 0.010% C, 0.30% Si, 0.97% Mn, 26.9% Cr, 1.91% Mo, 0.004% Ni, 0.004% N [EXPERIMENTAL]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Corrosion index (Cr + 3xMo) = 32.6 [EXPERIMENTAL]
+- overall_microstructure: Ferritic structure [EXPERIMENTAL]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F6 [EXPERIMENTAL]
+- fabrication_steps: Produced from 50 kg vacuum-melted ingots and rolled to sheets 1 mm to 1.5 mm thick, with intermediate annealing and pickling. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Intermediate annealing [EXPERIMENTAL]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to a 600-grit finish [EXPERIMENTAL]
+- chemical_surface_preparation: Degreased with acetone [EXPERIMENTAL]
+- final_surface_roughness: 600-grit finish [EXPERIMENTAL]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization for pitting potential (Ep) [EXPERIMENTAL]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL]
+- solution_chemistry_summary: Deaerated 3.5% sodium chloride (NaCl) solution [EXPERIMENTAL]
+- operating_parameters_summary: Anodic polarization at 80°C with a sweep rate of 20 mV/min; pitting potential (Ep) determined as the potential at which the polarizing current exceeded 10 µA/cm² and continued to increase without oscillation. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated, 80°C [EXPERIMENTAL]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 80°C [EXPERIMENTAL]
+- continuous_sweep_rate: 20 mV/min [EXPERIMENTAL]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Silver-silver chloride (Ag-AgCl) [EXPERIMENTAL RESULTS]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 3.5% [EXPERIMENTAL]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Argon (Ar) [EXPERIMENTAL RESULTS]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic Stainless Steel [EXPERIMENTAL]
+- elemental_weight_percentages: 0.009% C, 0.26% Si, 0.98% Mn, 26.7% Cr, 3.99% Mo, 0.006% Ni, 0.005% N [EXPERIMENTAL]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Corrosion index (Cr + 3xMo) = 38.7 [EXPERIMENTAL]
+- overall_microstructure: Ferritic structure [EXPERIMENTAL]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F7 [EXPERIMENTAL]
+- fabrication_steps: Produced from 50 kg vacuum-melted ingots and rolled to sheets 1 mm to 1.5 mm thick, with intermediate annealing and pickling. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Intermediate annealing [EXPERIMENTAL]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to a 600-grit finish [EXPERIMENTAL]
+- chemical_surface_preparation: Degreased with acetone [EXPERIMENTAL]
+- final_surface_roughness: 600-grit finish [EXPERIMENTAL]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization for pitting potential (Ep) [EXPERIMENTAL]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL]
+- solution_chemistry_summary: Deaerated 3.5% sodium chloride (NaCl) solution [EXPERIMENTAL]
+- operating_parameters_summary: Anodic polarization at 80°C with a sweep rate of 20 mV/min; pitting potential (Ep) determined as the potential at which the polarizing current exceeded 10 µA/cm² and continued to increase without oscillation. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated, 80°C [EXPERIMENTAL]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 80°C [EXPERIMENTAL]
+- continuous_sweep_rate: 20 mV/min [EXPERIMENTAL]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Silver-silver chloride (Ag-AgCl) [EXPERIMENTAL RESULTS]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 3.5% [EXPERIMENTAL]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Argon (Ar) [EXPERIMENTAL RESULTS]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic Stainless Steel [EXPERIMENTAL]
+- elemental_weight_percentages: 0.010% C, 0.29% Si, 1.00% Mn, 18.6% Cr, 0.03% Mo, 12.6% Ni, 0.003% N [EXPERIMENTAL]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Corrosion index (Cr + 3xMo) = 18.7 [EXPERIMENTAL]
+- overall_microstructure: Austenitic structure [EXPERIMENTAL]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: A1 [EXPERIMENTAL]
+- fabrication_steps: Produced from 50 kg vacuum-melted ingots and rolled to sheets 1 mm to 1.5 mm thick, with intermediate annealing and pickling. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Intermediate annealing [EXPERIMENTAL]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to a 600-grit finish [EXPERIMENTAL]
+- chemical_surface_preparation: Degreased with acetone [EXPERIMENTAL]
+- final_surface_roughness: 600-grit finish [EXPERIMENTAL]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization for pitting potential (Ep) [EXPERIMENTAL]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL]
+- solution_chemistry_summary: Deaerated 3.5% sodium chloride (NaCl) solution [EXPERIMENTAL]
+- operating_parameters_summary: Anodic polarization at 80°C with a sweep rate of 20 mV/min; pitting potential (Ep) determined as the potential at which the polarizing current exceeded 10 µA/cm² and continued to increase without oscillation. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated, 80°C [EXPERIMENTAL]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 80°C [EXPERIMENTAL]
+- continuous_sweep_rate: 20 mV/min [EXPERIMENTAL]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Silver-silver chloride (Ag-AgCl) [EXPERIMENTAL RESULTS]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 3.5% [EXPERIMENTAL]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Argon (Ar) [EXPERIMENTAL RESULTS]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic Stainless Steel [EXPERIMENTAL]
+- elemental_weight_percentages: 0.008% C, 0.24% Si, 1.00% Mn, 18.5% Cr, 1.91% Mo, 15.3% Ni, 0.003% N [EXPERIMENTAL]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Corrosion index (Cr + 3xMo) = 24.2 [EXPERIMENTAL]
+- overall_microstructure: Austenitic structure [EXPERIMENTAL]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: A2 [EXPERIMENTAL]
+- fabrication_steps: Produced from 50 kg vacuum-melted ingots and rolled to sheets 1 mm to 1.5 mm thick, with intermediate annealing and pickling. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Intermediate annealing [EXPERIMENTAL]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to a 600-grit finish [EXPERIMENTAL]
+- chemical_surface_preparation: Degreased with acetone [EXPERIMENTAL]
+- final_surface_roughness: 600-grit finish [EXPERIMENTAL]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization for pitting potential (Ep) [EXPERIMENTAL]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL]
+- solution_chemistry_summary: Deaerated 3.5% sodium chloride (NaCl) solution [EXPERIMENTAL]
+- operating_parameters_summary: Anodic polarization at 80°C with a sweep rate of 20 mV/min; pitting potential (Ep) determined as the potential at which the polarizing current exceeded 10 µA/cm² and continued to increase without oscillation. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated, 80°C [EXPERIMENTAL]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 80°C [EXPERIMENTAL]
+- continuous_sweep_rate: 20 mV/min [EXPERIMENTAL]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Silver-silver chloride (Ag-AgCl) [EXPERIMENTAL RESULTS]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 3.5% [EXPERIMENTAL]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Argon (Ar) [EXPERIMENTAL RESULTS]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic Stainless Steel [EXPERIMENTAL]
+- elemental_weight_percentages: 0.010% C, 0.31% Si, 0.96% Mn, 22.9% Cr, 0.02% Mo, 17.6% Ni, 0.003% N [EXPERIMENTAL]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Corrosion index (Cr + 3xMo) = 22.9 [EXPERIMENTAL]
+- overall_microstructure: Austenitic structure [EXPERIMENTAL]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: A3 [EXPERIMENTAL]
+- fabrication_steps: Produced from 50 kg vacuum-melted ingots and rolled to sheets 1 mm to 1.5 mm thick, with intermediate annealing and pickling. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Intermediate annealing [EXPERIMENTAL]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to a 600-grit finish [EXPERIMENTAL]
+- chemical_surface_preparation: Degreased with acetone [EXPERIMENTAL]
+- final_surface_roughness: 600-grit finish [EXPERIMENTAL]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization for pitting potential (Ep) [EXPERIMENTAL]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL]
+- solution_chemistry_summary: Deaerated 3.5% sodium chloride (NaCl) solution [EXPERIMENTAL]
+- operating_parameters_summary: Anodic polarization at 80°C with a sweep rate of 20 mV/min; pitting potential (Ep) determined as the potential at which the polarizing current exceeded 10 µA/cm² and continued to increase without oscillation. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated, 80°C [EXPERIMENTAL]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 80°C [EXPERIMENTAL]
+- continuous_sweep_rate: 20 mV/min [EXPERIMENTAL]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Silver-silver chloride (Ag-AgCl) [EXPERIMENTAL RESULTS]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 3.5% [EXPERIMENTAL]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Argon (Ar) [EXPERIMENTAL RESULTS]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic Stainless Steel [EXPERIMENTAL]
+- elemental_weight_percentages: 0.011% C, 0.27% Si, 0.99% Mn, 22.6% Cr, 1.85% Mo, 20.8% Ni, 0.003% N [EXPERIMENTAL]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Corrosion index (Cr + 3xMo) = 28.2 [EXPERIMENTAL]
+- overall_microstructure: Austenitic structure [EXPERIMENTAL]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: A4 [EXPERIMENTAL]
+- fabrication_steps: Produced from 50 kg vacuum-melted ingots and rolled to sheets 1 mm to 1.5 mm thick, with intermediate annealing and pickling. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Intermediate annealing [EXPERIMENTAL]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to a 600-grit finish [EXPERIMENTAL]
+- chemical_surface_preparation: Degreased with acetone [EXPERIMENTAL]
+- final_surface_roughness: 600-grit finish [EXPERIMENTAL]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization for pitting potential (Ep) [EXPERIMENTAL]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL]
+- solution_chemistry_summary: Deaerated 3.5% sodium chloride (NaCl) solution [EXPERIMENTAL]
+- operating_parameters_summary: Anodic polarization at 80°C with a sweep rate of 20 mV/min; pitting potential (Ep) determined as the potential at which the polarizing current exceeded 10 µA/cm² and continued to increase without oscillation. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated, 80°C [EXPERIMENTAL]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 80°C [EXPERIMENTAL]
+- continuous_sweep_rate: 20 mV/min [EXPERIMENTAL]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Silver-silver chloride (Ag-AgCl) [EXPERIMENTAL RESULTS]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 3.5% [EXPERIMENTAL]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Argon (Ar) [EXPERIMENTAL RESULTS]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic Stainless Steel [EXPERIMENTAL]
+- elemental_weight_percentages: 0.010% C, 0.29% Si, 0.98% Mn, 26.2% Cr, 0.08% Mo, 24.0% Ni, 0.002% N [EXPERIMENTAL]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Corrosion index (Cr + 3xMo) = 26.4 [EXPERIMENTAL]
+- overall_microstructure: Austenitic structure [EXPERIMENTAL]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: A5 [EXPERIMENTAL]
+- fabrication_steps: Produced from 50 kg vacuum-melted ingots and rolled to sheets 1 mm to 1.5 mm thick, with intermediate annealing and pickling. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Intermediate annealing [EXPERIMENTAL]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to a 600-grit finish [EXPERIMENTAL]
+- chemical_surface_preparation: Degreased with acetone [EXPERIMENTAL]
+- final_surface_roughness: 600-grit finish [EXPERIMENTAL]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization for pitting potential (Ep) [EXPERIMENTAL]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL]
+- solution_chemistry_summary: Deaerated 3.5% sodium chloride (NaCl) solution [EXPERIMENTAL]
+- operating_parameters_summary: Anodic polarization at 80°C with a sweep rate of 20 mV/min; pitting potential (Ep) determined as the potential at which the polarizing current exceeded 10 µA/cm² and continued to increase without oscillation. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated, 80°C [EXPERIMENTAL]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 80°C [EXPERIMENTAL]
+- continuous_sweep_rate: 20 mV/min [EXPERIMENTAL]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Silver-silver chloride (Ag-AgCl) [EXPERIMENTAL RESULTS]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 3.5% [EXPERIMENTAL]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Argon (Ar) [EXPERIMENTAL RESULTS]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic Stainless Steel [EXPERIMENTAL]
+- elemental_weight_percentages: 0.012% C, 0.31% Si, 1.01% Mn, 26.5% Cr, 1.87% Mo, 26.9% Ni, 0.003% N [EXPERIMENTAL]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Corrosion index (Cr + 3xMo) = 32.2 [EXPERIMENTAL]
+- overall_microstructure: Austenitic structure [EXPERIMENTAL]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: A6 [EXPERIMENTAL]
+- fabrication_steps: Produced from 50 kg vacuum-melted ingots and rolled to sheets 1 mm to 1.5 mm thick, with intermediate annealing and pickling. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Intermediate annealing [EXPERIMENTAL]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to a 600-grit finish [EXPERIMENTAL]
+- chemical_surface_preparation: Degreased with acetone [EXPERIMENTAL]
+- final_surface_roughness: 600-grit finish [EXPERIMENTAL]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization for pitting potential (Ep) [EXPERIMENTAL]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL]
+- solution_chemistry_summary: Deaerated 3.5% sodium chloride (NaCl) solution [EXPERIMENTAL]
+- operating_parameters_summary: Anodic polarization at 80°C with a sweep rate of 20 mV/min; pitting potential (Ep) determined as the potential at which the polarizing current exceeded 10 µA/cm² and continued to increase without oscillation. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated, 80°C [EXPERIMENTAL]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 80°C [EXPERIMENTAL]
+- continuous_sweep_rate: 20 mV/min [EXPERIMENTAL]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Silver-silver chloride (Ag-AgCl) [EXPERIMENTAL RESULTS]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 3.5% [EXPERIMENTAL]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Argon (Ar) [EXPERIMENTAL RESULTS]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic Stainless Steel [EXPERIMENTAL]
+- elemental_weight_percentages: 0.010% C, 0.24% Si, 1.00% Mn, 26.3% Cr, 3.82% Mo, 28.8% Ni, 0.002% N [EXPERIMENTAL]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Corrosion index (Cr + 3xMo) = 37.8 [EXPERIMENTAL]
+- overall_microstructure: Austenitic structure [EXPERIMENTAL]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: A7 [EXPERIMENTAL]
+- fabrication_steps: Produced from 50 kg vacuum-melted ingots and rolled to sheets 1 mm to 1.5 mm thick, with intermediate annealing and pickling. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Intermediate annealing [EXPERIMENTAL]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to a 600-grit finish [EXPERIMENTAL]
+- chemical_surface_preparation: Degreased with acetone [EXPERIMENTAL]
+- final_surface_roughness: 600-grit finish [EXPERIMENTAL]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization for pitting potential (Ep) [EXPERIMENTAL]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL]
+- solution_chemistry_summary: Deaerated 3.5% sodium chloride (NaCl) solution [EXPERIMENTAL]
+- operating_parameters_summary: Anodic polarization at 80°C with a sweep rate of 20 mV/min; pitting potential (Ep) determined as the potential at which the polarizing current exceeded 10 µA/cm² and continued to increase without oscillation. [EXPERIMENTAL]
+- overarching_environmental_conditions: Deaerated, 80°C [EXPERIMENTAL]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 80°C [EXPERIMENTAL]
+- continuous_sweep_rate: 20 mV/min [EXPERIMENTAL]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Silver-silver chloride (Ag-AgCl) [EXPERIMENTAL RESULTS]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 3.5% [EXPERIMENTAL]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Argon (Ar) [EXPERIMENTAL RESULTS]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

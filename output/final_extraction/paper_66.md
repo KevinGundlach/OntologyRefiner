@@ -1,0 +1,1331 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Cr-Ni-Mn stainless steels [Abstract]
+- elemental_weight_percentages: Mn: 0.03, C: 0.0075, Si: 0.23, P: 0.034, S: 0.014, Cr: 17.2, Ni: 5.51, N: 0.066 [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Enrichment of the ferrite phase in Cr, with impoverishment in Fe, Ni, and Mn [Results]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Martensite with some inclusions of delta-ferrite mostly at boundaries of original austenite grains [Results]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Martensite, delta-ferrite, carbides [Results]
+- inclusion_composition: Carbides (presumably Me23C6) [Results]
+- inclusion_size: Small particles [Results]
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18Cr-5Ni-0.03Mn As-Received (Hot Forged) [Experimental, Table 1]
+- fabrication_steps: Supplied in the form of hot forged rods [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Coarse-ground with silicon-carbide papers and then fine-ground with alumina paste [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: About 0.8 cm² [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.01N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.01 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.05N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.1N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.1 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+## Conditioned Material
+- material_identification: 18Cr-5Ni-0.03Mn Quenched [Experimental, Table 1]
+- fabrication_steps: Supplied in the form of hot forged rods, then quenched [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heating 1 hour in air at 1050 C [Experimental, Results]
+- cooling_methods: Quenching in water [Experimental]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Coarse-ground with silicon-carbide papers and then fine-ground with alumina paste [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: About 0.8 cm² [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.01N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.01 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.05N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.1N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.1 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Cr-Ni-Mn stainless steels [Abstract]
+- elemental_weight_percentages: Mn: 5.7, C: 0.0190, Si: 0.27, P: 0.029, S: 0.014, Cr: 17.4, Ni: 5.47, N: 0.061 [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Enrichment of the ferrite phase in Cr, with impoverishment in Fe, Ni, and Mn [Results]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenite and ferrite [Results]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite, ferrite, carbides [Results]
+- inclusion_composition: Carbides (presumably Me23C6) [Results]
+- inclusion_size: Small particles [Results]
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18Cr-5Ni-5.7Mn As-Received (Hot Forged) [Experimental, Table 1]
+- fabrication_steps: Supplied in the form of hot forged rods [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Coarse-ground with silicon-carbide papers and then fine-ground with alumina paste [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: About 0.8 cm² [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.01N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.01 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.05N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.1N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.1 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+## Conditioned Material
+- material_identification: 18Cr-5Ni-5.7Mn Quenched [Experimental, Table 1]
+- fabrication_steps: Supplied in the form of hot forged rods, then quenched [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heating 1 hour in air at 1050 C [Experimental, Results]
+- cooling_methods: Quenching in water [Experimental]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Coarse-ground with silicon-carbide papers and then fine-ground with alumina paste [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: About 0.8 cm² [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.01N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.01 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.05N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.1N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.1 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Cr-Ni-Mn stainless steels [Abstract]
+- elemental_weight_percentages: Mn: 9.6, C: 0.013, Si: 0.57, P: 0.031, S: 0.014, Cr: 17.6, Ni: 5.52, N: 0.049 [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Enrichment of the ferrite phase in Cr, with impoverishment in Fe, Ni, and Mn [Results]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenite and ferrite [Results]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite, ferrite, carbides [Results]
+- inclusion_composition: Carbides (presumably Me23C6) [Results]
+- inclusion_size: Small particles [Results]
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18Cr-5Ni-9.6Mn As-Received (Hot Forged) [Experimental, Table 1]
+- fabrication_steps: Supplied in the form of hot forged rods [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Coarse-ground with silicon-carbide papers and then fine-ground with alumina paste [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: About 0.8 cm² [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.01N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.01 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.05N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.1N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.1 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+## Conditioned Material
+- material_identification: 18Cr-5Ni-9.6Mn Quenched [Experimental, Table 1]
+- fabrication_steps: Supplied in the form of hot forged rods, then quenched [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heating 1 hour in air at 1050 C [Experimental, Results]
+- cooling_methods: Quenching in water [Experimental]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Coarse-ground with silicon-carbide papers and then fine-ground with alumina paste [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: About 0.8 cm² [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.01N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.01 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.05N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.1N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.1 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Cr-Ni-Mn stainless steels [Abstract]
+- elemental_weight_percentages: Mn: 11.7, C: 0.015, Si: 0.23, P: 0.030, S: 0.018, Cr: 17.6, Ni: 5.48, N: 0.065 [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Enrichment of the ferrite phase in Cr, with impoverishment in Fe, Ni, and Mn [Results]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenite and ferrite [Results]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite, ferrite, carbides [Results]
+- inclusion_composition: Carbides (presumably Me23C6) [Results]
+- inclusion_size: Small particles [Results]
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18Cr-5Ni-11.7Mn As-Received (Hot Forged) [Experimental, Table 1]
+- fabrication_steps: Supplied in the form of hot forged rods [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Coarse-ground with silicon-carbide papers and then fine-ground with alumina paste [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: About 0.8 cm² [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.01N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.01 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.05N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.1N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.1 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+## Conditioned Material
+- material_identification: 18Cr-5Ni-11.7Mn Quenched [Experimental, Table 1]
+- fabrication_steps: Supplied in the form of hot forged rods, then quenched [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heating 1 hour in air at 1050 C [Experimental, Results]
+- cooling_methods: Quenching in water [Experimental]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Coarse-ground with silicon-carbide papers and then fine-ground with alumina paste [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: About 0.8 cm² [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.01N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.01 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.05N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.1N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.1 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Cr-Ni-Mn stainless steels [Abstract]
+- elemental_weight_percentages: Mn: 15.1, C: 0.0015, Si: 0.50, P: 0.030, S: 0.018, Cr: 17.6, Ni: 5.44, N: 0.086 [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Enrichment of the ferrite phase in Cr, with impoverishment in Fe, Ni, and Mn [Results]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenite and ferrite [Results]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite, ferrite, carbides [Results]
+- inclusion_composition: Carbides (presumably Me23C6) [Results]
+- inclusion_size: Small particles [Results]
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18Cr-5Ni-15.1Mn As-Received (Hot Forged) [Experimental, Table 1]
+- fabrication_steps: Supplied in the form of hot forged rods [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Coarse-ground with silicon-carbide papers and then fine-ground with alumina paste [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: About 0.8 cm² [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.01N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.01 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.05N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.1N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.1 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+## Conditioned Material
+- material_identification: 18Cr-5Ni-15.1Mn Quenched [Experimental, Table 1]
+- fabrication_steps: Supplied in the form of hot forged rods, then quenched [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heating 1 hour in air at 1050 C [Experimental, Results]
+- cooling_methods: Quenching in water [Experimental]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Coarse-ground with silicon-carbide papers and then fine-ground with alumina paste [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: About 0.8 cm² [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.01N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.01 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.05N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.1N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.1 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Cr-Ni-Mn stainless steels [Abstract]
+- elemental_weight_percentages: Mn: 10.0, C: n.d., Si: 0.50, P: 0.027, S: 0.017, Cr: 17.5, Ni: 5.69, N: 0.019 [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Enrichment of the ferrite phase in Cr, with impoverishment in Fe, Ni, and Mn [Results]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenite and ferrite [Results]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite, ferrite, carbides [Results]
+- inclusion_composition: Carbides (presumably Me23C6) [Results]
+- inclusion_size: Small particles [Results]
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18Cr-5Ni-10.0Mn As-Received (Hot Forged) [Experimental, Table 1]
+- fabrication_steps: Supplied in the form of hot forged rods [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Coarse-ground with silicon-carbide papers and then fine-ground with alumina paste [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: About 0.8 cm² [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.01N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.01 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.05N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.1N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.1 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+## Conditioned Material
+- material_identification: 18Cr-5Ni-10.0Mn Quenched [Experimental, Table 1]
+- fabrication_steps: Supplied in the form of hot forged rods, then quenched [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heating 1 hour in air at 1050 C [Experimental, Results]
+- cooling_methods: Quenching in water [Experimental]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Coarse-ground with silicon-carbide papers and then fine-ground with alumina paste [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: About 0.8 cm² [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.01N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.01 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.05N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization curves [Experimental]
+- electrochemical_mode: Step by step polarization [Experimental]
+- solution_chemistry_summary: 0.1N H2SO4 with 0.1N NaCl [Experimental]
+- operating_parameters_summary: Conducted at 25 C using a step rate of 50 mV per 30 seconds [Experimental]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not explicitly specified in text (data plotted graphically in Figure 5) [Results]
+- electrolyte_temperature: 25 C [Experimental]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [Experimental]
+- holding_duration: 30 seconds [Experimental]
+- reference_electrode: Not specified in text (graphs indicate mVH) [Figure 5]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.1 N NaCl [Experimental]
+- electrolyte_soluble_additives: NaCl [Experimental]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not explicitly specified in text (data plotted graphically in Figure 4) [Results]

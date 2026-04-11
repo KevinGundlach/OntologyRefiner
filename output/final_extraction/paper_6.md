@@ -1,0 +1,786 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steels [ABSTRACT]
+- elemental_weight_percentages: ~18% Cr (nominal), 2.06% Mo, assumed balance Fe [Experimental]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Ferrite matrix [Results and Discussion]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Ferrite [Results and Discussion]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 4354C (815°C WQ) [Experimental]
+- fabrication_steps: Produced by induction-melting in an argon atmosphere using the split-heat technique; hot-forged and hot-rolled to 0.76 cm thick strips; cold-rolled to 0.38 cm thickness [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 1-hr anneal at 815°C [Experimental]
+- cooling_methods: Water-quenched [Experimental]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Surface polished using standard metallographic techniques, finishing with a distilled water slurry of 0.3 µm alumina; edges masked with clear Glyptal varnish [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.5 by 0.6 cm (0.3 cm²) [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiodynamic scanning [Experimental]
+- electrochemical_mode: Potentiodynamic polarization [Results and Discussion]
+- solution_chemistry_summary: 1.0M NaCl saturated with nitrogen [Experimental]
+- operating_parameters_summary: Potential scanned in the noble direction starting at -0.7V [Experimental]
+- overarching_environmental_conditions: Temperature controlled within ±0.5°C using a heating mantle and temperature controller [Experimental]
+- pitting_potential: 0.08 V (SCE) [Results and Discussion]
+- electrolyte_temperature: 45 °C [Results and Discussion]
+- continuous_sweep_rate: 200 mV/hr [Results and Discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Results and Discussion]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 1.0 M [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen [ABSTRACT]
+- purge_gas_type: Nitrogen [ABSTRACT]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Experimental]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic scanning [Experimental]
+- electrochemical_mode: Potentiodynamic polarization [Results and Discussion]
+- solution_chemistry_summary: 1.0M NaCl saturated with nitrogen [Experimental]
+- operating_parameters_summary: Potential scanned in the noble direction starting at -0.7V [Experimental]
+- overarching_environmental_conditions: Temperature controlled within ±0.5°C using a heating mantle and temperature controller [Experimental]
+- pitting_potential: 0.06 V (SCE) [Results and Discussion]
+- electrolyte_temperature: 45 °C [Results and Discussion]
+- continuous_sweep_rate: 200 mV/hr [Results and Discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Results and Discussion]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 1.0 M [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen [ABSTRACT]
+- purge_gas_type: Nitrogen [ABSTRACT]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Experimental]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic scanning [Experimental]
+- electrochemical_mode: Potentiodynamic polarization [Results and Discussion]
+- solution_chemistry_summary: 1.0M NaCl saturated with nitrogen [Experimental]
+- operating_parameters_summary: Potential scanned in the noble direction starting at -0.7V [Experimental]
+- overarching_environmental_conditions: Temperature controlled within ±0.5°C using a heating mantle and temperature controller [Experimental]
+- pitting_potential: 0.02 V (SCE) [Results and Discussion]
+- electrolyte_temperature: 45 °C [Results and Discussion]
+- continuous_sweep_rate: 2000 mV/hr [Results and Discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Results and Discussion]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 1.0 M [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen [ABSTRACT]
+- purge_gas_type: Nitrogen [ABSTRACT]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Experimental]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic scanning [Experimental]
+- electrochemical_mode: Potentiodynamic polarization [Results and Discussion]
+- solution_chemistry_summary: 1.0M NaCl saturated with nitrogen [Experimental]
+- operating_parameters_summary: Potential scanned in the noble direction starting at -0.7V [Experimental]
+- overarching_environmental_conditions: Temperature controlled within ±0.5°C using a heating mantle and temperature controller [Experimental]
+- pitting_potential: 0.085 V (SCE) [Results and Discussion]
+- electrolyte_temperature: 45 °C [Results and Discussion]
+- continuous_sweep_rate: 2000 mV/hr [Results and Discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Results and Discussion]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 1.0 M [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen [ABSTRACT]
+- purge_gas_type: Nitrogen [ABSTRACT]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Experimental]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic scanning [Experimental]
+- electrochemical_mode: Potentiodynamic polarization [Results and Discussion]
+- solution_chemistry_summary: 1.0M NaCl saturated with nitrogen [Experimental]
+- operating_parameters_summary: Potential scanned in the noble direction starting at -0.7V [Experimental]
+- overarching_environmental_conditions: Temperature controlled within ±0.5°C at room temperature conditions [Experimental]
+- pitting_potential: 0.25 V (SCE) [Results and Discussion]
+- electrolyte_temperature: 25 °C [Results and Discussion]
+- continuous_sweep_rate: 200 mV/hr [Results and Discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Results and Discussion]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 1.0 M [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen [ABSTRACT]
+- purge_gas_type: Nitrogen [ABSTRACT]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Experimental]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic scanning [Experimental]
+- electrochemical_mode: Potentiodynamic polarization [Results and Discussion]
+- solution_chemistry_summary: 1.0M NaCl saturated with nitrogen [Experimental]
+- operating_parameters_summary: Potential scanned in the noble direction starting at -0.7V [Experimental]
+- overarching_environmental_conditions: Temperature controlled within ±0.5°C at room temperature conditions [Experimental]
+- pitting_potential: 0.26 V (SCE) [Results and Discussion]
+- electrolyte_temperature: 25 °C [Results and Discussion]
+- continuous_sweep_rate: 200 mV/hr [Results and Discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Results and Discussion]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 1.0 M [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen [ABSTRACT]
+- purge_gas_type: Nitrogen [ABSTRACT]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Experimental]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 4354C (980°C WQ) [Results and Discussion]
+- fabrication_steps: Produced by induction-melting in an argon atmosphere using the split-heat technique; hot-forged and hot-rolled to 0.76 cm thick strips; cold-rolled to 0.38 cm thickness [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 980°C [Results and Discussion]
+- cooling_methods: Water-quenched [Results and Discussion]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Heat-treatment sensitizes steels to intergranular corrosion via precipitation of carbides and nitrides rich in chromium and molybdenum, causing depletion of the adjacent matrix [Results and Discussion]
+- mechanical_surface_preparation: Surface polished using standard metallographic techniques, finishing with a distilled water slurry of 0.3 µm alumina; edges masked with clear Glyptal varnish [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.5 by 0.6 cm (0.3 cm²) [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiodynamic scanning [Experimental]
+- electrochemical_mode: Potentiodynamic polarization [Results and Discussion]
+- solution_chemistry_summary: 1.0M NaCl saturated with nitrogen [Experimental]
+- operating_parameters_summary: Potential scanned in the noble direction starting at -0.7V [Experimental]
+- overarching_environmental_conditions: Temperature controlled within ±0.5°C at room temperature conditions [Experimental]
+- pitting_potential: -0.01 V (SCE) [Results and Discussion]
+- electrolyte_temperature: 25 °C [Results and Discussion]
+- continuous_sweep_rate: 200 mV/hr [Results and Discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Results and Discussion]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 1.0 M [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen [ABSTRACT]
+- purge_gas_type: Nitrogen [ABSTRACT]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Experimental]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steels [ABSTRACT]
+- elemental_weight_percentages: ~18% Cr (nominal), 3.51% Mo, assumed balance Fe [Experimental]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Ferrite matrix with a very small amount of chi phase [Results and Discussion]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Ferrite, minor chi phase [Results and Discussion]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 4354D (815°C WQ) [Experimental]
+- fabrication_steps: Produced by induction-melting in an argon atmosphere using the split-heat technique; hot-forged and hot-rolled to 0.76 cm thick strips; cold-rolled to 0.38 cm thickness [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 1-hr anneal at 815°C [Experimental]
+- cooling_methods: Water-quenched [Experimental]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Surface polished using standard metallographic techniques, finishing with a distilled water slurry of 0.3 µm alumina; edges masked with clear Glyptal varnish [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.5 by 0.6 cm (0.3 cm²) [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiodynamic scanning [Experimental]
+- electrochemical_mode: Potentiodynamic polarization [Results and Discussion]
+- solution_chemistry_summary: 1.0M NaCl saturated with nitrogen [Experimental]
+- operating_parameters_summary: Potential scanned in the noble direction starting at -0.7V [Experimental]
+- overarching_environmental_conditions: Temperature controlled within ±0.5°C at room temperature conditions [Experimental]
+- pitting_potential: 0.31 V (SCE) [Results and Discussion]
+- electrolyte_temperature: 25 °C [Results and Discussion]
+- continuous_sweep_rate: 200 mV/hr [Results and Discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Results and Discussion]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 1.0 M [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen [ABSTRACT]
+- purge_gas_type: Nitrogen [ABSTRACT]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Experimental]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic scanning [Experimental]
+- electrochemical_mode: Potentiodynamic polarization [Results and Discussion]
+- solution_chemistry_summary: 1.0M NaCl saturated with nitrogen [Experimental]
+- operating_parameters_summary: Potential scanned in the noble direction starting at -0.7V [Experimental]
+- overarching_environmental_conditions: Temperature controlled within ±0.5°C at room temperature conditions [Experimental]
+- pitting_potential: 0.26 V (SCE) [Results and Discussion]
+- electrolyte_temperature: 25 °C [Results and Discussion]
+- continuous_sweep_rate: 200 mV/hr [Results and Discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Results and Discussion]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 1.0 M [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen [ABSTRACT]
+- purge_gas_type: Nitrogen [ABSTRACT]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Experimental]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 4354D (980°C WQ) [Results and Discussion]
+- fabrication_steps: Produced by induction-melting in an argon atmosphere using the split-heat technique; hot-forged and hot-rolled to 0.76 cm thick strips; cold-rolled to 0.38 cm thickness [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 980°C [Results and Discussion]
+- cooling_methods: Water-quenched [Results and Discussion]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Heat-treatment sensitizes steels to intergranular corrosion via precipitation of carbides and nitrides rich in chromium and molybdenum, causing depletion of the adjacent matrix [Results and Discussion]
+- mechanical_surface_preparation: Surface polished using standard metallographic techniques, finishing with a distilled water slurry of 0.3 µm alumina; edges masked with clear Glyptal varnish [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.5 by 0.6 cm (0.3 cm²) [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiodynamic scanning [Experimental]
+- electrochemical_mode: Potentiodynamic polarization [Results and Discussion]
+- solution_chemistry_summary: 1.0M NaCl saturated with nitrogen [Experimental]
+- operating_parameters_summary: Potential scanned in the noble direction starting at -0.7V [Experimental]
+- overarching_environmental_conditions: Temperature controlled within ±0.5°C at room temperature conditions [Experimental]
+- pitting_potential: 0.04 V (SCE) [Results and Discussion]
+- electrolyte_temperature: 25 °C [Results and Discussion]
+- continuous_sweep_rate: 200 mV/hr [Results and Discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Results and Discussion]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 1.0 M [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen [ABSTRACT]
+- purge_gas_type: Nitrogen [ABSTRACT]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Experimental]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steels [ABSTRACT]
+- elemental_weight_percentages: 17.31% Cr, 4.67% Mo, 0.031% C, 0.033% N, assumed balance Fe [Experimental]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Ferrite matrix with a large amount of chi phase [Results and Discussion]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Ferrite, substantial chi phase (compound containing about 25% Mo, 18% Cr, and balance Fe) [Results and Discussion]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 4354E (815°C WQ) [Experimental]
+- fabrication_steps: Produced by induction-melting in an argon atmosphere using the split-heat technique; hot-forged and hot-rolled to 0.76 cm thick strips; cold-rolled to 0.38 cm thickness [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 1-hr anneal at 815°C [Experimental]
+- cooling_methods: Water-quenched [Experimental]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Surface polished using standard metallographic techniques, finishing with a distilled water slurry of 0.3 µm alumina; edges masked with clear Glyptal varnish [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.5 by 0.6 cm (0.3 cm²) [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiodynamic scanning [Experimental]
+- electrochemical_mode: Potentiodynamic polarization [Results and Discussion]
+- solution_chemistry_summary: 1.0M NaCl saturated with nitrogen [Experimental]
+- operating_parameters_summary: Potential scanned in the noble direction starting at -0.7V [Experimental]
+- overarching_environmental_conditions: Temperature controlled within ±0.5°C at room temperature conditions [Experimental]
+- pitting_potential: 0.29 V (SCE) [Results and Discussion]
+- electrolyte_temperature: 25 °C [Results and Discussion]
+- continuous_sweep_rate: 200 mV/hr [Results and Discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Results and Discussion]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 1.0 M [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen [ABSTRACT]
+- purge_gas_type: Nitrogen [ABSTRACT]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Experimental]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic scanning [Experimental]
+- electrochemical_mode: Potentiodynamic polarization [Results and Discussion]
+- solution_chemistry_summary: 1.0M NaCl saturated with nitrogen [Experimental]
+- operating_parameters_summary: Potential scanned in the noble direction starting at -0.7V [Experimental]
+- overarching_environmental_conditions: Temperature controlled within ±0.5°C at room temperature conditions [Experimental]
+- pitting_potential: 0.24 V (SCE) [Results and Discussion]
+- electrolyte_temperature: 25 °C [Results and Discussion]
+- continuous_sweep_rate: 200 mV/hr [Results and Discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Results and Discussion]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 1.0 M [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen [ABSTRACT]
+- purge_gas_type: Nitrogen [ABSTRACT]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Experimental]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 4354E (980°C WQ) [Results and Discussion]
+- fabrication_steps: Produced by induction-melting in an argon atmosphere using the split-heat technique; hot-forged and hot-rolled to 0.76 cm thick strips; cold-rolled to 0.38 cm thickness [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 980°C [Results and Discussion]
+- cooling_methods: Water-quenched [Results and Discussion]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Heat-treatment sensitizes steels to intergranular corrosion via precipitation of carbides and nitrides rich in chromium and molybdenum, causing depletion of the adjacent matrix [Results and Discussion]
+- mechanical_surface_preparation: Surface polished using standard metallographic techniques, finishing with a distilled water slurry of 0.3 µm alumina; edges masked with clear Glyptal varnish [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.5 by 0.6 cm (0.3 cm²) [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiodynamic scanning [Experimental]
+- electrochemical_mode: Potentiodynamic polarization [Results and Discussion]
+- solution_chemistry_summary: 1.0M NaCl saturated with nitrogen [Experimental]
+- operating_parameters_summary: Potential scanned in the noble direction starting at -0.7V [Experimental]
+- overarching_environmental_conditions: Temperature controlled within ±0.5°C at room temperature conditions [Experimental]
+- pitting_potential: -0.01 V (SCE) [Results and Discussion]
+- electrolyte_temperature: 25 °C [Results and Discussion]
+- continuous_sweep_rate: 200 mV/hr [Results and Discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Results and Discussion]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 1.0 M [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen [ABSTRACT]
+- purge_gas_type: Nitrogen [ABSTRACT]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Experimental]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steels [ABSTRACT]
+- elemental_weight_percentages: 18.45% Cr, 1.97% Mo, 0.11% Ni, 0.13% Si, 0.034% C, 0.045% N, 0.47% Ti, assumed balance Fe [Experimental]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Ferrite matrix [Results and Discussion]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Ferrite [Results and Discussion]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 4073A (815°C WQ) [Experimental]
+- fabrication_steps: Produced by induction-melting in an argon atmosphere using the split-heat technique; hot-forged and hot-rolled to 0.76 cm thick strips; cold-rolled to 0.38 cm thickness [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 815°C [Results and Discussion]
+- cooling_methods: Water-quenched [Results and Discussion]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Surface polished using standard metallographic techniques, finishing with a distilled water slurry of 0.3 µm alumina; edges masked with clear Glyptal varnish [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.5 by 0.6 cm (0.3 cm²) [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiodynamic scanning [Experimental]
+- electrochemical_mode: Potentiodynamic polarization [Results and Discussion]
+- solution_chemistry_summary: 1.0M NaCl saturated with nitrogen [Experimental]
+- operating_parameters_summary: Potential scanned in the noble direction starting at -0.7V [Experimental]
+- overarching_environmental_conditions: Temperature controlled within ±0.5°C using a heating mantle and temperature controller [Experimental]
+- pitting_potential: 0.27 V (SCE) [Results and Discussion]
+- electrolyte_temperature: 45 °C [Results and Discussion]
+- continuous_sweep_rate: 2000 mV/hr [Results and Discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Results and Discussion]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 1.0 M [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen [ABSTRACT]
+- purge_gas_type: Nitrogen [ABSTRACT]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Experimental]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic scanning [Experimental]
+- electrochemical_mode: Potentiodynamic polarization [Results and Discussion]
+- solution_chemistry_summary: 1.0M NaCl saturated with nitrogen [Experimental]
+- operating_parameters_summary: Potential scanned in the noble direction starting at -0.7V [Experimental]
+- overarching_environmental_conditions: Temperature controlled within ±0.5°C using a heating mantle and temperature controller [Experimental]
+- pitting_potential: 0.35 V (SCE) [Results and Discussion]
+- electrolyte_temperature: 45 °C [Results and Discussion]
+- continuous_sweep_rate: 2000 mV/hr [Results and Discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Results and Discussion]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 1.0 M [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen [ABSTRACT]
+- purge_gas_type: Nitrogen [ABSTRACT]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Experimental]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic scanning [Experimental]
+- electrochemical_mode: Potentiodynamic polarization [Results and Discussion]
+- solution_chemistry_summary: 1.0M NaCl saturated with nitrogen [Experimental]
+- operating_parameters_summary: Potential scanned in the noble direction starting at -0.7V [Experimental]
+- overarching_environmental_conditions: Temperature controlled within ±0.5°C using a heating mantle and temperature controller [Experimental]
+- pitting_potential: 0.29 V (SCE) [Results and Discussion]
+- electrolyte_temperature: 45 °C [Results and Discussion]
+- continuous_sweep_rate: 2000 mV/hr [Results and Discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Results and Discussion]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 1.0 M [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen [ABSTRACT]
+- purge_gas_type: Nitrogen [ABSTRACT]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Experimental]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 4073A (925°C WQ) [Experimental]
+- fabrication_steps: Produced by induction-melting in an argon atmosphere using the split-heat technique; hot-forged and hot-rolled to 0.76 cm thick strips; cold-rolled to 0.38 cm thickness [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 925°C [Results and Discussion]
+- cooling_methods: Water-quenched [Results and Discussion]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Surface polished using standard metallographic techniques, finishing with a distilled water slurry of 0.3 µm alumina; edges masked with clear Glyptal varnish [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.5 by 0.6 cm (0.3 cm²) [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiodynamic scanning [Experimental]
+- electrochemical_mode: Potentiodynamic polarization [Results and Discussion]
+- solution_chemistry_summary: 1.0M NaCl saturated with nitrogen [Experimental]
+- operating_parameters_summary: Potential scanned in the noble direction starting at -0.7V [Experimental]
+- overarching_environmental_conditions: Temperature controlled within ±0.5°C using a heating mantle and temperature controller [Experimental]
+- pitting_potential: 0.30 V (SCE) [Results and Discussion]
+- electrolyte_temperature: 45 °C [Results and Discussion]
+- continuous_sweep_rate: 2000 mV/hr [Results and Discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Results and Discussion]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 1.0 M [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen [ABSTRACT]
+- purge_gas_type: Nitrogen [ABSTRACT]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Experimental]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 4073A (1035°C WQ) [Experimental]
+- fabrication_steps: Produced by induction-melting in an argon atmosphere using the split-heat technique; hot-forged and hot-rolled to 0.76 cm thick strips; cold-rolled to 0.38 cm thickness [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 1035°C [Results and Discussion]
+- cooling_methods: Water-quenched [Results and Discussion]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Surface polished using standard metallographic techniques, finishing with a distilled water slurry of 0.3 µm alumina; edges masked with clear Glyptal varnish [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.5 by 0.6 cm (0.3 cm²) [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiodynamic scanning [Experimental]
+- electrochemical_mode: Potentiodynamic polarization [Results and Discussion]
+- solution_chemistry_summary: 1.0M NaCl saturated with nitrogen [Experimental]
+- operating_parameters_summary: Potential scanned in the noble direction starting at -0.7V [Experimental]
+- overarching_environmental_conditions: Temperature controlled within ±0.5°C using a heating mantle and temperature controller [Experimental]
+- pitting_potential: 0.53 V (SCE) [Results and Discussion]
+- electrolyte_temperature: 45 °C [Results and Discussion]
+- continuous_sweep_rate: 2000 mV/hr [Results and Discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Results and Discussion]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 1.0 M [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen [ABSTRACT]
+- purge_gas_type: Nitrogen [ABSTRACT]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Experimental]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic scanning [Experimental]
+- electrochemical_mode: Potentiodynamic polarization [Results and Discussion]
+- solution_chemistry_summary: 1.0M NaCl saturated with nitrogen [Experimental]
+- operating_parameters_summary: Potential scanned in the noble direction starting at -0.7V [Experimental]
+- overarching_environmental_conditions: Temperature controlled within ±0.5°C using a heating mantle and temperature controller [Experimental]
+- pitting_potential: 0.59 V (SCE) [Results and Discussion]
+- electrolyte_temperature: 45 °C [Results and Discussion]
+- continuous_sweep_rate: 2000 mV/hr [Results and Discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Results and Discussion]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 1.0 M [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen [ABSTRACT]
+- purge_gas_type: Nitrogen [ABSTRACT]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Experimental]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic scanning [Experimental]
+- electrochemical_mode: Potentiodynamic polarization [Results and Discussion]
+- solution_chemistry_summary: 1.0M NaCl saturated with nitrogen [Experimental]
+- operating_parameters_summary: Potential scanned in the noble direction starting at -0.7V [Experimental]
+- overarching_environmental_conditions: Temperature controlled within ±0.5°C using a heating mantle and temperature controller [Experimental]
+- pitting_potential: 0.50 V (SCE) [Results and Discussion]
+- electrolyte_temperature: 45 °C [Results and Discussion]
+- continuous_sweep_rate: 2000 mV/hr [Results and Discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Results and Discussion]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 1.0 M [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen [ABSTRACT]
+- purge_gas_type: Nitrogen [ABSTRACT]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Experimental]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

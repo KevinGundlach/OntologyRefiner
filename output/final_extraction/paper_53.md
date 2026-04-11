@@ -1,0 +1,467 @@
+# Stahl A
+- standard_designation: Austenitischer 18/10 Chrom-Nickel-Stahl [Title]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic Stainless Steels [Title]
+- elemental_weight_percentages: 0.019 C, 0.49 Si, 1.01 Mn, 0.017 P, 0.007 S, 18.60 Cr, 11.05 Ni, 0.03 Mo, 0.022 N [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic matrix [Title]
+- average_grain_dimensions: Korngröße 5 nach ASTM (after 1050 °C/W); Korngröße 1 nach ASTM (after 1300 °C/W) [Section 3.1]
+- crystallographic_phases: Austenitic matrix. Sensitization heat treatments induce chromreiche Karbide der Art M23C6 [Section 3.1]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Stahl A - 15 min 1050 °C/W
+- material_identification: Stahl A - Lösungsgeglüht 15 min 1050 °C/W [Section 2]
+- fabrication_steps: Kaltverformt um 20% bis auf eine Enddicke von 2.4 mm (Cold-formed by 20% to a final thickness of 2.4 mm) [Section 2]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Lösungsglühen 15 min 1050 °C [Section 2]
+- cooling_methods: Water quenching (W) [Section 2]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled in nitric-hydrochloric acid (Salpetersäure-Salzsäure-Beize), washed in water and acetone, and left air passivated (luftpassiv) [Section 2]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 15 x 15 mm [Section 2]
+
+### Experiment 1
+- experimental_test_type: Potentiokinetic polarization testing (Potentiokinetische Messung) [Table 3]
+- electrochemical_mode: Potentiodynamic [Table 3]
+- solution_chemistry_summary: 1 m Natriumchlorid-Lösung (1 m NaCl) [Table 3]
+- operating_parameters_summary: 20 °C, purged with purified nitrogen, continuous potentiodynamic sweep at 0.12 V/h in circulation cells [Section 2, Table 3]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.21 V, 0.26 V, 0.19 V [Table 3, Table 4, Table 5]
+- electrolyte_temperature: 20 °C [Table 3]
+- continuous_sweep_rate: 0.12 V/h [Table 3]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (gesättigte Kalomelelektrode), with values converted to the Standard Hydrogen Electrode scale (VH) [Section 2]
+- electrolyte_solvents: Water (wäßrige Lösung) [Section 1]
+- electrolyte_primary_salts: NaCl [Table 3]
+- electrolyte_molar_concentrations: 1 m NaCl [Table 3]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Purged/Deaerated (mit nachgereinigtem Stickstoff durchspült) [Section 2]
+- purge_gas_type: Purified nitrogen (nachgereinigtem Stickstoff) [Section 2]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum (Platinnetzelektroden) [Section 2]
+- counter_electrode_geometry: Mesh (Netz) [Section 2]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Without diaphragm (ohne Diaphragma) [Section 2]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Stahl A - 15 min 1300 °C/W
+- material_identification: Stahl A - Lösungsgeglüht 15 min 1300 °C/W [Section 2]
+- fabrication_steps: Kaltverformt um 20% bis auf eine Enddicke von 2.4 mm [Section 2]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Lösungsglühen 15 min 1300 °C [Section 2]
+- cooling_methods: Water quenching (W) [Section 2]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled in nitric-hydrochloric acid (Salpetersäure-Salzsäure-Beize), washed in water and acetone, and left air passivated [Section 2]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 15 x 15 mm [Section 2]
+
+### Experiment 1
+- experimental_test_type: Potentiokinetic polarization testing (Potentiokinetische Messung) [Table 4]
+- electrochemical_mode: Potentiodynamic [Table 4]
+- solution_chemistry_summary: 1 m Natriumchlorid-Lösung (1 m NaCl) [Table 4]
+- operating_parameters_summary: 20 °C, purged with purified nitrogen, continuous potentiodynamic sweep at 0.04 V/h in circulation cells [Section 2, Table 4]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.225 V, 0.300 V, 0.140 V, 0.200 V, 0.315 V [Table 4]
+- electrolyte_temperature: 20 °C [Table 4]
+- continuous_sweep_rate: 0.04 V/h [Table 4]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (gesättigte Kalomelelektrode), with values converted to the Standard Hydrogen Electrode scale (VH) [Section 2]
+- electrolyte_solvents: Water (wäßrige Lösung) [Section 1]
+- electrolyte_primary_salts: NaCl [Table 4]
+- electrolyte_molar_concentrations: 1 m NaCl [Table 4]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Purged/Deaerated (mit nachgereinigtem Stickstoff durchspült) [Section 2]
+- purge_gas_type: Purified nitrogen (nachgereinigtem Stickstoff) [Section 2]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum (Platinnetzelektroden) [Section 2]
+- counter_electrode_geometry: Mesh (Netz) [Section 2]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Without diaphragm (ohne Diaphragma) [Section 2]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Stahl A - 15 min 1050 °C/W + 300 h 600 °C/L
+- material_identification: Stahl A - Angelassen 15 min 1050 °C/W + 300 h 600 °C/L [Section 2, Table 5]
+- fabrication_steps: Kaltverformt um 20% bis auf eine Enddicke von 2.4 mm [Section 2]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Lösungsglühen 15 min 1050 °C followed by tempering at 600 °C for 300 h [Section 2]
+- cooling_methods: Water quenching (W) for annealing, Air cooling (L) for tempering [Section 2]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Sensibilisierende Wärmebehandlung [Table 5]
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled in nitric-hydrochloric acid (Salpetersäure-Salzsäure-Beize), washed in water and acetone, and left air passivated [Section 2]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 15 x 15 mm [Section 2]
+
+### Experiment 1
+- experimental_test_type: Potentiokinetic polarization testing (Potentiokinetische Messung) [Table 5]
+- electrochemical_mode: Potentiodynamic [Table 5]
+- solution_chemistry_summary: 1 m Natriumchlorid-Lösung (1 m NaCl) [Table 5]
+- operating_parameters_summary: 20 °C, purged with purified nitrogen, continuous potentiodynamic sweep at 0.12 V/h in circulation cells [Section 2, Table 5]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.31 V, 0.31 V [Table 5]
+- electrolyte_temperature: 20 °C [Table 5]
+- continuous_sweep_rate: 0.12 V/h [Table 5]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (gesättigte Kalomelelektrode), with values converted to the Standard Hydrogen Electrode scale (VH) [Section 2]
+- electrolyte_solvents: Water (wäßrige Lösung) [Section 1]
+- electrolyte_primary_salts: NaCl [Table 5]
+- electrolyte_molar_concentrations: 1 m NaCl [Table 5]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Purged/Deaerated (mit nachgereinigtem Stickstoff durchspült) [Section 2]
+- purge_gas_type: Purified nitrogen (nachgereinigtem Stickstoff) [Section 2]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum (Platinnetzelektroden) [Section 2]
+- counter_electrode_geometry: Mesh (Netz) [Section 2]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Without diaphragm (ohne Diaphragma) [Section 2]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Stahl C
+- standard_designation: Austenitischer 18/10 Chrom-Nickel-Stahl [Title]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic Stainless Steels [Title]
+- elemental_weight_percentages: 0.023 C, 0.60 Si, 0.95 Mn, 0.017 P, 0.004 S, 18.40 Cr, 11.15 Ni, 0.03 Mo, 0.138 N [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic matrix [Title]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenitic matrix. Sensitization heat treatments induce chromreiche Karbide der Art M23C6 [Section 3.1]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Stahl C - 15 min 1050 °C/W
+- material_identification: Stahl C - Lösungsgeglüht 15 min 1050 °C/W [Section 2]
+- fabrication_steps: Kaltverformt um 20% bis auf eine Enddicke von 2.4 mm [Section 2]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Lösungsglühen 15 min 1050 °C [Section 2]
+- cooling_methods: Water quenching (W) [Section 2]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled in nitric-hydrochloric acid (Salpetersäure-Salzsäure-Beize), washed in water and acetone, and left air passivated [Section 2]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 15 x 15 mm [Section 2]
+
+### Experiment 1
+- experimental_test_type: Potentiokinetic polarization testing [Table 3]
+- electrochemical_mode: Potentiodynamic [Table 3]
+- solution_chemistry_summary: 1 m Natriumchlorid-Lösung (1 m NaCl) [Table 3]
+- operating_parameters_summary: 20 °C, purged with purified nitrogen, continuous potentiodynamic sweep at 0.12 V/h in circulation cells [Section 2, Table 3]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.24 V, 0.21 V, 0.22 V [Table 3]
+- electrolyte_temperature: 20 °C [Table 3]
+- continuous_sweep_rate: 0.12 V/h [Table 3]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (gesättigte Kalomelelektrode), with values converted to the Standard Hydrogen Electrode scale (VH) [Section 2]
+- electrolyte_solvents: Water (wäßrige Lösung) [Section 1]
+- electrolyte_primary_salts: NaCl [Table 3]
+- electrolyte_molar_concentrations: 1 m NaCl [Table 3]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Purged/Deaerated (mit nachgereinigtem Stickstoff durchspült) [Section 2]
+- purge_gas_type: Purified nitrogen (nachgereinigtem Stickstoff) [Section 2]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum (Platinnetzelektroden) [Section 2]
+- counter_electrode_geometry: Mesh (Netz) [Section 2]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Without diaphragm (ohne Diaphragma) [Section 2]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Stahl C - 15 min 1050 °C/W + 300 h 600 °C/L
+- material_identification: Stahl C - Angelassen 15 min 1050 °C/W + 300 h 600 °C/L [Section 2, Table 5]
+- fabrication_steps: Kaltverformt um 20% bis auf eine Enddicke von 2.4 mm [Section 2]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Lösungsglühen 15 min 1050 °C followed by tempering at 600 °C for 300 h [Section 2]
+- cooling_methods: Water quenching (W) for annealing, Air cooling (L) for tempering [Section 2]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Sensibilisierende Wärmebehandlung [Table 5]
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled in nitric-hydrochloric acid (Salpetersäure-Salzsäure-Beize), washed in water and acetone, and left air passivated [Section 2]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 15 x 15 mm [Section 2]
+
+### Experiment 1
+- experimental_test_type: Potentiokinetic polarization testing [Table 5]
+- electrochemical_mode: Potentiodynamic [Table 5]
+- solution_chemistry_summary: 1 m Natriumchlorid-Lösung (1 m NaCl) [Table 5]
+- operating_parameters_summary: 20 °C, purged with purified nitrogen, continuous potentiodynamic sweep at 0.12 V/h in circulation cells [Section 2, Table 5]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.32 V [Table 5]
+- electrolyte_temperature: 20 °C [Table 5]
+- continuous_sweep_rate: 0.12 V/h [Table 5]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (gesättigte Kalomelelektrode), with values converted to the Standard Hydrogen Electrode scale (VH) [Section 2]
+- electrolyte_solvents: Water (wäßrige Lösung) [Section 1]
+- electrolyte_primary_salts: NaCl [Table 5]
+- electrolyte_molar_concentrations: 1 m NaCl [Table 5]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Purged/Deaerated (mit nachgereinigtem Stickstoff durchspült) [Section 2]
+- purge_gas_type: Purified nitrogen (nachgereinigtem Stickstoff) [Section 2]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum (Platinnetzelektroden) [Section 2]
+- counter_electrode_geometry: Mesh (Netz) [Section 2]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Without diaphragm (ohne Diaphragma) [Section 2]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Stahl D
+- standard_designation: Austenitischer 18/12 Chrom-Nickel-Molybdän-Stahl [Title]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic Stainless Steels [Title]
+- elemental_weight_percentages: 0.020 C, 0.53 Si, 1.67 Mn, 0.018 P, 0.008 S, 17.35 Cr, 13.70 Ni, 2.69 Mo, 0.044 N [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic matrix [Title]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenitic matrix. Sensitization heat treatments induce M23C6 carbides, Laves-Phase (Fe2Mo), χ-Phase, σ-Phase, and Z-Phase depending on composition and temperature [Section 3.1]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Stahl D - 15 min 1050 °C/W
+- material_identification: Stahl D - Lösungsgeglüht 15 min 1050 °C/W [Section 2]
+- fabrication_steps: Kaltverformt um 20% bis auf eine Enddicke von 2.4 mm [Section 2]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Lösungsglühen 15 min 1050 °C [Section 2]
+- cooling_methods: Water quenching (W) [Section 2]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled in nitric-hydrochloric acid (Salpetersäure-Salzsäure-Beize), washed in water and acetone, and left air passivated [Section 2]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 15 x 15 mm [Section 2]
+
+### Experiment 1
+- experimental_test_type: Potentiokinetic polarization testing [Table 3]
+- electrochemical_mode: Potentiodynamic [Table 3]
+- solution_chemistry_summary: 1 m Natriumchlorid-Lösung (1 m NaCl) [Table 3]
+- operating_parameters_summary: 20 °C, purged with purified nitrogen, continuous potentiodynamic sweep at 0.12 V/h in circulation cells [Section 2, Table 3]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.78 V, 0.51 V, 0.41 V [Table 3]
+- electrolyte_temperature: 20 °C [Table 3]
+- continuous_sweep_rate: 0.12 V/h [Table 3]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (gesättigte Kalomelelektrode), with values converted to the Standard Hydrogen Electrode scale (VH) [Section 2]
+- electrolyte_solvents: Water (wäßrige Lösung) [Section 1]
+- electrolyte_primary_salts: NaCl [Table 3]
+- electrolyte_molar_concentrations: 1 m NaCl [Table 3]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Purged/Deaerated (mit nachgereinigtem Stickstoff durchspült) [Section 2]
+- purge_gas_type: Purified nitrogen (nachgereinigtem Stickstoff) [Section 2]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum (Platinnetzelektroden) [Section 2]
+- counter_electrode_geometry: Mesh (Netz) [Section 2]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Without diaphragm (ohne Diaphragma) [Section 2]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Stahl D - 15 min 1050 °C/W + 300 h 650 °C/L
+- material_identification: Stahl D - Angelassen 15 min 1050 °C/W + 300 h 650 °C/L [Section 2, Table 5]
+- fabrication_steps: Kaltverformt um 20% bis auf eine Enddicke von 2.4 mm [Section 2]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Lösungsglühen 15 min 1050 °C followed by tempering at 650 °C for 300 h [Section 2]
+- cooling_methods: Water quenching (W) for annealing, Air cooling (L) for tempering [Section 2]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Sensibilisierende Wärmebehandlung [Table 5]
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled in nitric-hydrochloric acid (Salpetersäure-Salzsäure-Beize), washed in water and acetone, and left air passivated [Section 2]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 15 x 15 mm [Section 2]
+
+### Experiment 1
+- experimental_test_type: Potentiokinetic polarization testing [Table 5]
+- electrochemical_mode: Potentiodynamic [Table 5]
+- solution_chemistry_summary: 1 m Natriumchlorid-Lösung (1 m NaCl) [Table 5]
+- operating_parameters_summary: 20 °C, purged with purified nitrogen, continuous potentiodynamic sweep at 0.12 V/h in circulation cells [Section 2, Table 5]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.29 V [Table 5]
+- electrolyte_temperature: 20 °C [Table 5]
+- continuous_sweep_rate: 0.12 V/h [Table 5]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (gesättigte Kalomelelektrode), with values converted to the Standard Hydrogen Electrode scale (VH) [Section 2]
+- electrolyte_solvents: Water (wäßrige Lösung) [Section 1]
+- electrolyte_primary_salts: NaCl [Table 5]
+- electrolyte_molar_concentrations: 1 m NaCl [Table 5]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Purged/Deaerated (mit nachgereinigtem Stickstoff durchspült) [Section 2]
+- purge_gas_type: Purified nitrogen (nachgereinigtem Stickstoff) [Section 2]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum (Platinnetzelektroden) [Section 2]
+- counter_electrode_geometry: Mesh (Netz) [Section 2]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Without diaphragm (ohne Diaphragma) [Section 2]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Stahl F
+- standard_designation: Austenitischer 18/12 Chrom-Nickel-Molybdän-Stahl [Title]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic Stainless Steels [Title]
+- elemental_weight_percentages: 0.028 C, 0.53 Si, 1.69 Mn, 0.018 P, 0.008 S, 17.12 Cr, 13.60 Ni, 2.62 Mo, 0.130 N [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic matrix [Title]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenitic matrix. Sensitization heat treatments induce M23C6 carbides, Laves-Phase (Fe2Mo), χ-Phase, σ-Phase, Z-Phase, and possibly Chromnitrid Cr2N [Section 3.1]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Stahl F - 15 min 1050 °C/W
+- material_identification: Stahl F - Lösungsgeglüht 15 min 1050 °C/W [Section 2]
+- fabrication_steps: Kaltverformt um 20% bis auf eine Enddicke von 2.4 mm [Section 2]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Lösungsglühen 15 min 1050 °C [Section 2]
+- cooling_methods: Water quenching (W) [Section 2]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled in nitric-hydrochloric acid (Salpetersäure-Salzsäure-Beize), washed in water and acetone, and left air passivated [Section 2]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 15 x 15 mm [Section 2]
+
+### Experiment 1
+- experimental_test_type: Potentiokinetic polarization testing [Table 3]
+- electrochemical_mode: Potentiodynamic [Table 3]
+- solution_chemistry_summary: 1 m Natriumchlorid-Lösung (1 m NaCl) [Table 3]
+- operating_parameters_summary: 20 °C, purged with purified nitrogen, continuous potentiodynamic sweep at 0.12 V/h in circulation cells [Section 2, Table 3]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.73 V, 0.83 V, 0.67 V [Table 3]
+- electrolyte_temperature: 20 °C [Table 3]
+- continuous_sweep_rate: 0.12 V/h [Table 3]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (gesättigte Kalomelelektrode), with values converted to the Standard Hydrogen Electrode scale (VH) [Section 2]
+- electrolyte_solvents: Water (wäßrige Lösung) [Section 1]
+- electrolyte_primary_salts: NaCl [Table 3]
+- electrolyte_molar_concentrations: 1 m NaCl [Table 3]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Purged/Deaerated (mit nachgereinigtem Stickstoff durchspült) [Section 2]
+- purge_gas_type: Purified nitrogen (nachgereinigtem Stickstoff) [Section 2]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum (Platinnetzelektroden) [Section 2]
+- counter_electrode_geometry: Mesh (Netz) [Section 2]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Without diaphragm (ohne Diaphragma) [Section 2]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Stahl F - 15 min 1050 °C/W + 300 h 650 °C/L
+- material_identification: Stahl F - Angelassen 15 min 1050 °C/W + 300 h 650 °C/L (Labelled 'E' in Table 5 due to typographical error in source, but explicitly assigned to F in experimental setup description) [Section 2, Table 5]
+- fabrication_steps: Kaltverformt um 20% bis auf eine Enddicke von 2.4 mm [Section 2]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Lösungsglühen 15 min 1050 °C followed by tempering at 650 °C for 300 h [Section 2]
+- cooling_methods: Water quenching (W) for annealing, Air cooling (L) for tempering [Section 2]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Sensibilisierende Wärmebehandlung [Table 5]
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled in nitric-hydrochloric acid (Salpetersäure-Salzsäure-Beize), washed in water and acetone, and left air passivated [Section 2]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 15 x 15 mm [Section 2]
+
+### Experiment 1
+- experimental_test_type: Potentiokinetic polarization testing [Table 5]
+- electrochemical_mode: Potentiodynamic [Table 5]
+- solution_chemistry_summary: 1 m Natriumchlorid-Lösung (1 m NaCl) [Table 5]
+- operating_parameters_summary: 20 °C, purged with purified nitrogen, continuous potentiodynamic sweep at 0.12 V/h in circulation cells [Section 2, Table 5]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.27 V [Table 5]
+- electrolyte_temperature: 20 °C [Table 5]
+- continuous_sweep_rate: 0.12 V/h [Table 5]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (gesättigte Kalomelelektrode), with values converted to the Standard Hydrogen Electrode scale (VH) [Section 2]
+- electrolyte_solvents: Water (wäßrige Lösung) [Section 1]
+- electrolyte_primary_salts: NaCl [Table 5]
+- electrolyte_molar_concentrations: 1 m NaCl [Table 5]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Purged/Deaerated (mit nachgereinigtem Stickstoff durchspült) [Section 2]
+- purge_gas_type: Purified nitrogen (nachgereinigtem Stickstoff) [Section 2]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum (Platinnetzelektroden) [Section 2]
+- counter_electrode_geometry: Mesh (Netz) [Section 2]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Without diaphragm (ohne Diaphragma) [Section 2]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

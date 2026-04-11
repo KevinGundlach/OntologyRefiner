@@ -1,0 +1,1409 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: 18% Cr austenitic stainless steels, Family 4 [Abstract, Table 1]
+- elemental_weight_percentages: 18.3% Cr, 20.3% Ni, 0.36% Mn, 0.04% C, 0.19% N, 3.5% Si, 0.009% P, 0.005% S, 3.79% Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic [Abstract]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Single-phase [Test Method for Determining CCT]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 1 (Heat 8682-4) [Table 1]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Quench-annealed [Test Method for Determining CCT]
+- cooling_methods: Quenched [Test Method for Determining CCT]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded surfaces (120 grit silicon carbide) [Test Method for Determining CCT]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Test Method for Determining CCT]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Immersion test for Crevice Corrosion Temperature (CCT) determination [Test Method for Determining CCT]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 10% FeCl3 [Test Method for Determining CCT]
+- operating_parameters_summary: Samples exposed for 24 hours at a fixed temperature in at least two of three crevice configurations (metal to metal, Teflon to metal, rubber to metal). Tests were continued with 2.5 °C temperature increments until attack was observed. [Test Method for Determining CCT]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Varied incrementally by 2.5 °C [Test Method for Determining CCT]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Test Method for Determining CCT]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: 18% Cr austenitic stainless steels, Family 1 [Abstract, Table 1]
+- elemental_weight_percentages: 17.62% Cr, 12.51% Ni, 1.66% Mn, 0.02% C, 0.07% N, 0.71% Si, 0.012% P, 0.013% S, 3.85% Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic [Abstract]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Single-phase [Test Method for Determining CCT]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 2 (Heat 8427-4) [Table 1]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Quench-annealed [Test Method for Determining CCT]
+- cooling_methods: Quenched [Test Method for Determining CCT]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded surfaces (120 grit silicon carbide) [Test Method for Determining CCT]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Test Method for Determining CCT]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Immersion test for Crevice Corrosion Temperature (CCT) determination [Test Method for Determining CCT]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 10% FeCl3 [Test Method for Determining CCT]
+- operating_parameters_summary: Samples exposed for 24 hours at a fixed temperature in at least two of three crevice configurations (metal to metal, Teflon to metal, rubber to metal). Tests were continued with 2.5 °C temperature increments until attack was observed. [Test Method for Determining CCT]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Varied incrementally by 2.5 °C [Test Method for Determining CCT]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Test Method for Determining CCT]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: 18% Cr austenitic stainless steels, Family 1 [Abstract, Table 1]
+- elemental_weight_percentages: 18.89% Cr, 15.13% Ni, 0.02% C, 4.05% Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic [Abstract]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Single-phase [Test Method for Determining CCT]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 3 (Heat 7903-1) [Table 1]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Quench-annealed [Test Method for Determining CCT]
+- cooling_methods: Quenched [Test Method for Determining CCT]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded surfaces (120 grit silicon carbide) [Test Method for Determining CCT]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Test Method for Determining CCT]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Immersion test for Crevice Corrosion Temperature (CCT) determination [Test Method for Determining CCT]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 10% FeCl3 [Test Method for Determining CCT]
+- operating_parameters_summary: Samples exposed for 24 hours at a fixed temperature in at least two of three crevice configurations (metal to metal, Teflon to metal, rubber to metal). Tests were continued with 2.5 °C temperature increments until attack was observed. [Test Method for Determining CCT]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Varied incrementally by 2.5 °C [Test Method for Determining CCT]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Test Method for Determining CCT]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: 18% Cr austenitic stainless steels, Family 2 [Abstract, Table 1]
+- elemental_weight_percentages: 19.0% Cr, 20.0% Ni, 0.09% Mn, 0.03% C, 0.20% N, 0.33% Si, 0.016% P, 0.011% S, 0.01% Cu, 4.45% Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic [Abstract]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Single-phase [Test Method for Determining CCT]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 4 (Heat 7466-2) [Table 1]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Quench-annealed [Test Method for Determining CCT]
+- cooling_methods: Quenched [Test Method for Determining CCT]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded surfaces (120 grit silicon carbide) [Test Method for Determining CCT]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Test Method for Determining CCT]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Immersion test for Crevice Corrosion Temperature (CCT) determination [Test Method for Determining CCT]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 10% FeCl3 [Test Method for Determining CCT]
+- operating_parameters_summary: Samples exposed for 24 hours at a fixed temperature in at least two of three crevice configurations (metal to metal, Teflon to metal, rubber to metal). Tests were continued with 2.5 °C temperature increments until attack was observed. [Test Method for Determining CCT]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Varied incrementally by 2.5 °C [Test Method for Determining CCT]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Test Method for Determining CCT]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: 18% Cr austenitic stainless steels, Family 2 [Abstract, Table 1]
+- elemental_weight_percentages: 19.0% Cr, 20.0% Ni, 0.96% Mn, 0.03% C, 0.20% N, 0.44% Si, 0.012% P, 0.012% S, 0.01% Cu, 4.48% Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic [Abstract]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Single-phase [Test Method for Determining CCT]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 5 (Heat 7580-2) [Table 1]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Quench-annealed [Test Method for Determining CCT]
+- cooling_methods: Quenched [Test Method for Determining CCT]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded surfaces (120 grit silicon carbide) [Test Method for Determining CCT]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Test Method for Determining CCT]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Immersion test for Crevice Corrosion Temperature (CCT) determination [Test Method for Determining CCT]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 10% FeCl3 [Test Method for Determining CCT]
+- operating_parameters_summary: Samples exposed for 24 hours at a fixed temperature in at least two of three crevice configurations. Tests were continued with 2.5 °C temperature increments until attack was observed. [Test Method for Determining CCT]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Varied incrementally by 2.5 °C [Test Method for Determining CCT]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Test Method for Determining CCT]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Field exposure test for crevice corrosion [Rate of Crevice Corrosion]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: Sea water [Rate of Crevice Corrosion]
+- operating_parameters_summary: Samples with severe artificial crevices exposed for 3 years in sea water in Halifax Harbor. The alloy was attacked during this exposure. [Rate of Crevice Corrosion]
+- overarching_environmental_conditions: Field exposure in Halifax Harbor [Rate of Crevice Corrosion]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Maximum temperature 15 °C [Rate of Crevice Corrosion]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Weight loss test for active corrosion rate [Corrosion Rates in HCl]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: Concentrated (37.5%) HCl [Corrosion Rates in HCl]
+- operating_parameters_summary: Coupons exposed for 4 hours at 0, 25, and 50 °C (32, 77, and 122 °F). Weight losses measured to calculate corrosion rate in inches per month. [Corrosion Rates in HCl]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 0, 25, and 50 °C [Corrosion Rates in HCl]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: HCl [Corrosion Rates in HCl]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nitrogenated [Corrosion Rates in HCl]
+- purge_gas_type: Nitrogen [Corrosion Rates in HCl]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Commercial Alloy A [Table 1]
+- uns_code: Not specified in text.
+- alloy_family: 18% Cr austenitic stainless steels, Family 1 [Abstract, Table 1]
+- elemental_weight_percentages: 17.3% Cr, 23.8% Ni, 1.72% Mn, 0.018% C, 0.034% N, 0.44% Si, 0.010% P, 0.004% S, 4.60% Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic [Abstract]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Single-phase [Test Method for Determining CCT]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 6 (Alloy A) [Table 1]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Quench-annealed [Test Method for Determining CCT]
+- cooling_methods: Quenched [Test Method for Determining CCT]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded surfaces (120 grit silicon carbide) [Test Method for Determining CCT]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Test Method for Determining CCT]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Immersion test for Crevice Corrosion Temperature (CCT) determination [Test Method for Determining CCT]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 10% FeCl3 [Test Method for Determining CCT]
+- operating_parameters_summary: Samples exposed for 24 hours at a fixed temperature in at least two of three crevice configurations. Tests were continued with 2.5 °C temperature increments until attack was observed. [Test Method for Determining CCT]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Varied incrementally by 2.5 °C [Test Method for Determining CCT]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Test Method for Determining CCT]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: 18% Cr austenitic stainless steels, Family 2 [Abstract, Table 1]
+- elemental_weight_percentages: 18.0% Cr, 19.0% Ni, 0.93% Mn, 0.03% C, 0.20% N, 0.44% Si, 0.012% P, 0.012% S, 0.02% Cu, 5.60% Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic [Abstract]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Single-phase [Test Method for Determining CCT]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 7 (Heat 7580-3) [Table 1]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Quench-annealed [Test Method for Determining CCT]
+- cooling_methods: Quenched [Test Method for Determining CCT]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded surfaces (120 grit silicon carbide) [Test Method for Determining CCT]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Test Method for Determining CCT]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Immersion test for Crevice Corrosion Temperature (CCT) determination [Test Method for Determining CCT]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 10% FeCl3 [Test Method for Determining CCT]
+- operating_parameters_summary: Samples exposed for 24 hours at a fixed temperature in at least two of three crevice configurations. Tests were continued with 2.5 °C temperature increments until attack was observed. [Test Method for Determining CCT]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Varied incrementally by 2.5 °C [Test Method for Determining CCT]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Test Method for Determining CCT]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Field exposure test for crevice corrosion [Rate of Crevice Corrosion]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: Sea water [Rate of Crevice Corrosion]
+- operating_parameters_summary: Samples with severe artificial crevices exposed for 3 years in sea water in Halifax Harbor. Showed no crevice attack. [Rate of Crevice Corrosion]
+- overarching_environmental_conditions: Field exposure in Halifax Harbor [Rate of Crevice Corrosion]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Maximum temperature 15 °C [Rate of Crevice Corrosion]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Commercial Alloy B [Table 1]
+- uns_code: Not specified in text.
+- alloy_family: 18% Cr austenitic stainless steels, Family 2 [Abstract, Table 1]
+- elemental_weight_percentages: 15-17% Cr, 24-27% Ni, <2.0% Mn, <0.08% C, 0.10-0.20% N, <1.0% Si, 6.0% Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic [Abstract]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Single-phase [Test Method for Determining CCT]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 8 (Alloy B) [Table 1]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Quench-annealed [Test Method for Determining CCT]
+- cooling_methods: Quenched [Test Method for Determining CCT]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded surfaces (120 grit silicon carbide) [Test Method for Determining CCT]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Test Method for Determining CCT]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Immersion test for Crevice Corrosion Temperature (CCT) determination [Test Method for Determining CCT]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 10% FeCl3 [Test Method for Determining CCT]
+- operating_parameters_summary: Samples exposed for 24 hours at a fixed temperature in at least two of three crevice configurations. Tests were continued with 2.5 °C temperature increments until attack was observed. [Test Method for Determining CCT]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Varied incrementally by 2.5 °C [Test Method for Determining CCT]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Test Method for Determining CCT]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: 18% Cr austenitic stainless steels, Family 3 [Abstract, Table 1]
+- elemental_weight_percentages: 19.38% Cr, 22.68% Ni, 0.38% Mn, 0.04% C, 0.20% N, 0.47% Si, 0.014% P, 0.014% S, 6.04% Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic [Abstract]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Single-phase [Test Method for Determining CCT]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 9 (Heat 8426) [Table 1]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Quench-annealed [Test Method for Determining CCT]
+- cooling_methods: Quenched [Test Method for Determining CCT]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded surfaces (120 grit silicon carbide) [Test Method for Determining CCT]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Test Method for Determining CCT]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Immersion test for Crevice Corrosion Temperature (CCT) determination [Test Method for Determining CCT]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 10% FeCl3 [Test Method for Determining CCT]
+- operating_parameters_summary: Samples exposed for 24 hours at a fixed temperature in at least two of three crevice configurations. Tests were continued with 2.5 °C temperature increments until attack was observed. [Test Method for Determining CCT]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Varied incrementally by 2.5 °C [Test Method for Determining CCT]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Test Method for Determining CCT]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: 18% Cr austenitic stainless steels, Family 1 [Abstract, Table 1]
+- elemental_weight_percentages: 18.0% Cr, 19.0% Ni, 0.95% Mn, 0.02% C, 0.06% N, 0.48% Si, 0.011% P, 0.015% S, 0.02% Cu, 6.18% Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic [Abstract]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Single-phase [Test Method for Determining CCT]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 10 (Heat 7579-3) [Table 1]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Quench-annealed [Test Method for Determining CCT]
+- cooling_methods: Quenched [Test Method for Determining CCT]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded surfaces (120 grit silicon carbide) [Test Method for Determining CCT]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Test Method for Determining CCT]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Immersion test for Crevice Corrosion Temperature (CCT) determination [Test Method for Determining CCT]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 10% FeCl3 [Test Method for Determining CCT]
+- operating_parameters_summary: Samples exposed for 24 hours at a fixed temperature in at least two of three crevice configurations. Tests were continued with 2.5 °C temperature increments until attack was observed. [Test Method for Determining CCT]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Varied incrementally by 2.5 °C [Test Method for Determining CCT]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Test Method for Determining CCT]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Field exposure test for crevice corrosion [Rate of Crevice Corrosion]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: Sea water [Rate of Crevice Corrosion]
+- operating_parameters_summary: Samples with severe artificial crevices exposed for 3 years in sea water in Halifax Harbor. Showed no crevice attack. [Rate of Crevice Corrosion]
+- overarching_environmental_conditions: Field exposure in Halifax Harbor [Rate of Crevice Corrosion]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Maximum temperature 15 °C [Rate of Crevice Corrosion]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: 18% Cr austenitic stainless steels, Family 3 [Abstract, Table 1]
+- elemental_weight_percentages: 18.67% Cr, 23.8% Ni, 0.46% Mn, 0.043% C, 0.224% N, 0.33% Si, 0.013% P, 0.008% S, 6.3% Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic [Abstract]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Single-phase [Test Method for Determining CCT]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 11 (Heat 7995) [Table 1]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Quench-annealed [Test Method for Determining CCT]
+- cooling_methods: Quenched [Test Method for Determining CCT]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded surfaces (120 grit silicon carbide) [Test Method for Determining CCT]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Test Method for Determining CCT]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Immersion test for Crevice Corrosion Temperature (CCT) determination [Test Method for Determining CCT]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 10% FeCl3 [Test Method for Determining CCT]
+- operating_parameters_summary: Samples exposed for 24 hours at a fixed temperature in at least two of three crevice configurations. Tests were continued with 2.5 °C temperature increments until attack was observed. [Test Method for Determining CCT]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Varied incrementally by 2.5 °C [Test Method for Determining CCT]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Test Method for Determining CCT]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Weight loss test for active corrosion rate [Corrosion Rates in HCl]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: Concentrated (37.5%) HCl [Corrosion Rates in HCl]
+- operating_parameters_summary: Coupons exposed for 4 hours at 0, 25, and 50 °C (32, 77, and 122 °F). Weight losses measured to calculate corrosion rate in inches per month. [Corrosion Rates in HCl]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 0, 25, and 50 °C [Corrosion Rates in HCl]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: HCl [Corrosion Rates in HCl]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nitrogenated [Corrosion Rates in HCl]
+- purge_gas_type: Nitrogen [Corrosion Rates in HCl]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Commercial Alloy D [Table 1]
+- uns_code: Not specified in text.
+- alloy_family: 18% Cr austenitic stainless steels, Family 3 [Abstract, Table 1]
+- elemental_weight_percentages: 18.95% Cr, 23.61% Ni, 1.73% Mn, 0.038% C, 0.81% Si, 0.013% P, 0.004% S, 6.50% Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic [Abstract]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Single-phase [Test Method for Determining CCT]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 12 (Alloy D) [Table 1]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Quench-annealed [Test Method for Determining CCT]
+- cooling_methods: Quenched [Test Method for Determining CCT]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded surfaces (120 grit silicon carbide) [Test Method for Determining CCT]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Test Method for Determining CCT]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Immersion test for Crevice Corrosion Temperature (CCT) determination [Test Method for Determining CCT]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 10% FeCl3 [Test Method for Determining CCT]
+- operating_parameters_summary: Samples exposed for 24 hours at a fixed temperature in at least two of three crevice configurations. Tests were continued with 2.5 °C temperature increments until attack was observed. [Test Method for Determining CCT]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Varied incrementally by 2.5 °C [Test Method for Determining CCT]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Test Method for Determining CCT]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: 18% Cr austenitic stainless steels, Family 2 [Abstract, Table 1]
+- elemental_weight_percentages: 17.88% Cr, 18.96% Ni, 0.89% Mn, 0.03% C, 0.20% N, 0.43% Si, 0.012% P, 0.013% S, 0.02% Cu, 7.30% Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic [Abstract]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Single-phase [Test Method for Determining CCT]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 13 (Heat 7580-4) [Table 1]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Quench-annealed [Test Method for Determining CCT]
+- cooling_methods: Quenched [Test Method for Determining CCT]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded surfaces (120 grit silicon carbide) [Test Method for Determining CCT]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Test Method for Determining CCT]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Immersion test for Crevice Corrosion Temperature (CCT) determination [Test Method for Determining CCT]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 10% FeCl3 [Test Method for Determining CCT]
+- operating_parameters_summary: Samples exposed for 24 hours at a fixed temperature in at least two of three crevice configurations. Tests were continued with 2.5 °C temperature increments until attack was observed. [Test Method for Determining CCT]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Varied incrementally by 2.5 °C [Test Method for Determining CCT]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Test Method for Determining CCT]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Field exposure test for crevice corrosion [Rate of Crevice Corrosion]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: Sea water [Rate of Crevice Corrosion]
+- operating_parameters_summary: Samples with severe artificial crevices exposed for 3 years in sea water in Halifax Harbor. Showed no crevice attack. [Rate of Crevice Corrosion]
+- overarching_environmental_conditions: Field exposure in Halifax Harbor [Rate of Crevice Corrosion]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Maximum temperature 15 °C [Rate of Crevice Corrosion]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Weight loss test for active corrosion rate [Corrosion Rates in HCl]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: Concentrated (37.5%) HCl [Corrosion Rates in HCl]
+- operating_parameters_summary: Coupons exposed for 4 hours at 0, 25, and 50 °C (32, 77, and 122 °F). Weight losses measured to calculate corrosion rate in inches per month. [Corrosion Rates in HCl]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 0, 25, and 50 °C [Corrosion Rates in HCl]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: HCl [Corrosion Rates in HCl]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nitrogenated [Corrosion Rates in HCl]
+- purge_gas_type: Nitrogen [Corrosion Rates in HCl]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: 18% Cr austenitic stainless steels, Family 2 [Abstract, Table 1]
+- elemental_weight_percentages: 18.00% Cr, 18.93% Ni, 0.08% Mn, 0.07% C, 0.19% N, 0.32% Si, 0.019% P, 0.015% S, 0.02% Cu, 7.40% Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic [Abstract]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Single-phase [Test Method for Determining CCT]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 14 (Heat 7466-4) [Table 1]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Quench-annealed [Test Method for Determining CCT]
+- cooling_methods: Quenched [Test Method for Determining CCT]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded surfaces (120 grit silicon carbide) [Test Method for Determining CCT]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Test Method for Determining CCT]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Immersion test for Crevice Corrosion Temperature (CCT) determination [Test Method for Determining CCT]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 10% FeCl3 [Test Method for Determining CCT]
+- operating_parameters_summary: Samples exposed for 24 hours at a fixed temperature in at least two of three crevice configurations. Tests were continued with 2.5 °C temperature increments until attack was observed. [Test Method for Determining CCT]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Varied incrementally by 2.5 °C [Test Method for Determining CCT]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Test Method for Determining CCT]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: 18% Cr austenitic stainless steels, Family 1 [Abstract, Table 1]
+- elemental_weight_percentages: 17.64% Cr, 18.32% Ni, 0.90% Mn, 0.02% C, 0.06% N, 0.48% Si, 0.011% P, 0.015% S, 0.02% Cu, 7.56% Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic [Abstract]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Single-phase [Test Method for Determining CCT]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 15 (Heat 7579-4) [Table 1]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Quench-annealed [Test Method for Determining CCT]
+- cooling_methods: Quenched [Test Method for Determining CCT]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded surfaces (120 grit silicon carbide) [Test Method for Determining CCT]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Test Method for Determining CCT]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Immersion test for Crevice Corrosion Temperature (CCT) determination [Test Method for Determining CCT]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 10% FeCl3 [Test Method for Determining CCT]
+- operating_parameters_summary: Samples exposed for 24 hours at a fixed temperature in at least two of three crevice configurations. Tests were continued with 2.5 °C temperature increments until attack was observed. [Test Method for Determining CCT]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Varied incrementally by 2.5 °C [Test Method for Determining CCT]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Test Method for Determining CCT]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Field exposure test for crevice corrosion [Rate of Crevice Corrosion]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: Sea water [Rate of Crevice Corrosion]
+- operating_parameters_summary: Samples with severe artificial crevices exposed for 3 years in sea water in Halifax Harbor. Showed no crevice attack. [Rate of Crevice Corrosion]
+- overarching_environmental_conditions: Field exposure in Halifax Harbor [Rate of Crevice Corrosion]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Maximum temperature 15 °C [Rate of Crevice Corrosion]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: AISI 304 [Figure 2]
+- trade_name: Not specified in text.
+- commercial_grade: Commercial AISI steel [Corrosion Rates in HCl]
+- uns_code: Not specified in text.
+- alloy_family: Not specified in text.
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: AISI 304 [Figure 2]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Weight loss test for active corrosion rate [Corrosion Rates in HCl]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: Concentrated (37.5%) HCl [Corrosion Rates in HCl]
+- operating_parameters_summary: Coupons exposed for 4 hours at 0, 25, and 50 °C (32, 77, and 122 °F). Weight losses measured to calculate corrosion rate in inches per month. [Corrosion Rates in HCl]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 0, 25, and 50 °C [Corrosion Rates in HCl]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: HCl [Corrosion Rates in HCl]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nitrogenated [Corrosion Rates in HCl]
+- purge_gas_type: Nitrogen [Corrosion Rates in HCl]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: AISI 321 [Figure 2]
+- trade_name: Not specified in text.
+- commercial_grade: Commercial AISI steel [Corrosion Rates in HCl]
+- uns_code: Not specified in text.
+- alloy_family: Not specified in text.
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: AISI 321 [Figure 2]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Weight loss test for active corrosion rate [Corrosion Rates in HCl]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: Concentrated (37.5%) HCl [Corrosion Rates in HCl]
+- operating_parameters_summary: Coupons exposed for 4 hours at 0, 25, and 50 °C (32, 77, and 122 °F). Weight losses measured to calculate corrosion rate in inches per month. [Corrosion Rates in HCl]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 0, 25, and 50 °C [Corrosion Rates in HCl]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: HCl [Corrosion Rates in HCl]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nitrogenated [Corrosion Rates in HCl]
+- purge_gas_type: Nitrogen [Corrosion Rates in HCl]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: AISI 316L [Figure 2]
+- trade_name: Not specified in text.
+- commercial_grade: Commercial AISI steel [Corrosion Rates in HCl]
+- uns_code: Not specified in text.
+- alloy_family: Not specified in text.
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: AISI 316L [Figure 2]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Weight loss test for active corrosion rate [Corrosion Rates in HCl]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: Concentrated (37.5%) HCl [Corrosion Rates in HCl]
+- operating_parameters_summary: Coupons exposed for 4 hours at 0, 25, and 50 °C (32, 77, and 122 °F). Weight losses measured to calculate corrosion rate in inches per month. [Corrosion Rates in HCl]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 0, 25, and 50 °C [Corrosion Rates in HCl]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: HCl [Corrosion Rates in HCl]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nitrogenated [Corrosion Rates in HCl]
+- purge_gas_type: Nitrogen [Corrosion Rates in HCl]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: AISI 317L [Figure 2]
+- trade_name: Not specified in text.
+- commercial_grade: Commercial AISI steel [Corrosion Rates in HCl]
+- uns_code: Not specified in text.
+- alloy_family: Not specified in text.
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: AISI 317L [Figure 2]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Weight loss test for active corrosion rate [Corrosion Rates in HCl]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: Concentrated (37.5%) HCl [Corrosion Rates in HCl]
+- operating_parameters_summary: Coupons exposed for 4 hours at 0, 25, and 50 °C (32, 77, and 122 °F). Weight losses measured to calculate corrosion rate in inches per month. [Corrosion Rates in HCl]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 0, 25, and 50 °C [Corrosion Rates in HCl]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: HCl [Corrosion Rates in HCl]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nitrogenated [Corrosion Rates in HCl]
+- purge_gas_type: Nitrogen [Corrosion Rates in HCl]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

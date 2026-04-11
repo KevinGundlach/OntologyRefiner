@@ -1,0 +1,2671 @@
+```markdown
+# Base Material
+- standard_designation: 304L [Table 1]
+- trade_name: Not specified in text.
+- commercial_grade: Conventional stainless steel [Materials]
+- uns_code: S30403 [Table 1]
+- alloy_family: Austenitic [Introduction]
+- elemental_weight_percentages: Fe: Balance, Cr: 18, Ni: 10, C: 0.03, Cu: 0.2, Mn: 1, P: 0.045, S: 0.02, Si: 1.0 [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = 18 [Table 5]
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 304L [Table 1]
+- fabrication_steps: Obtained commercially in sheet and/or rod forms; used without any further heat treatment [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: None (tested without any further heat treatment) [Materials]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to 600 grit SiC finish [Accelerated tests]
+- chemical_surface_preparation: Rinsed with distilled water, left for 30 min in air, passivated by immersion for 15 min in 17% HNO3 [Accelerated tests]
+- final_surface_roughness: 600 grit SiC finish [Accelerated tests]
+- exposed_surface_area: 1 cm2 [Techniques and procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 300 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 287 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 300 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -185 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 500 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 260 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 500 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -206 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 1000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 218 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 1000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -208 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 5000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 140 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 5000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -216 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: Natural Gulf seawater (TDS 43800 mg l-1) [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 94 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Natural seawater [Materials]
+- electrolyte_primary_salts: Seawater salts (24090 mg l-1 Cl-, 13440 mg l-1 Na+, 3384 mg l-1 SO4--, 1618 mg l-1 Mg++, 508 mg l-1 Ca++) [Table 2]
+- electrolyte_molar_concentrations: 43800 mg l-1 TDS [Table 2]
+- electrolyte_soluble_additives: None [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -217 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 8.2 [Table 2]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: 316L [Table 1]
+- trade_name: Not specified in text.
+- commercial_grade: Conventional stainless steel [Materials]
+- uns_code: S31603 [Table 1]
+- alloy_family: Austenitic [Introduction]
+- elemental_weight_percentages: Fe: Balance, Cr: 16, Mo: 3, Ni: 11, C: 0.02, Cu: 0.2, Mn: 1, P: 0.045, S: 0.02, Si: 1.0 [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = 25 [Table 5]
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 316L [Table 1]
+- fabrication_steps: Obtained commercially in sheet and/or rod forms; used without any further heat treatment [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: None (tested without any further heat treatment) [Materials]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to 600 grit SiC finish [Accelerated tests]
+- chemical_surface_preparation: Rinsed with distilled water, left for 30 min in air, passivated by immersion for 15 min in 17% HNO3 [Accelerated tests]
+- final_surface_roughness: 600 grit SiC finish [Accelerated tests]
+- exposed_surface_area: 1 cm2 [Techniques and procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 300 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 344 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 300 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -238 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 500 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 330 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 500 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -221 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 1000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 284 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 1000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -210 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 5000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 232 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 5000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -229 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: Natural Gulf seawater (TDS 43800 mg l-1) [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 154 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Natural seawater [Materials]
+- electrolyte_primary_salts: Seawater salts (24090 mg l-1 Cl-, 13440 mg l-1 Na+, 3384 mg l-1 SO4--, 1618 mg l-1 Mg++, 508 mg l-1 Ca++) [Table 2]
+- electrolyte_molar_concentrations: 43800 mg l-1 TDS [Table 2]
+- electrolyte_soluble_additives: None [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -243 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 8.2 [Table 2]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: 317L [Table 1]
+- trade_name: Not specified in text.
+- commercial_grade: Conventional stainless steel [Materials]
+- uns_code: S31703 [Table 1]
+- alloy_family: Not explicitly specified in text.
+- elemental_weight_percentages: Fe: Balance, Cr: 18, Mo: 3, Ni: 13, C: 0.02, Cu: 0.2, Mn: 2, P: 0.045, S: 0.02, Si: 1.0 [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = 30 [Table 5]
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 317L [Table 1]
+- fabrication_steps: Obtained commercially in sheet and/or rod forms; used without any further heat treatment [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: None (tested without any further heat treatment) [Materials]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to 600 grit SiC finish [Accelerated tests]
+- chemical_surface_preparation: Rinsed with distilled water, left for 30 min in air, passivated by immersion for 15 min in 17% HNO3 [Accelerated tests]
+- final_surface_roughness: 600 grit SiC finish [Accelerated tests]
+- exposed_surface_area: 1 cm2 [Techniques and procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 300 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 720 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 300 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -210 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 500 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 647 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 500 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -249 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 1000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 556 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 1000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -199 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 5000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 275 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 5000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -224 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: Natural Gulf seawater (TDS 43800 mg l-1) [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 204 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Natural seawater [Materials]
+- electrolyte_primary_salts: Seawater salts (24090 mg l-1 Cl-, 13440 mg l-1 Na+, 3384 mg l-1 SO4--, 1618 mg l-1 Mg++, 508 mg l-1 Ca++) [Table 2]
+- electrolyte_molar_concentrations: 43800 mg l-1 TDS [Table 2]
+- electrolyte_soluble_additives: None [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -192 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 8.2 [Table 2]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: 904L [Table 1]
+- commercial_grade: Conventional stainless steel [Materials]
+- uns_code: N08904 [Table 1]
+- alloy_family: Austenitic [Introduction]
+- elemental_weight_percentages: Fe: Balance, Cr: 20, Mo: 5, Ni: 24.5, C: 0.02, Cu: 1, Mn: 1.5, P: 0.045, S: 0.02 [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = 35 [Table 5]
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 904L [Table 1]
+- fabrication_steps: Obtained commercially in sheet and/or rod forms; used without any further heat treatment [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: None (tested without any further heat treatment) [Materials]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to 600 grit SiC finish [Accelerated tests]
+- chemical_surface_preparation: Rinsed with distilled water, left for 30 min in air, passivated by immersion for 15 min in 17% HNO3 [Accelerated tests]
+- final_surface_roughness: 600 grit SiC finish [Accelerated tests]
+- exposed_surface_area: 1 cm2 [Techniques and procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 300 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 876 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 300 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -206 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 500 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 860 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 500 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -188 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 1000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 780 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 1000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -194 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 5000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 587 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 5000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -195 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: Natural Gulf seawater (TDS 43800 mg l-1) [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 427 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Natural seawater [Materials]
+- electrolyte_primary_salts: Seawater salts (24090 mg l-1 Cl-, 13440 mg l-1 Na+, 3384 mg l-1 SO4--, 1618 mg l-1 Mg++, 508 mg l-1 Ca++) [Table 2]
+- electrolyte_molar_concentrations: 43800 mg l-1 TDS [Table 2]
+- electrolyte_soluble_additives: None [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -202 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 8.2 [Table 2]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: 410 [Table 1]
+- trade_name: Not specified in text.
+- commercial_grade: Conventional stainless steel [Materials]
+- uns_code: S41000 [Table 1]
+- alloy_family: Not explicitly specified in text.
+- elemental_weight_percentages: Fe: Balance, Cr: 13, Mn: 1, P: 0.04, S: 0.035, Si: 1 [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = 13 [Table 5]
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 410 [Table 1]
+- fabrication_steps: Obtained commercially in sheet and/or rod forms; used without any further heat treatment [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: None (tested without any further heat treatment) [Materials]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to 600 grit SiC finish [Accelerated tests]
+- chemical_surface_preparation: Rinsed with distilled water, left for 30 min in air, passivated by immersion for 15 min in 17% HNO3 [Accelerated tests]
+- final_surface_roughness: 600 grit SiC finish [Accelerated tests]
+- exposed_surface_area: 1 cm2 [Techniques and procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 300 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 144 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 300 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -267 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 500 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 101 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 500 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -247 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 1000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: -120 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 1000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -407 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 5000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: -43 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 5000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -478 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: Natural Gulf seawater (TDS 43800 mg l-1) [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: -145 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Natural seawater [Materials]
+- electrolyte_primary_salts: Seawater salts (24090 mg l-1 Cl-, 13440 mg l-1 Na+, 3384 mg l-1 SO4--, 1618 mg l-1 Mg++, 508 mg l-1 Ca++) [Table 2]
+- electrolyte_molar_concentrations: 43800 mg l-1 TDS [Table 2]
+- electrolyte_soluble_additives: None [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -511 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 8.2 [Table 2]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: 17-4PH [Table 1]
+- commercial_grade: Conventional stainless steel [Materials]
+- uns_code: S17400 [Table 1]
+- alloy_family: Not explicitly specified in text.
+- elemental_weight_percentages: Fe: Balance, Cr: 16, Ni: 4.5, C: 0.07, Cu: 4, Mn: 1, Cb: 0.3, P: 0.04, Si: 1 [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = 30.5 [Table 5]
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 17-4PH [Table 1]
+- fabrication_steps: Obtained commercially in sheet and/or rod forms; used without any further heat treatment [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: None (tested without any further heat treatment) [Materials]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to 600 grit SiC finish [Accelerated tests]
+- chemical_surface_preparation: Rinsed with distilled water, left for 30 min in air, passivated by immersion for 15 min in 17% HNO3 [Accelerated tests]
+- final_surface_roughness: 600 grit SiC finish [Accelerated tests]
+- exposed_surface_area: 1 cm2 [Techniques and procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 300 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 221 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 300 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -214 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 500 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 263 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 500 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -211 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 1000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 251 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 1000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -227 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 5000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 281 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 5000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -225 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: Natural Gulf seawater (TDS 43800 mg l-1) [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 1516 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Natural seawater [Materials]
+- electrolyte_primary_salts: Seawater salts (24090 mg l-1 Cl-, 13440 mg l-1 Na+, 3384 mg l-1 SO4--, 1618 mg l-1 Mg++, 508 mg l-1 Ca++) [Table 2]
+- electrolyte_molar_concentrations: 43800 mg l-1 TDS [Table 2]
+- electrolyte_soluble_additives: None [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -240 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 8.2 [Table 2]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: SMO 254 [Table 1]
+- commercial_grade: High alloy stainless steel [Materials]
+- uns_code: S31254 [Table 1]
+- alloy_family: Austenitic [Abstract]
+- elemental_weight_percentages: Fe: Balance, Cr: 20, Mo: 6, Ni: 18, C: 0.02, Cu: 0.7, N: 0.2, Si: 0.002 [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = 43.5 [Table 5]
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: SMO 254 [Table 1]
+- fabrication_steps: Obtained commercially in sheet and/or rod forms; used without any further heat treatment [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: None (tested without any further heat treatment) [Materials]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to 600 grit SiC finish [Accelerated tests]
+- chemical_surface_preparation: Rinsed with distilled water, left for 30 min in air, passivated by immersion for 15 min in 17% HNO3 [Accelerated tests]
+- final_surface_roughness: 600 grit SiC finish [Accelerated tests]
+- exposed_surface_area: 1 cm2 [Techniques and procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 300 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 840 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 300 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -161 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 500 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 830 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 500 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -167 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 1000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 821 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 1000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -170 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 5000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 785 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 5000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -121 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: Natural Gulf seawater (TDS 43800 mg l-1) [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 813 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Natural seawater [Materials]
+- electrolyte_primary_salts: Seawater salts (24090 mg l-1 Cl-, 13440 mg l-1 Na+, 3384 mg l-1 SO4--, 1618 mg l-1 Mg++, 508 mg l-1 Ca++) [Table 2]
+- electrolyte_molar_concentrations: 43800 mg l-1 TDS [Table 2]
+- electrolyte_soluble_additives: None [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -166 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 8.2 [Table 2]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: SMO 654 [Table 1]
+- commercial_grade: High alloy stainless steel [Materials]
+- uns_code: S32654 [Table 1]
+- alloy_family: Austenitic [Abstract]
+- elemental_weight_percentages: Fe: Balance, Cr: 25, Mo: 7, Ni: 22, C: 0.015, Cu: 0.4, Mn: 0.5, N: 0.5 [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = 57 [Table 5]
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: SMO 654 [Table 1]
+- fabrication_steps: Obtained commercially in sheet and/or rod forms; used without any further heat treatment [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: None (tested without any further heat treatment) [Materials]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to 600 grit SiC finish [Accelerated tests]
+- chemical_surface_preparation: Rinsed with distilled water, left for 30 min in air, passivated by immersion for 15 min in 17% HNO3 [Accelerated tests]
+- final_surface_roughness: 600 grit SiC finish [Accelerated tests]
+- exposed_surface_area: 1 cm2 [Techniques and procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 300 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 979 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 300 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -185 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 500 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 975 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 500 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -120 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 1000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 972 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 1000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -185 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 5000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 908 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 5000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -315 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: Natural Gulf seawater (TDS 43800 mg l-1) [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 883 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Natural seawater [Materials]
+- electrolyte_primary_salts: Seawater salts (24090 mg l-1 Cl-, 13440 mg l-1 Na+, 3384 mg l-1 SO4--, 1618 mg l-1 Mg++, 508 mg l-1 Ca++) [Table 2]
+- electrolyte_molar_concentrations: 43800 mg l-1 TDS [Table 2]
+- electrolyte_soluble_additives: None [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -278 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 8.2 [Table 2]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: hMo 1925 [Table 1]
+- commercial_grade: High alloy stainless steel [Materials]
+- uns_code: N08925 [Table 1]
+- alloy_family: Austenitic [Abstract]
+- elemental_weight_percentages: Fe: Balance, Cr: 21, Mo: 6, Ni: 25, C: 0.01, Cu: 0.9, Mn: 0.9, N: 0.2, Si: 0.002 [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = 41 [Table 5]
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: hMo 1925 [Table 1]
+- fabrication_steps: Obtained commercially in sheet and/or rod forms; used without any further heat treatment [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: None (tested without any further heat treatment) [Materials]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to 600 grit SiC finish [Accelerated tests]
+- chemical_surface_preparation: Rinsed with distilled water, left for 30 min in air, passivated by immersion for 15 min in 17% HNO3 [Accelerated tests]
+- final_surface_roughness: 600 grit SiC finish [Accelerated tests]
+- exposed_surface_area: 1 cm2 [Techniques and procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 300 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 917 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 300 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -144 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 500 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 867 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 500 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -134 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 1000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 738 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 1000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -142 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 5000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 530 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 5000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -187 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: Natural Gulf seawater (TDS 43800 mg l-1) [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 1060 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Natural seawater [Materials]
+- electrolyte_primary_salts: Seawater salts (24090 mg l-1 Cl-, 13440 mg l-1 Na+, 3384 mg l-1 SO4--, 1618 mg l-1 Mg++, 508 mg l-1 Ca++) [Table 2]
+- electrolyte_molar_concentrations: 43800 mg l-1 TDS [Table 2]
+- electrolyte_soluble_additives: None [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -160 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 8.2 [Table 2]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: hMo 3127 [Table 1]
+- commercial_grade: High alloy stainless steel [Materials]
+- uns_code: N0828 [Table 1]
+- alloy_family: Austenitic [Abstract]
+- elemental_weight_percentages: Fe: Balance, Cr: 27, Mo: 6.5, Ni: 32, C: 0.02, Cu: 1, Mn: 2, S: 0.003, Nb: Not explicitly quantified, Pb: Not explicitly quantified [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = 48.3 [Table 5]
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: hMo 3127 [Table 1]
+- fabrication_steps: Obtained commercially in sheet and/or rod forms; used without any further heat treatment [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: None (tested without any further heat treatment) [Materials]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to 600 grit SiC finish [Accelerated tests]
+- chemical_surface_preparation: Rinsed with distilled water, left for 30 min in air, passivated by immersion for 15 min in 17% HNO3 [Accelerated tests]
+- final_surface_roughness: 600 grit SiC finish [Accelerated tests]
+- exposed_surface_area: 1 cm2 [Techniques and procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 300 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 997 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 300 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -204 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 500 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 980 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 500 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -133 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 1000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 973 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 1000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -211 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 5000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 933 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 5000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -198 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: Natural Gulf seawater (TDS 43800 mg l-1) [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 883 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Natural seawater [Materials]
+- electrolyte_primary_salts: Seawater salts (24090 mg l-1 Cl-, 13440 mg l-1 Na+, 3384 mg l-1 SO4--, 1618 mg l-1 Mg++, 508 mg l-1 Ca++) [Table 2]
+- electrolyte_molar_concentrations: 43800 mg l-1 TDS [Table 2]
+- electrolyte_soluble_additives: None [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -172 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 8.2 [Table 2]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: 20 Cb3 [Table 1]
+- commercial_grade: High alloy stainless steel [Materials]
+- uns_code: N08020 [Table 1]
+- alloy_family: Austenitic [Abstract]
+- elemental_weight_percentages: Fe: Balance, Cr: 19, Mo: 2, Ni: 33, C: 0.02, Cu: 3, Mn: 0.4, Si: 0.4, Cb + Ta: 5 [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = 26.5 [Table 5]
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 20 Cb3 [Table 1]
+- fabrication_steps: Obtained commercially in sheet and/or rod forms; used without any further heat treatment [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: None (tested without any further heat treatment) [Materials]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to 600 grit SiC finish [Accelerated tests]
+- chemical_surface_preparation: Rinsed with distilled water, left for 30 min in air, passivated by immersion for 15 min in 17% HNO3 [Accelerated tests]
+- final_surface_roughness: 600 grit SiC finish [Accelerated tests]
+- exposed_surface_area: 1 cm2 [Techniques and procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 300 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 912 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 300 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -199 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 500 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 631 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 500 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -218 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 1000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 761 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 1000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -216 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 5000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 830 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 5000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -181 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: Natural Gulf seawater (TDS 43800 mg l-1) [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 538 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Natural seawater [Materials]
+- electrolyte_primary_salts: Seawater salts (24090 mg l-1 Cl-, 13440 mg l-1 Na+, 3384 mg l-1 SO4--, 1618 mg l-1 Mg++, 508 mg l-1 Ca++) [Table 2]
+- electrolyte_molar_concentrations: 43800 mg l-1 TDS [Table 2]
+- electrolyte_soluble_additives: None [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -149 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 8.2 [Table 2]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Remanit 4565 [Table 1]
+- commercial_grade: High alloy stainless steel [Materials]
+- uns_code: Not specified in text.
+- alloy_family: Austenitic [Abstract]
+- elemental_weight_percentages: Fe: Balance, Cr: 22-25, Mo: 4-6, Ni: 16-18, C: 0.02, Cu: 0.1, Mn: 5, N: 0.5, Si: 0.003, Nb: 0.1 [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = 40 [Table 5]
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Remanit 4565 [Table 1]
+- fabrication_steps: Obtained commercially in sheet and/or rod forms; used without any further heat treatment [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: None (tested without any further heat treatment) [Materials]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to 600 grit SiC finish [Accelerated tests]
+- chemical_surface_preparation: Rinsed with distilled water, left for 30 min in air, passivated by immersion for 15 min in 17% HNO3 [Accelerated tests]
+- final_surface_roughness: 600 grit SiC finish [Accelerated tests]
+- exposed_surface_area: 1 cm2 [Techniques and procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 300 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 937 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 300 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -133 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 500 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 912 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 500 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -129 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 1000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 900 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 1000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -170 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 5000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 869 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 5000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -190 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: Natural Gulf seawater (TDS 43800 mg l-1) [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 976 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Natural seawater [Materials]
+- electrolyte_primary_salts: Seawater salts (24090 mg l-1 Cl-, 13440 mg l-1 Na+, 3384 mg l-1 SO4--, 1618 mg l-1 Mg++, 508 mg l-1 Ca++) [Table 2]
+- electrolyte_molar_concentrations: 43800 mg l-1 TDS [Table 2]
+- electrolyte_soluble_additives: None [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -176 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 8.2 [Table 2]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Monit 44635 [Table 1]
+- commercial_grade: High alloy stainless steel [Materials]
+- uns_code: S44635 [Table 1]
+- alloy_family: Not explicitly specified in text.
+- elemental_weight_percentages: Fe: Balance, Cr: 25, Mo: 4, Ni: 4, C: 0.025, Cu: 0.2, Mn: 0.4, N: 0.035, Ti: Not explicitly quantified, Nb: Not explicitly quantified, Pb: Not explicitly quantified, Si: Not explicitly quantified [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = 38 [Table 5]
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Monit 44635 [Table 1]
+- fabrication_steps: Obtained commercially in sheet and/or rod forms; used without any further heat treatment [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: None (tested without any further heat treatment) [Materials]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to 600 grit SiC finish [Accelerated tests]
+- chemical_surface_preparation: Rinsed with distilled water, left for 30 min in air, passivated by immersion for 15 min in 17% HNO3 [Accelerated tests]
+- final_surface_roughness: 600 grit SiC finish [Accelerated tests]
+- exposed_surface_area: 1 cm2 [Techniques and procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 300 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 1006 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 300 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -111 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 500 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 1003 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 500 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -155 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 1000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 942 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 1000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -149 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 5000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 940 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 5000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -234 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: Natural Gulf seawater (TDS 43800 mg l-1) [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 721 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Natural seawater [Materials]
+- electrolyte_primary_salts: Seawater salts (24090 mg l-1 Cl-, 13440 mg l-1 Na+, 3384 mg l-1 SO4--, 1618 mg l-1 Mg++, 508 mg l-1 Ca++) [Table 2]
+- electrolyte_molar_concentrations: 43800 mg l-1 TDS [Table 2]
+- electrolyte_soluble_additives: None [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -228 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 8.2 [Table 2]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Remanit 4575 [Table 1]
+- commercial_grade: High alloy stainless steel [Materials]
+- uns_code: Not specified in text.
+- alloy_family: Austenitic [Abstract]
+- elemental_weight_percentages: Fe: Balance, Cr: 27-29, Mo: 2-3, Ni: 3-4.5, C: 0.01, Mn: 0.1, N: 0.025, Ti: Not explicitly quantified, Pb: Not explicitly quantified, Si: Not explicitly quantified, Nb: Not explicitly quantified [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = 35 [Table 5]
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Remanit 4575 [Table 1]
+- fabrication_steps: Obtained commercially in sheet and/or rod forms; used without any further heat treatment [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: None (tested without any further heat treatment) [Materials]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to 600 grit SiC finish [Accelerated tests]
+- chemical_surface_preparation: Rinsed with distilled water, left for 30 min in air, passivated by immersion for 15 min in 17% HNO3 [Accelerated tests]
+- final_surface_roughness: 600 grit SiC finish [Accelerated tests]
+- exposed_surface_area: 1 cm2 [Techniques and procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 300 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 809 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 300 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -245 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 500 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 842 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 500 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -210 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 1000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 953 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 1000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -246 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 5000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 966 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 5000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -147 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: Natural Gulf seawater (TDS 43800 mg l-1) [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 826 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Natural seawater [Materials]
+- electrolyte_primary_salts: Seawater salts (24090 mg l-1 Cl-, 13440 mg l-1 Na+, 3384 mg l-1 SO4--, 1618 mg l-1 Mg++, 508 mg l-1 Ca++) [Table 2]
+- electrolyte_molar_concentrations: 43800 mg l-1 TDS [Table 2]
+- electrolyte_soluble_additives: None [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -244 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 8.2 [Table 2]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Duplex 2205 [Table 1]
+- commercial_grade: High alloy stainless steel [Materials]
+- uns_code: S31803 [Table 1]
+- alloy_family: Duplex [Abstract]
+- elemental_weight_percentages: Fe: Balance, Cr: 22, Mo: 3, Ni: 6, C: 0.02, Cu: 0.2, Mn: 1.5, Others: 0.15, Cb + Ta: 0.6 [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = 34 [Table 5]
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Duplex 2205 [Table 1]
+- fabrication_steps: Obtained commercially in sheet and/or rod forms; used without any further heat treatment [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: None (tested without any further heat treatment) [Materials]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to 600 grit SiC finish [Accelerated tests]
+- chemical_surface_preparation: Rinsed with distilled water, left for 30 min in air, passivated by immersion for 15 min in 17% HNO3 [Accelerated tests]
+- final_surface_roughness: 600 grit SiC finish [Accelerated tests]
+- exposed_surface_area: 1 cm2 [Techniques and procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 300 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 885 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 300 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -208 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 500 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 855 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 500 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -199 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 1000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 872 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 1000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -196 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 5000 ppm Cl- aqueous solution prepared from analytical grade NaCl in distilled water [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 851 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Distilled water [Materials]
+- electrolyte_primary_salts: NaCl [Materials]
+- electrolyte_molar_concentrations: 5000 ppm Cl- [Table 5]
+- electrolyte_soluble_additives: NaOH for pH adjustment [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -220 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.8 [Materials]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic polarization [Potentiodynamic polarization measurements]
+- solution_chemistry_summary: Natural Gulf seawater (TDS 43800 mg l-1) [Materials]
+- operating_parameters_summary: Conducted at 50 °C [Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: 50 °C [Potentiodynamic polarization measurements]
+- pitting_potential: 629 mV [Table 5]
+- electrolyte_temperature: 50 °C [Table 5]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Accelerated tests]
+- electrolyte_solvents: Natural seawater [Materials]
+- electrolyte_primary_salts: Seawater salts (24090 mg l-1 Cl-, 13440 mg l-1 Na+, 3384 mg l-1 SO4--, 1618 mg l-1 Mg++, 508 mg l-1 Ca++) [Table 2]
+- electrolyte_molar_concentrations: 43800 mg l-1 TDS [Table 2]
+- electrolyte_soluble_additives: None [Materials]
+- dissolved_gas_condition: De-aerated by bubbling high purity nitrogen [Accelerated tests]
+- purge_gas_type: Nitrogen [Accelerated tests]
+- corrosion_potential: -263 mV [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [Accelerated tests]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 8.2 [Table 2]
+- passive_current_density: Not specified in text.
+```

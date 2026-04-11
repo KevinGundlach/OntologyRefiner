@@ -1,0 +1,181 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: iron-chromium alloys [INTRODUCTION]
+- elemental_weight_percentages: Cr 24.3 wt%, Mo 0.063 wt%, Si 0.043 wt%, Mn 0.002 wt%, C 0.0033 wt%, S 0.006 wt% [EXPERIMENTAL METHOD]
+- elemental_atomic_percentages: Cr 25.6 at% [EXPERIMENTAL METHOD]
+- spatial_chemical_homogeneity: Single phase, homogenized elemental concentration [EXPERIMENTAL METHOD]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Single phase [EXPERIMENTAL METHOD]
+- average_grain_dimensions: Millimeter range [EXPERIMENTAL METHOD]
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Chromium oxide [EXPERIMENTAL METHOD]
+- inclusion_size: Not specified in text.
+- inclusion_density: Few inclusions [EXPERIMENTAL METHOD]
+
+## Conditioned Material
+- material_identification: Fe-24Cr [EXPERIMENTAL METHOD]
+- fabrication_steps: Machined in the form of rods from which rotating disk electrodes were fabricated; embedded in epoxy for the determination of polarization curves [EXPERIMENTAL METHOD]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1300°C for 58 h [EXPERIMENTAL METHOD]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanical polishing with SiC paper and with 1 µm alumina powder, washed with ethanol and doubly distilled water before being used [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.1 cm² (3.57 mm diameter) [EXPERIMENTAL METHOD]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization curves [EXPERIMENTAL METHOD]
+- electrochemical_mode: Potentiostatic steps / Stepwise polarization [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 0.1 M H2SO4 + 0.4 M Na2SO4 (referred to as electrolyte A) [EXPERIMENTAL METHOD]
+- operating_parameters_summary: 65°C, de-aerated solutions under argon, started at -650 mV, 3000 rpm rotation rate, current measured after 400 s per step [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: De-aerated solutions under argon [EXPERIMENTAL METHOD]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 65°C [EXPERIMENTAL METHOD]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: 400 s [EXPERIMENTAL METHOD]
+- reference_electrode: Normal hydrogen electrode (NHE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Doubly distilled water [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: H2SO4, Na2SO4 [EXPERIMENTAL METHOD]
+- electrolyte_molar_concentrations: 0.1 M H2SO4, 0.4 M Na2SO4 [EXPERIMENTAL METHOD]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: De-aerated [EXPERIMENTAL METHOD]
+- purge_gas_type: Argon [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization curves [EXPERIMENTAL METHOD]
+- electrochemical_mode: Potentiostatic steps / Stepwise polarization [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 0.1 M H2SO4 + 0.4 M Na2SO4 + 0.12 M NaCl (referred to as electrolyte B) [EXPERIMENTAL METHOD]
+- operating_parameters_summary: 65°C, de-aerated solutions under argon, started at -650 mV, 3000 rpm rotation rate, current measured after 400 s per step [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: De-aerated solutions under argon [EXPERIMENTAL METHOD]
+- pitting_potential: Not specified in text (Pitting is observed, but exact critical pitting potential value is not quantified) [EXPERIMENTAL RESULTS]
+- electrolyte_temperature: 65°C [EXPERIMENTAL METHOD]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: 400 s [EXPERIMENTAL METHOD]
+- reference_electrode: Normal hydrogen electrode (NHE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Doubly distilled water [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: H2SO4, Na2SO4, NaCl [EXPERIMENTAL METHOD]
+- electrolyte_molar_concentrations: 0.1 M H2SO4, 0.4 M Na2SO4, 0.12 M NaCl [EXPERIMENTAL METHOD]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: De-aerated [EXPERIMENTAL METHOD]
+- purge_gas_type: Argon [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: iron-chromium alloys [INTRODUCTION]
+- elemental_weight_percentages: Cr 24.3 wt%, Mo 10.9 wt%, Mn 0.12 wt%, W 0.015 wt%, C 0.009 wt%, S 0.005 wt% [EXPERIMENTAL METHOD]
+- elemental_atomic_percentages: Cr 26.8 at%, Mo 6.5 at% [EXPERIMENTAL METHOD]
+- spatial_chemical_homogeneity: Single phase, homogenized elemental concentration [EXPERIMENTAL METHOD]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Single phase [EXPERIMENTAL METHOD]
+- average_grain_dimensions: Millimeter range [EXPERIMENTAL METHOD]
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Chromium oxide [EXPERIMENTAL METHOD]
+- inclusion_size: Not specified in text.
+- inclusion_density: Few inclusions [EXPERIMENTAL METHOD]
+
+## Conditioned Material
+- material_identification: Fe-24Cr-11Mo [EXPERIMENTAL METHOD]
+- fabrication_steps: Machined in the form of rods from which rotating disk electrodes were fabricated; embedded in epoxy for the determination of polarization curves [EXPERIMENTAL METHOD]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1300°C for 58 h [EXPERIMENTAL METHOD]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanical polishing with SiC paper and with 1 µm alumina powder, washed with ethanol and doubly distilled water before being used [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.1 cm² (3.57 mm diameter) [EXPERIMENTAL METHOD]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization curves [EXPERIMENTAL METHOD]
+- electrochemical_mode: Potentiostatic steps / Stepwise polarization [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 0.1 M H2SO4 + 0.4 M Na2SO4 (referred to as electrolyte A) [EXPERIMENTAL METHOD]
+- operating_parameters_summary: 65°C, de-aerated solutions under argon, started at -650 mV, 3000 rpm rotation rate, current measured after 400 s per step [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: De-aerated solutions under argon [EXPERIMENTAL METHOD]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 65°C [EXPERIMENTAL METHOD]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: 400 s [EXPERIMENTAL METHOD]
+- reference_electrode: Normal hydrogen electrode (NHE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Doubly distilled water [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: H2SO4, Na2SO4 [EXPERIMENTAL METHOD]
+- electrolyte_molar_concentrations: 0.1 M H2SO4, 0.4 M Na2SO4 [EXPERIMENTAL METHOD]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: De-aerated [EXPERIMENTAL METHOD]
+- purge_gas_type: Argon [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization curves [EXPERIMENTAL METHOD]
+- electrochemical_mode: Potentiostatic steps / Stepwise polarization [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 0.1 M H2SO4 + 0.4 M Na2SO4 + 0.12 M NaCl (referred to as electrolyte B) [EXPERIMENTAL METHOD]
+- operating_parameters_summary: 65°C, de-aerated solutions under argon, started at -650 mV, 3000 rpm rotation rate, current measured after 400 s per step [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: De-aerated solutions under argon [EXPERIMENTAL METHOD]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 65°C [EXPERIMENTAL METHOD]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: 400 s [EXPERIMENTAL METHOD]
+- reference_electrode: Normal hydrogen electrode (NHE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Doubly distilled water [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: H2SO4, Na2SO4, NaCl [EXPERIMENTAL METHOD]
+- electrolyte_molar_concentrations: 0.1 M H2SO4, 0.4 M Na2SO4, 0.12 M NaCl [EXPERIMENTAL METHOD]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: De-aerated [EXPERIMENTAL METHOD]
+- purge_gas_type: Argon [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

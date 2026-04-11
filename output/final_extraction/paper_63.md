@@ -1,0 +1,121 @@
+```markdown
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Stainless steels [Header: Title]
+- elemental_weight_percentages: 19.2 wt% Cr, 9.0 wt% Ni, <0.05 wt% C, <0.002 wt% N, <0.025 wt% S, balance Fe [Header: EXPERIMENTAL METHOD]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Fe-19Cr-9Ni [Header: EXPERIMENTAL METHOD]
+- fabrication_steps: Sealed in a pre-evacuated quartz tube, annealed at 1100°C for 3 h, water quenched, mechanically polished, and cathodically polarized [Header: EXPERIMENTAL METHOD]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 1100°C for 3 h [Header: EXPERIMENTAL METHOD]
+- cooling_methods: Water quench, carried out by breaking the quartz tube under water [Header: EXPERIMENTAL METHOD]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically polished up the grades from 600 grit to a 0.25 µm diamond polish finish [Header: EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Cathodically polarized at -1.150 V(SCE) for 15 min to reduce the polish-formed film [Header: EXPERIMENTAL METHOD]
+- final_surface_roughness: 0.25 µm diamond polish finish [Header: EXPERIMENTAL METHOD]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Header: EXPERIMENTAL METHOD]
+- electrochemical_mode: Cathodic polarization at -1.150 V(SCE) for 15 min, followed by potentiodynamic polarization in the anodic direction at 1 mV s^-1 [Header: EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 0.3 M NaCl [Header: EXPERIMENTAL METHOD]
+- operating_parameters_summary: De-aerated by purging with argon for 2 h, potentiodynamic scan in the anodic direction at 1 mV s^-1 [Header: EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: De-aerated [Header: EXPERIMENTAL METHOD]
+- pitting_potential: -50 mV [Header: EXPERIMENTAL RESULTS]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 mV s^-1 [Header: EXPERIMENTAL METHOD]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Header: EXPERIMENTAL METHOD]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Header: EXPERIMENTAL METHOD]
+- electrolyte_molar_concentrations: 0.3 M NaCl [Header: EXPERIMENTAL METHOD]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: De-aerated [Header: EXPERIMENTAL METHOD]
+- purge_gas_type: Argon [Header: EXPERIMENTAL METHOD]
+- corrosion_potential: -792 mV [Header: EXPERIMENTAL RESULTS]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 5.4 [Header: EXPERIMENTAL METHOD]
+- passive_current_density: 3.7 µA cm^-2 [Header: EXPERIMENTAL RESULTS]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Header: EXPERIMENTAL METHOD]
+- electrochemical_mode: Cathodic polarization at -1.150 V(SCE) for 15 min in 0.3 M NaCl (pH 5.4). At open circuit potential, solution adjusted with NaOH to pH 9.0, followed by potentiodynamic polarization in the anodic direction at 1 mV s^-1 [Header: EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 0.3 M NaCl adjusted to pH 9.0 with 0.1 M NaOH [Header: EXPERIMENTAL METHOD]
+- operating_parameters_summary: De-aerated by purging with argon for 2 h, potentiodynamic scan in the anodic direction at 1 mV s^-1 [Header: EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: De-aerated [Header: EXPERIMENTAL METHOD]
+- pitting_potential: 525 mV [Header: EXPERIMENTAL RESULTS]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 mV s^-1 [Header: EXPERIMENTAL METHOD]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Header: EXPERIMENTAL METHOD]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Header: EXPERIMENTAL METHOD]
+- electrolyte_molar_concentrations: 0.3 M NaCl [Header: EXPERIMENTAL METHOD]
+- electrolyte_soluble_additives: 0.1 M NaOH [Header: EXPERIMENTAL METHOD]
+- dissolved_gas_condition: De-aerated [Header: EXPERIMENTAL METHOD]
+- purge_gas_type: Argon [Header: EXPERIMENTAL METHOD]
+- corrosion_potential: -843 mV [Header: EXPERIMENTAL RESULTS]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 9.0 [Header: EXPERIMENTAL METHOD]
+- passive_current_density: 3.3 µA cm^-2 [Header: EXPERIMENTAL RESULTS]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Header: EXPERIMENTAL METHOD]
+- electrochemical_mode: Cathodic polarization at -1.150 V(SCE) for 15 min in 0.3 M NaCl (pH 5.4). At open circuit potential, solution adjusted with Na2MoO4 to 0.16 M, followed by potentiodynamic polarization in the anodic direction at 1 mV s^-1 [Header: EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 0.3 M NaCl + 0.16 M Na2MoO4 [Header: EXPERIMENTAL METHOD]
+- operating_parameters_summary: De-aerated by purging with argon for 2 h, potentiodynamic scan in the anodic direction at 1 mV s^-1 [Header: EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: De-aerated [Header: EXPERIMENTAL METHOD]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 mV s^-1 [Header: EXPERIMENTAL METHOD]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Header: EXPERIMENTAL METHOD]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Header: EXPERIMENTAL METHOD]
+- electrolyte_molar_concentrations: 0.3 M NaCl, 0.16 M Na2MoO4 [Header: EXPERIMENTAL METHOD]
+- electrolyte_soluble_additives: Na2MoO4 [Header: EXPERIMENTAL METHOD]
+- dissolved_gas_condition: De-aerated [Header: EXPERIMENTAL METHOD]
+- purge_gas_type: Argon [Header: EXPERIMENTAL METHOD]
+- corrosion_potential: -863 mV [Header: EXPERIMENTAL RESULTS]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 9.0 [Header: EXPERIMENTAL METHOD]
+- passive_current_density: 2.3 µA cm^-2 [Header: EXPERIMENTAL RESULTS]
+```

@@ -1,0 +1,790 @@
+# Base Material
+- standard_designation: Super duplex stainless steels (SDSS) [1. Introduction]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Duplex stainless steels (DSS) / Super duplex stainless steels (SDSS) [1. Introduction]
+- elemental_weight_percentages: 25.1 wt.% Cr, 7.1 wt.% Ni, 3.7 wt.% Mo, 3.8 wt.% Mn, 0.38 wt.% N, bal. Fe [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: The austenite is enriched in nickel and nitrogen, while the ferrite is enriched in chromium and molybdenum. [1. Introduction]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = wt.% Cr + 3.3 wt.% Mo + 20 wt.% N [1. Introduction]
+- overall_microstructure: The microstructure consists of two phases, austenite and ferrite, present in relatively large separate domains and in approximately equal volume fractions. [1. Introduction]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite, Ferrite [1. Introduction]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 1, 1080°C (Micro-prepared) [Fig. 8, Fig. 13]
+- fabrication_steps: Produced in a vacuum induction furnace (10 kg melt). After a homogenisation treatment at 1230°C for 10 h (in air), the alloys were forged between 1200°C and 1150°C into bars of the dimension 15 x 65 mm^2. [2.1. Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealing in a one-step treatment at 1080°C for 40 min in laboratory furnaces (air). [2.2. Heat treatment, Fig. 8]
+- cooling_methods: Quenching in water. [2.2. Heat treatment]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically ground with diamond paste (6 μm). [Page 7]
+- chemical_surface_preparation: Slightly etched (5 s) in a Blöch-Wedel II etching liquid (50 ml HCl techn. {37%}, 100 ml H2O and 1 g K2SO4) and rinsed with distilled water and ethanol. [Page 7]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Capillary tip diameter varied between 2 and 1000 μm. [2.8. Microelectrochemical method]
+
+### Experiment
+- experimental_test_type: Microelectrochemical potentiodynamic polarisation [2.8. Microelectrochemical method, Fig. 8]
+- electrochemical_mode: Potentiodynamic [Page 7]
+- solution_chemistry_summary: 3 M HCl [Fig. 8]
+- operating_parameters_summary: Scanning rate of 1 mV/s, cathodic prepolarisation for 2 min at -500 mV SCE, potential scanned up to 1400 mV SCE. [Page 7]
+- overarching_environmental_conditions: Room temperature (23°C), not aerated. [Page 7, Fig. 8]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature (23°C) [Fig. 8]
+- continuous_sweep_rate: 1 mV/s [Page 7]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Calomel-electrode (SCE) [2.8. Microelectrochemical method]
+- electrolyte_solvents: Distilled water [Page 7]
+- electrolyte_primary_salts: HCl [2.6. Electrochemical investigations]
+- electrolyte_molar_concentrations: 3 M [Fig. 8]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not aerated [Page 7]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Measurement was started directly after prepolarisation [Page 7]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum wire [2.8. Microelectrochemical method]
+- counter_electrode_geometry: 0.5 mm thick platinum wire [2.8. Microelectrochemical method]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Acidic (Not explicitly numbered, 3 M HCl) [Page 9]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 1, 1120°C (Micro-prepared) [Fig. 9]
+- fabrication_steps: Produced in a vacuum induction furnace (10 kg melt). After a homogenisation treatment at 1230°C for 10 h (in air), the alloys were forged between 1200°C and 1150°C into bars of the dimension 15 x 65 mm^2. [2.1. Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealing in a one-step treatment at 1120°C for 40 min in laboratory furnaces (air). [2.2. Heat treatment, Fig. 9]
+- cooling_methods: Quenching in water. [2.2. Heat treatment]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically ground with diamond paste (6 μm). [Page 7]
+- chemical_surface_preparation: Slightly etched (5 s) in a Blöch-Wedel II etching liquid (50 ml HCl techn. {37%}, 100 ml H2O and 1 g K2SO4) and rinsed with distilled water and ethanol. [Page 7]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Capillary tip diameter varied between 2 and 1000 μm. [2.8. Microelectrochemical method]
+
+### Experiment
+- experimental_test_type: Microelectrochemical potentiodynamic polarisation [2.8. Microelectrochemical method, Fig. 9]
+- electrochemical_mode: Potentiodynamic [Page 7]
+- solution_chemistry_summary: 3 M HCl [Fig. 9]
+- operating_parameters_summary: Scanning rate of 1 mV/s, cathodic prepolarisation for 2 min at -500 mV SCE, potential scanned up to 1400 mV SCE. [Page 7]
+- overarching_environmental_conditions: Room temperature (23°C), not aerated. [Page 7, Fig. 9]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature (23°C) [Fig. 9]
+- continuous_sweep_rate: 1 mV/s [Page 7]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Calomel-electrode (SCE) [2.8. Microelectrochemical method]
+- electrolyte_solvents: Distilled water [Page 7]
+- electrolyte_primary_salts: HCl [2.6. Electrochemical investigations]
+- electrolyte_molar_concentrations: 3 M [Fig. 9]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not aerated [Page 7]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Measurement was started directly after prepolarisation [Page 7]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum wire [2.8. Microelectrochemical method]
+- counter_electrode_geometry: 0.5 mm thick platinum wire [2.8. Microelectrochemical method]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Acidic (Not explicitly numbered, 3 M HCl) [Page 9]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 1 (labeled as 879), 1040°C (Micro-prepared) [Fig. 10, Fig. 11]
+- fabrication_steps: Produced in a vacuum induction furnace (10 kg melt). After a homogenisation treatment at 1230°C for 10 h (in air), the alloys were forged between 1200°C and 1150°C into bars of the dimension 15 x 65 mm^2. [2.1. Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealing in a one-step treatment at 1040°C for 40 min in laboratory furnaces (air). [2.2. Heat treatment, Fig. 10]
+- cooling_methods: Quenching in water. [2.2. Heat treatment]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically ground with diamond paste (6 μm). [Page 7]
+- chemical_surface_preparation: Slightly etched (5 s) in a Blöch-Wedel II etching liquid (50 ml HCl techn. {37%}, 100 ml H2O and 1 g K2SO4) and rinsed with distilled water and ethanol. [Page 7]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Capillary tip diameter varied between 2 and 1000 μm. [2.8. Microelectrochemical method]
+
+### Experiment
+- experimental_test_type: Microelectrochemical potentiodynamic polarisation [2.8. Microelectrochemical method, Fig. 10]
+- electrochemical_mode: Potentiodynamic [Page 7]
+- solution_chemistry_summary: 3 M HCl [Fig. 10]
+- operating_parameters_summary: Scanning rate of 1 mV/s, cathodic prepolarisation for 2 min at -500 mV SCE, potential scanned up to 1400 mV SCE. [Page 7]
+- overarching_environmental_conditions: Room temperature (23°C), not aerated. [Page 7, Fig. 10]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature (23°C) [Fig. 10]
+- continuous_sweep_rate: 1 mV/s [Page 7]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Calomel-electrode (SCE) [2.8. Microelectrochemical method]
+- electrolyte_solvents: Distilled water [Page 7]
+- electrolyte_primary_salts: HCl [2.6. Electrochemical investigations]
+- electrolyte_molar_concentrations: 3 M [Fig. 10]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not aerated [Page 7]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Measurement was started directly after prepolarisation [Page 7]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum wire [2.8. Microelectrochemical method]
+- counter_electrode_geometry: 0.5 mm thick platinum wire [2.8. Microelectrochemical method]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Acidic (Not explicitly numbered, 3 M HCl) [Page 9]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Super duplex stainless steels (SDSS) [1. Introduction]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Duplex stainless steels (DSS) / Super duplex stainless steels (SDSS) [1. Introduction]
+- elemental_weight_percentages: 23.5 wt.% Cr, 7.1 wt.% Ni, 4.4 wt.% Mo, 4.0 wt.% Mn, 0.41 wt.% N, bal. Fe [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: The austenite is enriched in nickel and nitrogen, while the ferrite is enriched in chromium and molybdenum. [1. Introduction]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = wt.% Cr + 3.3 wt.% Mo + 20 wt.% N [1. Introduction]
+- overall_microstructure: The microstructure consists of two phases, austenite and ferrite, present in relatively large separate domains and in approximately equal volume fractions. [1. Introduction]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite, Ferrite [1. Introduction]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 2, 1100°C (Micro-prepared) [Fig. 12]
+- fabrication_steps: Produced in a vacuum induction furnace (10 kg melt). After a homogenisation treatment at 1230°C for 10 h (in air), the alloys were forged between 1200°C and 1150°C into bars of the dimension 15 x 65 mm^2. [2.1. Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealing in a one-step treatment at 1100°C for 40 min in laboratory furnaces (air). [2.2. Heat treatment, Fig. 12]
+- cooling_methods: Quenching in water. [2.2. Heat treatment]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically ground with diamond paste (6 μm). [Page 7]
+- chemical_surface_preparation: Slightly etched (5 s) in a Blöch-Wedel II etching liquid (50 ml HCl techn. {37%}, 100 ml H2O and 1 g K2SO4) and rinsed with distilled water and ethanol. [Page 7]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Capillary tip diameter varied between 2 and 1000 μm. [2.8. Microelectrochemical method]
+
+### Experiment
+- experimental_test_type: Microelectrochemical potentiodynamic polarisation [2.8. Microelectrochemical method, Fig. 12]
+- electrochemical_mode: Potentiodynamic [Page 7]
+- solution_chemistry_summary: 3 M HCl [Fig. 12]
+- operating_parameters_summary: Scanning rate of 1 mV/s, cathodic prepolarisation for 2 min at -500 mV SCE, potential scanned up to 1400 mV SCE. [Page 7]
+- overarching_environmental_conditions: Room temperature (23°C), not aerated. [Page 7, Fig. 12]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature (23°C) [Fig. 12]
+- continuous_sweep_rate: 1 mV/s [Page 7]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Calomel-electrode (SCE) [2.8. Microelectrochemical method]
+- electrolyte_solvents: Distilled water [Page 7]
+- electrolyte_primary_salts: HCl [2.6. Electrochemical investigations]
+- electrolyte_molar_concentrations: 3 M [Fig. 12]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not aerated [Page 7]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Measurement was started directly after prepolarisation [Page 7]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum wire [2.8. Microelectrochemical method]
+- counter_electrode_geometry: 0.5 mm thick platinum wire [2.8. Microelectrochemical method]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Acidic (Not explicitly numbered, 3 M HCl) [Page 9]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Super duplex stainless steels (SDSS) [1. Introduction]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Duplex stainless steels (DSS) / Super duplex stainless steels (SDSS) [1. Introduction]
+- elemental_weight_percentages: 25.1 wt.% Cr, 7.1 wt.% Ni, 3.8 wt.% Mo, 4.9 wt.% Mn, 0.40 wt.% N, bal. Fe [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: The austenite is enriched in nickel and nitrogen, while the ferrite is enriched in chromium and molybdenum. [1. Introduction]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = wt.% Cr + 3.3 wt.% Mo + 20 wt.% N [1. Introduction]
+- overall_microstructure: The microstructure consists of two phases, austenite and ferrite, present in relatively large separate domains and in approximately equal volume fractions. [1. Introduction]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite, Ferrite [1. Introduction]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 3, 1100°C (Macro-prepared) [Table 2, Fig. 4]
+- fabrication_steps: Produced in a vacuum induction furnace (10 kg melt). After a homogenisation treatment at 1230°C for 10 h (in air), the alloys were forged between 1200°C and 1150°C into bars of the dimension 15 x 65 mm^2. [2.1. Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealing in a one-step treatment at 1100°C for 40 min in laboratory furnaces (air). [2.2. Heat treatment, Table 2]
+- cooling_methods: Quenching in water. [2.2. Heat treatment]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically ground (1200 grit). [2.6. Electrochemical investigations]
+- chemical_surface_preparation: Not etched. [2.6. Electrochemical investigations]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 4 mm in diameter. [2.7. Macroelectrochemical investigations]
+
+### Experiment
+- experimental_test_type: Macroelectrochemical potentiodynamic polarisation [2.7. Macroelectrochemical investigations, Fig. 4]
+- electrochemical_mode: Potentiodynamic [Page 7]
+- solution_chemistry_summary: 3 M HCl [Fig. 4]
+- operating_parameters_summary: Scanning rate of 1 mV/s, cathodic prepolarisation for 2 min at -500 mV SCE, potential scanned up to 1400 mV SCE. [Page 7]
+- overarching_environmental_conditions: Room temperature (23°C), not aerated. [Page 7, Fig. 4]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature (23°C) [Fig. 4]
+- continuous_sweep_rate: 1 mV/s [Page 7]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Calomel-electrode (SCE) [2.7. Macroelectrochemical investigations]
+- electrolyte_solvents: Distilled water [Page 7]
+- electrolyte_primary_salts: HCl [2.6. Electrochemical investigations]
+- electrolyte_molar_concentrations: 3 M [Fig. 4]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not aerated [Page 7]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Measurement was started directly after prepolarisation [Page 7]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_geometry: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Acidic (Not explicitly numbered, 3 M HCl) [Page 9]
+- passive_current_density: 14 μA/cm^2 [Page 10]
+
+### Experiment
+- experimental_test_type: Macroelectrochemical potentiodynamic polarisation [2.7. Macroelectrochemical investigations, Table 2]
+- electrochemical_mode: Potentiodynamic [Page 7]
+- solution_chemistry_summary: 9 M LiCl (aqueous solution) [Table 2]
+- operating_parameters_summary: Scanning rate of 1 mV/s, cathodic prepolarisation for 2 min at -500 mV SCE, potential scanned up to 1400 mV SCE. [Page 7]
+- overarching_environmental_conditions: Room temperature, not aerated. [Page 7]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [Page 7]
+- continuous_sweep_rate: 1 mV/s [Page 7]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Calomel-electrode (SCE) [2.7. Macroelectrochemical investigations]
+- electrolyte_solvents: Distilled water [Page 7]
+- electrolyte_primary_salts: LiCl [2.6. Electrochemical investigations]
+- electrolyte_molar_concentrations: 9 M [Table 2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not aerated [Page 7]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Measurement was started directly after prepolarisation [Page 7]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_geometry: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: pH-neutral [2.7. Macroelectrochemical investigations]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Macroelectrochemical potentiodynamic polarisation [2.7. Macroelectrochemical investigations, Table 2]
+- electrochemical_mode: Potentiodynamic [Page 7]
+- solution_chemistry_summary: 10 M LiCl (aqueous solution) [Table 2]
+- operating_parameters_summary: Scanning rate of 1 mV/s, cathodic prepolarisation for 2 min at -500 mV SCE, potential scanned up to 1400 mV SCE. [Page 7]
+- overarching_environmental_conditions: Room temperature, not aerated. [Page 7]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [Page 7]
+- continuous_sweep_rate: 1 mV/s [Page 7]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Calomel-electrode (SCE) [2.7. Macroelectrochemical investigations]
+- electrolyte_solvents: Distilled water [Page 7]
+- electrolyte_primary_salts: LiCl [2.6. Electrochemical investigations]
+- electrolyte_molar_concentrations: 10 M [Table 2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not aerated [Page 7]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Measurement was started directly after prepolarisation [Page 7]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_geometry: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: pH-neutral [2.7. Macroelectrochemical investigations]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Macroelectrochemical potentiodynamic polarisation [2.7. Macroelectrochemical investigations, Table 2]
+- electrochemical_mode: Potentiodynamic [Page 7]
+- solution_chemistry_summary: 11 M LiCl (aqueous solution) [Table 2]
+- operating_parameters_summary: Scanning rate of 1 mV/s, cathodic prepolarisation for 2 min at -500 mV SCE, potential scanned up to 1400 mV SCE. [Page 7]
+- overarching_environmental_conditions: Room temperature, not aerated. [Page 7]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [Page 7]
+- continuous_sweep_rate: 1 mV/s [Page 7]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Calomel-electrode (SCE) [2.7. Macroelectrochemical investigations]
+- electrolyte_solvents: Distilled water [Page 7]
+- electrolyte_primary_salts: LiCl [2.6. Electrochemical investigations]
+- electrolyte_molar_concentrations: 11 M [Table 2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not aerated [Page 7]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Measurement was started directly after prepolarisation [Page 7]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_geometry: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: pH-neutral [2.7. Macroelectrochemical investigations]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 3, 1100°C (Micro-prepared) [Fig. 5]
+- fabrication_steps: Produced in a vacuum induction furnace (10 kg melt). After a homogenisation treatment at 1230°C for 10 h (in air), the alloys were forged between 1200°C and 1150°C into bars of the dimension 15 x 65 mm^2. [2.1. Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealing in a one-step treatment at 1100°C for 40 min in laboratory furnaces (air). [2.2. Heat treatment, Fig. 5]
+- cooling_methods: Quenching in water. [2.2. Heat treatment]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically ground with diamond paste (6 μm). [Page 7]
+- chemical_surface_preparation: Slightly etched (5 s) in a Blöch-Wedel II etching liquid (50 ml HCl techn. {37%}, 100 ml H2O and 1 g K2SO4) and rinsed with distilled water and ethanol. [Page 7]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Capillary tip diameter varied between 2 and 1000 μm. [2.8. Microelectrochemical method]
+
+### Experiment
+- experimental_test_type: Microelectrochemical potentiodynamic polarisation [2.8. Microelectrochemical method, Fig. 5]
+- electrochemical_mode: Potentiodynamic [Page 7]
+- solution_chemistry_summary: 1 M HCl + 4 M NaCl [Fig. 5]
+- operating_parameters_summary: Scanning rate of 1 mV/s, cathodic prepolarisation for 2 min at -500 mV SCE, potential scanned up to 1400 mV SCE. [Page 7]
+- overarching_environmental_conditions: Room temperature (23°C), not aerated. [Page 7, Fig. 5]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature (23°C) [Fig. 5]
+- continuous_sweep_rate: 1 mV/s [Page 7]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Calomel-electrode (SCE) [2.8. Microelectrochemical method]
+- electrolyte_solvents: Distilled water [Page 7]
+- electrolyte_primary_salts: HCl, NaCl [Page 7, Fig. 5]
+- electrolyte_molar_concentrations: 1 M HCl, 4 M NaCl [Fig. 5]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not aerated [Page 7]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Measurement was started directly after prepolarisation [Page 7]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum wire [2.8. Microelectrochemical method]
+- counter_electrode_geometry: 0.5 mm thick platinum wire [2.8. Microelectrochemical method]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Acidic [Page 9]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Super duplex stainless steels (SDSS) [1. Introduction]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Duplex stainless steels (DSS) / Super duplex stainless steels (SDSS) [1. Introduction]
+- elemental_weight_percentages: 24.8 wt.% Cr, 10.6 wt.% Ni, 3.7 wt.% Mo, 4.9 wt.% Mn, 0.23 wt.% N, bal. Fe [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: The austenite is enriched in nickel and nitrogen, while the ferrite is enriched in chromium and molybdenum. [1. Introduction]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = wt.% Cr + 3.3 wt.% Mo + 20 wt.% N [1. Introduction]
+- overall_microstructure: The microstructure consists of two phases, austenite and ferrite, present in relatively large separate domains and in approximately equal volume fractions. [1. Introduction]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite, Ferrite [1. Introduction]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 4, 1150°C (Macro-prepared) [Table 2, Fig. 4]
+- fabrication_steps: Produced in a vacuum induction furnace (10 kg melt). After a homogenisation treatment at 1230°C for 10 h (in air), the alloys were forged between 1200°C and 1150°C into bars of the dimension 15 x 65 mm^2. [2.1. Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealing in a one-step treatment at 1150°C for 40 min in laboratory furnaces (air). [2.2. Heat treatment, Table 2]
+- cooling_methods: Quenching in water. [2.2. Heat treatment]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically ground (1200 grit). [2.6. Electrochemical investigations]
+- chemical_surface_preparation: Not etched. [2.6. Electrochemical investigations]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 4 mm in diameter. [2.7. Macroelectrochemical investigations]
+
+### Experiment
+- experimental_test_type: Macroelectrochemical potentiodynamic polarisation [2.7. Macroelectrochemical investigations, Fig. 4]
+- electrochemical_mode: Potentiodynamic [Page 7]
+- solution_chemistry_summary: 3 M HCl [Fig. 4]
+- operating_parameters_summary: Scanning rate of 1 mV/s, cathodic prepolarisation for 2 min at -500 mV SCE, potential scanned up to 1400 mV SCE. [Page 7]
+- overarching_environmental_conditions: Room temperature (23°C), not aerated. [Page 7, Fig. 4]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature (23°C) [Fig. 4]
+- continuous_sweep_rate: 1 mV/s [Page 7]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Calomel-electrode (SCE) [2.7. Macroelectrochemical investigations]
+- electrolyte_solvents: Distilled water [Page 7]
+- electrolyte_primary_salts: HCl [2.6. Electrochemical investigations]
+- electrolyte_molar_concentrations: 3 M [Fig. 4]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not aerated [Page 7]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Measurement was started directly after prepolarisation [Page 7]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_geometry: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Acidic (Not explicitly numbered, 3 M HCl) [Page 9]
+- passive_current_density: 70 μA/cm^2 [Page 10]
+
+### Experiment
+- experimental_test_type: Macroelectrochemical potentiodynamic polarisation [2.7. Macroelectrochemical investigations, Table 2]
+- electrochemical_mode: Potentiodynamic [Page 7]
+- solution_chemistry_summary: 9 M LiCl (aqueous solution) [Table 2]
+- operating_parameters_summary: Scanning rate of 1 mV/s, cathodic prepolarisation for 2 min at -500 mV SCE, potential scanned up to 1400 mV SCE. [Page 7]
+- overarching_environmental_conditions: Room temperature, not aerated. [Page 7]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [Page 7]
+- continuous_sweep_rate: 1 mV/s [Page 7]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Calomel-electrode (SCE) [2.7. Macroelectrochemical investigations]
+- electrolyte_solvents: Distilled water [Page 7]
+- electrolyte_primary_salts: LiCl [2.6. Electrochemical investigations]
+- electrolyte_molar_concentrations: 9 M [Table 2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not aerated [Page 7]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Measurement was started directly after prepolarisation [Page 7]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_geometry: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: pH-neutral [2.7. Macroelectrochemical investigations]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Macroelectrochemical potentiodynamic polarisation [2.7. Macroelectrochemical investigations, Table 2]
+- electrochemical_mode: Potentiodynamic [Page 7]
+- solution_chemistry_summary: 10 M LiCl (aqueous solution) [Table 2]
+- operating_parameters_summary: Scanning rate of 1 mV/s, cathodic prepolarisation for 2 min at -500 mV SCE, potential scanned up to 1400 mV SCE. [Page 7]
+- overarching_environmental_conditions: Room temperature, not aerated. [Page 7]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [Page 7]
+- continuous_sweep_rate: 1 mV/s [Page 7]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Calomel-electrode (SCE) [2.7. Macroelectrochemical investigations]
+- electrolyte_solvents: Distilled water [Page 7]
+- electrolyte_primary_salts: LiCl [2.6. Electrochemical investigations]
+- electrolyte_molar_concentrations: 10 M [Table 2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not aerated [Page 7]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Measurement was started directly after prepolarisation [Page 7]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_geometry: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: pH-neutral [2.7. Macroelectrochemical investigations]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Macroelectrochemical potentiodynamic polarisation [2.7. Macroelectrochemical investigations, Table 2]
+- electrochemical_mode: Potentiodynamic [Page 7]
+- solution_chemistry_summary: 11 M LiCl (aqueous solution) [Table 2]
+- operating_parameters_summary: Scanning rate of 1 mV/s, cathodic prepolarisation for 2 min at -500 mV SCE, potential scanned up to 1400 mV SCE. [Page 7]
+- overarching_environmental_conditions: Room temperature, not aerated. [Page 7]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [Page 7]
+- continuous_sweep_rate: 1 mV/s [Page 7]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Calomel-electrode (SCE) [2.7. Macroelectrochemical investigations]
+- electrolyte_solvents: Distilled water [Page 7]
+- electrolyte_primary_salts: LiCl [2.6. Electrochemical investigations]
+- electrolyte_molar_concentrations: 11 M [Table 2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not aerated [Page 7]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Measurement was started directly after prepolarisation [Page 7]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_geometry: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: pH-neutral [2.7. Macroelectrochemical investigations]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 4, 1150°C (Micro-prepared) [Fig. 6]
+- fabrication_steps: Produced in a vacuum induction furnace (10 kg melt). After a homogenisation treatment at 1230°C for 10 h (in air), the alloys were forged between 1200°C and 1150°C into bars of the dimension 15 x 65 mm^2. [2.1. Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealing in a one-step treatment at 1150°C for 40 min in laboratory furnaces (air). [2.2. Heat treatment, Fig. 6]
+- cooling_methods: Quenching in water. [2.2. Heat treatment]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically ground with diamond paste (6 μm). [Page 7]
+- chemical_surface_preparation: Slightly etched (5 s) in a Blöch-Wedel II etching liquid (50 ml HCl techn. {37%}, 100 ml H2O and 1 g K2SO4) and rinsed with distilled water and ethanol. [Page 7]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Capillary tip diameter varied between 2 and 1000 μm. [2.8. Microelectrochemical method]
+
+### Experiment
+- experimental_test_type: Microelectrochemical potentiodynamic polarisation [2.8. Microelectrochemical method, Fig. 6]
+- electrochemical_mode: Potentiodynamic [Page 7]
+- solution_chemistry_summary: 3 M HCl [Fig. 6]
+- operating_parameters_summary: Scanning rate of 1 mV/s, cathodic prepolarisation for 2 min at -500 mV SCE, potential scanned up to 1400 mV SCE. [Page 7]
+- overarching_environmental_conditions: Room temperature (23°C), not aerated. [Page 7, Fig. 6]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature (23°C) [Fig. 6]
+- continuous_sweep_rate: 1 mV/s [Page 7]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Calomel-electrode (SCE) [2.8. Microelectrochemical method]
+- electrolyte_solvents: Distilled water [Page 7]
+- electrolyte_primary_salts: HCl [2.6. Electrochemical investigations]
+- electrolyte_molar_concentrations: 3 M [Fig. 6]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not aerated [Page 7]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Measurement was started directly after prepolarisation [Page 7]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum wire [2.8. Microelectrochemical method]
+- counter_electrode_geometry: 0.5 mm thick platinum wire [2.8. Microelectrochemical method]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Acidic (Not explicitly numbered, 3 M HCl) [Page 9]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Super duplex stainless steels (SDSS) [1. Introduction]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Duplex stainless steels (DSS) / Super duplex stainless steels (SDSS) [1. Introduction]
+- elemental_weight_percentages: 25.2 wt.% Cr, 4.5 wt.% Ni, 3.7 wt.% Mo, 4.9 wt.% Mn, 0.55 wt.% N, bal. Fe [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: The austenite is enriched in nickel and nitrogen, while the ferrite is enriched in chromium and molybdenum. [1. Introduction]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = wt.% Cr + 3.3 wt.% Mo + 20 wt.% N [1. Introduction]
+- overall_microstructure: The microstructure consists of two phases, austenite and ferrite, present in relatively large separate domains and in approximately equal volume fractions. [1. Introduction]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite, Ferrite [1. Introduction]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 5, 1050°C (Macro-prepared) [Table 2, Fig. 4]
+- fabrication_steps: Produced in a vacuum induction furnace (10 kg melt). After a homogenisation treatment at 1230°C for 10 h (in air), the alloys were forged between 1200°C and 1150°C into bars of the dimension 15 x 65 mm^2. [2.1. Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealing in a one-step treatment at 1050°C for 40 min in laboratory furnaces (air). [2.2. Heat treatment, Table 2]
+- cooling_methods: Quenching in water. [2.2. Heat treatment]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically ground (1200 grit). [2.6. Electrochemical investigations]
+- chemical_surface_preparation: Not etched. [2.6. Electrochemical investigations]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 4 mm in diameter. [2.7. Macroelectrochemical investigations]
+
+### Experiment
+- experimental_test_type: Macroelectrochemical potentiodynamic polarisation [2.7. Macroelectrochemical investigations, Fig. 4]
+- electrochemical_mode: Potentiodynamic [Page 7]
+- solution_chemistry_summary: 3 M HCl [Fig. 4]
+- operating_parameters_summary: Scanning rate of 1 mV/s, cathodic prepolarisation for 2 min at -500 mV SCE, potential scanned up to 1400 mV SCE. [Page 7]
+- overarching_environmental_conditions: Room temperature (23°C), not aerated. [Page 7, Fig. 4]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature (23°C) [Fig. 4]
+- continuous_sweep_rate: 1 mV/s [Page 7]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Calomel-electrode (SCE) [2.7. Macroelectrochemical investigations]
+- electrolyte_solvents: Distilled water [Page 7]
+- electrolyte_primary_salts: HCl [2.6. Electrochemical investigations]
+- electrolyte_molar_concentrations: 3 M [Fig. 4]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not aerated [Page 7]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Measurement was started directly after prepolarisation [Page 7]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_geometry: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Acidic (Not explicitly numbered, 3 M HCl) [Page 9]
+- passive_current_density: 22 μA/cm^2 [Page 10]
+
+### Experiment
+- experimental_test_type: Macroelectrochemical potentiodynamic polarisation [2.7. Macroelectrochemical investigations, Table 2]
+- electrochemical_mode: Potentiodynamic [Page 7]
+- solution_chemistry_summary: 9 M LiCl (aqueous solution) [Table 2]
+- operating_parameters_summary: Scanning rate of 1 mV/s, cathodic prepolarisation for 2 min at -500 mV SCE, potential scanned up to 1400 mV SCE. [Page 7]
+- overarching_environmental_conditions: Room temperature, not aerated. [Page 7]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [Page 7]
+- continuous_sweep_rate: 1 mV/s [Page 7]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Calomel-electrode (SCE) [2.7. Macroelectrochemical investigations]
+- electrolyte_solvents: Distilled water [Page 7]
+- electrolyte_primary_salts: LiCl [2.6. Electrochemical investigations]
+- electrolyte_molar_concentrations: 9 M [Table 2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not aerated [Page 7]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Measurement was started directly after prepolarisation [Page 7]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_geometry: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: pH-neutral [2.7. Macroelectrochemical investigations]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Macroelectrochemical potentiodynamic polarisation [2.7. Macroelectrochemical investigations, Table 2]
+- electrochemical_mode: Potentiodynamic [Page 7]
+- solution_chemistry_summary: 10 M LiCl (aqueous solution) [Table 2]
+- operating_parameters_summary: Scanning rate of 1 mV/s, cathodic prepolarisation for 2 min at -500 mV SCE, potential scanned up to 1400 mV SCE. [Page 7]
+- overarching_environmental_conditions: Room temperature, not aerated. [Page 7]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [Page 7]
+- continuous_sweep_rate: 1 mV/s [Page 7]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Calomel-electrode (SCE) [2.7. Macroelectrochemical investigations]
+- electrolyte_solvents: Distilled water [Page 7]
+- electrolyte_primary_salts: LiCl [2.6. Electrochemical investigations]
+- electrolyte_molar_concentrations: 10 M [Table 2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not aerated [Page 7]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Measurement was started directly after prepolarisation [Page 7]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_geometry: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: pH-neutral [2.7. Macroelectrochemical investigations]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Macroelectrochemical potentiodynamic polarisation [2.7. Macroelectrochemical investigations, Table 2]
+- electrochemical_mode: Potentiodynamic [Page 7]
+- solution_chemistry_summary: 11 M LiCl (aqueous solution) [Table 2]
+- operating_parameters_summary: Scanning rate of 1 mV/s, cathodic prepolarisation for 2 min at -500 mV SCE, potential scanned up to 1400 mV SCE. [Page 7]
+- overarching_environmental_conditions: Room temperature, not aerated. [Page 7]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [Page 7]
+- continuous_sweep_rate: 1 mV/s [Page 7]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Calomel-electrode (SCE) [2.7. Macroelectrochemical investigations]
+- electrolyte_solvents: Distilled water [Page 7]
+- electrolyte_primary_salts: LiCl [2.6. Electrochemical investigations]
+- electrolyte_molar_concentrations: 11 M [Table 2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not aerated [Page 7]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Measurement was started directly after prepolarisation [Page 7]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_geometry: Platinum wire [2.7. Macroelectrochemical investigations]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: pH-neutral [2.7. Macroelectrochemical investigations]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 5, 1050°C (Micro-prepared) [Fig. 7]
+- fabrication_steps: Produced in a vacuum induction furnace (10 kg melt). After a homogenisation treatment at 1230°C for 10 h (in air), the alloys were forged between 1200°C and 1150°C into bars of the dimension 15 x 65 mm^2. [2.1. Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealing in a one-step treatment at 1050°C for 40 min in laboratory furnaces (air). [2.2. Heat treatment, Fig. 7]
+- cooling_methods: Quenching in water. [2.2. Heat treatment]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically ground with diamond paste (6 μm). [Page 7]
+- chemical_surface_preparation: Slightly etched (5 s) in a Blöch-Wedel II etching liquid (50 ml HCl techn. {37%}, 100 ml H2O and 1 g K2SO4) and rinsed with distilled water and ethanol. [Page 7]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Capillary tip diameter varied between 2 and 1000 μm. [2.8. Microelectrochemical method]
+
+### Experiment
+- experimental_test_type: Microelectrochemical potentiodynamic polarisation [2.8. Microelectrochemical method, Fig. 7]
+- electrochemical_mode: Potentiodynamic [Page 7]
+- solution_chemistry_summary: 3 M HCl [Fig. 7]
+- operating_parameters_summary: Scanning rate of 1 mV/s, cathodic prepolarisation for 2 min at -500 mV SCE, potential scanned up to 1400 mV SCE. [Page 7]
+- overarching_environmental_conditions: Room temperature (23°C), not aerated. [Page 7, Fig. 7]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature (23°C) [Fig. 7]
+- continuous_sweep_rate: 1 mV/s [Page 7]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Calomel-electrode (SCE) [2.8. Microelectrochemical method]
+- electrolyte_solvents: Distilled water [Page 7]
+- electrolyte_primary_salts: HCl [2.6. Electrochemical investigations]
+- electrolyte_molar_concentrations: 3 M [Fig. 7]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not aerated [Page 7]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Measurement was started directly after prepolarisation [Page 7]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum wire [2.8. Microelectrochemical method]
+- counter_electrode_geometry: 0.5 mm thick platinum wire [2.8. Microelectrochemical method]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Acidic (Not explicitly numbered, 3 M HCl) [Page 9]
+- passive_current_density: Not specified in text.

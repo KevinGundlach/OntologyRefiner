@@ -1,0 +1,343 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High-entropy alloys (HEASs) [1. Introduction]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Al0.5CoCrFeNi (molar/atomic ratio) [1. Introduction]
+- spatial_chemical_homogeneity: Contains a matrix phase, droplet-shaped phases (Al–Ni rich), wall-shaped phases (Al-depleted), and needle-shaped phases depending on the thermal history [3.3. Microstructural characteristics of Al0.5CoCrFeNi alloy]
+- trace_impurities: Precursor elements (Al, Co, Ni, Cr, Fe) were 99.99% pure [2. Experimental procedures]
+- derived_theoretical_metrics: Chemical mixing enthalpy of atom pairs (e.g., Al-Ni = -22 kJ/mol) [Table 2]
+- overall_microstructure: FCC solid solution matrix with droplet-shaped phases (Al–Ni rich phases); undergoes spinodal decomposition to FCC + BCC solid solution after aging [Abstract]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: FCC solid solution (lattice constant 3.562 Å) and BCC solid solution (lattice constant 2.834 Å) [3.2. X-ray diffraction of Al0.5CoCrFeNi alloy]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: As-cast Al0.5CoCrFeNi
+- fabrication_steps: Melted under an Ar atmosphere in an arc furnace with highly pure components; prepared into specimens of 10 mm × 10 mm × 7 mm [2. Experimental procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Retained in an as-cast condition [2. Experimental procedures]
+- cooling_methods: Rapid cooling to room temperature [3.3. Microstructural characteristics of Al0.5CoCrFeNi alloy]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [2. Experimental procedures]
+- electrochemical_mode: Anodic polarization [2. Experimental procedures]
+- solution_chemistry_summary: 3.5% NaCl solution [2. Experimental procedures]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 1 mV s^-1 from an initial potential of -0.5 V_SCE with reference to the open circuit potential to a final potential of 1.5 V_SCE [2. Experimental procedures]
+- overarching_environmental_conditions: Room temperature / 25 °C [2. Experimental procedures / Table 4]
+- pitting_potential: 0.13 V [Table 4]
+- electrolyte_temperature: 25 °C [Table 4]
+- continuous_sweep_rate: 1 mV s^-1 [2. Experimental procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (VSCE) [2. Experimental procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [2. Experimental procedures]
+- electrolyte_molar_concentrations: 3.5 wt% [4. Conclusions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -0.57 V [Table 4]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Al0.5CoCrFeNi aged at 350 °C
+- fabrication_steps: Melted under an Ar atmosphere in an arc furnace; prepared into specimens of 10 mm × 10 mm × 7 mm [2. Experimental procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Aged in an Ar atmosphere for 24 h at 350 °C [2. Experimental procedures]
+- cooling_methods: Quenched in water [2. Experimental procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Thermal aging induces a spinodal decomposition reaction reducing the amount of Al-Ni rich phase and increasing the amount of Al-(Ni, Co, Cr, Fe) phase [Abstract]
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [2. Experimental procedures]
+- electrochemical_mode: Anodic polarization [2. Experimental procedures]
+- solution_chemistry_summary: 3.5% NaCl solution [2. Experimental procedures]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 1 mV s^-1 from an initial potential of -0.5 V_SCE with reference to the open circuit potential to a final potential of 1.5 V_SCE [2. Experimental procedures]
+- overarching_environmental_conditions: Room temperature / 25 °C [2. Experimental procedures / Table 4]
+- pitting_potential: 0.18 V [Table 4]
+- electrolyte_temperature: 25 °C [Table 4]
+- continuous_sweep_rate: 1 mV s^-1 [2. Experimental procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (VSCE) [2. Experimental procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [2. Experimental procedures]
+- electrolyte_molar_concentrations: 3.5 wt% [4. Conclusions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -0.56 V [Table 4]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Al0.5CoCrFeNi aged at 500 °C
+- fabrication_steps: Melted under an Ar atmosphere in an arc furnace; prepared into specimens of 10 mm × 10 mm × 7 mm [2. Experimental procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Aged in an Ar atmosphere for 24 h at 500 °C [2. Experimental procedures]
+- cooling_methods: Quenched in water [2. Experimental procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Thermal aging induces a spinodal decomposition reaction reducing the amount of Al-Ni rich phase and increasing the amount of Al-(Ni, Co, Cr, Fe) phase [Abstract]
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [2. Experimental procedures]
+- electrochemical_mode: Anodic polarization [2. Experimental procedures]
+- solution_chemistry_summary: 3.5% NaCl solution [2. Experimental procedures]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 1 mV s^-1 from an initial potential of -0.5 V_SCE with reference to the open circuit potential to a final potential of 1.5 V_SCE [2. Experimental procedures]
+- overarching_environmental_conditions: Room temperature / 25 °C [2. Experimental procedures / Table 4]
+- pitting_potential: 0.28 V [Table 4]
+- electrolyte_temperature: 25 °C [Table 4]
+- continuous_sweep_rate: 1 mV s^-1 [2. Experimental procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (VSCE) [2. Experimental procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [2. Experimental procedures]
+- electrolyte_molar_concentrations: 3.5 wt% [4. Conclusions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -0.30 V [Table 4]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Al0.5CoCrFeNi aged at 650 °C
+- fabrication_steps: Melted under an Ar atmosphere in an arc furnace; prepared into specimens of 10 mm × 10 mm × 7 mm [2. Experimental procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Aged in an Ar atmosphere for 24 h at 650 °C [2. Experimental procedures]
+- cooling_methods: Quenched in water [2. Experimental procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Thermal aging induces a spinodal decomposition reaction reducing the amount of Al-Ni rich phase and increasing the amount of Al-(Ni, Co, Cr, Fe) phase [Abstract]
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [2. Experimental procedures]
+- electrochemical_mode: Anodic polarization [2. Experimental procedures]
+- solution_chemistry_summary: 3.5% NaCl solution [2. Experimental procedures]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 1 mV s^-1 from an initial potential of -0.5 V_SCE with reference to the open circuit potential to a final potential of 1.5 V_SCE [2. Experimental procedures]
+- overarching_environmental_conditions: Room temperature / 25 °C [2. Experimental procedures / Table 4]
+- pitting_potential: 0.71 V [Table 4]
+- electrolyte_temperature: 25 °C [Table 4]
+- continuous_sweep_rate: 1 mV s^-1 [2. Experimental procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (VSCE) [2. Experimental procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [2. Experimental procedures]
+- electrolyte_molar_concentrations: 3.5 wt% [4. Conclusions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: 0.04 V [Table 4]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Al0.5CoCrFeNi aged at 800 °C
+- fabrication_steps: Melted under an Ar atmosphere in an arc furnace; prepared into specimens of 10 mm × 10 mm × 7 mm [2. Experimental procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Aged in an Ar atmosphere for 24 h at 800 °C [2. Experimental procedures]
+- cooling_methods: Quenched in water [2. Experimental procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Thermal aging induces a spinodal decomposition reaction reducing the amount of Al-Ni rich phase and increasing the amount of Al-(Ni, Co, Cr, Fe) phase [Abstract]
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [2. Experimental procedures]
+- electrochemical_mode: Anodic polarization [2. Experimental procedures]
+- solution_chemistry_summary: 3.5% NaCl solution [2. Experimental procedures]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 1 mV s^-1 from an initial potential of -0.5 V_SCE with reference to the open circuit potential to a final potential of 1.5 V_SCE [2. Experimental procedures]
+- overarching_environmental_conditions: Room temperature / 25 °C [2. Experimental procedures / Table 4]
+- pitting_potential: 0.14 V [Table 4]
+- electrolyte_temperature: 25 °C [Table 4]
+- continuous_sweep_rate: 1 mV s^-1 [2. Experimental procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (VSCE) [2. Experimental procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [2. Experimental procedures]
+- electrolyte_molar_concentrations: 3.5 wt% [4. Conclusions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -0.64 V [Table 4]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Al0.5CoCrFeNi aged at 950 °C
+- fabrication_steps: Melted under an Ar atmosphere in an arc furnace; prepared into specimens of 10 mm × 10 mm × 7 mm [2. Experimental procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Aged in an Ar atmosphere for 24 h at 950 °C [2. Experimental procedures]
+- cooling_methods: Quenched in water [2. Experimental procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Thermal aging induces a spinodal decomposition reaction reducing the amount of Al-Ni rich phase and increasing the amount of Al-(Ni, Co, Cr, Fe) phase [Abstract]
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [2. Experimental procedures]
+- electrochemical_mode: Anodic polarization [2. Experimental procedures]
+- solution_chemistry_summary: 3.5% NaCl solution [2. Experimental procedures]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 1 mV s^-1 from an initial potential of -0.5 V_SCE with reference to the open circuit potential to a final potential of 1.5 V_SCE [2. Experimental procedures]
+- overarching_environmental_conditions: Room temperature / 25 °C [2. Experimental procedures / Table 4]
+- pitting_potential: 0.18 V [Table 4]
+- electrolyte_temperature: 25 °C [Table 4]
+- continuous_sweep_rate: 1 mV s^-1 [2. Experimental procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (VSCE) [2. Experimental procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [2. Experimental procedures]
+- electrolyte_molar_concentrations: 3.5 wt% [4. Conclusions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -0.54 V [Table 4]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: AISI 304L [3.4. Corrosion properties of Al0.5CoCrFeNi alloy]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Stainless steel [3.4. Corrosion properties of Al0.5CoCrFeNi alloy]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: AISI 304L stainless steel (Reference specimen)
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [2. Experimental procedures]
+- electrochemical_mode: Anodic polarization [2. Experimental procedures]
+- solution_chemistry_summary: 3.5% NaCl solution [2. Experimental procedures]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 1 mV s^-1 from an initial potential of -0.5 V_SCE with reference to the open circuit potential to a final potential of 1.5 V_SCE [2. Experimental procedures]
+- overarching_environmental_conditions: Room temperature / 25 °C [2. Experimental procedures / Table 4]
+- pitting_potential: 0.48 V [Table 4]
+- electrolyte_temperature: 25 °C [Table 4]
+- continuous_sweep_rate: 1 mV s^-1 [2. Experimental procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (VSCE) [2. Experimental procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [2. Experimental procedures]
+- electrolyte_molar_concentrations: 3.5 wt% [4. Conclusions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -0.22 V [Table 4]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

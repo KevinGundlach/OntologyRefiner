@@ -1,0 +1,459 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High Entropy Alloys (HEAs) [Introduction]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Equimolar or near equimolar ratios indicated by alloy designation [Introduction]
+- spatial_chemical_homogeneity: Cu tends to segregate into interdendritic regions, leaving a Cu depleted matrix [Results and discussion]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Consists of a Cu rich fcc phase together with a bcc phase (Cu depleted matrix) [Results and discussion]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: fcc, bcc [Results and discussion]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: AlCoCrCuFe
+- fabrication_steps: Produced by arc melting or laser melting (referred to as 'as cast' in the text); metal powders or chunks were consolidated under an argon atmosphere [Experimental - Material preparation; Results and discussion]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Specimens were ground to 2000 grit finish (SiC paper) [Experimental - Electrochemical tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 2000 grit finish [Experimental - Electrochemical tests]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarisation testing [Experimental - Electrochemical tests]
+- electrochemical_mode: Potentiodynamic [Experimental - Electrochemical tests]
+- solution_chemistry_summary: Quiescent 0.6 M NaCl solution [Experimental - Electrochemical tests]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 1 mV s^-1 from an initial potential of -150 mV_SCE versus OCP to a final potential of 2.0 V_SCE [Experimental - Electrochemical tests]
+- overarching_environmental_conditions: 25 °C [Experimental - Electrochemical tests]
+- pitting_potential: -130 ± 5 mV_SCE [Table 1]
+- electrolyte_temperature: 25 °C [Experimental - Electrochemical tests]
+- continuous_sweep_rate: 1 mV s^-1 [Experimental - Electrochemical tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental - Electrochemical tests]
+- electrolyte_solvents: Aqueous/Water (implied) [Introduction]
+- electrolyte_primary_salts: NaCl [Experimental - Electrochemical tests]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental - Electrochemical tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Quiescent (naturally exposed to air) [Experimental - Electrochemical tests]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -264 ± 5 mV_SCE [Table 1]
+- ocp_stabilization_methodology: Open circuit potential was measured before polarisation testing to achieve an approximately stable potential [Experimental - Electrochemical tests]
+- ocp_resting_duration: 30 min [Experimental - Electrochemical tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental - Electrochemical tests]
+- counter_electrode_geometry: Mesh [Experimental - Electrochemical tests]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High Entropy Alloys (HEAs) [Introduction]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Equimolar or near equimolar ratios indicated by alloy designation [Introduction]
+- spatial_chemical_homogeneity: Highly heterogeneous multiphase microstructure [Results and discussion]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Heterogeneous multiple phase structure [Results and discussion]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: (TiAl)0.7V0.15Fe0.1Ni0.05
+- fabrication_steps: Produced by arc melting or laser melting (referred to as 'as cast' in the text); consolidated under an argon atmosphere [Experimental - Material preparation; Results and discussion]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Specimens were ground to 2000 grit finish (SiC paper) [Experimental - Electrochemical tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 2000 grit finish [Experimental - Electrochemical tests]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarisation testing [Experimental - Electrochemical tests]
+- electrochemical_mode: Potentiodynamic [Experimental - Electrochemical tests]
+- solution_chemistry_summary: Quiescent 0.6 M NaCl solution [Experimental - Electrochemical tests]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 1 mV s^-1 from an initial potential of -150 mV_SCE versus OCP to a final potential of 2.0 V_SCE [Experimental - Electrochemical tests]
+- overarching_environmental_conditions: 25 °C [Experimental - Electrochemical tests]
+- pitting_potential: 263 ± 10 mV_SCE [Table 1]
+- electrolyte_temperature: 25 °C [Experimental - Electrochemical tests]
+- continuous_sweep_rate: 1 mV s^-1 [Experimental - Electrochemical tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental - Electrochemical tests]
+- electrolyte_solvents: Aqueous/Water (implied) [Introduction]
+- electrolyte_primary_salts: NaCl [Experimental - Electrochemical tests]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental - Electrochemical tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Quiescent (naturally exposed to air) [Experimental - Electrochemical tests]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -388 ± 12 mV_SCE [Table 1]
+- ocp_stabilization_methodology: Open circuit potential was measured before polarisation testing to achieve an approximately stable potential [Experimental - Electrochemical tests]
+- ocp_resting_duration: 30 min [Experimental - Electrochemical tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental - Electrochemical tests]
+- counter_electrode_geometry: Mesh [Experimental - Electrochemical tests]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High Entropy Alloys (HEAs) [Introduction]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Equimolar or near equimolar ratios indicated by alloy designation [Introduction]
+- spatial_chemical_homogeneity: Highly heterogeneous multiphase microstructure [Results and discussion]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Heterogeneous multiple phase structure [Results and discussion]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: AlTiVCrSi
+- fabrication_steps: Produced by arc melting or laser melting (referred to as 'as cast' in the text); consolidated under an argon atmosphere [Experimental - Material preparation; Results and discussion]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Specimens were ground to 2000 grit finish (SiC paper) [Experimental - Electrochemical tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 2000 grit finish [Experimental - Electrochemical tests]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarisation testing [Experimental - Electrochemical tests]
+- electrochemical_mode: Potentiodynamic [Experimental - Electrochemical tests]
+- solution_chemistry_summary: Quiescent 0.6 M NaCl solution [Experimental - Electrochemical tests]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 1 mV s^-1 from an initial potential of -150 mV_SCE versus OCP to a final potential of 2.0 V_SCE [Experimental - Electrochemical tests]
+- overarching_environmental_conditions: 25 °C [Experimental - Electrochemical tests]
+- pitting_potential: 11 ± 10 mV_SCE [Table 1]
+- electrolyte_temperature: 25 °C [Experimental - Electrochemical tests]
+- continuous_sweep_rate: 1 mV s^-1 [Experimental - Electrochemical tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental - Electrochemical tests]
+- electrolyte_solvents: Aqueous/Water (implied) [Introduction]
+- electrolyte_primary_salts: NaCl [Experimental - Electrochemical tests]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental - Electrochemical tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Quiescent (naturally exposed to air) [Experimental - Electrochemical tests]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -498 ± 20 mV_SCE [Table 1]
+- ocp_stabilization_methodology: Open circuit potential was measured before polarisation testing to achieve an approximately stable potential [Experimental - Electrochemical tests]
+- ocp_resting_duration: 30 min [Experimental - Electrochemical tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental - Electrochemical tests]
+- counter_electrode_geometry: Mesh [Experimental - Electrochemical tests]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High Entropy Alloys (HEAs) [Introduction]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Equimolar or near equimolar ratios indicated by alloy designation [Introduction]
+- spatial_chemical_homogeneity: Fine interconnected microstructure, no severe elemental segregation [Results and discussion]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Consists of a combination of fcc and bcc phase (the latter in the form of an ordered B2 phase) [Results and discussion]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: fcc, bcc (B2 phase with lattice parameter 0.3001 nm) [Results and discussion]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: CoCrFeNiAl0.9
+- fabrication_steps: Produced by arc melting or laser melting (referred to as 'as cast' in the text); consolidated under an argon atmosphere [Experimental - Material preparation; Results and discussion]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Specimens were ground to 2000 grit finish (SiC paper) [Experimental - Electrochemical tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 2000 grit finish [Experimental - Electrochemical tests]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarisation testing [Experimental - Electrochemical tests]
+- electrochemical_mode: Potentiodynamic [Experimental - Electrochemical tests]
+- solution_chemistry_summary: Quiescent 0.6 M NaCl solution [Experimental - Electrochemical tests]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 1 mV s^-1 from an initial potential of -150 mV_SCE versus OCP to a final potential of 2.0 V_SCE [Experimental - Electrochemical tests]
+- overarching_environmental_conditions: 25 °C [Experimental - Electrochemical tests]
+- pitting_potential: 164 ± 29 mV_SCE [Table 3]
+- electrolyte_temperature: 25 °C [Experimental - Electrochemical tests]
+- continuous_sweep_rate: 1 mV s^-1 [Experimental - Electrochemical tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental - Electrochemical tests]
+- electrolyte_solvents: Aqueous/Water (implied) [Introduction]
+- electrolyte_primary_salts: NaCl [Experimental - Electrochemical tests]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental - Electrochemical tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Quiescent (naturally exposed to air) [Experimental - Electrochemical tests]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -217 ± 35 mV_SCE [Table 3]
+- ocp_stabilization_methodology: Open circuit potential was measured before polarisation testing to achieve an approximately stable potential [Experimental - Electrochemical tests]
+- ocp_resting_duration: 30 min [Experimental - Electrochemical tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental - Electrochemical tests]
+- counter_electrode_geometry: Mesh [Experimental - Electrochemical tests]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High Entropy Alloys (HEAs) [Introduction]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Equimolar or near equimolar ratios indicated by alloy designation [Introduction]
+- spatial_chemical_homogeneity: Significant segregation, phase A enriched in Ti (~62.8 at-%) [Results and discussion]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Very heterogeneous microstructure consisting of at least three unique phases [Results and discussion]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Multiple undefined complex phases [Results and discussion]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Ti0.3(CoCrFeNi)0.7
+- fabrication_steps: Produced by arc melting or laser melting (referred to as 'as cast' in the text); consolidated under an argon atmosphere [Experimental - Material preparation; Results and discussion]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Specimens were ground to 2000 grit finish (SiC paper) [Experimental - Electrochemical tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 2000 grit finish [Experimental - Electrochemical tests]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarisation testing [Experimental - Electrochemical tests]
+- electrochemical_mode: Potentiodynamic [Experimental - Electrochemical tests]
+- solution_chemistry_summary: Quiescent 0.6 M NaCl solution [Experimental - Electrochemical tests]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 1 mV s^-1 from an initial potential of -150 mV_SCE versus OCP to a final potential of 2.0 V_SCE [Experimental - Electrochemical tests]
+- overarching_environmental_conditions: 25 °C [Experimental - Electrochemical tests]
+- pitting_potential: 1040 ± 13 mV_SCE [Table 3]
+- electrolyte_temperature: 25 °C [Experimental - Electrochemical tests]
+- continuous_sweep_rate: 1 mV s^-1 [Experimental - Electrochemical tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental - Electrochemical tests]
+- electrolyte_solvents: Aqueous/Water (implied) [Introduction]
+- electrolyte_primary_salts: NaCl [Experimental - Electrochemical tests]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental - Electrochemical tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Quiescent (naturally exposed to air) [Experimental - Electrochemical tests]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -273 ± 31 mV_SCE [Table 3]
+- ocp_stabilization_methodology: Open circuit potential was measured before polarisation testing to achieve an approximately stable potential [Experimental - Electrochemical tests]
+- ocp_resting_duration: 30 min [Experimental - Electrochemical tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental - Electrochemical tests]
+- counter_electrode_geometry: Mesh [Experimental - Electrochemical tests]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High Entropy Alloys (HEAs) [Introduction]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Equimolar or near equimolar ratios indicated by alloy designation [Introduction]
+- spatial_chemical_homogeneity: Dependent on fabrication method; AM shows solid solution, whereas SPS shows severe segregation of Cr to sigma phase leaving Cr-depleted fcc matrix [Results and discussion]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Varies with process (single solid solution for AM; multiphase for SPS) [Results and discussion]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: fcc phase, Cr-rich sigma phase [Results and discussion]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: CoCrFeNi (AM)
+- fabrication_steps: Arc melting (AM) in a reduced argon atmosphere on a water cooled copper hearth [Experimental - Material preparation; Results and discussion]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Specimens were ground to 2000 grit finish (SiC paper) [Experimental - Electrochemical tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 2000 grit finish [Experimental - Electrochemical tests]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarisation testing [Experimental - Electrochemical tests]
+- electrochemical_mode: Potentiodynamic [Experimental - Electrochemical tests]
+- solution_chemistry_summary: Quiescent 0.6 M NaCl solution [Experimental - Electrochemical tests]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 1 mV s^-1 from an initial potential of -150 mV_SCE versus OCP to a final potential of 2.0 V_SCE [Experimental - Electrochemical tests]
+- overarching_environmental_conditions: 25 °C [Experimental - Electrochemical tests]
+- pitting_potential: 442 mV_SCE [Results and discussion]
+- electrolyte_temperature: 25 °C [Experimental - Electrochemical tests]
+- continuous_sweep_rate: 1 mV s^-1 [Experimental - Electrochemical tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental - Electrochemical tests]
+- electrolyte_solvents: Aqueous/Water (implied) [Introduction]
+- electrolyte_primary_salts: NaCl [Experimental - Electrochemical tests]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental - Electrochemical tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Quiescent (naturally exposed to air) [Experimental - Electrochemical tests]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open circuit potential was measured before polarisation testing to achieve an approximately stable potential [Experimental - Electrochemical tests]
+- ocp_resting_duration: 30 min [Experimental - Electrochemical tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental - Electrochemical tests]
+- counter_electrode_geometry: Mesh [Experimental - Electrochemical tests]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: CoCrFeNi (SPS*)
+- fabrication_steps: Metal powders blended using high energy ball milling and consolidated fully using spark plasma sintering (SPS) [Experimental - Material preparation; Figure 1]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Held at 1000 °C for 5 min [Figure 1]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Specimens were ground to 2000 grit finish (SiC paper) [Experimental - Electrochemical tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 2000 grit finish [Experimental - Electrochemical tests]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarisation testing [Experimental - Electrochemical tests]
+- electrochemical_mode: Potentiodynamic [Experimental - Electrochemical tests]
+- solution_chemistry_summary: Quiescent 0.6 M NaCl solution [Experimental - Electrochemical tests]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 1 mV s^-1 from an initial potential of -150 mV_SCE versus OCP to a final potential of 2.0 V_SCE [Experimental - Electrochemical tests]
+- overarching_environmental_conditions: 25 °C [Experimental - Electrochemical tests]
+- pitting_potential: -28 mV_SCE [Results and discussion]
+- electrolyte_temperature: 25 °C [Experimental - Electrochemical tests]
+- continuous_sweep_rate: 1 mV s^-1 [Experimental - Electrochemical tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental - Electrochemical tests]
+- electrolyte_solvents: Aqueous/Water (implied) [Introduction]
+- electrolyte_primary_salts: NaCl [Experimental - Electrochemical tests]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental - Electrochemical tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Quiescent (naturally exposed to air) [Experimental - Electrochemical tests]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open circuit potential was measured before polarisation testing to achieve an approximately stable potential [Experimental - Electrochemical tests]
+- ocp_resting_duration: 30 min [Experimental - Electrochemical tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental - Electrochemical tests]
+- counter_electrode_geometry: Mesh [Experimental - Electrochemical tests]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: CoCrFeNi (SPS^)
+- fabrication_steps: Metal powders blended using high energy ball milling and consolidated fully using spark plasma sintering (SPS) [Experimental - Material preparation; Figure 1]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Firstly held at 500 °C for 5 min and then sintered at 1000 °C for another 5 min [Figure 1]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Specimens were ground to 2000 grit finish (SiC paper) [Experimental - Electrochemical tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 2000 grit finish [Experimental - Electrochemical tests]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarisation testing [Experimental - Electrochemical tests]
+- electrochemical_mode: Potentiodynamic [Experimental - Electrochemical tests]
+- solution_chemistry_summary: Quiescent 0.6 M NaCl solution [Experimental - Electrochemical tests]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 1 mV s^-1 from an initial potential of -150 mV_SCE versus OCP to a final potential of 2.0 V_SCE [Experimental - Electrochemical tests]
+- overarching_environmental_conditions: 25 °C [Experimental - Electrochemical tests]
+- pitting_potential: -8 ± 59 mV_SCE [Table 3]
+- electrolyte_temperature: 25 °C [Experimental - Electrochemical tests]
+- continuous_sweep_rate: 1 mV s^-1 [Experimental - Electrochemical tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental - Electrochemical tests]
+- electrolyte_solvents: Aqueous/Water (implied) [Introduction]
+- electrolyte_primary_salts: NaCl [Experimental - Electrochemical tests]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental - Electrochemical tests]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Quiescent (naturally exposed to air) [Experimental - Electrochemical tests]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -304 ± 31 mV_SCE [Table 3]
+- ocp_stabilization_methodology: Open circuit potential was measured before polarisation testing to achieve an approximately stable potential [Experimental - Electrochemical tests]
+- ocp_resting_duration: 30 min [Experimental - Electrochemical tests]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Experimental - Electrochemical tests]
+- counter_electrode_geometry: Mesh [Experimental - Electrochemical tests]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

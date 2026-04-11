@@ -1,0 +1,454 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: UNS S30100 [Materials]
+- alloy_family: austenitic stainless steels [ABSTRACT]
+- elemental_weight_percentages: C 0.108, Cr 17.0, Ni 8.3, Mo 0.19, Cu 0.19, N 0.047 [Materials]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: UNS S30100 [Materials]
+- fabrication_steps: cold-rolled sheets [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: surface ground to 600 grade silicon carbide paper [Materials]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic measurements [Procedures]
+- electrochemical_mode: potentiodynamic polarization [Procedures]
+- solution_chemistry_summary: 0.6 M sodium chloride (neutral pH ~ 7) in distilled water [Solutions]
+- operating_parameters_summary: scan rate of 600 mV/h after 30 minutes OCP stabilization [Procedures]
+- overarching_environmental_conditions: elevated temperatures [ABSTRACT]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 70°C [RESULTS]
+- continuous_sweep_rate: 600 mV/h [Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [RESULTS]
+- electrolyte_solvents: distilled water [Solutions]
+- electrolyte_primary_salts: sodium chloride [Solutions]
+- electrolyte_molar_concentrations: 0.6 M [Solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated [Solutions]
+- purge_gas_type: nitrogen [Solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: immersed in the solution [Procedures]
+- ocp_resting_duration: 30 minutes [Procedures]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: ~ 7 [Solutions]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic measurements [Procedures]
+- electrochemical_mode: potentiodynamic polarization [Procedures]
+- solution_chemistry_summary: 0.6 M sodium bromide (neutral pH ~ 7) in distilled water [Solutions]
+- operating_parameters_summary: scan rate of 600 mV/h after 30 minutes OCP stabilization [Procedures]
+- overarching_environmental_conditions: elevated temperatures [ABSTRACT]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 70°C [RESULTS]
+- continuous_sweep_rate: 600 mV/h [Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [RESULTS]
+- electrolyte_solvents: distilled water [Solutions]
+- electrolyte_primary_salts: sodium bromide [Solutions]
+- electrolyte_molar_concentrations: 0.6 M [Solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated [Solutions]
+- purge_gas_type: nitrogen [Solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: immersed in the solution [Procedures]
+- ocp_resting_duration: 30 minutes [Procedures]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: ~ 7 [Solutions]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: UNS S31600 [Materials]
+- alloy_family: austenitic stainless steels [ABSTRACT]
+- elemental_weight_percentages: C 0.06, Cr 17.2, Ni 10.5, Mo 2.0, Cu 0.25, N 0.049 [Materials]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: UNS S31600 [Materials]
+- fabrication_steps: cold-rolled sheets [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: surface ground to 600 grade silicon carbide paper [Materials]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic measurements [Procedures]
+- electrochemical_mode: potentiodynamic polarization [Procedures]
+- solution_chemistry_summary: 0.6 M sodium chloride (neutral pH ~ 7) in distilled water [Solutions]
+- operating_parameters_summary: scan rate of 600 mV/h after 30 minutes OCP stabilization [Procedures]
+- overarching_environmental_conditions: elevated temperatures [ABSTRACT]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 70°C [RESULTS]
+- continuous_sweep_rate: 600 mV/h [Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [RESULTS]
+- electrolyte_solvents: distilled water [Solutions]
+- electrolyte_primary_salts: sodium chloride [Solutions]
+- electrolyte_molar_concentrations: 0.6 M [Solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated [Solutions]
+- purge_gas_type: nitrogen [Solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: immersed in the solution [Procedures]
+- ocp_resting_duration: 30 minutes [Procedures]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: ~ 7 [Solutions]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic measurements [Procedures]
+- electrochemical_mode: potentiodynamic polarization [Procedures]
+- solution_chemistry_summary: 0.6 M sodium bromide (neutral pH ~ 7) in distilled water [Solutions]
+- operating_parameters_summary: scan rate of 600 mV/h after 30 minutes OCP stabilization [Procedures]
+- overarching_environmental_conditions: elevated temperatures [ABSTRACT]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 70°C [RESULTS]
+- continuous_sweep_rate: 600 mV/h [Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [RESULTS]
+- electrolyte_solvents: distilled water [Solutions]
+- electrolyte_primary_salts: sodium bromide [Solutions]
+- electrolyte_molar_concentrations: 0.6 M [Solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated [Solutions]
+- purge_gas_type: nitrogen [Solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: immersed in the solution [Procedures]
+- ocp_resting_duration: 30 minutes [Procedures]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: ~ 7 [Solutions]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: UNS N08904 [Materials]
+- alloy_family: austenitic stainless steels [ABSTRACT]
+- elemental_weight_percentages: C 0.025, Cr 20.0, Ni 25.0, Mo 4.5, Cu 1.5 [Materials]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: UNS N08904 [Materials]
+- fabrication_steps: cold-rolled sheets [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: surface ground to 600 grade silicon carbide paper [Materials]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic measurements [Procedures]
+- electrochemical_mode: potentiodynamic polarization [Procedures]
+- solution_chemistry_summary: 0.6 M sodium chloride (neutral pH ~ 7) in distilled water [Solutions]
+- operating_parameters_summary: scan rate of 600 mV/h after 30 minutes OCP stabilization [Procedures]
+- overarching_environmental_conditions: elevated temperatures [ABSTRACT]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 70°C [RESULTS]
+- continuous_sweep_rate: 600 mV/h [Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [RESULTS]
+- electrolyte_solvents: distilled water [Solutions]
+- electrolyte_primary_salts: sodium chloride [Solutions]
+- electrolyte_molar_concentrations: 0.6 M [Solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated [Solutions]
+- purge_gas_type: nitrogen [Solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: immersed in the solution [Procedures]
+- ocp_resting_duration: 30 minutes [Procedures]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: ~ 7 [Solutions]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic measurements [Procedures]
+- electrochemical_mode: potentiodynamic polarization [Procedures]
+- solution_chemistry_summary: 0.6 M sodium bromide (neutral pH ~ 7) in distilled water [Solutions]
+- operating_parameters_summary: scan rate of 600 mV/h after 30 minutes OCP stabilization [Procedures]
+- overarching_environmental_conditions: elevated temperatures [ABSTRACT]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 70°C [RESULTS]
+- continuous_sweep_rate: 600 mV/h [Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [RESULTS]
+- electrolyte_solvents: distilled water [Solutions]
+- electrolyte_primary_salts: sodium bromide [Solutions]
+- electrolyte_molar_concentrations: 0.6 M [Solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated [Solutions]
+- purge_gas_type: nitrogen [Solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: immersed in the solution [Procedures]
+- ocp_resting_duration: 30 minutes [Procedures]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: ~ 7 [Solutions]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: UNS S31254 [Materials]
+- alloy_family: austenitic stainless steels [ABSTRACT]
+- elemental_weight_percentages: C 0.02, Cr 20.0, Ni 18.0, Mo 6.1, Cu 0.7, N 0.21, Ti 0.033 [Materials]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: titanium-rich inclusions [Materials]
+- inclusion_size: Not specified in text.
+- inclusion_density: high population [RESULTS]
+
+## Conditioned Material
+- material_identification: UNS S31254 Heat 1 [Materials]
+- fabrication_steps: tube material [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: surface ground to 600 grade silicon carbide paper [Materials]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic measurements [Procedures]
+- electrochemical_mode: potentiodynamic polarization [Procedures]
+- solution_chemistry_summary: 0.6 M sodium chloride (neutral pH ~ 7) in distilled water [Solutions]
+- operating_parameters_summary: scan rate of 600 mV/h after 30 minutes OCP stabilization [Procedures]
+- overarching_environmental_conditions: elevated temperatures [ABSTRACT]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 70°C [RESULTS]
+- continuous_sweep_rate: 600 mV/h [Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [RESULTS]
+- electrolyte_solvents: distilled water [Solutions]
+- electrolyte_primary_salts: sodium chloride [Solutions]
+- electrolyte_molar_concentrations: 0.6 M [Solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated [Solutions]
+- purge_gas_type: nitrogen [Solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: immersed in the solution [Procedures]
+- ocp_resting_duration: 30 minutes [Procedures]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: ~ 7 [Solutions]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic measurements [Procedures]
+- electrochemical_mode: potentiodynamic polarization [Procedures]
+- solution_chemistry_summary: 0.6 M sodium bromide (neutral pH ~ 7) in distilled water [Solutions]
+- operating_parameters_summary: scan rate of 600 mV/h after 30 minutes OCP stabilization [Procedures]
+- overarching_environmental_conditions: elevated temperatures [ABSTRACT]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 70°C [RESULTS]
+- continuous_sweep_rate: 600 mV/h [Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [RESULTS]
+- electrolyte_solvents: distilled water [Solutions]
+- electrolyte_primary_salts: sodium bromide [Solutions]
+- electrolyte_molar_concentrations: 0.6 M [Solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated [Solutions]
+- purge_gas_type: nitrogen [Solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: immersed in the solution [Procedures]
+- ocp_resting_duration: 30 minutes [Procedures]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: ~ 7 [Solutions]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: UNS S31254 [Materials]
+- alloy_family: austenitic stainless steels [ABSTRACT]
+- elemental_weight_percentages: C 0.02, Cr 20.0, Ni 18.0, Mo 6.1, Cu 0.7, N 0.21 [Materials]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: UNS S31254 Heat 2 [Materials]
+- fabrication_steps: tube material [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: surface ground to 600 grade silicon carbide paper [Materials]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic measurements [Procedures]
+- electrochemical_mode: potentiodynamic polarization [Procedures]
+- solution_chemistry_summary: 0.6 M sodium chloride (neutral pH ~ 7) in distilled water [Solutions]
+- operating_parameters_summary: scan rate of 600 mV/h after 30 minutes OCP stabilization [Procedures]
+- overarching_environmental_conditions: elevated temperatures [ABSTRACT]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 70°C [RESULTS]
+- continuous_sweep_rate: 600 mV/h [Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [RESULTS]
+- electrolyte_solvents: distilled water [Solutions]
+- electrolyte_primary_salts: sodium chloride [Solutions]
+- electrolyte_molar_concentrations: 0.6 M [Solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated [Solutions]
+- purge_gas_type: nitrogen [Solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: immersed in the solution [Procedures]
+- ocp_resting_duration: 30 minutes [Procedures]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: ~ 7 [Solutions]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic measurements [Procedures]
+- electrochemical_mode: potentiodynamic polarization [Procedures]
+- solution_chemistry_summary: 0.6 M sodium bromide (neutral pH ~ 7) in distilled water [Solutions]
+- operating_parameters_summary: scan rate of 600 mV/h after 30 minutes OCP stabilization [Procedures]
+- overarching_environmental_conditions: elevated temperatures [ABSTRACT]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 70°C [RESULTS]
+- continuous_sweep_rate: 600 mV/h [Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [RESULTS]
+- electrolyte_solvents: distilled water [Solutions]
+- electrolyte_primary_salts: sodium bromide [Solutions]
+- electrolyte_molar_concentrations: 0.6 M [Solutions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: deaerated [Solutions]
+- purge_gas_type: nitrogen [Solutions]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: immersed in the solution [Procedures]
+- ocp_resting_duration: 30 minutes [Procedures]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: ~ 7 [Solutions]
+- passive_current_density: Not specified in text.

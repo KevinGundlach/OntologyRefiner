@@ -1,0 +1,557 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Iron aluminides [INTRODUCTION]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Fe: 70, Al: 28, Cr: 2 [TABLE 1]
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: DO3-ordered structure [EXPERIMENTAL > Materials]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: FA-77B (DO3 Heat Treatment) [RESULTS AND DISCUSSION > Polarization Behaviors]
+- fabrication_steps: Prepared by arc-melting constituent elements in a water-cooled Cu crucible in a chamber backfilled with argon, remelted six times for homogeneity, drop cast into a Cu mold to form ingots. Hot-forged 50% at 1,000°C, hot-rolled 50% at 800°C, and warm-rolled 70% at 650°C to a final thickness of 0.75 mm [EXPERIMENTAL > Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealing in air for 1 h at 850°C (recrystallization) plus 7 days at 500°C (ordering) [EXPERIMENTAL > Materials]
+- cooling_methods: Cooling in air [EXPERIMENTAL > Materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Finished by grinding on 600-grit SiC paper. Just before introduction into the polarization cell, the exposed metal surface was polished by hand with cloth and a 9-µm diamond paste [EXPERIMENTAL > Polarization Tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 cm2 [EXPERIMENTAL > Polarization Tests]
+
+### Experiment
+- experimental_test_type: Cyclic anodic polarization tests [EXPERIMENTAL > Polarization Tests]
+- electrochemical_mode: Potentiodynamic [EXPERIMENTAL > Polarization Tests]
+- solution_chemistry_summary: Aerated mild acid-chloride solution consisting of distilled water adjusted to pH 4 (6.25 x 10^-5 M H2SO4) containing 200 ppm Cl- (5.5 x 10^-3 M NaCl) [EXPERIMENTAL > Electrolyte]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 600 mV/h to a potential corresponding to a current density of 10^-3 A/cm2, after which the scan direction was reversed [EXPERIMENTAL > Polarization Tests]
+- overarching_environmental_conditions: Aerated service conditions [EXPERIMENTAL > Polarization Tests]
+- pitting_potential: 420 mVSHE [TABLE 3]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 600 mV/h [EXPERIMENTAL > Polarization Tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated (KCl) silver-silver chloride reference electrode (196 mVSHE) [EXPERIMENTAL > Polarization Tests]
+- electrolyte_solvents: Distilled water [EXPERIMENTAL > Electrolyte]
+- electrolyte_primary_salts: NaCl, H2SO4 [EXPERIMENTAL > Electrolyte]
+- electrolyte_molar_concentrations: 5.5 x 10^-3 M NaCl, 6.25 x 10^-5 M H2SO4 [EXPERIMENTAL > Electrolyte]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated (sparged continuously with O2) [EXPERIMENTAL > Polarization Tests]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -50 mVSHE [TABLE 3]
+- ocp_stabilization_methodology: Allowed to stabilize in the electrolyte, which was sparged continuously with O2, until the potential change was < 1 mV/min [EXPERIMENTAL > Polarization Tests]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: < 1 mV/min [EXPERIMENTAL > Polarization Tests]
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 4 [EXPERIMENTAL > Electrolyte]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Iron aluminides [INTRODUCTION]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Fe: 68.95, Al: 28, Cr: 2, Mo: 1, B: 0.05 [TABLE 1]
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: DO3-ordered structure [EXPERIMENTAL > Materials]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: FA-86 (DO3 Heat Treatment) [FIGURE 5]
+- fabrication_steps: Prepared by arc-melting constituent elements in a water-cooled Cu crucible in a chamber backfilled with argon, remelted six times for homogeneity, drop cast into a Cu mold to form ingots. Hot-forged 50% at 1,000°C, hot-rolled 50% at 800°C, and warm-rolled 70% at 650°C to a final thickness of 0.75 mm [EXPERIMENTAL > Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealing in air for 1 h at 850°C (recrystallization) plus 7 days at 500°C (ordering) [EXPERIMENTAL > Materials]
+- cooling_methods: Cooling in air [EXPERIMENTAL > Materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Finished by grinding on 600-grit SiC paper. Just before introduction into the polarization cell, the exposed metal surface was polished by hand with cloth and a 9-µm diamond paste [EXPERIMENTAL > Polarization Tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 cm2 [EXPERIMENTAL > Polarization Tests]
+
+### Experiment
+- experimental_test_type: Cyclic anodic polarization tests [EXPERIMENTAL > Polarization Tests]
+- electrochemical_mode: Potentiodynamic [EXPERIMENTAL > Polarization Tests]
+- solution_chemistry_summary: Aerated mild acid-chloride solution consisting of distilled water adjusted to pH 4 (6.25 x 10^-5 M H2SO4) containing 200 ppm Cl- (5.5 x 10^-3 M NaCl) [EXPERIMENTAL > Electrolyte]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 600 mV/h to a potential corresponding to a current density of 10^-3 A/cm2, after which the scan direction was reversed [EXPERIMENTAL > Polarization Tests]
+- overarching_environmental_conditions: Aerated service conditions [EXPERIMENTAL > Polarization Tests]
+- pitting_potential: 450 mVSHE [TABLE 3]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 600 mV/h [EXPERIMENTAL > Polarization Tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated (KCl) silver-silver chloride reference electrode (196 mVSHE) [EXPERIMENTAL > Polarization Tests]
+- electrolyte_solvents: Distilled water [EXPERIMENTAL > Electrolyte]
+- electrolyte_primary_salts: NaCl, H2SO4 [EXPERIMENTAL > Electrolyte]
+- electrolyte_molar_concentrations: 5.5 x 10^-3 M NaCl, 6.25 x 10^-5 M H2SO4 [EXPERIMENTAL > Electrolyte]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated (sparged continuously with O2) [EXPERIMENTAL > Polarization Tests]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: 20 mVSHE [TABLE 3]
+- ocp_stabilization_methodology: Allowed to stabilize in the electrolyte, which was sparged continuously with O2, until the potential change was < 1 mV/min [EXPERIMENTAL > Polarization Tests]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: < 1 mV/min [EXPERIMENTAL > Polarization Tests]
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 4 [EXPERIMENTAL > Electrolyte]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Iron aluminides [INTRODUCTION]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Fe: 67.95, Al: 28, Cr: 2, Mo: 2, B: 0.05 [TABLE 1]
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: DO3-ordered structure [EXPERIMENTAL > Materials]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: FA-85 (DO3 Heat Treatment) [FIGURE 5]
+- fabrication_steps: Prepared by arc-melting constituent elements in a water-cooled Cu crucible in a chamber backfilled with argon, remelted six times for homogeneity, drop cast into a Cu mold to form ingots. Hot-forged 50% at 1,000°C, hot-rolled 50% at 800°C, and warm-rolled 70% at 650°C to a final thickness of 0.75 mm [EXPERIMENTAL > Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealing in air for 1 h at 850°C (recrystallization) plus 7 days at 500°C (ordering) [EXPERIMENTAL > Materials]
+- cooling_methods: Cooling in air [EXPERIMENTAL > Materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Finished by grinding on 600-grit SiC paper. Just before introduction into the polarization cell, the exposed metal surface was polished by hand with cloth and a 9-µm diamond paste [EXPERIMENTAL > Polarization Tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 cm2 [EXPERIMENTAL > Polarization Tests]
+
+### Experiment
+- experimental_test_type: Cyclic anodic polarization tests [EXPERIMENTAL > Polarization Tests]
+- electrochemical_mode: Potentiodynamic [EXPERIMENTAL > Polarization Tests]
+- solution_chemistry_summary: Aerated mild acid-chloride solution consisting of distilled water adjusted to pH 4 (6.25 x 10^-5 M H2SO4) containing 200 ppm Cl- (5.5 x 10^-3 M NaCl) [EXPERIMENTAL > Electrolyte]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 600 mV/h to a potential corresponding to a current density of 10^-3 A/cm2, after which the scan direction was reversed [EXPERIMENTAL > Polarization Tests]
+- overarching_environmental_conditions: Aerated service conditions [EXPERIMENTAL > Polarization Tests]
+- pitting_potential: 500 mVSHE [TABLE 3]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 600 mV/h [EXPERIMENTAL > Polarization Tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated (KCl) silver-silver chloride reference electrode (196 mVSHE) [EXPERIMENTAL > Polarization Tests]
+- electrolyte_solvents: Distilled water [EXPERIMENTAL > Electrolyte]
+- electrolyte_primary_salts: NaCl, H2SO4 [EXPERIMENTAL > Electrolyte]
+- electrolyte_molar_concentrations: 5.5 x 10^-3 M NaCl, 6.25 x 10^-5 M H2SO4 [EXPERIMENTAL > Electrolyte]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated (sparged continuously with O2) [EXPERIMENTAL > Polarization Tests]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: 130 mVSHE [TABLE 3]
+- ocp_stabilization_methodology: Allowed to stabilize in the electrolyte, which was sparged continuously with O2, until the potential change was < 1 mV/min [EXPERIMENTAL > Polarization Tests]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: < 1 mV/min [EXPERIMENTAL > Polarization Tests]
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 4 [EXPERIMENTAL > Electrolyte]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Iron aluminides [INTRODUCTION]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Fe: 67.5, Al: 28, Cr: 4, Mo: 0.5 [TABLE 1]
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: DO3-ordered structure [EXPERIMENTAL > Materials]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: FA-138 (DO3 Heat Treatment) [FIGURE 6]
+- fabrication_steps: Prepared by arc-melting constituent elements in a water-cooled Cu crucible in a chamber backfilled with argon, remelted six times for homogeneity, drop cast into a Cu mold to form ingots. Hot-forged 50% at 1,000°C, hot-rolled 50% at 800°C, and warm-rolled 70% at 650°C to a final thickness of 0.75 mm [EXPERIMENTAL > Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealing in air for 1 h at 850°C (recrystallization) plus 7 days at 500°C (ordering) [EXPERIMENTAL > Materials]
+- cooling_methods: Cooling in air [EXPERIMENTAL > Materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Finished by grinding on 600-grit SiC paper. Just before introduction into the polarization cell, the exposed metal surface was polished by hand with cloth and a 9-µm diamond paste [EXPERIMENTAL > Polarization Tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 cm2 [EXPERIMENTAL > Polarization Tests]
+
+### Experiment
+- experimental_test_type: Cyclic anodic polarization tests [EXPERIMENTAL > Polarization Tests]
+- electrochemical_mode: Potentiodynamic [EXPERIMENTAL > Polarization Tests]
+- solution_chemistry_summary: Aerated mild acid-chloride solution consisting of distilled water adjusted to pH 4 (6.25 x 10^-5 M H2SO4) containing 200 ppm Cl- (5.5 x 10^-3 M NaCl) [EXPERIMENTAL > Electrolyte]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 600 mV/h to a potential corresponding to a current density of 10^-3 A/cm2, after which the scan direction was reversed [EXPERIMENTAL > Polarization Tests]
+- overarching_environmental_conditions: Aerated service conditions [EXPERIMENTAL > Polarization Tests]
+- pitting_potential: 480 mVSHE [TABLE 4]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 600 mV/h [EXPERIMENTAL > Polarization Tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated (KCl) silver-silver chloride reference electrode (196 mVSHE) [EXPERIMENTAL > Polarization Tests]
+- electrolyte_solvents: Distilled water [EXPERIMENTAL > Electrolyte]
+- electrolyte_primary_salts: NaCl, H2SO4 [EXPERIMENTAL > Electrolyte]
+- electrolyte_molar_concentrations: 5.5 x 10^-3 M NaCl, 6.25 x 10^-5 M H2SO4 [EXPERIMENTAL > Electrolyte]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated (sparged continuously with O2) [EXPERIMENTAL > Polarization Tests]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: 70 mVSHE [TABLE 4]
+- ocp_stabilization_methodology: Allowed to stabilize in the electrolyte, which was sparged continuously with O2, until the potential change was < 1 mV/min [EXPERIMENTAL > Polarization Tests]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: < 1 mV/min [EXPERIMENTAL > Polarization Tests]
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 4 [EXPERIMENTAL > Electrolyte]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Iron aluminides [INTRODUCTION]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Fe: 67, Al: 28, Cr: 4, Mo: 1 [TABLE 1]
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: DO3-ordered structure [EXPERIMENTAL > Materials]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: FA-139 (DO3 Heat Treatment) [FIGURE 6]
+- fabrication_steps: Prepared by arc-melting constituent elements in a water-cooled Cu crucible in a chamber backfilled with argon, remelted six times for homogeneity, drop cast into a Cu mold to form ingots. Hot-forged 50% at 1,000°C, hot-rolled 50% at 800°C, and warm-rolled 70% at 650°C to a final thickness of 0.75 mm [EXPERIMENTAL > Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealing in air for 1 h at 850°C (recrystallization) plus 7 days at 500°C (ordering) [EXPERIMENTAL > Materials]
+- cooling_methods: Cooling in air [EXPERIMENTAL > Materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Finished by grinding on 600-grit SiC paper. Just before introduction into the polarization cell, the exposed metal surface was polished by hand with cloth and a 9-µm diamond paste [EXPERIMENTAL > Polarization Tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 cm2 [EXPERIMENTAL > Polarization Tests]
+
+### Experiment
+- experimental_test_type: Cyclic anodic polarization tests [EXPERIMENTAL > Polarization Tests]
+- electrochemical_mode: Potentiodynamic [EXPERIMENTAL > Polarization Tests]
+- solution_chemistry_summary: Aerated mild acid-chloride solution consisting of distilled water adjusted to pH 4 (6.25 x 10^-5 M H2SO4) containing 200 ppm Cl- (5.5 x 10^-3 M NaCl) [EXPERIMENTAL > Electrolyte]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 600 mV/h to a potential corresponding to a current density of 10^-3 A/cm2, after which the scan direction was reversed [EXPERIMENTAL > Polarization Tests]
+- overarching_environmental_conditions: Aerated service conditions [EXPERIMENTAL > Polarization Tests]
+- pitting_potential: 540 mVSHE [TABLE 4]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 600 mV/h [EXPERIMENTAL > Polarization Tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated (KCl) silver-silver chloride reference electrode (196 mVSHE) [EXPERIMENTAL > Polarization Tests]
+- electrolyte_solvents: Distilled water [EXPERIMENTAL > Electrolyte]
+- electrolyte_primary_salts: NaCl, H2SO4 [EXPERIMENTAL > Electrolyte]
+- electrolyte_molar_concentrations: 5.5 x 10^-3 M NaCl, 6.25 x 10^-5 M H2SO4 [EXPERIMENTAL > Electrolyte]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated (sparged continuously with O2) [EXPERIMENTAL > Polarization Tests]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: 50 mVSHE [TABLE 4]
+- ocp_stabilization_methodology: Allowed to stabilize in the electrolyte, which was sparged continuously with O2, until the potential change was < 1 mV/min [EXPERIMENTAL > Polarization Tests]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: < 1 mV/min [EXPERIMENTAL > Polarization Tests]
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 4 [EXPERIMENTAL > Electrolyte]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Iron aluminides [INTRODUCTION]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Fe: 66, Al: 28, Cr: 4, Mo: 2 [TABLE 1]
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: DO3-ordered structure [EXPERIMENTAL > Materials]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: FA-140 (DO3 Heat Treatment) [FIGURE 6]
+- fabrication_steps: Prepared by arc-melting constituent elements in a water-cooled Cu crucible in a chamber backfilled with argon, remelted six times for homogeneity, drop cast into a Cu mold to form ingots. Hot-forged 50% at 1,000°C, hot-rolled 50% at 800°C, and warm-rolled 70% at 650°C to a final thickness of 0.75 mm [EXPERIMENTAL > Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealing in air for 1 h at 850°C (recrystallization) plus 7 days at 500°C (ordering) [EXPERIMENTAL > Materials]
+- cooling_methods: Cooling in air [EXPERIMENTAL > Materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Finished by grinding on 600-grit SiC paper. Just before introduction into the polarization cell, the exposed metal surface was polished by hand with cloth and a 9-µm diamond paste [EXPERIMENTAL > Polarization Tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 cm2 [EXPERIMENTAL > Polarization Tests]
+
+### Experiment
+- experimental_test_type: Cyclic anodic polarization tests [EXPERIMENTAL > Polarization Tests]
+- electrochemical_mode: Potentiodynamic [EXPERIMENTAL > Polarization Tests]
+- solution_chemistry_summary: Aerated mild acid-chloride solution consisting of distilled water adjusted to pH 4 (6.25 x 10^-5 M H2SO4) containing 200 ppm Cl- (5.5 x 10^-3 M NaCl) [EXPERIMENTAL > Electrolyte]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 600 mV/h to a potential corresponding to a current density of 10^-3 A/cm2, after which the scan direction was reversed [EXPERIMENTAL > Polarization Tests]
+- overarching_environmental_conditions: Aerated service conditions [EXPERIMENTAL > Polarization Tests]
+- pitting_potential: 580 mVSHE [TABLE 4]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 600 mV/h [EXPERIMENTAL > Polarization Tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated (KCl) silver-silver chloride reference electrode (196 mVSHE) [EXPERIMENTAL > Polarization Tests]
+- electrolyte_solvents: Distilled water [EXPERIMENTAL > Electrolyte]
+- electrolyte_primary_salts: NaCl, H2SO4 [EXPERIMENTAL > Electrolyte]
+- electrolyte_molar_concentrations: 5.5 x 10^-3 M NaCl, 6.25 x 10^-5 M H2SO4 [EXPERIMENTAL > Electrolyte]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated (sparged continuously with O2) [EXPERIMENTAL > Polarization Tests]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: 160 mVSHE [TABLE 4]
+- ocp_stabilization_methodology: Allowed to stabilize in the electrolyte, which was sparged continuously with O2, until the potential change was < 1 mV/min [EXPERIMENTAL > Polarization Tests]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: < 1 mV/min [EXPERIMENTAL > Polarization Tests]
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 4 [EXPERIMENTAL > Electrolyte]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Iron aluminides [INTRODUCTION]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Fe: 69.95, Al: 28, Cr: 2, B: 0.05 [TABLE 1]
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: B2-ordered structure [EXPERIMENTAL > Materials]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: FA-84 (B2 Heat Treatment) [RESULTS AND DISCUSSION > Crevice Corrosion Behaviors]
+- fabrication_steps: Prepared by arc-melting constituent elements in a water-cooled Cu crucible in a chamber backfilled with argon, remelted six times for homogeneity, drop cast into a Cu mold to form ingots. Hot-forged 50% at 1,000°C, hot-rolled 50% at 800°C, and warm-rolled 70% at 650°C to a final thickness of 0.75 mm [EXPERIMENTAL > Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Stress relieving at 750°C for 1 h [EXPERIMENTAL > Materials]
+- cooling_methods: Oil quench [EXPERIMENTAL > Materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Finished by grinding on 600-grit SiC paper. For noncrevice polarization, exposed metal surface was polished by hand with cloth and a 9-µm diamond paste [EXPERIMENTAL > Polarization Tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 cm2 [EXPERIMENTAL > Polarization Tests]
+
+### Experiment
+- experimental_test_type: Cyclic anodic polarization tests (Noncrevice conditions) [RESULTS AND DISCUSSION > Crevice Corrosion Behaviors]
+- electrochemical_mode: Potentiodynamic [EXPERIMENTAL > Polarization Tests]
+- solution_chemistry_summary: Aerated mild acid-chloride solution consisting of distilled water adjusted to pH 4 (6.25 x 10^-5 M H2SO4) containing 200 ppm Cl- (5.5 x 10^-3 M NaCl) [EXPERIMENTAL > Electrolyte]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 600 mV/h to a potential corresponding to a current density of 10^-3 A/cm2, after which the scan direction was reversed [EXPERIMENTAL > Polarization Tests]
+- overarching_environmental_conditions: Aerated service conditions [EXPERIMENTAL > Polarization Tests]
+- pitting_potential: 420 mVSHE [TABLE 7]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 600 mV/h [EXPERIMENTAL > Polarization Tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated (KCl) silver-silver chloride reference electrode (196 mVSHE) [EXPERIMENTAL > Polarization Tests]
+- electrolyte_solvents: Distilled water [EXPERIMENTAL > Electrolyte]
+- electrolyte_primary_salts: NaCl, H2SO4 [EXPERIMENTAL > Electrolyte]
+- electrolyte_molar_concentrations: 5.5 x 10^-3 M NaCl, 6.25 x 10^-5 M H2SO4 [EXPERIMENTAL > Electrolyte]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated (sparged continuously with O2) [EXPERIMENTAL > Polarization Tests]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -70 mVSHE [TABLE 7]
+- ocp_stabilization_methodology: Allowed to stabilize in the electrolyte, which was sparged continuously with O2, until the potential change was < 1 mV/min [EXPERIMENTAL > Polarization Tests]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: < 1 mV/min [EXPERIMENTAL > Polarization Tests]
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 4 [EXPERIMENTAL > Electrolyte]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Iron aluminides [INTRODUCTION]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Fe: 65.9, Al: 28, Cr: 5, Mo: 1, B: 0.04, Zr: 0.08 [TABLE 1]
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: B2-ordered structure [EXPERIMENTAL > Materials]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: FAL-Mo (B2 Heat Treatment) [RESULTS AND DISCUSSION > Crevice Corrosion Behaviors]
+- fabrication_steps: Prepared by arc-melting constituent elements in a water-cooled Cu crucible in a chamber backfilled with argon, remelted six times for homogeneity, drop cast into a Cu mold to form ingots. Hot-forged 50% at 1,000°C, hot-rolled 50% at 800°C, and warm-rolled 70% at 650°C to a final thickness of 0.75 mm [EXPERIMENTAL > Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Stress relieving at 750°C for 1 h [EXPERIMENTAL > Materials]
+- cooling_methods: Oil quench [EXPERIMENTAL > Materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Finished by grinding on 600-grit SiC paper. For noncrevice polarization, exposed metal surface was polished by hand with cloth and a 9-µm diamond paste [EXPERIMENTAL > Polarization Tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 cm2 [EXPERIMENTAL > Polarization Tests]
+
+### Experiment
+- experimental_test_type: Cyclic anodic polarization tests (Noncrevice conditions) [RESULTS AND DISCUSSION > Crevice Corrosion Behaviors]
+- electrochemical_mode: Potentiodynamic [EXPERIMENTAL > Polarization Tests]
+- solution_chemistry_summary: Aerated mild acid-chloride solution consisting of distilled water adjusted to pH 4 (6.25 x 10^-5 M H2SO4) containing 200 ppm Cl- (5.5 x 10^-3 M NaCl) [EXPERIMENTAL > Electrolyte]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 600 mV/h to a potential corresponding to a current density of 10^-3 A/cm2, after which the scan direction was reversed [EXPERIMENTAL > Polarization Tests]
+- overarching_environmental_conditions: Aerated service conditions [EXPERIMENTAL > Polarization Tests]
+- pitting_potential: 540 mVSHE [TABLE 7]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 600 mV/h [EXPERIMENTAL > Polarization Tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated (KCl) silver-silver chloride reference electrode (196 mVSHE) [EXPERIMENTAL > Polarization Tests]
+- electrolyte_solvents: Distilled water [EXPERIMENTAL > Electrolyte]
+- electrolyte_primary_salts: NaCl, H2SO4 [EXPERIMENTAL > Electrolyte]
+- electrolyte_molar_concentrations: 5.5 x 10^-3 M NaCl, 6.25 x 10^-5 M H2SO4 [EXPERIMENTAL > Electrolyte]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated (sparged continuously with O2) [EXPERIMENTAL > Polarization Tests]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: 80 mVSHE [TABLE 7]
+- ocp_stabilization_methodology: Allowed to stabilize in the electrolyte, which was sparged continuously with O2, until the potential change was < 1 mV/min [EXPERIMENTAL > Polarization Tests]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: < 1 mV/min [EXPERIMENTAL > Polarization Tests]
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 4 [EXPERIMENTAL > Electrolyte]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: UNS S30403 [RESULTS AND DISCUSSION > Crevice Corrosion Behaviors]
+- alloy_family: Stainless steel [INTRODUCTION]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Type 304L SS [RESULTS AND DISCUSSION > Crevice Corrosion Behaviors]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Finished by grinding on 600-grit SiC paper. For noncrevice polarization, exposed metal surface was polished by hand with cloth and a 9-µm diamond paste [EXPERIMENTAL > Polarization Tests]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 cm2 [EXPERIMENTAL > Polarization Tests]
+
+### Experiment
+- experimental_test_type: Cyclic anodic polarization tests (Noncrevice conditions) [RESULTS AND DISCUSSION > Crevice Corrosion Behaviors]
+- electrochemical_mode: Potentiodynamic [EXPERIMENTAL > Polarization Tests]
+- solution_chemistry_summary: Aerated mild acid-chloride solution consisting of distilled water adjusted to pH 4 (6.25 x 10^-5 M H2SO4) containing 200 ppm Cl- (5.5 x 10^-3 M NaCl) [EXPERIMENTAL > Electrolyte]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 600 mV/h to a potential corresponding to a current density of 10^-3 A/cm2, after which the scan direction was reversed [EXPERIMENTAL > Polarization Tests]
+- overarching_environmental_conditions: Aerated service conditions [EXPERIMENTAL > Polarization Tests]
+- pitting_potential: 620 mVSHE [TABLE 7]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 600 mV/h [EXPERIMENTAL > Polarization Tests]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated (KCl) silver-silver chloride reference electrode (196 mVSHE) [EXPERIMENTAL > Polarization Tests]
+- electrolyte_solvents: Distilled water [EXPERIMENTAL > Electrolyte]
+- electrolyte_primary_salts: NaCl, H2SO4 [EXPERIMENTAL > Electrolyte]
+- electrolyte_molar_concentrations: 5.5 x 10^-3 M NaCl, 6.25 x 10^-5 M H2SO4 [EXPERIMENTAL > Electrolyte]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated (sparged continuously with O2) [EXPERIMENTAL > Polarization Tests]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: 200 mVSHE [TABLE 7]
+- ocp_stabilization_methodology: Allowed to stabilize in the electrolyte, which was sparged continuously with O2, until the potential change was < 1 mV/min [EXPERIMENTAL > Polarization Tests]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: < 1 mV/min [EXPERIMENTAL > Polarization Tests]
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 4 [EXPERIMENTAL > Electrolyte]
+- passive_current_density: Not specified in text.

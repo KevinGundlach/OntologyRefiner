@@ -1,0 +1,185 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Fe-Cr-Ni alloy (Introduction)
+- elemental_weight_percentages: 18.7 wt% Cr, 10.3 wt% Ni, <0.005 wt% S, Bal. Fe (Table 1)
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: <0.005 wt% S (Table 1)
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy A / Fe-Cr-Ni (Table 1)
+- fabrication_steps: Melted as small ingots, hot rolling (Experimental Method)
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically polished (Experimental Method)
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.4 cm² (Experimental Method)
+
+### Experiment
+- experimental_test_type: Pitting potential measurement (Experimental Method)
+- electrochemical_mode: Stepwise anodic polarization (Experimental Method)
+- solution_chemistry_summary: 1M KCl (Experimental Method)
+- operating_parameters_summary: Potential stepped upwards by 25 mV every 400 s, beginning at -300 mV(SCE) (Experimental Method)
+- overarching_environmental_conditions: 22 ± 1 °C throughout (Experimental Method)
+- pitting_potential: -75 mV (Table 3)
+- electrolyte_temperature: 22 ± 1 °C (Experimental Method)
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 25 mV (Experimental Method)
+- holding_duration: 400 s (Experimental Method)
+- reference_electrode: SCE (Table 3)
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: KCl (Experimental Method)
+- electrolyte_molar_concentrations: 1M KCl (Experimental Method)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Fe-Cr-Ni-Mo alloy (Introduction)
+- elemental_weight_percentages: 16.6 wt% Cr, 11.0 wt% Ni, 2.7 wt% Mo, <0.005 wt% S, Bal. Fe (Table 1)
+- elemental_atomic_percentages: 1.6 at.% Mo (Abstract)
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: <0.005 wt% S (Table 1)
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy B / Fe-Cr-Ni-Mo (Table 1)
+- fabrication_steps: Melted as small ingots, hot rolling (Experimental Method)
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically polished (Experimental Method)
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.4 cm² (Experimental Method)
+
+### Experiment
+- experimental_test_type: Pitting potential measurement (Experimental Method)
+- electrochemical_mode: Stepwise anodic polarization (Experimental Method)
+- solution_chemistry_summary: 1M KCl (Experimental Method)
+- operating_parameters_summary: Potential stepped upwards by 25 mV every 400 s, beginning at -300 mV(SCE) (Experimental Method)
+- overarching_environmental_conditions: 22 ± 1 °C throughout (Experimental Method)
+- pitting_potential: 50 mV (Table 3)
+- electrolyte_temperature: 22 ± 1 °C (Experimental Method)
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 25 mV (Experimental Method)
+- holding_duration: 400 s (Experimental Method)
+- reference_electrode: SCE (Table 3)
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: KCl (Experimental Method)
+- electrolyte_molar_concentrations: 1M KCl (Experimental Method)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Type 304L (Pitting and protection potential measurements)
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Stainless steel (Pitting and protection potential measurements)
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Molybdenum, copper, nitrogen, higher sulphur content (Pitting and protection potential measurements)
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Sulphide inclusions (Pitting and protection potential measurements)
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Type 304L stainless steel (Table 3)
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically polished (Experimental Method)
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.4 cm² (Experimental Method)
+
+### Experiment
+- experimental_test_type: Pitting potential measurement (Experimental Method)
+- electrochemical_mode: Stepwise anodic polarization (Experimental Method)
+- solution_chemistry_summary: 1M KCl (Experimental Method)
+- operating_parameters_summary: Potential stepped upwards by 25 mV every 400 s, beginning at -300 mV(SCE) (Experimental Method)
+- overarching_environmental_conditions: 22 ± 1 °C throughout (Experimental Method)
+- pitting_potential: 100 mV (Table 3)
+- electrolyte_temperature: 22 ± 1 °C (Experimental Method)
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 25 mV (Experimental Method)
+- holding_duration: 400 s (Experimental Method)
+- reference_electrode: SCE (Table 3)
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: KCl (Experimental Method)
+- electrolyte_molar_concentrations: 1M KCl (Experimental Method)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

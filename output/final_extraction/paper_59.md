@@ -1,0 +1,181 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: iron-chromium alloys [Introduction]
+- elemental_weight_percentages: Cr: 24 (unit not explicitly specified, assumed wt. or at.%) [Fig.2 Experimental Conditions]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Fe-24Cr [Fig.2 Experimental Conditions]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: mecanically polished [Experimental procedure]
+- chemical_surface_preparation: cathodically prepolarised before an experiment [Experimental procedure]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Polarisation experiments [Experimental procedure]
+- electrochemical_mode: Constant potential (potentiostatic) and potentiodynamic polarisation curves [Experimental procedure, Electrochemical Experiments]
+- solution_chemistry_summary: 0.1 M H2SO4 + 0.4M Na2SO4 [Fig.2 Experimental Conditions]
+- operating_parameters_summary: Rotating disk working electrode at 3000 rpm, temperature 65 °C, tested in absence of air, constant potential applied for 3 hours at -650 mV (CA), +200 mV (PL), or +500 mV (PH) nhe [Experimental procedure, Fig.2 Experimental Conditions, Electrochemical Experiments]
+- overarching_environmental_conditions: Absence of air (tests performed under nitrogen in a glove box for specific oxidation studies) [Experimental procedure, Experiments with 18O2]
+- pitting_potential: Not specified in text. (Alloy does not exhibit pitting in this solution) [Electrochemical Experiments]
+- electrolyte_temperature: 65 °C [Experimental procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: three hours [Experimental procedure]
+- reference_electrode: standard hydrogen electrode (nhe) [Electrochemical Experiments]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Na2SO4 [Fig.2 Experimental Conditions]
+- electrolyte_molar_concentrations: 0.1 M H2SO4, 0.4 M Na2SO4 [Fig.2 Experimental Conditions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Absence of air [Experimental procedure]
+- purge_gas_type: nitrogen [Experiments with 18O2]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: cathodically prepolarised [Experimental procedure]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Polarisation experiments [Experimental procedure]
+- electrochemical_mode: Constant potential (potentiostatic) and potentiodynamic polarisation curves [Experimental procedure, Electrochemical Experiments]
+- solution_chemistry_summary: 0.1 M H2SO4 + 0.4 M Na2SO4 + 0.12 M NaCl [Fig.2 Experimental Conditions]
+- operating_parameters_summary: Rotating disk working electrode at 3000 rpm, temperature 65 °C, tested in absence of air, constant potential applied for 3 hours at -650 mV (CA), +200 mV (PL), or +500 mV (PH) nhe [Experimental procedure, Fig.2 Experimental Conditions, Electrochemical Experiments]
+- overarching_environmental_conditions: Absence of air (tests performed under nitrogen in a glove box for specific oxidation studies) [Experimental procedure, Experiments with 18O2]
+- pitting_potential: Not specified in text. (Exhibits pitting, but exact potential value is not explicitly specified in the text; Figure 3 shows breakdown near ~1.0 V nhe) [Electrochemical Experiments]
+- electrolyte_temperature: 65 °C [Experimental procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: three hours [Experimental procedure]
+- reference_electrode: standard hydrogen electrode (nhe) [Electrochemical Experiments]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Na2SO4, NaCl [Fig.2 Experimental Conditions]
+- electrolyte_molar_concentrations: 0.1 M H2SO4, 0.4 M Na2SO4, 0.12 M NaCl [Fig.2 Experimental Conditions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Absence of air [Experimental procedure]
+- purge_gas_type: nitrogen [Experiments with 18O2]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: cathodically prepolarised [Experimental procedure]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: iron-chromium-molybdenum alloys [Introduction]
+- elemental_weight_percentages: Cr: 24, Mo: 11 (unit not explicitly specified, assumed wt. or at.%) [Fig.2 Experimental Conditions]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Fe-24Cr11Mo [Fig.2 Experimental Conditions]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: mecanically polished [Experimental procedure]
+- chemical_surface_preparation: cathodically prepolarised before an experiment [Experimental procedure]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Polarisation experiments [Experimental procedure]
+- electrochemical_mode: Constant potential (potentiostatic) and potentiodynamic polarisation curves [Experimental procedure, Electrochemical Experiments]
+- solution_chemistry_summary: 0.1 M H2SO4 + 0.4M Na2SO4 [Fig.2 Experimental Conditions]
+- operating_parameters_summary: Rotating disk working electrode at 3000 rpm, temperature 65 °C, tested in absence of air, constant potential applied for 3 hours at -650 mV (CA), +200 mV (PL), or +500 mV (PH) nhe [Experimental procedure, Fig.2 Experimental Conditions, Electrochemical Experiments]
+- overarching_environmental_conditions: Absence of air [Experimental procedure]
+- pitting_potential: Not specified in text. (Spontaneously passive, no pitting exhibited) [Electrochemical Experiments]
+- electrolyte_temperature: 65 °C [Experimental procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: three hours [Experimental procedure]
+- reference_electrode: standard hydrogen electrode (nhe) [Electrochemical Experiments]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Na2SO4 [Fig.2 Experimental Conditions]
+- electrolyte_molar_concentrations: 0.1 M H2SO4, 0.4 M Na2SO4 [Fig.2 Experimental Conditions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Absence of air [Experimental procedure]
+- purge_gas_type: nitrogen [Experiments with 18O2]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: cathodically prepolarised [Experimental procedure]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Polarisation experiments [Experimental procedure]
+- electrochemical_mode: Constant potential (potentiostatic) and potentiodynamic polarisation curves [Experimental procedure, Electrochemical Experiments]
+- solution_chemistry_summary: 0.1 M H2SO4 + 0.4 M Na2SO4 + 0.12 M NaCl [Fig.2 Experimental Conditions]
+- operating_parameters_summary: Rotating disk working electrode at 3000 rpm, temperature 65 °C, tested in absence of air, constant potential applied for 3 hours at -650 mV (CA), +200 mV (PL), or +500 mV (PH) nhe [Experimental procedure, Fig.2 Experimental Conditions, Electrochemical Experiments]
+- overarching_environmental_conditions: Absence of air [Experimental procedure]
+- pitting_potential: Not specified in text. (Spontaneously passive, no pitting exhibited) [Electrochemical Experiments]
+- electrolyte_temperature: 65 °C [Experimental procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: three hours [Experimental procedure]
+- reference_electrode: standard hydrogen electrode (nhe) [Electrochemical Experiments]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Na2SO4, NaCl [Fig.2 Experimental Conditions]
+- electrolyte_molar_concentrations: 0.1 M H2SO4, 0.4 M Na2SO4, 0.12 M NaCl [Fig.2 Experimental Conditions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Absence of air [Experimental procedure]
+- purge_gas_type: nitrogen [Experiments with 18O2]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: cathodically prepolarised [Experimental procedure]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

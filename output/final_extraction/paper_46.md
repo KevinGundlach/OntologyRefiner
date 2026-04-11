@@ -1,0 +1,545 @@
+# Base Material
+- standard_designation: AISI Type 430 [Table I. Chemical compositions of steels used in this study]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Stainless steel [Materials and Experimental Work]
+- elemental_weight_percentages: 0.094 w/o C, 0.32 w/o Si, 0.56 w/o Mn, 0.026 w/o P, 0.01 w/o S, 16.35 w/o Cr, 0.17 w/o Ni, 0.08 w/o Cu, 0.02 w/o Mo [Table I. Chemical compositions of steels used in this study]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Cylindrical electrodes of AISI Type 430 stainless steel [Materials and Experimental Work]
+- fabrication_steps: Machined (0.25 in. diameter by 0.75 in. long) from solution-annealed stock [Materials and Experimental Work]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution-annealed [Materials and Experimental Work]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded through 2.0 emery paper [Materials and Experimental Work]
+- chemical_surface_preparation: Washed in detergent, rinsed in distilled water, and dried [Materials and Experimental Work]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 5 cm^2 [Fig. 1]
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [Results and Discussion]
+- electrochemical_mode: Potentiodynamic continuous scan [Materials and Experimental Work]
+- solution_chemistry_summary: 1M sodium chloride dissolved in distilled water, saturated with hydrogen gas [Materials and Experimental Work]
+- operating_parameters_summary: Thermostatic control at 25 ± 1 °C, 60 min pre-exposure, sweep rate of 0.600 V/hr [Materials and Experimental Work]
+- overarching_environmental_conditions: Glass cell [Materials and Experimental Work]
+- pitting_potential: -0.185 VSCE [Table II. Variation in Ec with the nature of the dissolved gases]
+- electrolyte_temperature: 25 ± 1 °C [Materials and Experimental Work]
+- continuous_sweep_rate: 0.600 V/hr [Materials and Experimental Work]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) connected with a Luggin Haber probe [Materials and Experimental Work]
+- electrolyte_solvents: Distilled water (6.3 meg ohm cm-1) [Materials and Experimental Work]
+- electrolyte_primary_salts: Sodium chloride [Materials and Experimental Work]
+- electrolyte_molar_concentrations: 1M [Materials and Experimental Work]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with hydrogen gas, giving a dissolved oxygen content of 0.076 ppm [Materials and Experimental Work]
+- purge_gas_type: Hydrogen [Materials and Experimental Work]
+- corrosion_potential: -0.492 VSCE [Results and Discussion]
+- ocp_stabilization_methodology: Exposing the specimen to the corrodent [Results and Discussion]
+- ocp_resting_duration: 60 min [Results and Discussion]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Bright-platinum [Materials and Experimental Work]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 6.3 [Materials and Experimental Work]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [Results and Discussion]
+- electrochemical_mode: Potentiodynamic continuous scan [Materials and Experimental Work]
+- solution_chemistry_summary: 1M sodium chloride dissolved in distilled water, saturated with nitrogen gas [Materials and Experimental Work]
+- operating_parameters_summary: Thermostatic control at 25 ± 1 °C, 60 min pre-exposure, sweep rate of 0.600 V/hr [Materials and Experimental Work]
+- overarching_environmental_conditions: Glass cell [Materials and Experimental Work]
+- pitting_potential: -0.130 VSCE [Table II. Variation in Ec with the nature of the dissolved gases]
+- electrolyte_temperature: 25 ± 1 °C [Materials and Experimental Work]
+- continuous_sweep_rate: 0.600 V/hr [Materials and Experimental Work]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) connected with a Luggin Haber probe [Materials and Experimental Work]
+- electrolyte_solvents: Distilled water (6.3 meg ohm cm-1) [Materials and Experimental Work]
+- electrolyte_primary_salts: Sodium chloride [Materials and Experimental Work]
+- electrolyte_molar_concentrations: 1M [Materials and Experimental Work]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen gas [Results and Discussion]
+- purge_gas_type: Nitrogen [Table II. Variation in Ec with the nature of the dissolved gases]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Exposing the specimen to the corrodent [Results and Discussion]
+- ocp_resting_duration: 60 min [Results and Discussion]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Bright-platinum [Materials and Experimental Work]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 6.3 [Materials and Experimental Work]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [Results and Discussion]
+- electrochemical_mode: Potentiodynamic continuous scan [Materials and Experimental Work]
+- solution_chemistry_summary: 1M sodium chloride dissolved in distilled water, saturated with argon gas [Materials and Experimental Work]
+- operating_parameters_summary: Thermostatic control at 25 ± 1 °C, 60 min pre-exposure, sweep rate of 0.600 V/hr [Materials and Experimental Work]
+- overarching_environmental_conditions: Glass cell [Materials and Experimental Work]
+- pitting_potential: -0.100 VSCE [Table II. Variation in Ec with the nature of the dissolved gases]
+- electrolyte_temperature: 25 ± 1 °C [Materials and Experimental Work]
+- continuous_sweep_rate: 0.600 V/hr [Materials and Experimental Work]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) connected with a Luggin Haber probe [Materials and Experimental Work]
+- electrolyte_solvents: Distilled water (6.3 meg ohm cm-1) [Materials and Experimental Work]
+- electrolyte_primary_salts: Sodium chloride [Materials and Experimental Work]
+- electrolyte_molar_concentrations: 1M [Materials and Experimental Work]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with argon gas [Results and Discussion]
+- purge_gas_type: Argon [Table II. Variation in Ec with the nature of the dissolved gases]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Exposing the specimen to the corrodent [Results and Discussion]
+- ocp_resting_duration: 60 min [Results and Discussion]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Bright-platinum [Materials and Experimental Work]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 6.3 [Materials and Experimental Work]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [Results and Discussion]
+- electrochemical_mode: Potentiodynamic continuous scan [Materials and Experimental Work]
+- solution_chemistry_summary: 1M sodium chloride dissolved in distilled water, saturated with oxygen gas [Materials and Experimental Work]
+- operating_parameters_summary: Thermostatic control at 25 ± 1 °C, 60 min pre-exposure, sweep rate of 0.600 V/hr [Materials and Experimental Work]
+- overarching_environmental_conditions: Glass cell [Materials and Experimental Work]
+- pitting_potential: -0.035 VSCE [Table II. Variation in Ec with the nature of the dissolved gases]
+- electrolyte_temperature: 25 ± 1 °C [Materials and Experimental Work]
+- continuous_sweep_rate: 0.600 V/hr [Materials and Experimental Work]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) connected with a Luggin Haber probe [Materials and Experimental Work]
+- electrolyte_solvents: Distilled water (6.3 meg ohm cm-1) [Materials and Experimental Work]
+- electrolyte_primary_salts: Sodium chloride [Materials and Experimental Work]
+- electrolyte_molar_concentrations: 1M [Materials and Experimental Work]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with oxygen gas at a flow rate of 1.5 l/min [Results and Discussion]
+- purge_gas_type: Oxygen [Table II. Variation in Ec with the nature of the dissolved gases]
+- corrosion_potential: -0.140 VSCE [Results and Discussion]
+- ocp_stabilization_methodology: Exposing the specimen to the corrodent [Results and Discussion]
+- ocp_resting_duration: 60 min [Results and Discussion]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Bright-platinum [Materials and Experimental Work]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 6.3 [Materials and Experimental Work]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: AISI Type 304 [Table I. Chemical compositions of steels used in this study]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Stainless steel [Materials and Experimental Work]
+- elemental_weight_percentages: 0.079 w/o C, 0.56 w/o Si, 1.33 w/o Mn, 0.027 w/o P, 0.034 w/o S, 18.1 w/o Cr, 8.22 w/o Ni, 0.22 w/o Cu, 0.36 w/o Mo [Table I. Chemical compositions of steels used in this study]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Cylindrical electrodes of AISI Type 304 stainless steel [Materials and Experimental Work]
+- fabrication_steps: Machined (0.25 in. diameter by 0.75 in. long) from solution-annealed stock [Materials and Experimental Work]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution-annealed [Materials and Experimental Work]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded through 2.0 emery paper [Materials and Experimental Work]
+- chemical_surface_preparation: Washed in detergent, rinsed in distilled water, and dried [Materials and Experimental Work]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 5 cm^2 [Fig. 1]
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [Results and Discussion]
+- electrochemical_mode: Potentiodynamic continuous scan [Materials and Experimental Work]
+- solution_chemistry_summary: 1M sodium chloride dissolved in distilled water, saturated with hydrogen gas [Materials and Experimental Work]
+- operating_parameters_summary: Thermostatic control at 25 ± 1 °C, 60 min pre-exposure, sweep rate of 0.600 V/hr [Materials and Experimental Work]
+- overarching_environmental_conditions: Glass cell [Materials and Experimental Work]
+- pitting_potential: -0.050 VSCE [Table II. Variation in Ec with the nature of the dissolved gases]
+- electrolyte_temperature: 25 ± 1 °C [Materials and Experimental Work]
+- continuous_sweep_rate: 0.600 V/hr [Materials and Experimental Work]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) connected with a Luggin Haber probe [Materials and Experimental Work]
+- electrolyte_solvents: Distilled water (6.3 meg ohm cm-1) [Materials and Experimental Work]
+- electrolyte_primary_salts: Sodium chloride [Materials and Experimental Work]
+- electrolyte_molar_concentrations: 1M [Materials and Experimental Work]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with hydrogen gas, giving a dissolved oxygen content of 0.076 ppm [Materials and Experimental Work]
+- purge_gas_type: Hydrogen [Materials and Experimental Work]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Exposing the specimen to the corrodent [Results and Discussion]
+- ocp_resting_duration: 60 min [Results and Discussion]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Bright-platinum [Materials and Experimental Work]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 6.3 [Materials and Experimental Work]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [Results and Discussion]
+- electrochemical_mode: Potentiodynamic continuous scan [Materials and Experimental Work]
+- solution_chemistry_summary: 1M sodium chloride dissolved in distilled water, saturated with nitrogen gas [Materials and Experimental Work]
+- operating_parameters_summary: Thermostatic control at 25 ± 1 °C, 60 min pre-exposure, sweep rate of 0.600 V/hr [Materials and Experimental Work]
+- overarching_environmental_conditions: Glass cell [Materials and Experimental Work]
+- pitting_potential: -0.020 VSCE [Table II. Variation in Ec with the nature of the dissolved gases]
+- electrolyte_temperature: 25 ± 1 °C [Materials and Experimental Work]
+- continuous_sweep_rate: 0.600 V/hr [Materials and Experimental Work]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) connected with a Luggin Haber probe [Materials and Experimental Work]
+- electrolyte_solvents: Distilled water (6.3 meg ohm cm-1) [Materials and Experimental Work]
+- electrolyte_primary_salts: Sodium chloride [Materials and Experimental Work]
+- electrolyte_molar_concentrations: 1M [Materials and Experimental Work]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen gas [Results and Discussion]
+- purge_gas_type: Nitrogen [Table II. Variation in Ec with the nature of the dissolved gases]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Exposing the specimen to the corrodent [Results and Discussion]
+- ocp_resting_duration: 60 min [Results and Discussion]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Bright-platinum [Materials and Experimental Work]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 6.3 [Materials and Experimental Work]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [Results and Discussion]
+- electrochemical_mode: Potentiodynamic continuous scan [Materials and Experimental Work]
+- solution_chemistry_summary: 1M sodium chloride dissolved in distilled water, saturated with argon gas [Materials and Experimental Work]
+- operating_parameters_summary: Thermostatic control at 25 ± 1 °C, 60 min pre-exposure, sweep rate of 0.600 V/hr [Materials and Experimental Work]
+- overarching_environmental_conditions: Glass cell [Materials and Experimental Work]
+- pitting_potential: 0.050 VSCE [Table II. Variation in Ec with the nature of the dissolved gases]
+- electrolyte_temperature: 25 ± 1 °C [Materials and Experimental Work]
+- continuous_sweep_rate: 0.600 V/hr [Materials and Experimental Work]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) connected with a Luggin Haber probe [Materials and Experimental Work]
+- electrolyte_solvents: Distilled water (6.3 meg ohm cm-1) [Materials and Experimental Work]
+- electrolyte_primary_salts: Sodium chloride [Materials and Experimental Work]
+- electrolyte_molar_concentrations: 1M [Materials and Experimental Work]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with argon gas [Results and Discussion]
+- purge_gas_type: Argon [Table II. Variation in Ec with the nature of the dissolved gases]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Exposing the specimen to the corrodent [Results and Discussion]
+- ocp_resting_duration: 60 min [Results and Discussion]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Bright-platinum [Materials and Experimental Work]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 6.3 [Materials and Experimental Work]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [Results and Discussion]
+- electrochemical_mode: Potentiodynamic continuous scan [Materials and Experimental Work]
+- solution_chemistry_summary: 1M sodium chloride dissolved in distilled water, saturated with oxygen gas [Materials and Experimental Work]
+- operating_parameters_summary: Thermostatic control at 25 ± 1 °C, 60 min pre-exposure, sweep rate of 0.600 V/hr [Materials and Experimental Work]
+- overarching_environmental_conditions: Glass cell [Materials and Experimental Work]
+- pitting_potential: 0.065 VSCE [Table II. Variation in Ec with the nature of the dissolved gases]
+- electrolyte_temperature: 25 ± 1 °C [Materials and Experimental Work]
+- continuous_sweep_rate: 0.600 V/hr [Materials and Experimental Work]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) connected with a Luggin Haber probe [Materials and Experimental Work]
+- electrolyte_solvents: Distilled water (6.3 meg ohm cm-1) [Materials and Experimental Work]
+- electrolyte_primary_salts: Sodium chloride [Materials and Experimental Work]
+- electrolyte_molar_concentrations: 1M [Materials and Experimental Work]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with oxygen gas at a flow rate of 1.5 l/min [Results and Discussion]
+- purge_gas_type: Oxygen [Table II. Variation in Ec with the nature of the dissolved gases]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Exposing the specimen to the corrodent [Results and Discussion]
+- ocp_resting_duration: 60 min [Results and Discussion]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Bright-platinum [Materials and Experimental Work]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 6.3 [Materials and Experimental Work]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: AISI Type 316 [Table I. Chemical compositions of steels used in this study]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Stainless steel [Materials and Experimental Work]
+- elemental_weight_percentages: 0.08 w/o C, 0.40 w/o Si, 1.7 w/o Mn, 0.036 w/o P, 0.018 w/o S, 17.2 w/o Cr, 11.6 w/o Ni, 0.2 w/o Cu, 2.2 w/o Mo [Table I. Chemical compositions of steels used in this study]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: AISI Type 316 stainless steel [Materials and Experimental Work]
+- fabrication_steps: Prepared as previously described for potentiodynamic tests [Results and Discussion]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded through 2.0 emery paper [Materials and Experimental Work]
+- chemical_surface_preparation: Washed in detergent, rinsed in distilled water, and dried [Materials and Experimental Work]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [Results and Discussion]
+- electrochemical_mode: Potentiodynamic continuous scan [Materials and Experimental Work]
+- solution_chemistry_summary: 1M sodium chloride dissolved in distilled water, saturated with nitrogen gas [Results and Discussion]
+- operating_parameters_summary: Thermostatic control at 25 ± 1 °C, 60 min pre-exposure, sweep rate of 0.600 V/hr [Materials and Experimental Work]
+- overarching_environmental_conditions: Glass cell [Materials and Experimental Work]
+- pitting_potential: 0.100 VSCE [Table III. Experimental data on alloys used in chemical pitting tests in aqueous ferric chloride]
+- electrolyte_temperature: 25 ± 1 °C [Materials and Experimental Work]
+- continuous_sweep_rate: 0.600 V/hr [Materials and Experimental Work]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) connected with a Luggin Haber probe [Materials and Experimental Work]
+- electrolyte_solvents: Distilled water (6.3 meg ohm cm-1) [Materials and Experimental Work]
+- electrolyte_primary_salts: Sodium chloride [Materials and Experimental Work]
+- electrolyte_molar_concentrations: 1M [Materials and Experimental Work]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen gas [Results and Discussion]
+- purge_gas_type: Nitrogen [Table III. Experimental data on alloys used in chemical pitting tests in aqueous ferric chloride]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Exposing the specimen to the corrodent [Results and Discussion]
+- ocp_resting_duration: 60 min [Results and Discussion]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Bright-platinum [Materials and Experimental Work]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 6.3 [Materials and Experimental Work]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Carpenter 20 Cb3 [Table I. Chemical compositions of steels used in this study]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Not specified in text.
+- elemental_weight_percentages: 0.027 w/o C, 0.39 w/o Si, 0.37 w/o Mn, 0.016 w/o P, 0.004 w/o S, 20.56 w/o Cr, 33.71 w/o Ni, 3.36 w/o Cu, 2.24 w/o Mo [Table I. Chemical compositions of steels used in this study]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Carpenter 20 Cb3 [Materials and Experimental Work]
+- fabrication_steps: Prepared as previously described for potentiodynamic tests [Results and Discussion]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded through 2.0 emery paper [Materials and Experimental Work]
+- chemical_surface_preparation: Washed in detergent, rinsed in distilled water, and dried [Materials and Experimental Work]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [Results and Discussion]
+- electrochemical_mode: Potentiodynamic continuous scan [Materials and Experimental Work]
+- solution_chemistry_summary: 1M sodium chloride dissolved in distilled water, saturated with nitrogen gas [Results and Discussion]
+- operating_parameters_summary: Thermostatic control at 25 ± 1 °C, 60 min pre-exposure, sweep rate of 0.600 V/hr [Materials and Experimental Work]
+- overarching_environmental_conditions: Glass cell [Materials and Experimental Work]
+- pitting_potential: 0.500 VSCE [Table III. Experimental data on alloys used in chemical pitting tests in aqueous ferric chloride]
+- electrolyte_temperature: 25 ± 1 °C [Materials and Experimental Work]
+- continuous_sweep_rate: 0.600 V/hr [Materials and Experimental Work]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) connected with a Luggin Haber probe [Materials and Experimental Work]
+- electrolyte_solvents: Distilled water (6.3 meg ohm cm-1) [Materials and Experimental Work]
+- electrolyte_primary_salts: Sodium chloride [Materials and Experimental Work]
+- electrolyte_molar_concentrations: 1M [Materials and Experimental Work]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen gas [Results and Discussion]
+- purge_gas_type: Nitrogen [Table III. Experimental data on alloys used in chemical pitting tests in aqueous ferric chloride]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Exposing the specimen to the corrodent [Results and Discussion]
+- ocp_resting_duration: 60 min [Results and Discussion]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Bright-platinum [Materials and Experimental Work]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 6.3 [Materials and Experimental Work]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Incoloy 825 [Table I. Chemical compositions of steels used in this study]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Not specified in text.
+- elemental_weight_percentages: 0.028 w/o C, 0.27 w/o Si, 0.71 w/o Mn, 0.002 w/o P, 0.004 w/o S, 21.1 w/o Cr, 42.60 w/o Ni, 2.0 w/o Cu, 3.13 w/o Mo [Table I. Chemical compositions of steels used in this study]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Incoloy 825 [Materials and Experimental Work]
+- fabrication_steps: Prepared as previously described for potentiodynamic tests [Results and Discussion]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded through 2.0 emery paper [Materials and Experimental Work]
+- chemical_surface_preparation: Washed in detergent, rinsed in distilled water, and dried [Materials and Experimental Work]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [Results and Discussion]
+- electrochemical_mode: Potentiodynamic continuous scan [Materials and Experimental Work]
+- solution_chemistry_summary: 1M sodium chloride dissolved in distilled water, saturated with nitrogen gas [Results and Discussion]
+- operating_parameters_summary: Thermostatic control at 25 ± 1 °C, 60 min pre-exposure, sweep rate of 0.600 V/hr [Materials and Experimental Work]
+- overarching_environmental_conditions: Glass cell [Materials and Experimental Work]
+- pitting_potential: 0.525 VSCE [Table III. Experimental data on alloys used in chemical pitting tests in aqueous ferric chloride]
+- electrolyte_temperature: 25 ± 1 °C [Materials and Experimental Work]
+- continuous_sweep_rate: 0.600 V/hr [Materials and Experimental Work]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) connected with a Luggin Haber probe [Materials and Experimental Work]
+- electrolyte_solvents: Distilled water (6.3 meg ohm cm-1) [Materials and Experimental Work]
+- electrolyte_primary_salts: Sodium chloride [Materials and Experimental Work]
+- electrolyte_molar_concentrations: 1M [Materials and Experimental Work]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen gas [Results and Discussion]
+- purge_gas_type: Nitrogen [Table III. Experimental data on alloys used in chemical pitting tests in aqueous ferric chloride]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Exposing the specimen to the corrodent [Results and Discussion]
+- ocp_resting_duration: 60 min [Results and Discussion]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Bright-platinum [Materials and Experimental Work]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 6.3 [Materials and Experimental Work]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Hastelloy C [Table I. Chemical compositions of steels used in this study]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Not specified in text.
+- elemental_weight_percentages: 0.06 w/o C, 0.73 w/o Si, 0.67 w/o Mn, 0.007 w/o P, 0.005 w/o S, 15.44 w/o Cr, 56.27 w/o Ni, 13.6 w/o Mo, 5.2 w/o W [Table I. Chemical compositions of steels used in this study]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Hastelloy C [Materials and Experimental Work]
+- fabrication_steps: Prepared as previously described for potentiodynamic tests [Results and Discussion]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded through 2.0 emery paper [Materials and Experimental Work]
+- chemical_surface_preparation: Washed in detergent, rinsed in distilled water, and dried [Materials and Experimental Work]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization [Results and Discussion]
+- electrochemical_mode: Potentiodynamic continuous scan [Materials and Experimental Work]
+- solution_chemistry_summary: 1M sodium chloride dissolved in distilled water, saturated with nitrogen gas [Results and Discussion]
+- operating_parameters_summary: Thermostatic control at 25 ± 1 °C, 60 min pre-exposure, sweep rate of 0.600 V/hr [Materials and Experimental Work]
+- overarching_environmental_conditions: Glass cell [Materials and Experimental Work]
+- pitting_potential: >0.900 VSCE [Table III. Experimental data on alloys used in chemical pitting tests in aqueous ferric chloride]
+- electrolyte_temperature: 25 ± 1 °C [Materials and Experimental Work]
+- continuous_sweep_rate: 0.600 V/hr [Materials and Experimental Work]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) connected with a Luggin Haber probe [Materials and Experimental Work]
+- electrolyte_solvents: Distilled water (6.3 meg ohm cm-1) [Materials and Experimental Work]
+- electrolyte_primary_salts: Sodium chloride [Materials and Experimental Work]
+- electrolyte_molar_concentrations: 1M [Materials and Experimental Work]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Saturated with nitrogen gas [Results and Discussion]
+- purge_gas_type: Nitrogen [Table III. Experimental data on alloys used in chemical pitting tests in aqueous ferric chloride]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Exposing the specimen to the corrodent [Results and Discussion]
+- ocp_resting_duration: 60 min [Results and Discussion]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Bright-platinum [Materials and Experimental Work]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 6.3 [Materials and Experimental Work]
+- passive_current_density: Not specified in text.

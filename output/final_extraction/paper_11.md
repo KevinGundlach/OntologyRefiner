@@ -1,0 +1,743 @@
+# Base Material
+- standard_designation: Type 430 [Abstract]
+- trade_name: Not specified in text.
+- commercial_grade: Type 430 [Abstract]
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steels [Abstract]
+- elemental_weight_percentages: 0.046% C, 16.30% Cr, 0.33% Ni, 0.70% Mn, 0.10% Cu, 0.60% Si, 0.018% P, 0.008% S [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Ferritic matrix [Discussion]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Type 430 stainless steel [Experimental Procedures]
+- fabrication_steps: Hot-rolled, annealed at 815°C for 1 hr, and water-quenched. [Experimental Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 815°C for 1 hr. [Experimental Procedures]
+- cooling_methods: Water-quenched. [Experimental Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with a distilled water slurry of 0.3$\mu$ alumina. [Experimental Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Masked with electroplaters tape, exposing a circular area 0.36 cm in diameter. [Experimental Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental Procedures]
+- electrochemical_mode: Anodic potentiodynamic polarization [Experimental Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl) [Experimental Procedures]
+- operating_parameters_summary: Scanned starting at -0.7 to -0.6 V into the passive region at 540 mV/hr. Scanning rate decreased tenfold to 54 mV/hr at potentials about 0.1-0.2 V less noble than the expected pitting potential. [Experimental Procedures]
+- overarching_environmental_conditions: Conducted in argon-saturated conditions. [Experimental Procedures]
+- pitting_potential: 0.18 V vs SCE [Table IV]
+- electrolyte_temperature: 29.6 ± 0.1°C [Experimental Procedures]
+- continuous_sweep_rate: 540 mV/hr initially, decreased to 54 mV/hr near the expected pitting potential. [Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 0.1N HCl [Experimental Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Experimental Procedures]
+- purge_gas_type: Argon [Experimental Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Auxiliary platinum electrode [Experimental Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by a glass frit [Experimental Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 10^-6 amp/cm^2 or lower [Results]
+
+# Base Material
+- standard_designation: Type 434 [Abstract]
+- trade_name: Not specified in text.
+- commercial_grade: Type 434 [Abstract]
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steels [Abstract]
+- elemental_weight_percentages: 0.069% C, 16.52% Cr, 0.99% Mo, 0.30% Ni, 0.42% Mn, 0.11% Cu, 0.54% Si, 0.016% P, 0.007% S [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Ferritic matrix [Discussion]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Type 434 stainless steel [Experimental Procedures]
+- fabrication_steps: Hot-rolled, annealed at 815°C for 1 hr, and water-quenched. [Experimental Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 815°C for 1 hr. [Experimental Procedures]
+- cooling_methods: Water-quenched. [Experimental Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with a distilled water slurry of 0.3$\mu$ alumina. [Experimental Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Masked with electroplaters tape, exposing a circular area 0.36 cm in diameter. [Experimental Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental Procedures]
+- electrochemical_mode: Anodic potentiodynamic polarization [Experimental Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl) [Experimental Procedures]
+- operating_parameters_summary: Scanned starting at -0.7 to -0.6 V into the passive region at 540 mV/hr. Scanning rate decreased tenfold to 54 mV/hr at potentials about 0.1-0.2 V less noble than the expected pitting potential. [Experimental Procedures]
+- overarching_environmental_conditions: Conducted in argon-saturated conditions. [Experimental Procedures]
+- pitting_potential: 0.19 V vs SCE [Table IV]
+- electrolyte_temperature: 29.6 ± 0.1°C [Experimental Procedures]
+- continuous_sweep_rate: 540 mV/hr initially, decreased to 54 mV/hr near the expected pitting potential. [Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 0.1N HCl [Experimental Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Experimental Procedures]
+- purge_gas_type: Argon [Experimental Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Auxiliary platinum electrode [Experimental Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by a glass frit [Experimental Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 10^-6 amp/cm^2 or lower [Results]
+
+# Base Material
+- standard_designation: 17% Chromium alloy [Abstract]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High-purity ferritic stainless steels [Experimental Procedures]
+- elemental_weight_percentages: 0.003% C, 17.08% Cr, 0.03% Mo, 0.00% Cu, 0.06% Si, 0.009% P, 0.0065% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Ferritic matrix [Discussion]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 17% Chromium laboratory-prepared alloy [Experimental Procedures]
+- fabrication_steps: Prepared by melting and casting in vacuum. Ingots were hot-rolled to 0.64-cm-thick sheet, cold-rolled to 0.32-cm thickness, annealed for 1 hr at 815°C, and water-quenched. [Experimental Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed for 1 hr at 815°C. [Experimental Procedures]
+- cooling_methods: Water-quenched. [Experimental Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with a distilled water slurry of 0.3$\mu$ alumina. [Experimental Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Masked with electroplaters tape, exposing a circular area 0.36 cm in diameter. [Experimental Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental Procedures]
+- electrochemical_mode: Anodic potentiodynamic polarization [Experimental Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl) [Experimental Procedures]
+- operating_parameters_summary: Scanned starting at -0.7 to -0.6 V into the passive region at 540 mV/hr. Scanning rate decreased tenfold to 54 mV/hr at potentials about 0.1-0.2 V less noble than the expected pitting potential. [Experimental Procedures]
+- overarching_environmental_conditions: Conducted in argon-saturated conditions. [Experimental Procedures]
+- pitting_potential: 0.26 V vs SCE [Table IV]
+- electrolyte_temperature: 29.6 ± 0.1°C [Experimental Procedures]
+- continuous_sweep_rate: 540 mV/hr initially, decreased to 54 mV/hr near the expected pitting potential. [Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 0.1N HCl [Experimental Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Experimental Procedures]
+- purge_gas_type: Argon [Experimental Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Auxiliary platinum electrode [Experimental Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by a glass frit [Experimental Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 10^-6 amp/cm^2 or lower [Results]
+
+# Base Material
+- standard_designation: 17% Cr-1% Mo alloy [Abstract]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High-purity ferritic stainless steels [Experimental Procedures]
+- elemental_weight_percentages: 0.002% C, 16.93% Cr, 1.04% Mo, 0.00% Cu, 0.05% Si, 0.007% P [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Ferritic matrix [Discussion]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 17% Cr-1% Mo laboratory-prepared alloy [Experimental Procedures]
+- fabrication_steps: Prepared by melting and casting in vacuum. Ingots were hot-rolled to 0.64-cm-thick sheet, cold-rolled to 0.32-cm thickness, annealed for 1 hr at 815°C, and water-quenched. [Experimental Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed for 1 hr at 815°C. [Experimental Procedures]
+- cooling_methods: Water-quenched. [Experimental Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with a distilled water slurry of 0.3$\mu$ alumina. [Experimental Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Masked with electroplaters tape, exposing a circular area 0.36 cm in diameter. [Experimental Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental Procedures]
+- electrochemical_mode: Anodic potentiodynamic polarization [Experimental Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl) [Experimental Procedures]
+- operating_parameters_summary: Scanned starting at -0.7 to -0.6 V into the passive region at 540 mV/hr. Scanning rate decreased tenfold to 54 mV/hr at potentials about 0.1-0.2 V less noble than the expected pitting potential. [Experimental Procedures]
+- overarching_environmental_conditions: Conducted in argon-saturated conditions. [Experimental Procedures]
+- pitting_potential: 0.32 V vs SCE [Table IV]
+- electrolyte_temperature: 29.6 ± 0.1°C [Experimental Procedures]
+- continuous_sweep_rate: 540 mV/hr initially, decreased to 54 mV/hr near the expected pitting potential. [Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 0.1N HCl [Experimental Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Experimental Procedures]
+- purge_gas_type: Argon [Experimental Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Auxiliary platinum electrode [Experimental Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by a glass frit [Experimental Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 10^-6 amp/cm^2 or lower [Results]
+
+# Base Material
+- standard_designation: 17% Cr-3% Mo alloy [Abstract]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High-purity ferritic stainless steels [Experimental Procedures]
+- elemental_weight_percentages: 0.003% C, 16.68% Cr, 2.99% Mo, 0.00% Cu, 0.06% Si, 0.007% P, 0.0048% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Ferritic matrix [Discussion]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 17% Cr-3% Mo laboratory-prepared alloy [Experimental Procedures]
+- fabrication_steps: Prepared by melting and casting in vacuum. Ingots were hot-rolled to 0.64-cm-thick sheet, cold-rolled to 0.32-cm thickness, annealed for 1 hr at 815°C, and water-quenched. [Experimental Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed for 1 hr at 815°C. [Experimental Procedures]
+- cooling_methods: Water-quenched. [Experimental Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with a distilled water slurry of 0.3$\mu$ alumina. [Experimental Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Masked with electroplaters tape, exposing a circular area 0.36 cm in diameter. [Experimental Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental Procedures]
+- electrochemical_mode: Anodic potentiodynamic polarization [Experimental Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl) [Experimental Procedures]
+- operating_parameters_summary: Scanned starting at -0.7 to -0.6 V into the passive region at 540 mV/hr. Scanning rate decreased tenfold to 54 mV/hr at potentials about 0.1-0.2 V less noble than the expected pitting potential. [Experimental Procedures]
+- overarching_environmental_conditions: Conducted in argon-saturated conditions. [Experimental Procedures]
+- pitting_potential: >0.80 V vs SCE [Table IV]
+- electrolyte_temperature: 29.6 ± 0.1°C [Experimental Procedures]
+- continuous_sweep_rate: 540 mV/hr initially, decreased to 54 mV/hr near the expected pitting potential. [Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 0.1N HCl [Experimental Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Experimental Procedures]
+- purge_gas_type: Argon [Experimental Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Auxiliary platinum electrode [Experimental Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by a glass frit [Experimental Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 10^-6 amp/cm^2 or lower [Results]
+
+# Base Material
+- standard_designation: 18% Cr-2% Mo-0.11% Ni [Table IV]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: 18% Cr-2% Mo nickel series ferritic stainless steels [Table I]
+- elemental_weight_percentages: 0.11% Ni (Not analyzed for other elements, assumed in the range of the series) [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Ferritic matrix [Discussion]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18% Cr-2% Mo-0.11% Ni laboratory-prepared alloy [Table IV]
+- fabrication_steps: Induction melting in an argon atmosphere using the split-heat technique. Ingots were hot-forged, hot-rolled to 0.76-cm-thick strips, and cold-rolled to 0.38-cm-thick strips. Annealed at 815°C for 1 hr and water-quenched. [Experimental Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 815°C for 1 hr. [Experimental Procedures]
+- cooling_methods: Water-quenched. [Experimental Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with a distilled water slurry of 0.3$\mu$ alumina. [Experimental Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Masked with electroplaters tape, exposing a circular area 0.36 cm in diameter. [Experimental Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental Procedures]
+- electrochemical_mode: Anodic potentiodynamic polarization [Experimental Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl) [Experimental Procedures]
+- operating_parameters_summary: Scanned starting at -0.7 to -0.6 V into the passive region at 600 mV/hr. Scanning rate decreased tenfold to 60 mV/hr at potentials about 0.1-0.2 V less noble than the expected pitting potential. [Experimental Procedures]
+- overarching_environmental_conditions: Conducted in argon-saturated conditions. [Experimental Procedures]
+- pitting_potential: 0.31 V vs SCE [Table IV]
+- electrolyte_temperature: 24 ± 1°C [Experimental Procedures]
+- continuous_sweep_rate: 600 mV/hr initially, decreased to 60 mV/hr near the expected pitting potential. [Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 0.1N HCl [Experimental Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Experimental Procedures]
+- purge_gas_type: Argon [Experimental Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Auxiliary platinum electrode [Experimental Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by a glass frit [Experimental Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 10^-6 amp/cm^2 or lower [Results]
+
+# Base Material
+- standard_designation: 18% Cr-2% Mo-0.62% Ni [Table IV]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: 18% Cr-2% Mo nickel series ferritic stainless steels [Table I]
+- elemental_weight_percentages: 0.62% Ni (Not analyzed for other elements, assumed in the range of the series) [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Ferritic matrix [Discussion]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18% Cr-2% Mo-0.62% Ni laboratory-prepared alloy [Table IV]
+- fabrication_steps: Induction melting in an argon atmosphere using the split-heat technique. Ingots were hot-forged, hot-rolled to 0.76-cm-thick strips, and cold-rolled to 0.38-cm-thick strips. Annealed at 815°C for 1 hr and water-quenched. [Experimental Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 815°C for 1 hr. [Experimental Procedures]
+- cooling_methods: Water-quenched. [Experimental Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with a distilled water slurry of 0.3$\mu$ alumina. [Experimental Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Masked with electroplaters tape, exposing a circular area 0.36 cm in diameter. [Experimental Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental Procedures]
+- electrochemical_mode: Anodic potentiodynamic polarization [Experimental Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl) [Experimental Procedures]
+- operating_parameters_summary: Scanned starting at -0.7 to -0.6 V into the passive region at 600 mV/hr. Scanning rate decreased tenfold to 60 mV/hr at potentials about 0.1-0.2 V less noble than the expected pitting potential. [Experimental Procedures]
+- overarching_environmental_conditions: Conducted in argon-saturated conditions. [Experimental Procedures]
+- pitting_potential: 0.35 V vs SCE [Table IV]
+- electrolyte_temperature: 24 ± 1°C [Experimental Procedures]
+- continuous_sweep_rate: 600 mV/hr initially, decreased to 60 mV/hr near the expected pitting potential. [Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 0.1N HCl [Experimental Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Experimental Procedures]
+- purge_gas_type: Argon [Experimental Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Auxiliary platinum electrode [Experimental Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by a glass frit [Experimental Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 10^-6 amp/cm^2 or lower [Results]
+
+# Base Material
+- standard_designation: 18% Cr-2% Mo-1.08% Ni [Table IV]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: 18% Cr-2% Mo nickel series ferritic stainless steels [Table I]
+- elemental_weight_percentages: 0.031% C, 18.53% Cr, 1.95% Mo, 1.08% Ni [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Ferritic matrix [Discussion]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18% Cr-2% Mo-1.08% Ni laboratory-prepared alloy [Table IV]
+- fabrication_steps: Induction melting in an argon atmosphere using the split-heat technique. Ingots were hot-forged, hot-rolled to 0.76-cm-thick strips, and cold-rolled to 0.38-cm-thick strips. Annealed at 815°C for 1 hr and water-quenched. [Experimental Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 815°C for 1 hr. [Experimental Procedures]
+- cooling_methods: Water-quenched. [Experimental Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with a distilled water slurry of 0.3$\mu$ alumina. [Experimental Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Masked with electroplaters tape, exposing a circular area 0.36 cm in diameter. [Experimental Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental Procedures]
+- electrochemical_mode: Anodic potentiodynamic polarization [Experimental Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl) [Experimental Procedures]
+- operating_parameters_summary: Scanned starting at -0.7 to -0.6 V into the passive region at 600 mV/hr. Scanning rate decreased tenfold to 60 mV/hr at potentials about 0.1-0.2 V less noble than the expected pitting potential. [Experimental Procedures]
+- overarching_environmental_conditions: Conducted in argon-saturated conditions. [Experimental Procedures]
+- pitting_potential: 0.34 V vs SCE [Table IV]
+- electrolyte_temperature: 24 ± 1°C [Experimental Procedures]
+- continuous_sweep_rate: 600 mV/hr initially, decreased to 60 mV/hr near the expected pitting potential. [Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 0.1N HCl [Experimental Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Experimental Procedures]
+- purge_gas_type: Argon [Experimental Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Auxiliary platinum electrode [Experimental Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by a glass frit [Experimental Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 10^-6 amp/cm^2 or lower [Results]
+
+# Base Material
+- standard_designation: 18% Cr-2% Mo-0.47% Ti [Table IV]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: 18% Cr-2% Mo titanium series ferritic stainless steels [Table I]
+- elemental_weight_percentages: 0.034% C, 18.45% Cr, 1.97% Mo, 0.11% Ni, 0.47% Ti, 0.13% Si, 0.045% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Ferritic matrix [Discussion]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18% Cr-2% Mo-0.47% Ti laboratory-prepared alloy [Table IV]
+- fabrication_steps: Induction melting in an argon atmosphere using the split-heat technique. Ingots were hot-forged, hot-rolled to 0.76-cm-thick strips, and cold-rolled to 0.38-cm-thick strips. Annealed for 1 hr at 1040°C and water-quenched. [Experimental Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 1040°C for 1 hr. [Experimental Procedures]
+- cooling_methods: Water-quenched. [Experimental Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with a distilled water slurry of 0.3$\mu$ alumina. [Experimental Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Masked with electroplaters tape, exposing a circular area 0.36 cm in diameter. [Experimental Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental Procedures]
+- electrochemical_mode: Anodic potentiodynamic polarization [Experimental Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl) [Experimental Procedures]
+- operating_parameters_summary: Scanned starting at -0.7 to -0.6 V into the passive region at 600 mV/hr. Scanning rate decreased tenfold to 60 mV/hr at potentials about 0.1-0.2 V less noble than the expected pitting potential. [Experimental Procedures]
+- overarching_environmental_conditions: Conducted in argon-saturated conditions. [Experimental Procedures]
+- pitting_potential: >0.8 V vs SCE [Table IV]
+- electrolyte_temperature: 24 ± 1°C [Experimental Procedures]
+- continuous_sweep_rate: 600 mV/hr initially, decreased to 60 mV/hr near the expected pitting potential. [Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 0.1N HCl [Experimental Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Experimental Procedures]
+- purge_gas_type: Argon [Experimental Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Auxiliary platinum electrode [Experimental Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by a glass frit [Experimental Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 10^-6 amp/cm^2 or lower [Results]
+
+# Base Material
+- standard_designation: 18% Cr-2% Mo-1.86% Ti [Table IV]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: 18% Cr-2% Mo titanium series ferritic stainless steels [Table I]
+- elemental_weight_percentages: 0.035% C, 1.86% Ti, 0.023% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Ferritic matrix [Discussion]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18% Cr-2% Mo-1.86% Ti laboratory-prepared alloy [Table IV]
+- fabrication_steps: Induction melting in an argon atmosphere using the split-heat technique. Ingots were hot-forged, hot-rolled to 0.76-cm-thick strips, and cold-rolled to 0.38-cm-thick strips. Annealed for 1 hr at 1040°C and water-quenched. [Experimental Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 1040°C for 1 hr. [Experimental Procedures]
+- cooling_methods: Water-quenched. [Experimental Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with a distilled water slurry of 0.3$\mu$ alumina. [Experimental Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Masked with electroplaters tape, exposing a circular area 0.36 cm in diameter. [Experimental Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental Procedures]
+- electrochemical_mode: Anodic potentiodynamic polarization [Experimental Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl) [Experimental Procedures]
+- operating_parameters_summary: Scanned starting at -0.7 to -0.6 V into the passive region at 600 mV/hr. Scanning rate decreased tenfold to 60 mV/hr at potentials about 0.1-0.2 V less noble than the expected pitting potential. [Experimental Procedures]
+- overarching_environmental_conditions: Conducted in argon-saturated conditions. [Experimental Procedures]
+- pitting_potential: 0.63 V vs SCE [Table IV]
+- electrolyte_temperature: 24 ± 1°C [Experimental Procedures]
+- continuous_sweep_rate: 600 mV/hr initially, decreased to 60 mV/hr near the expected pitting potential. [Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 0.1N HCl [Experimental Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Experimental Procedures]
+- purge_gas_type: Argon [Experimental Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Auxiliary platinum electrode [Experimental Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by a glass frit [Experimental Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 10^-6 amp/cm^2 or lower [Results]
+
+# Base Material
+- standard_designation: 18% Cr-2% Mo-0.91% Ti-0.57% Ni [Table IV]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: 18% Cr-2% Mo nickel-titanium series ferritic stainless steels [Table I]
+- elemental_weight_percentages: 0.032% C, 18.70% Cr, 1.97% Mo, 0.57% Ni, 0.91% Ti [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Ferritic matrix [Discussion]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18% Cr-2% Mo-0.91% Ti-0.57% Ni laboratory-prepared alloy [Table IV]
+- fabrication_steps: Induction melting in an argon atmosphere using the split-heat technique. Ingots were hot-forged, hot-rolled to 0.76-cm-thick strips, and cold-rolled to 0.38-cm-thick strips. Annealed for 1 hr at 1040°C and water-quenched. [Experimental Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 1040°C for 1 hr. [Experimental Procedures]
+- cooling_methods: Water-quenched. [Experimental Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with a distilled water slurry of 0.3$\mu$ alumina. [Experimental Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Masked with electroplaters tape, exposing a circular area 0.36 cm in diameter. [Experimental Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental Procedures]
+- electrochemical_mode: Anodic potentiodynamic polarization [Experimental Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl) [Experimental Procedures]
+- operating_parameters_summary: Scanned starting at -0.7 to -0.6 V into the passive region at 600 mV/hr. Scanning rate decreased tenfold to 60 mV/hr at potentials about 0.1-0.2 V less noble than the expected pitting potential. [Experimental Procedures]
+- overarching_environmental_conditions: Conducted in argon-saturated conditions. [Experimental Procedures]
+- pitting_potential: >0.8 V vs SCE [Table IV]
+- electrolyte_temperature: 24 ± 1°C [Experimental Procedures]
+- continuous_sweep_rate: 600 mV/hr initially, decreased to 60 mV/hr near the expected pitting potential. [Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 0.1N HCl [Experimental Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Experimental Procedures]
+- purge_gas_type: Argon [Experimental Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Auxiliary platinum electrode [Experimental Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by a glass frit [Experimental Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 10^-6 amp/cm^2 or lower [Results]
+
+# Base Material
+- standard_designation: 18% Cr-2% Mo-1.75% Ti-2.08% Ni [Table IV]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: 18% Cr-2% Mo nickel-titanium series ferritic stainless steels [Table I]
+- elemental_weight_percentages: 2.08% Ni, 1.75% Ti [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Ferritic matrix [Discussion]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18% Cr-2% Mo-1.75% Ti-2.08% Ni laboratory-prepared alloy [Table IV]
+- fabrication_steps: Induction melting in an argon atmosphere using the split-heat technique. Ingots were hot-forged, hot-rolled to 0.76-cm-thick strips, and cold-rolled to 0.38-cm-thick strips. Annealed for 1 hr at 1040°C and water-quenched. [Experimental Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 1040°C for 1 hr. [Experimental Procedures]
+- cooling_methods: Water-quenched. [Experimental Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with a distilled water slurry of 0.3$\mu$ alumina. [Experimental Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Masked with electroplaters tape, exposing a circular area 0.36 cm in diameter. [Experimental Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental Procedures]
+- electrochemical_mode: Anodic potentiodynamic polarization [Experimental Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl) [Experimental Procedures]
+- operating_parameters_summary: Scanned starting at -0.7 to -0.6 V into the passive region at 600 mV/hr. Scanning rate decreased tenfold to 60 mV/hr at potentials about 0.1-0.2 V less noble than the expected pitting potential. [Experimental Procedures]
+- overarching_environmental_conditions: Conducted in argon-saturated conditions. [Experimental Procedures]
+- pitting_potential: 0.62 V vs SCE [Table IV]
+- electrolyte_temperature: 24 ± 1°C [Experimental Procedures]
+- continuous_sweep_rate: 600 mV/hr initially, decreased to 60 mV/hr near the expected pitting potential. [Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Experimental Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 0.1N HCl [Experimental Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Experimental Procedures]
+- purge_gas_type: Argon [Experimental Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Auxiliary platinum electrode [Experimental Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by a glass frit [Experimental Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 10^-6 amp/cm^2 or lower [Results]

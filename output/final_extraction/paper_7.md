@@ -1,0 +1,436 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: 99.99% Al [# Experimental]
+- uns_code: Not specified in text.
+- alloy_family: Aluminum [# ABSTRACT]
+- elemental_weight_percentages: Cu 0.0039%, Si 0.0016%, Fe 0.0007%, Mg 0.0005% [# Results]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Pickled 99.99% Al [# Experimental]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to 3/0 emery paper [# Experimental]
+- chemical_surface_preparation: Pickling in 2N NaOH at 80°C for 5 min and then washing in distilled water [# Experimental]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [# Experimental]
+- electrochemical_mode: Step-by-step technique [# Experimental]
+- solution_chemistry_summary: 0.1M NaCl in deaerated distilled water [# Experimental, # Results]
+- operating_parameters_summary: Anodic polarization with potential increased 50 mV every 5 min after 5 min steady-state stabilization [# Experimental]
+- overarching_environmental_conditions: Air thermostat maintained at 25° +/- 0.2°C [# Experimental]
+- pitting_potential: -0.40 V (SHE) [# Results]
+- electrolyte_temperature: 25°C [# Results]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [# Experimental]
+- holding_duration: 5 min [# Experimental]
+- reference_electrode: Saturated Calomel Electrode (SCE) and Standard Hydrogen Electrode (SHE) [# Experimental]
+- electrolyte_solvents: Distilled water [# Experimental]
+- electrolyte_primary_salts: NaCl [# Results]
+- electrolyte_molar_concentrations: 0.1M [# Results]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [# Experimental]
+- purge_gas_type: Purified N2 previously passed over Cu turnings at 400°C [# Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Polarize the electrode anodically within the passive region at -0.80V vs. SCE or -0.56V (SHE) [# Experimental]
+- ocp_resting_duration: 5 min [# Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: <1 µA/cm² [# Experimental]
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [# Experimental]
+- electrochemical_mode: Step-by-step technique [# Experimental]
+- solution_chemistry_summary: 0.1M NaCl in deaerated distilled water [# Experimental, # Results]
+- operating_parameters_summary: Anodic polarization with potential increased 50 mV every 5 min after 5 min steady-state stabilization [# Experimental]
+- overarching_environmental_conditions: Water-ice bath maintained at 0°C [# Experimental]
+- pitting_potential: -0.41 V (SHE) [# Results]
+- electrolyte_temperature: 0°C [# Results]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [# Experimental]
+- holding_duration: 5 min [# Experimental]
+- reference_electrode: Saturated Calomel Electrode (SCE) and Standard Hydrogen Electrode (SHE) [# Experimental]
+- electrolyte_solvents: Distilled water [# Experimental]
+- electrolyte_primary_salts: NaCl [# Results]
+- electrolyte_molar_concentrations: 0.1M [# Results]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [# Experimental]
+- purge_gas_type: Purified N2 previously passed over Cu turnings at 400°C [# Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Polarize the electrode anodically within the passive region at -0.80V vs. SCE or -0.56V (SHE) [# Experimental]
+- ocp_resting_duration: 5 min [# Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: <1 µA/cm² [# Experimental]
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [# Experimental]
+- electrochemical_mode: Step-by-step technique [# Experimental]
+- solution_chemistry_summary: 0.1M NaBr in deaerated distilled water [# Experimental, # Results]
+- operating_parameters_summary: Anodic polarization with potential increased 50 mV every 5 min after 5 min steady-state stabilization [# Experimental]
+- overarching_environmental_conditions: Air thermostat maintained at 25° +/- 0.2°C [# Experimental]
+- pitting_potential: -0.29 V (SHE) [# Results]
+- electrolyte_temperature: 25°C [# Results]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [# Experimental]
+- holding_duration: 5 min [# Experimental]
+- reference_electrode: Saturated Calomel Electrode (SCE) and Standard Hydrogen Electrode (SHE) [# Experimental]
+- electrolyte_solvents: Distilled water [# Experimental]
+- electrolyte_primary_salts: NaBr [# Results]
+- electrolyte_molar_concentrations: 0.1M [# Results]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [# Experimental]
+- purge_gas_type: Purified N2 previously passed over Cu turnings at 400°C [# Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Polarize the electrode anodically within the passive region at -0.80V vs. SCE or -0.56V (SHE) [# Experimental]
+- ocp_resting_duration: 5 min [# Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: <1 µA/cm² [# Experimental]
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [# Experimental]
+- electrochemical_mode: Step-by-step technique [# Experimental]
+- solution_chemistry_summary: 0.1M NaBr in deaerated distilled water [# Experimental, # Results]
+- operating_parameters_summary: Anodic polarization with potential increased 50 mV every 5 min after 5 min steady-state stabilization [# Experimental]
+- overarching_environmental_conditions: Water-ice bath maintained at 0°C [# Experimental]
+- pitting_potential: -0.32 V (SHE) [# Results]
+- electrolyte_temperature: 0°C [# Results]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [# Experimental]
+- holding_duration: 5 min [# Experimental]
+- reference_electrode: Saturated Calomel Electrode (SCE) and Standard Hydrogen Electrode (SHE) [# Experimental]
+- electrolyte_solvents: Distilled water [# Experimental]
+- electrolyte_primary_salts: NaBr [# Results]
+- electrolyte_molar_concentrations: 0.1M [# Results]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [# Experimental]
+- purge_gas_type: Purified N2 previously passed over Cu turnings at 400°C [# Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Polarize the electrode anodically within the passive region at -0.80V vs. SCE or -0.56V (SHE) [# Experimental]
+- ocp_resting_duration: 5 min [# Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: <1 µA/cm² [# Experimental]
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [# Experimental]
+- electrochemical_mode: Step-by-step technique [# Experimental]
+- solution_chemistry_summary: 0.1M NaClO4 in deaerated distilled water [# Experimental, # Results]
+- operating_parameters_summary: Anodic polarization with potential increased 50 mV every 5 min after 5 min steady-state stabilization [# Experimental]
+- overarching_environmental_conditions: Air thermostat maintained at 25° +/- 0.2°C [# Experimental]
+- pitting_potential: 0.0 V (SHE) [# Results]
+- electrolyte_temperature: 25°C [# Results]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [# Experimental]
+- holding_duration: 5 min [# Experimental]
+- reference_electrode: Saturated Calomel Electrode (SCE) and Standard Hydrogen Electrode (SHE) [# Experimental]
+- electrolyte_solvents: Distilled water [# Experimental]
+- electrolyte_primary_salts: NaClO4 [# Results]
+- electrolyte_molar_concentrations: 0.1M [# Results]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [# Experimental]
+- purge_gas_type: Purified N2 previously passed over Cu turnings at 400°C [# Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Polarize the electrode anodically within the passive region at -0.80V vs. SCE or -0.56V (SHE) [# Experimental]
+- ocp_resting_duration: 5 min [# Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: <1 µA/cm² [# Experimental]
+
+## Conditioned Material
+- material_identification: Anodized 99.99% Al [# Discussion]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to 3/0 emery paper [# Experimental]
+- chemical_surface_preparation: Anodized in 15% H2SO4 at 25 mA/cm², washed and sealed in distilled water at 90°C for 1/2 hr to produce oxide film thickness of 0.3 and 1.4 µm [# Discussion]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [# Discussion]
+- electrochemical_mode: Steady-state polarization [# Discussion]
+- solution_chemistry_summary: 0.1M NaCl in deaerated distilled water [# Discussion]
+- operating_parameters_summary: Anodic polarization testing to determine steady-state critical potential [# Discussion]
+- overarching_environmental_conditions: Air thermostat maintained at 25° +/- 0.2°C [# Experimental, # Discussion]
+- pitting_potential: -0.39 V (SHE) [# Discussion]
+- electrolyte_temperature: 25°C [# Discussion]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) and Standard Hydrogen Electrode (SHE) [# Experimental]
+- electrolyte_solvents: Distilled water [# Experimental]
+- electrolyte_primary_salts: NaCl [# Discussion]
+- electrolyte_molar_concentrations: 0.1M [# Discussion]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [# Experimental]
+- purge_gas_type: Purified N2 previously passed over Cu turnings at 400°C [# Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [# Discussion]
+- electrochemical_mode: Continuous polarization [# Discussion]
+- solution_chemistry_summary: 0.1M NaCl in deaerated distilled water [# Discussion]
+- operating_parameters_summary: Continuous polarization runs to determine nonsteady-state critical potential [# Discussion]
+- overarching_environmental_conditions: Air thermostat maintained at 25° +/- 0.2°C [# Experimental, # Discussion]
+- pitting_potential: -0.33 V (SHE) [# Discussion]
+- electrolyte_temperature: 25°C [# Discussion]
+- continuous_sweep_rate: 50 mV/5 min [# Discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) and Standard Hydrogen Electrode (SHE) [# Experimental]
+- electrolyte_solvents: Distilled water [# Experimental]
+- electrolyte_primary_salts: NaCl [# Discussion]
+- electrolyte_molar_concentrations: 0.1M [# Discussion]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [# Experimental]
+- purge_gas_type: Purified N2 previously passed over Cu turnings at 400°C [# Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: 99.4% Al [# Experimental]
+- uns_code: Not specified in text.
+- alloy_family: Aluminum [# ABSTRACT]
+- elemental_weight_percentages: Cu 0.1%, Si 0.08%, Fe 0.48%, Mn 0.004%, Mg 0.0004%, Cr 0.002% [# Results]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Pickled 99.4% Al [# Experimental]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to 3/0 emery paper [# Experimental]
+- chemical_surface_preparation: Pickling in 2N NaOH at 80°C for 5 min and then washing in distilled water [# Experimental]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [# Experimental]
+- electrochemical_mode: Step-by-step technique [# Experimental]
+- solution_chemistry_summary: 0.1M NaCl in deaerated distilled water [# Experimental, # Results]
+- operating_parameters_summary: Anodic polarization with potential increased 50 mV every 5 min after 5 min steady-state stabilization [# Experimental]
+- overarching_environmental_conditions: Air thermostat maintained at 25° +/- 0.2°C [# Experimental]
+- pitting_potential: -0.41 V (SHE) [# Results]
+- electrolyte_temperature: 25°C [# Results]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [# Experimental]
+- holding_duration: 5 min [# Experimental]
+- reference_electrode: Saturated Calomel Electrode (SCE) and Standard Hydrogen Electrode (SHE) [# Experimental]
+- electrolyte_solvents: Distilled water [# Experimental]
+- electrolyte_primary_salts: NaCl [# Results]
+- electrolyte_molar_concentrations: 0.1M [# Results]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [# Experimental]
+- purge_gas_type: Purified N2 previously passed over Cu turnings at 400°C [# Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Polarize the electrode anodically within the passive region at -0.80V vs. SCE or -0.56V (SHE) [# Experimental]
+- ocp_resting_duration: 5 min [# Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: <1 µA/cm² [# Experimental]
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: 1.3% Mn-Al [# Experimental]
+- uns_code: Not specified in text.
+- alloy_family: Aluminum [# ABSTRACT]
+- elemental_weight_percentages: Cu 0.006%, Si 0.002%, Fe 0.002%, Mn 1.3%, Mg 0.001% [# Results]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Pickled 1.3% Mn-Al [# Experimental]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to 3/0 emery paper [# Experimental]
+- chemical_surface_preparation: Pickling in 2N NaOH at 80°C for 5 min and then washing in distilled water [# Experimental]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [# Experimental]
+- electrochemical_mode: Step-by-step technique [# Experimental]
+- solution_chemistry_summary: 0.1M NaCl in deaerated distilled water [# Experimental, # Results]
+- operating_parameters_summary: Anodic polarization with potential increased 50 mV every 5 min after 5 min steady-state stabilization [# Experimental]
+- overarching_environmental_conditions: Air thermostat maintained at 25° +/- 0.2°C [# Experimental]
+- pitting_potential: -0.45 V (SHE) [# Results]
+- electrolyte_temperature: 25°C [# Results]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [# Experimental]
+- holding_duration: 5 min [# Experimental]
+- reference_electrode: Saturated Calomel Electrode (SCE) and Standard Hydrogen Electrode (SHE) [# Experimental]
+- electrolyte_solvents: Distilled water [# Experimental]
+- electrolyte_primary_salts: NaCl [# Results]
+- electrolyte_molar_concentrations: 0.1M [# Results]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [# Experimental]
+- purge_gas_type: Purified N2 previously passed over Cu turnings at 400°C [# Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Polarize the electrode anodically within the passive region at -0.80V vs. SCE or -0.56V (SHE) [# Experimental]
+- ocp_resting_duration: 5 min [# Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: <1 µA/cm² [# Experimental]
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: 2.4% Mg-Al [# Experimental]
+- uns_code: Not specified in text.
+- alloy_family: Aluminum [# ABSTRACT]
+- elemental_weight_percentages: Cu 0.04%, Si 0.08%, Fe 0.16%, Mn 0.02%, Mg 2.43%, Cr 0.23% [# Results]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Pickled 2.4% Mg-Al [# Experimental]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to 3/0 emery paper [# Experimental]
+- chemical_surface_preparation: Pickling in 2N NaOH at 80°C for 5 min and then washing in distilled water [# Experimental]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [# Experimental]
+- electrochemical_mode: Step-by-step technique [# Experimental]
+- solution_chemistry_summary: 0.1M NaCl in deaerated distilled water [# Experimental, # Results]
+- operating_parameters_summary: Anodic polarization with potential increased 50 mV every 5 min after 5 min steady-state stabilization [# Experimental]
+- overarching_environmental_conditions: Air thermostat maintained at 25° +/- 0.2°C [# Experimental]
+- pitting_potential: -0.44 V (SHE) [# Results]
+- electrolyte_temperature: 25°C [# Results]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mV [# Experimental]
+- holding_duration: 5 min [# Experimental]
+- reference_electrode: Saturated Calomel Electrode (SCE) and Standard Hydrogen Electrode (SHE) [# Experimental]
+- electrolyte_solvents: Distilled water [# Experimental]
+- electrolyte_primary_salts: NaCl [# Results]
+- electrolyte_molar_concentrations: 0.1M [# Results]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [# Experimental]
+- purge_gas_type: Purified N2 previously passed over Cu turnings at 400°C [# Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Polarize the electrode anodically within the passive region at -0.80V vs. SCE or -0.56V (SHE) [# Experimental]
+- ocp_resting_duration: 5 min [# Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: <1 µA/cm² [# Experimental]

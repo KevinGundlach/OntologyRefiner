@@ -1,0 +1,446 @@
+# Base Material
+- standard_designation: 18-8 stainless steel variety [SHORT COMMUNICATION]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [SHORT COMMUNICATION]
+- elemental_weight_percentages: 17.6% Cr, 10.3% Ni, 0% Re, balance Fe [TABLE 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Homogenized at 1050°C for 17h [SHORT COMMUNICATION]
+- trace_impurities: Precursors included decarburized electrolytic Fe, electrolytic Cr, and carbonyl Ni. Re source contained 15ppm Fe and less than 1ppm of any other detectable impurity. [SHORT COMMUNICATION]
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Mostly austenitic as quenched, being only slightly magnetic [SHORT COMMUNICATION]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [SHORT COMMUNICATION]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy No. 1 [TABLE 1]
+- fabrication_steps: Prepared by vacuum melting in dense alumina crucibles, cast in a purified argon atmosphere by drawing into 7mm dia. Vycor tubes, and quenched in water. Swaged to 0.4cm dia. rods. [SHORT COMMUNICATION]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Homogenized at 1050°C for 17h; annealed at 1050°C. [SHORT COMMUNICATION]
+- cooling_methods: Quenching in water after casting and after annealing. [SHORT COMMUNICATION]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded to 3/0 emery paper. [SHORT COMMUNICATION]
+- chemical_surface_preparation: Pickled in 15% HNO3, 2% HF at 80°C. [SHORT COMMUNICATION]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Electrodes measured about 2cm x 0.4cm dia. Mounted using a Teflon gasket to ensure exposure only of the alloy to the electrolyte. [SHORT COMMUNICATION]
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [SHORT COMMUNICATION]
+- electrochemical_mode: Stepwise potentiostatic polarization followed by long-time single potential holds [SHORT COMMUNICATION]
+- solution_chemistry_summary: 0.1N NaCl [SHORT COMMUNICATION]
+- operating_parameters_summary: Electrode totally immersed. First polarized in the least noble passive region for 15min, then the potential was moved in the noble direction 50mV every 5min until the pitting potential was approximated. This was followed by runs of 12-15h at a single potential to establish the steady state value. The final value was the least noble potential where current did not continuously increase and no pits were observed. [SHORT COMMUNICATION]
+- overarching_environmental_conditions: 25°C, N2-saturated [SHORT COMMUNICATION]
+- pitting_potential: ~0.35 V (Std. H2 Scale) (Reproducibility ± 10-15mV) [FIG. 1]
+- electrolyte_temperature: 25°C [SHORT COMMUNICATION]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50mV [SHORT COMMUNICATION]
+- holding_duration: 5min per step; 12-15h at steady state single potential [SHORT COMMUNICATION]
+- reference_electrode: Std. H2 Scale [FIG. 1]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [SHORT COMMUNICATION]
+- electrolyte_molar_concentrations: 0.1N [SHORT COMMUNICATION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: N2-saturated [SHORT COMMUNICATION]
+- purge_gas_type: N2 [SHORT COMMUNICATION]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [SHORT COMMUNICATION]
+- electrochemical_mode: Stepwise potentiostatic polarization followed by long-time single potential holds [SHORT COMMUNICATION]
+- solution_chemistry_summary: 0.1N NaCl [SHORT COMMUNICATION]
+- operating_parameters_summary: Electrode totally immersed. First polarized in the least noble passive region for 15min, then the potential was moved in the noble direction 50mV every 5min until the pitting potential was approximated. This was followed by runs of 12-15h at a single potential to establish the steady state value. The final value was the least noble potential where current did not continuously increase and no pits were observed. [SHORT COMMUNICATION]
+- overarching_environmental_conditions: 0°C, N2-saturated [SHORT COMMUNICATION]
+- pitting_potential: ~0.72 V (Std. H2 Scale) (Reproducibility ± 10-15mV) [FIG. 1]
+- electrolyte_temperature: 0°C [SHORT COMMUNICATION]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50mV [SHORT COMMUNICATION]
+- holding_duration: 5min per step; 12-15h at steady state single potential [SHORT COMMUNICATION]
+- reference_electrode: Std. H2 Scale [FIG. 1]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [SHORT COMMUNICATION]
+- electrolyte_molar_concentrations: 0.1N [SHORT COMMUNICATION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: N2-saturated [SHORT COMMUNICATION]
+- purge_gas_type: N2 [SHORT COMMUNICATION]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [SHORT COMMUNICATION]
+- electrochemical_mode: Stepwise potentiostatic polarization followed by long-time single potential holds [SHORT COMMUNICATION]
+- solution_chemistry_summary: 0.1N NaBr [SHORT COMMUNICATION]
+- operating_parameters_summary: Electrode totally immersed. First polarized in the least noble passive region for 15min, then the potential was moved in the noble direction 50mV every 5min until the pitting potential was approximated. This was followed by runs of 12-15h at a single potential to establish the steady state value. The final value was the least noble potential where current did not continuously increase and no pits were observed. [SHORT COMMUNICATION]
+- overarching_environmental_conditions: 25°C, N2-saturated [SHORT COMMUNICATION]
+- pitting_potential: ~0.45 V (Std. H2 Scale) (Reproducibility ± 10-15mV) [FIG. 2]
+- electrolyte_temperature: 25°C [SHORT COMMUNICATION]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50mV [SHORT COMMUNICATION]
+- holding_duration: 5min per step; 12-15h at steady state single potential [SHORT COMMUNICATION]
+- reference_electrode: Std. H2 Scale [FIG. 2]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaBr [SHORT COMMUNICATION]
+- electrolyte_molar_concentrations: 0.1N [SHORT COMMUNICATION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: N2-saturated [SHORT COMMUNICATION]
+- purge_gas_type: N2 [SHORT COMMUNICATION]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [SHORT COMMUNICATION]
+- electrochemical_mode: Stepwise potentiostatic polarization followed by long-time single potential holds [SHORT COMMUNICATION]
+- solution_chemistry_summary: 0.1N NaBr [SHORT COMMUNICATION]
+- operating_parameters_summary: Electrode totally immersed. First polarized in the least noble passive region for 15min, then the potential was moved in the noble direction 50mV every 5min until the pitting potential was approximated. This was followed by runs of 12-15h at a single potential to establish the steady state value. The final value was the least noble potential where current did not continuously increase and no pits were observed. [SHORT COMMUNICATION]
+- overarching_environmental_conditions: 0°C, N2-saturated [SHORT COMMUNICATION]
+- pitting_potential: ~0.54 V (Std. H2 Scale) (Reproducibility ± 10-15mV) [FIG. 2]
+- electrolyte_temperature: 0°C [SHORT COMMUNICATION]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50mV [SHORT COMMUNICATION]
+- holding_duration: 5min per step; 12-15h at steady state single potential [SHORT COMMUNICATION]
+- reference_electrode: Std. H2 Scale [FIG. 2]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaBr [SHORT COMMUNICATION]
+- electrolyte_molar_concentrations: 0.1N [SHORT COMMUNICATION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: N2-saturated [SHORT COMMUNICATION]
+- purge_gas_type: N2 [SHORT COMMUNICATION]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: 18-8 stainless steel variety with Re [SHORT COMMUNICATION]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [SHORT COMMUNICATION]
+- elemental_weight_percentages: 17.4% Cr, 10.2% Ni, 0.84% Re, balance Fe [TABLE 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Homogenized at 1050°C for 17h [SHORT COMMUNICATION]
+- trace_impurities: Precursors included decarburized electrolytic Fe, electrolytic Cr, and carbonyl Ni. Re source contained 15ppm Fe and less than 1ppm of any other detectable impurity. [SHORT COMMUNICATION]
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Mostly austenitic as quenched, being only slightly magnetic [SHORT COMMUNICATION]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [SHORT COMMUNICATION]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy No. 2 [TABLE 1]
+- fabrication_steps: Prepared by vacuum melting in dense alumina crucibles, cast in a purified argon atmosphere by drawing into 7mm dia. Vycor tubes, and quenched in water. Swaged to 0.4cm dia. rods. [SHORT COMMUNICATION]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Homogenized at 1050°C for 17h; annealed at 1050°C. [SHORT COMMUNICATION]
+- cooling_methods: Quenching in water after casting and after annealing. [SHORT COMMUNICATION]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded to 3/0 emery paper. [SHORT COMMUNICATION]
+- chemical_surface_preparation: Pickled in 15% HNO3, 2% HF at 80°C. [SHORT COMMUNICATION]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Electrodes measured about 2cm x 0.4cm dia. Mounted using a Teflon gasket to ensure exposure only of the alloy to the electrolyte. [SHORT COMMUNICATION]
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [SHORT COMMUNICATION]
+- electrochemical_mode: Stepwise potentiostatic polarization followed by long-time single potential holds [SHORT COMMUNICATION]
+- solution_chemistry_summary: 0.1N NaCl [SHORT COMMUNICATION]
+- operating_parameters_summary: Electrode totally immersed. First polarized in the least noble passive region for 15min, then the potential was moved in the noble direction 50mV every 5min until the pitting potential was approximated. This was followed by runs of 12-15h at a single potential to establish the steady state value. The final value was the least noble potential where current did not continuously increase and no pits were observed. [SHORT COMMUNICATION]
+- overarching_environmental_conditions: 25°C, N2-saturated [SHORT COMMUNICATION]
+- pitting_potential: ~0.38 V (Std. H2 Scale) (Reproducibility ± 10-15mV) [FIG. 1]
+- electrolyte_temperature: 25°C [SHORT COMMUNICATION]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50mV [SHORT COMMUNICATION]
+- holding_duration: 5min per step; 12-15h at steady state single potential [SHORT COMMUNICATION]
+- reference_electrode: Std. H2 Scale [FIG. 1]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [SHORT COMMUNICATION]
+- electrolyte_molar_concentrations: 0.1N [SHORT COMMUNICATION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: N2-saturated [SHORT COMMUNICATION]
+- purge_gas_type: N2 [SHORT COMMUNICATION]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [SHORT COMMUNICATION]
+- electrochemical_mode: Stepwise potentiostatic polarization followed by long-time single potential holds [SHORT COMMUNICATION]
+- solution_chemistry_summary: 0.1N NaCl [SHORT COMMUNICATION]
+- operating_parameters_summary: Electrode totally immersed. First polarized in the least noble passive region for 15min, then the potential was moved in the noble direction 50mV every 5min until the pitting potential was approximated. This was followed by runs of 12-15h at a single potential to establish the steady state value. The final value was the least noble potential where current did not continuously increase and no pits were observed. [SHORT COMMUNICATION]
+- overarching_environmental_conditions: 0°C, N2-saturated [SHORT COMMUNICATION]
+- pitting_potential: ~0.69 V (Std. H2 Scale) (Reproducibility ± 10-15mV) [FIG. 1]
+- electrolyte_temperature: 0°C [SHORT COMMUNICATION]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50mV [SHORT COMMUNICATION]
+- holding_duration: 5min per step; 12-15h at steady state single potential [SHORT COMMUNICATION]
+- reference_electrode: Std. H2 Scale [FIG. 1]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [SHORT COMMUNICATION]
+- electrolyte_molar_concentrations: 0.1N [SHORT COMMUNICATION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: N2-saturated [SHORT COMMUNICATION]
+- purge_gas_type: N2 [SHORT COMMUNICATION]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [SHORT COMMUNICATION]
+- electrochemical_mode: Stepwise potentiostatic polarization followed by long-time single potential holds [SHORT COMMUNICATION]
+- solution_chemistry_summary: 0.1N NaBr [SHORT COMMUNICATION]
+- operating_parameters_summary: Electrode totally immersed. First polarized in the least noble passive region for 15min, then the potential was moved in the noble direction 50mV every 5min until the pitting potential was approximated. This was followed by runs of 12-15h at a single potential to establish the steady state value. The final value was the least noble potential where current did not continuously increase and no pits were observed. [SHORT COMMUNICATION]
+- overarching_environmental_conditions: 25°C, N2-saturated [SHORT COMMUNICATION]
+- pitting_potential: ~0.43 V (Std. H2 Scale) (Reproducibility ± 10-15mV) [FIG. 2]
+- electrolyte_temperature: 25°C [SHORT COMMUNICATION]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50mV [SHORT COMMUNICATION]
+- holding_duration: 5min per step; 12-15h at steady state single potential [SHORT COMMUNICATION]
+- reference_electrode: Std. H2 Scale [FIG. 2]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaBr [SHORT COMMUNICATION]
+- electrolyte_molar_concentrations: 0.1N [SHORT COMMUNICATION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: N2-saturated [SHORT COMMUNICATION]
+- purge_gas_type: N2 [SHORT COMMUNICATION]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [SHORT COMMUNICATION]
+- electrochemical_mode: Stepwise potentiostatic polarization followed by long-time single potential holds [SHORT COMMUNICATION]
+- solution_chemistry_summary: 0.1N NaBr [SHORT COMMUNICATION]
+- operating_parameters_summary: Electrode totally immersed. First polarized in the least noble passive region for 15min, then the potential was moved in the noble direction 50mV every 5min until the pitting potential was approximated. This was followed by runs of 12-15h at a single potential to establish the steady state value. The final value was the least noble potential where current did not continuously increase and no pits were observed. [SHORT COMMUNICATION]
+- overarching_environmental_conditions: 0°C, N2-saturated [SHORT COMMUNICATION]
+- pitting_potential: ~0.55 V (Std. H2 Scale) (Reproducibility ± 10-15mV) [FIG. 2]
+- electrolyte_temperature: 0°C [SHORT COMMUNICATION]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50mV [SHORT COMMUNICATION]
+- holding_duration: 5min per step; 12-15h at steady state single potential [SHORT COMMUNICATION]
+- reference_electrode: Std. H2 Scale [FIG. 2]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaBr [SHORT COMMUNICATION]
+- electrolyte_molar_concentrations: 0.1N [SHORT COMMUNICATION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: N2-saturated [SHORT COMMUNICATION]
+- purge_gas_type: N2 [SHORT COMMUNICATION]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: 18-8 stainless steel variety with Re [SHORT COMMUNICATION]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [SHORT COMMUNICATION]
+- elemental_weight_percentages: 17.8% Cr, 10.0% Ni, 1.84% Re, balance Fe [TABLE 1]
+- elemental_atomic_percentages: 0.55 at.% Re [SHORT COMMUNICATION]
+- spatial_chemical_homogeneity: Homogenized at 1050°C for 17h [SHORT COMMUNICATION]
+- trace_impurities: Precursors included decarburized electrolytic Fe, electrolytic Cr, and carbonyl Ni. Re source contained 15ppm Fe and less than 1ppm of any other detectable impurity. [SHORT COMMUNICATION]
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Mostly austenitic as quenched, being only slightly magnetic [SHORT COMMUNICATION]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [SHORT COMMUNICATION]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy No. 3 [TABLE 1]
+- fabrication_steps: Prepared by vacuum melting in dense alumina crucibles, cast in a purified argon atmosphere by drawing into 7mm dia. Vycor tubes, and quenched in water. Swaged to 0.4cm dia. rods. [SHORT COMMUNICATION]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Homogenized at 1050°C for 17h; annealed at 1050°C. [SHORT COMMUNICATION]
+- cooling_methods: Quenching in water after casting and after annealing. [SHORT COMMUNICATION]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded to 3/0 emery paper. [SHORT COMMUNICATION]
+- chemical_surface_preparation: Pickled in 15% HNO3, 2% HF at 80°C. [SHORT COMMUNICATION]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Electrodes measured about 2cm x 0.4cm dia. Mounted using a Teflon gasket to ensure exposure only of the alloy to the electrolyte. [SHORT COMMUNICATION]
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [SHORT COMMUNICATION]
+- electrochemical_mode: Stepwise potentiostatic polarization followed by long-time single potential holds [SHORT COMMUNICATION]
+- solution_chemistry_summary: 0.1N NaCl [SHORT COMMUNICATION]
+- operating_parameters_summary: Electrode totally immersed. First polarized in the least noble passive region for 15min, then the potential was moved in the noble direction 50mV every 5min until the pitting potential was approximated. This was followed by runs of 12-15h at a single potential to establish the steady state value. The final value was the least noble potential where current did not continuously increase and no pits were observed. [SHORT COMMUNICATION]
+- overarching_environmental_conditions: 25°C, N2-saturated [SHORT COMMUNICATION]
+- pitting_potential: ~0.58 V (Std. H2 Scale) (Reproducibility ± 10-15mV) [FIG. 1]
+- electrolyte_temperature: 25°C [SHORT COMMUNICATION]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50mV [SHORT COMMUNICATION]
+- holding_duration: 5min per step; 12-15h at steady state single potential [SHORT COMMUNICATION]
+- reference_electrode: Std. H2 Scale [FIG. 1]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [SHORT COMMUNICATION]
+- electrolyte_molar_concentrations: 0.1N [SHORT COMMUNICATION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: N2-saturated [SHORT COMMUNICATION]
+- purge_gas_type: N2 [SHORT COMMUNICATION]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [SHORT COMMUNICATION]
+- electrochemical_mode: Stepwise potentiostatic polarization followed by long-time single potential holds [SHORT COMMUNICATION]
+- solution_chemistry_summary: 0.1N NaCl [SHORT COMMUNICATION]
+- operating_parameters_summary: Electrode totally immersed. First polarized in the least noble passive region for 15min, then the potential was moved in the noble direction 50mV every 5min until the pitting potential was approximated. This was followed by runs of 12-15h at a single potential to establish the steady state value. The final value was the least noble potential where current did not continuously increase and no pits were observed. [SHORT COMMUNICATION]
+- overarching_environmental_conditions: 0°C, N2-saturated [SHORT COMMUNICATION]
+- pitting_potential: ~0.645 V (Std. H2 Scale) (Derived from 75mV decrease relative to unalloyed at 0°C; Reproducibility ± 10-15mV) [SHORT COMMUNICATION]
+- electrolyte_temperature: 0°C [SHORT COMMUNICATION]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50mV [SHORT COMMUNICATION]
+- holding_duration: 5min per step; 12-15h at steady state single potential [SHORT COMMUNICATION]
+- reference_electrode: Std. H2 Scale [FIG. 1]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [SHORT COMMUNICATION]
+- electrolyte_molar_concentrations: 0.1N [SHORT COMMUNICATION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: N2-saturated [SHORT COMMUNICATION]
+- purge_gas_type: N2 [SHORT COMMUNICATION]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [SHORT COMMUNICATION]
+- electrochemical_mode: Stepwise potentiostatic polarization followed by long-time single potential holds [SHORT COMMUNICATION]
+- solution_chemistry_summary: 0.1N NaBr [SHORT COMMUNICATION]
+- operating_parameters_summary: Electrode totally immersed. First polarized in the least noble passive region for 15min, then the potential was moved in the noble direction 50mV every 5min until the pitting potential was approximated. This was followed by runs of 12-15h at a single potential to establish the steady state value. The final value was the least noble potential where current did not continuously increase and no pits were observed. [SHORT COMMUNICATION]
+- overarching_environmental_conditions: 25°C, N2-saturated [SHORT COMMUNICATION]
+- pitting_potential: ~0.59 V (Std. H2 Scale) (Reproducibility ± 10-15mV) [FIG. 2]
+- electrolyte_temperature: 25°C [SHORT COMMUNICATION]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50mV [SHORT COMMUNICATION]
+- holding_duration: 5min per step; 12-15h at steady state single potential [SHORT COMMUNICATION]
+- reference_electrode: Std. H2 Scale [FIG. 2]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaBr [SHORT COMMUNICATION]
+- electrolyte_molar_concentrations: 0.1N [SHORT COMMUNICATION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: N2-saturated [SHORT COMMUNICATION]
+- purge_gas_type: N2 [SHORT COMMUNICATION]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [SHORT COMMUNICATION]
+- electrochemical_mode: Stepwise potentiostatic polarization followed by long-time single potential holds [SHORT COMMUNICATION]
+- solution_chemistry_summary: 0.1N NaBr [SHORT COMMUNICATION]
+- operating_parameters_summary: Electrode totally immersed. First polarized in the least noble passive region for 15min, then the potential was moved in the noble direction 50mV every 5min until the pitting potential was approximated. This was followed by runs of 12-15h at a single potential to establish the steady state value. The final value was the least noble potential where current did not continuously increase and no pits were observed. [SHORT COMMUNICATION]
+- overarching_environmental_conditions: 0°C, N2-saturated [SHORT COMMUNICATION]
+- pitting_potential: ~0.51 V (Std. H2 Scale) (Derived from 30mV shift in active direction relative to unalloyed at 0°C; Reproducibility ± 10-15mV) [SHORT COMMUNICATION]
+- electrolyte_temperature: 0°C [SHORT COMMUNICATION]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50mV [SHORT COMMUNICATION]
+- holding_duration: 5min per step; 12-15h at steady state single potential [SHORT COMMUNICATION]
+- reference_electrode: Std. H2 Scale [FIG. 2]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaBr [SHORT COMMUNICATION]
+- electrolyte_molar_concentrations: 0.1N [SHORT COMMUNICATION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: N2-saturated [SHORT COMMUNICATION]
+- purge_gas_type: N2 [SHORT COMMUNICATION]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

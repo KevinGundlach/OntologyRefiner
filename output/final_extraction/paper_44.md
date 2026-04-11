@@ -1,0 +1,893 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ni-Cr-Mo alloys [3.1 INTRODUCTION]
+- elemental_weight_percentages: 59.14 wt% Ni, 19.94 wt% Cr, 20.93 wt% Mo [TABLES]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Solid solution alloys [3.2 EXPERIMENTAL PROCEDURES]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = 89.01 [TABLES]
+- overall_microstructure: Homogeneous defect-free ingots [3.2 EXPERIMENTAL PROCEDURES]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 59.14Ni-19.94Cr-20.93Mo [TABLES]
+- fabrication_steps: Nickel (99.99%), chromium (99.99%), and molybdenum (99.95%) pieces were weighed according to pre-selected targeted compositions and then melted together using vacuum arc melting. Re-melting procedures were performed as necessary to achieve homogeneous defect-free ingots. [3.2 EXPERIMENTAL PROCEDURES]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Two-stage homogenization heat treatment was carried out at 1204°C for 24 hours and 1260°C for 42 hours [3.2 EXPERIMENTAL PROCEDURES]
+- cooling_methods: Water-quenching for fast cooling [3.2 EXPERIMENTAL PROCEDURES]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground and polished with surface finish of 1 micron diamond paste prior to polarization [3.2 EXPERIMENTAL PROCEDURES]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 1 micron [3.2 EXPERIMENTAL PROCEDURES]
+- exposed_surface_area: 0.004 to 0.05 cm^2 [3.2 EXPERIMENTAL PROCEDURES]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 45°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 60°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 75°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 90°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ni-Cr-Mo alloys [3.1 INTRODUCTION]
+- elemental_weight_percentages: 55.75 wt% Ni, 25.50 wt% Cr, 18.76 wt% Mo [TABLES]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Solid solution alloys [3.2 EXPERIMENTAL PROCEDURES]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = 87.41 [TABLES]
+- overall_microstructure: Homogeneous defect-free ingots [3.2 EXPERIMENTAL PROCEDURES]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 55.75Ni-25.50Cr-18.76Mo [TABLES]
+- fabrication_steps: Nickel (99.99%), chromium (99.99%), and molybdenum (99.95%) pieces were weighed according to pre-selected targeted compositions and then melted together using vacuum arc melting. Re-melting procedures were performed as necessary to achieve homogeneous defect-free ingots. [3.2 EXPERIMENTAL PROCEDURES]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Two-stage homogenization heat treatment was carried out at 1204°C for 24 hours and 1260°C for 42 hours [3.2 EXPERIMENTAL PROCEDURES]
+- cooling_methods: Water-quenching for fast cooling [3.2 EXPERIMENTAL PROCEDURES]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground and polished with surface finish of 1 micron diamond paste prior to polarization [3.2 EXPERIMENTAL PROCEDURES]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 1 micron [3.2 EXPERIMENTAL PROCEDURES]
+- exposed_surface_area: 0.004 to 0.05 cm^2 [3.2 EXPERIMENTAL PROCEDURES]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 45°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 60°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 75°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 90°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ni-Cr-Mo alloys [3.1 INTRODUCTION]
+- elemental_weight_percentages: 54.40 wt% Ni, 20.25 wt% Cr, 25.34 wt% Mo [TABLES]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Solid solution alloys [3.2 EXPERIMENTAL PROCEDURES]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = 103.87 [TABLES]
+- overall_microstructure: Homogeneous defect-free ingots [3.2 EXPERIMENTAL PROCEDURES]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 54.40Ni-20.25Cr-25.34Mo [TABLES]
+- fabrication_steps: Nickel (99.99%), chromium (99.99%), and molybdenum (99.95%) pieces were weighed according to pre-selected targeted compositions and then melted together using vacuum arc melting. Re-melting procedures were performed as necessary to achieve homogeneous defect-free ingots. [3.2 EXPERIMENTAL PROCEDURES]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Two-stage homogenization heat treatment was carried out at 1204°C for 24 hours and 1260°C for 42 hours [3.2 EXPERIMENTAL PROCEDURES]
+- cooling_methods: Water-quenching for fast cooling [3.2 EXPERIMENTAL PROCEDURES]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground and polished with surface finish of 1 micron diamond paste prior to polarization [3.2 EXPERIMENTAL PROCEDURES]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 1 micron [3.2 EXPERIMENTAL PROCEDURES]
+- exposed_surface_area: 0.004 to 0.05 cm^2 [3.2 EXPERIMENTAL PROCEDURES]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 45°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 60°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 75°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 90°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ni-Cr-Mo alloys [3.1 INTRODUCTION]
+- elemental_weight_percentages: 56.36 wt% Ni, 22.03 wt% Cr, 21.61 wt% Mo [TABLES]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Solid solution alloys [3.2 EXPERIMENTAL PROCEDURES]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = 93.34 [TABLES]
+- overall_microstructure: Homogeneous defect-free ingots [3.2 EXPERIMENTAL PROCEDURES]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 56.36Ni-22.03Cr-21.61Mo [TABLES]
+- fabrication_steps: Nickel (99.99%), chromium (99.99%), and molybdenum (99.95%) pieces were weighed according to pre-selected targeted compositions and then melted together using vacuum arc melting. Re-melting procedures were performed as necessary to achieve homogeneous defect-free ingots. [3.2 EXPERIMENTAL PROCEDURES]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Two-stage homogenization heat treatment was carried out at 1204°C for 24 hours and 1260°C for 42 hours [3.2 EXPERIMENTAL PROCEDURES]
+- cooling_methods: Water-quenching for fast cooling [3.2 EXPERIMENTAL PROCEDURES]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground and polished with surface finish of 1 micron diamond paste prior to polarization [3.2 EXPERIMENTAL PROCEDURES]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 1 micron [3.2 EXPERIMENTAL PROCEDURES]
+- exposed_surface_area: 0.004 to 0.05 cm^2 [3.2 EXPERIMENTAL PROCEDURES]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 45°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 60°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 75°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 90°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ni-Cr-Mo alloys [3.1 INTRODUCTION]
+- elemental_weight_percentages: 59.12 wt% Ni, 28.97 wt% Cr, 11.91 wt% Mo [TABLES]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Solid solution alloys [3.2 EXPERIMENTAL PROCEDURES]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = 68.27 [TABLES]
+- overall_microstructure: Homogeneous defect-free ingots [3.2 EXPERIMENTAL PROCEDURES]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 59.12Ni-28.97Cr-11.91Mo [TABLES]
+- fabrication_steps: Nickel (99.99%), chromium (99.99%), and molybdenum (99.95%) pieces were weighed according to pre-selected targeted compositions and then melted together using vacuum arc melting. Re-melting procedures were performed as necessary to achieve homogeneous defect-free ingots. [3.2 EXPERIMENTAL PROCEDURES]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Two-stage homogenization heat treatment was carried out at 1204°C for 24 hours and 1260°C for 42 hours [3.2 EXPERIMENTAL PROCEDURES]
+- cooling_methods: Water-quenching for fast cooling [3.2 EXPERIMENTAL PROCEDURES]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground and polished with surface finish of 1 micron diamond paste prior to polarization [3.2 EXPERIMENTAL PROCEDURES]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 1 micron [3.2 EXPERIMENTAL PROCEDURES]
+- exposed_surface_area: 0.004 to 0.05 cm^2 [3.2 EXPERIMENTAL PROCEDURES]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 45°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 60°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 75°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 90°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ni-Cr-Mo alloys [3.1 INTRODUCTION]
+- elemental_weight_percentages: 56.91 wt% Ni, 30.31 wt% Cr, 12.79 wt% Mo [TABLES]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Solid solution alloys [3.2 EXPERIMENTAL PROCEDURES]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = 72.52 [TABLES]
+- overall_microstructure: Homogeneous defect-free ingots [3.2 EXPERIMENTAL PROCEDURES]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 56.91Ni-30.31Cr-12.79Mo [TABLES]
+- fabrication_steps: Nickel (99.99%), chromium (99.99%), and molybdenum (99.95%) pieces were weighed according to pre-selected targeted compositions and then melted together using vacuum arc melting. Re-melting procedures were performed as necessary to achieve homogeneous defect-free ingots. [3.2 EXPERIMENTAL PROCEDURES]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Two-stage homogenization heat treatment was carried out at 1204°C for 24 hours and 1260°C for 42 hours [3.2 EXPERIMENTAL PROCEDURES]
+- cooling_methods: Water-quenching for fast cooling [3.2 EXPERIMENTAL PROCEDURES]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground and polished with surface finish of 1 micron diamond paste prior to polarization [3.2 EXPERIMENTAL PROCEDURES]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 1 micron [3.2 EXPERIMENTAL PROCEDURES]
+- exposed_surface_area: 0.004 to 0.05 cm^2 [3.2 EXPERIMENTAL PROCEDURES]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 45°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 60°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 75°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [3.2 EXPERIMENTAL PROCEDURES]
+- electrochemical_mode: Potentiodynamic [3.2 EXPERIMENTAL PROCEDURES]
+- solution_chemistry_summary: 0.5 M NaCl, neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- operating_parameters_summary: Forward and reverse scan rate of 2 mV/s using a 3-electrode setup with saturated calomel electrode (SCE) as the reference electrode, and graphite rods as counter electrodes [3.2 EXPERIMENTAL PROCEDURES]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 600 mV [3.3.4 Pitting Susceptibility in Neutral Chloride as a Function of Temperature]
+- electrolyte_temperature: 90°C [3.2 EXPERIMENTAL PROCEDURES]
+- continuous_sweep_rate: 2 mV/s [3.2 EXPERIMENTAL PROCEDURES]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_solvents: Aqueous [3.1 INTRODUCTION]
+- electrolyte_primary_salts: NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_molar_concentrations: 0.5 M NaCl [3.2 EXPERIMENTAL PROCEDURES]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Graphite [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_geometry: Rods [3.2 EXPERIMENTAL PROCEDURES]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral pH [3.2 EXPERIMENTAL PROCEDURES]
+- passive_current_density: Not specified in text.

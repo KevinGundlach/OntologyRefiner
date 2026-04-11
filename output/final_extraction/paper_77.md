@@ -1,0 +1,193 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic Iron-Chromium Alloys [INTRODUCTION]
+- elemental_weight_percentages: Fe-13Cr: Cr 12.8 wt%, Mo <0.001 wt%, Si 0.033 wt%, Mn <0.001 wt%, C 0.0032 wt%, S 0.0040 wt%, O 0.0407 wt%; Fe-24Cr: Cr 24.3 wt%, Mo 0.064 wt%, Si 0.043 wt%, Mn 0.002 wt%, C 0.0033 wt%, S 0.0060 wt%, O 0.1099 wt%; Fe-12Cr-11Mo: Cr 12.2 wt%, Mo 11.0 wt%, W 0.02 wt%, C 0.0060 wt%, S 0.0090 wt%, O 0.0540 wt%; Fe-24Cr-11Mo: Cr 24.3 wt%, Mo 10.9 wt%, W 0.015 wt%, Mn 0.12 wt%, C 0.0090 wt%, S 0.0050 wt%, O 0.0450 wt%; Fe-14Cr-18W: Cr 13.9 wt%, W 18.5 wt%, Si 0.031 wt%, Mn <0.0020 wt%, C <0.0020 wt%, S <0.0250 wt%; Fe-21Cr-13W: Cr 21.0 wt%, Mo 0.07 wt%, W 13.1 wt%, Si 0.05 wt%, Mn 0.06 wt%, C 0.0070 wt%; Fe-13Cr-3Si: Cr 13.3 wt%, Si 3.0 wt%, Mn 0.10 wt%, C 0.0100 wt%, S 0.0060 wt%, O <0.0020 wt%; Fe-27Cr-2.5Si: Cr 26.8 wt%, Si 2.4 wt%, Mn 0.08 wt%, C 0.0050 wt%, S 0.0080 wt%, O 0.0190 wt%; Fe-14Cr-6V: Cr 13.9 wt%, Mo 0.03 wt%, V 6.4 wt%, Mn 0.02 wt%, C 0.0040 wt%, S 0.0060 wt%, O 0.0360 wt%; Fe-26Cr-6V: Cr 26.3 wt%, Mo 0.04 wt%, V 5.8 wt%, Mn 0.12 wt%, C 0.0070 wt%, S 0.0090 wt%, O 0.0550 wt% [Table 1]
+- elemental_atomic_percentages: Fe-13Cr: Cr 13.6 at%; Fe-24Cr: Cr 25.6 at%; Fe-12Cr-11Mo: Cr 13.6 at%, Mo 6.6 at%; Fe-24Cr-11Mo: Cr 26.8 at%, Mo 6.5 at%; Fe-14Cr-18W: Cr 16.9 at%, W 6.4 at%; Fe-21Cr-13W: Cr 24.4 at%, W 4.3 at%; Fe-13Cr-3Si: Cr 15.3 at%, Si 6.3 at%; Fe-27Cr-2.5Si: Cr 27.6 at%, Si 4.6 at%; Fe-14Cr-6V: Cr 14.7 at%, V 6.9 at%; Fe-26Cr-6V: Cr 27.6 at%, V 6.2 at% [Table 1]
+- spatial_chemical_homogeneity: The alloy homogeneity was checked by microprobe analysis and was found to be good. [EXPERIMENTAL METHOD]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Apparently single phase ferritic matrix. [EXPERIMENTAL METHOD]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Ferritic [EXPERIMENTAL METHOD]
+- inclusion_composition: Oxide inclusions. [EXPERIMENTAL METHOD]
+- inclusion_size: Not specified in text.
+- inclusion_density: Presence of a few oxide inclusions. [EXPERIMENTAL METHOD]
+
+## Conditioned Material
+- material_identification: Fe-13Cr [Table 1]
+- fabrication_steps: Furnished by Climax Molybdenum. They were subsequently hot forged. [EXPERIMENTAL METHOD]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Grinding with emery paper and polishing with alumina powder in water to 1/4 μm finish. [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Rinsed and cathodically prepolarized in the working electrolyte at -700 mV(SHE) for 10 min. [EXPERIMENTAL METHOD]
+- final_surface_roughness: 1/4 μm finish. [EXPERIMENTAL METHOD]
+- exposed_surface_area: 0.1 cm^2 (diameter 0.357 cm). [EXPERIMENTAL METHOD]
+
+### Experiment
+- experimental_test_type: Polarization curves. [EXPERIMENTAL METHOD]
+- electrochemical_mode: Stepwise polarization (potential increased in discrete steps). [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 1 M HCl. [EXPERIMENTAL METHOD]
+- operating_parameters_summary: Rotating disk electrodes at 6000 rpm (in part at 600 rpm); potential was increased in steps of 20 mV 400 s^-1. [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: 25°C under a nitrogen atmosphere. [EXPERIMENTAL METHOD]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 25°C. [EXPERIMENTAL METHOD]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 20 mV. [EXPERIMENTAL METHOD]
+- holding_duration: 400 s^-1. [EXPERIMENTAL METHOD]
+- reference_electrode: Ag/AgCl reference electrode in saturated KCl. [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Water. [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: HCl. [EXPERIMENTAL METHOD]
+- electrolyte_molar_concentrations: 1 M HCl. [Abstract]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nitrogen atmosphere (purged/deaerated). [EXPERIMENTAL METHOD]
+- purge_gas_type: Nitrogen. [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Cathodically prepolarized in the working electrolyte at -700 mV(SHE). [EXPERIMENTAL METHOD]
+- ocp_resting_duration: 10 min. [EXPERIMENTAL METHOD]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Fe-24Cr [Table 1]
+- fabrication_steps: Furnished by Climax Molybdenum. They were subsequently hot forged. [EXPERIMENTAL METHOD]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Grinding with emery paper and polishing with alumina powder in water to 1/4 μm finish. [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Rinsed and cathodically prepolarized in the working electrolyte at -700 mV(SHE) for 10 min. [EXPERIMENTAL METHOD]
+- final_surface_roughness: 1/4 μm finish. [EXPERIMENTAL METHOD]
+- exposed_surface_area: 0.1 cm^2 (diameter 0.357 cm). [EXPERIMENTAL METHOD]
+
+### Experiment
+- experimental_test_type: Polarization curves. [EXPERIMENTAL METHOD]
+- electrochemical_mode: Stepwise polarization (potential increased in discrete steps). [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 1 M HCl. [EXPERIMENTAL METHOD]
+- operating_parameters_summary: Rotating disk electrodes at 6000 rpm (in part at 600 rpm); potential was increased in steps of 20 mV 400 s^-1. [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: 25°C under a nitrogen atmosphere. [EXPERIMENTAL METHOD]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 25°C. [EXPERIMENTAL METHOD]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 20 mV. [EXPERIMENTAL METHOD]
+- holding_duration: 400 s^-1. [EXPERIMENTAL METHOD]
+- reference_electrode: Ag/AgCl reference electrode in saturated KCl. [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Water. [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: HCl. [EXPERIMENTAL METHOD]
+- electrolyte_molar_concentrations: 1 M HCl. [Abstract]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nitrogen atmosphere (purged/deaerated). [EXPERIMENTAL METHOD]
+- purge_gas_type: Nitrogen. [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Cathodically prepolarized in the working electrolyte at -700 mV(SHE). [EXPERIMENTAL METHOD]
+- ocp_resting_duration: 10 min. [EXPERIMENTAL METHOD]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Fe-13Cr-X Alloys (Fe-12Cr-11Mo, Fe-14Cr-18W, Fe-13Cr-3Si, Fe-14Cr-6V) [Table 1]
+- fabrication_steps: Prepared in our laboratory by alloying to the original Fe-Cr alloys the elements Mo, W, V or Si using a vacuum induction furnace under an argon atmosphere. [EXPERIMENTAL METHOD]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Grinding with emery paper and polishing with alumina powder in water to 1/4 μm finish. [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Rinsed and cathodically prepolarized in the working electrolyte at -700 mV(SHE) for 10 min. [EXPERIMENTAL METHOD]
+- final_surface_roughness: 1/4 μm finish. [EXPERIMENTAL METHOD]
+- exposed_surface_area: 0.1 cm^2 (diameter 0.357 cm). [EXPERIMENTAL METHOD]
+
+### Experiment
+- experimental_test_type: Polarization curves. [EXPERIMENTAL METHOD]
+- electrochemical_mode: Stepwise polarization (potential increased in discrete steps). [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 1 M HCl. [EXPERIMENTAL METHOD]
+- operating_parameters_summary: Rotating disk electrodes at 6000 rpm (in part at 600 rpm); potential was increased in steps of 20 mV 400 s^-1. [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: 25°C under a nitrogen atmosphere. [EXPERIMENTAL METHOD]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 25°C. [EXPERIMENTAL METHOD]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 20 mV. [EXPERIMENTAL METHOD]
+- holding_duration: 400 s^-1. [EXPERIMENTAL METHOD]
+- reference_electrode: Ag/AgCl reference electrode in saturated KCl. [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Water. [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: HCl. [EXPERIMENTAL METHOD]
+- electrolyte_molar_concentrations: 1 M HCl. [Abstract]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nitrogen atmosphere (purged/deaerated). [EXPERIMENTAL METHOD]
+- purge_gas_type: Nitrogen. [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Cathodically prepolarized in the working electrolyte at -700 mV(SHE). [EXPERIMENTAL METHOD]
+- ocp_resting_duration: 10 min. [EXPERIMENTAL METHOD]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Fe-24Cr-X Alloys (Fe-24Cr-11Mo, Fe-21Cr-13W, Fe-27Cr-2.5Si, Fe-26Cr-6V) [Table 1]
+- fabrication_steps: Prepared in our laboratory by alloying to the original Fe-Cr alloys the elements Mo, W, V or Si using a vacuum induction furnace under an argon atmosphere. [EXPERIMENTAL METHOD]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Grinding with emery paper and polishing with alumina powder in water to 1/4 μm finish. [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Rinsed and cathodically prepolarized in the working electrolyte at -700 mV(SHE) for 10 min. [EXPERIMENTAL METHOD]
+- final_surface_roughness: 1/4 μm finish. [EXPERIMENTAL METHOD]
+- exposed_surface_area: 0.1 cm^2 (diameter 0.357 cm). [EXPERIMENTAL METHOD]
+
+### Experiment
+- experimental_test_type: Polarization curves. [EXPERIMENTAL METHOD]
+- electrochemical_mode: Stepwise polarization (potential increased in discrete steps). [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 1 M HCl. [EXPERIMENTAL METHOD]
+- operating_parameters_summary: Rotating disk electrodes at 6000 rpm (in part at 600 rpm); potential was increased in steps of 20 mV 400 s^-1. [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: 25°C under a nitrogen atmosphere. [EXPERIMENTAL METHOD]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 25°C. [EXPERIMENTAL METHOD]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 20 mV. [EXPERIMENTAL METHOD]
+- holding_duration: 400 s^-1. [EXPERIMENTAL METHOD]
+- reference_electrode: Ag/AgCl reference electrode in saturated KCl. [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Water. [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: HCl. [EXPERIMENTAL METHOD]
+- electrolyte_molar_concentrations: 1 M HCl. [Abstract]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nitrogen atmosphere (purged/deaerated). [EXPERIMENTAL METHOD]
+- purge_gas_type: Nitrogen. [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Cathodically prepolarized in the working electrolyte at -700 mV(SHE). [EXPERIMENTAL METHOD]
+- ocp_resting_duration: 10 min. [EXPERIMENTAL METHOD]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

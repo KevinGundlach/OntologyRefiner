@@ -1,0 +1,239 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Abstract]
+- elemental_weight_percentages: Fe Balance, Cr 19.86, Ni 19.98, Mo 5.99, N 0.011, C 0.006, Si 0.08, Mn 0.20, P 0.010, S 21 ppm, W 0.03 wt% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [Abstract]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Fe-Cr-Ni-Mo [Table 1]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1100 and 1250°C in order to homogenize the structure [EXPERIMENTAL METHOD]
+- cooling_methods: Quenching in water [EXPERIMENTAL METHOD]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Pre-treated by polishing on emery paper and finally on 1 μm diamond paste [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Samples, $\phi$ = 11 mm [EXPERIMENTAL METHOD]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [EXPERIMENTAL METHOD]
+- electrochemical_mode: Potentiodynamic [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 0.1 M HCl + 0.4 M NaCl [EXPERIMENTAL METHOD]
+- operating_parameters_summary: Sweep rate 1 mV s⁻¹, activated at -700 mV for 10 min [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: De-aerated, room temperature (22°C) [EXPERIMENTAL METHOD]
+- pitting_potential: Not specified in text. (Passive up to the transpassive potential) [DISCUSSION]
+- electrolyte_temperature: 22°C [EXPERIMENTAL METHOD]
+- continuous_sweep_rate: 1 mV s⁻¹ [EXPERIMENTAL METHOD]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: De-ionized water [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: HCl, NaCl [EXPERIMENTAL METHOD]
+- electrolyte_molar_concentrations: 0.1 M HCl, 0.4 M NaCl [EXPERIMENTAL METHOD]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: De-aerated [EXPERIMENTAL METHOD]
+- purge_gas_type: Argon (Ar) [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: pH ≈ 1 [DISCUSSION]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [EXPERIMENTAL METHOD]
+- electrochemical_mode: Potentiostatic [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 0.1 M HCl + 0.4 M NaCl [EXPERIMENTAL METHOD]
+- operating_parameters_summary: Stepping potential from the activation potential to -75, 500, and 800 mV (SCE) for 10 min and 2 h; activated at -700 mV for 10 min [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: De-aerated, room temperature (22°C) [EXPERIMENTAL METHOD]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 22°C [EXPERIMENTAL METHOD]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: 10 min and 2 h [EXPERIMENTAL METHOD]
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: De-ionized water [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: HCl, NaCl [EXPERIMENTAL METHOD]
+- electrolyte_molar_concentrations: 0.1 M HCl, 0.4 M NaCl [EXPERIMENTAL METHOD]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: De-aerated [EXPERIMENTAL METHOD]
+- purge_gas_type: Argon (Ar) [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: pH ≈ 1 [DISCUSSION]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [EXPERIMENTAL METHOD]
+- electrochemical_mode: Potentiostatic [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 0.1 M HCl + 0.4 M NaCl [EXPERIMENTAL METHOD]
+- operating_parameters_summary: Stepping potential from the activation potential to -75, 500, and 800 mV (SCE) for 10 min and 2 h; activated at -700 mV for 10 min [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: De-aerated, 65°C [EXPERIMENTAL METHOD]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 65°C [EXPERIMENTAL METHOD]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: 10 min and 2 h [EXPERIMENTAL METHOD]
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: De-ionized water [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: HCl, NaCl [EXPERIMENTAL METHOD]
+- electrolyte_molar_concentrations: 0.1 M HCl, 0.4 M NaCl [EXPERIMENTAL METHOD]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: De-aerated [EXPERIMENTAL METHOD]
+- purge_gas_type: Argon (Ar) [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: pH ≈ 1 [DISCUSSION]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Abstract]
+- elemental_weight_percentages: Fe Balance, Cr 19.74, Ni 19.96, Mo 5.96, N 0.19, C 0.005, Si 0.09, Mn 0.14, P 0.009, S 22 ppm, W 0.03 wt% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [Abstract]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Fe-Cr-Ni-Mo-N [Table 1]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1100 and 1250°C in order to homogenize the structure [EXPERIMENTAL METHOD]
+- cooling_methods: Quenching in water [EXPERIMENTAL METHOD]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Pre-treated by polishing on emery paper and finally on 1 μm diamond paste [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Samples, $\phi$ = 11 mm [EXPERIMENTAL METHOD]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [EXPERIMENTAL METHOD]
+- electrochemical_mode: Potentiodynamic [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 0.1 M HCl + 0.4 M NaCl [EXPERIMENTAL METHOD]
+- operating_parameters_summary: Sweep rate 1 mV s⁻¹, activated at -700 mV for 10 min [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: De-aerated, room temperature (22°C) [EXPERIMENTAL METHOD]
+- pitting_potential: Not specified in text. (Passive up to the transpassive potential) [DISCUSSION]
+- electrolyte_temperature: 22°C [EXPERIMENTAL METHOD]
+- continuous_sweep_rate: 1 mV s⁻¹ [EXPERIMENTAL METHOD]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: De-ionized water [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: HCl, NaCl [EXPERIMENTAL METHOD]
+- electrolyte_molar_concentrations: 0.1 M HCl, 0.4 M NaCl [EXPERIMENTAL METHOD]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: De-aerated [EXPERIMENTAL METHOD]
+- purge_gas_type: Argon (Ar) [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: pH ≈ 1 [DISCUSSION]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [EXPERIMENTAL METHOD]
+- electrochemical_mode: Potentiostatic [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 0.1 M HCl + 0.4 M NaCl [EXPERIMENTAL METHOD]
+- operating_parameters_summary: Stepping potential from the activation potential to -75, 500, and 800 mV (SCE) for 10 min and 2 h; activated at -700 mV for 10 min [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: De-aerated, room temperature (22°C) [EXPERIMENTAL METHOD]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 22°C [EXPERIMENTAL METHOD]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: 10 min and 2 h [EXPERIMENTAL METHOD]
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: De-ionized water [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: HCl, NaCl [EXPERIMENTAL METHOD]
+- electrolyte_molar_concentrations: 0.1 M HCl, 0.4 M NaCl [EXPERIMENTAL METHOD]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: De-aerated [EXPERIMENTAL METHOD]
+- purge_gas_type: Argon (Ar) [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: pH ≈ 1 [DISCUSSION]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [EXPERIMENTAL METHOD]
+- electrochemical_mode: Potentiostatic [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 0.1 M HCl + 0.4 M NaCl [EXPERIMENTAL METHOD]
+- operating_parameters_summary: Stepping potential from the activation potential to -75, 500, and 800 mV (SCE) for 10 min and 2 h; activated at -700 mV for 10 min [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: De-aerated, 65°C [EXPERIMENTAL METHOD]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 65°C [EXPERIMENTAL METHOD]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: 10 min and 2 h [EXPERIMENTAL METHOD]
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: De-ionized water [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: HCl, NaCl [EXPERIMENTAL METHOD]
+- electrolyte_molar_concentrations: 0.1 M HCl, 0.4 M NaCl [EXPERIMENTAL METHOD]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: De-aerated [EXPERIMENTAL METHOD]
+- purge_gas_type: Argon (Ar) [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: pH ≈ 1 [DISCUSSION]
+- passive_current_density: Not specified in text.

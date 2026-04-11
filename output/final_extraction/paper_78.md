@@ -1,0 +1,185 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenite-ferrite duplex stainless steels (DSS) [INTRODUCTION]
+- elemental_weight_percentages: 25.26% Cr, 6.39% Ni, 2.72% Mo, 0.232% N, Bal. Fe [TABLE 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PRE = 42 [EXPERIMENTAL]
+- overall_microstructure: Austenite-ferrite duplex [INTRODUCTION]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite, ferrite [INTRODUCTION]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 3% Mo [EXPERIMENTAL]
+- fabrication_steps: Melted in a laboratory-scale vacuum induction furnace and cast in 25-kg ingots. Prepared in the form of cold-rolled sheets 3 mm thick and hot-rolled plates 12 mm thick. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution-annealed for 2 h at 1,050°C [EXPERIMENTAL]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Anodic polarization tests [EXPERIMENTAL]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL]
+- solution_chemistry_summary: Deaerated 4 M sodium chloride (NaCl) solution at 80°C [EXPERIMENTAL]
+- operating_parameters_summary: Performed in a 1-L multineck flask as specified in ASTM G 5 with a platinum counter electrode and a saturated calomel electrode (SCE) positioned in a salt bridge with a high-silica tip [EXPERIMENTAL]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 609 mVSCE [RESULTS AND DISCUSSION]
+- electrolyte_temperature: 80°C [EXPERIMENTAL]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 4 M [EXPERIMENTAL]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: ~ -630 mVSCE [RESULTS AND DISCUSSION]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenite-ferrite duplex stainless steels (DSS) [INTRODUCTION]
+- elemental_weight_percentages: 25.29% Cr, 6.89% Ni, 1.55% Mo, 2.86% W, 0.260% N, Bal. Fe [TABLE 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PRE = 42 [EXPERIMENTAL]
+- overall_microstructure: Austenite-ferrite duplex [INTRODUCTION]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite, ferrite [INTRODUCTION]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 3% W-1.5% Mo [EXPERIMENTAL]
+- fabrication_steps: Melted in a laboratory-scale vacuum induction furnace and cast in 25-kg ingots. Prepared in the form of cold-rolled sheets 3 mm thick and hot-rolled plates 12 mm thick. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution-annealed for 2 h at 1,050°C [EXPERIMENTAL]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Anodic polarization tests [EXPERIMENTAL]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL]
+- solution_chemistry_summary: Deaerated 4 M sodium chloride (NaCl) solution at 80°C [EXPERIMENTAL]
+- operating_parameters_summary: Performed in a 1-L multineck flask as specified in ASTM G 5 with a platinum counter electrode and a saturated calomel electrode (SCE) positioned in a salt bridge with a high-silica tip [EXPERIMENTAL]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 758 mVSCE [RESULTS AND DISCUSSION]
+- electrolyte_temperature: 80°C [EXPERIMENTAL]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 4 M [EXPERIMENTAL]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: ~ -630 mVSCE [RESULTS AND DISCUSSION]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenite-ferrite duplex stainless steels (DSS) [INTRODUCTION]
+- elemental_weight_percentages: 25.70% Cr, 7.00% Ni, 1.94% Mo, 2.05% W, 0.251% N, Bal. Fe [TABLE 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PRE = 42 [EXPERIMENTAL]
+- overall_microstructure: Austenite-ferrite duplex [INTRODUCTION]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite, ferrite [INTRODUCTION]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 2% W-2% Mo [EXPERIMENTAL]
+- fabrication_steps: Melted in a laboratory-scale vacuum induction furnace and cast in 25-kg ingots. Prepared in the form of cold-rolled sheets 3 mm thick and hot-rolled plates 12 mm thick. [EXPERIMENTAL]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution-annealed for 2 h at 1,050°C [EXPERIMENTAL]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Anodic polarization tests [EXPERIMENTAL]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL]
+- solution_chemistry_summary: Deaerated 4 M sodium chloride (NaCl) solution at 80°C [EXPERIMENTAL]
+- operating_parameters_summary: Performed in a 1-L multineck flask as specified in ASTM G 5 with a platinum counter electrode and a saturated calomel electrode (SCE) positioned in a salt bridge with a high-silica tip [EXPERIMENTAL]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 515 mVSCE [RESULTS AND DISCUSSION]
+- electrolyte_temperature: 80°C [EXPERIMENTAL]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride (NaCl) [EXPERIMENTAL]
+- electrolyte_molar_concentrations: 4 M [EXPERIMENTAL]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [EXPERIMENTAL]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: ~ -630 mVSCE [RESULTS AND DISCUSSION]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

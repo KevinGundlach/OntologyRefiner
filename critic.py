@@ -78,33 +78,3 @@ class CriticAgent:
             f.write(text)
 
         return json.loads(text)
-
-
-# Notes from Gemini regarding implementation.
-# It highly recommends repeating parts of the system prompt after the paper text.
-# May incorporate that into llm_helper if I get poor performance.
-
-# template_string = "..." # Your current variable definitions
-# extraction_string = "..." # The markdown output from the Extractor
-
-# response = client.chat.completions.create(
-#     model="qwen3.5-122b-a10b",
-#     messages=[
-#         {"role": "system", "content": "You are a critical Materials Science Data Architect... [Insert full System Prompt here]"},
-#         {"role": "user", "content": f"""<source_research_paper>
-# {paper_markdown}
-# </source_research_paper>
-
-# <current_extraction_template>
-# {template_string}
-# </current_extraction_template>
-
-# <extracted_data>
-# {extraction_string}
-# </extracted_data>
-
-# Analyze the <extracted_data> against the <source_research_paper>. Output your critique STRICTLY as a JSON object matching the required schema. Do not include any conversational text outside the JSON."""}
-#     ],
-#     temperature=0.2, # Slightly higher than the extractor to allow for analytical reasoning
-#     response_format={"type": "json_object"} # If your vLLM version supports JSON mode, use this!
-# )    

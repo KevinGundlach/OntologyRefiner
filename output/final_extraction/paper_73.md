@@ -1,0 +1,243 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Abstract]
+- elemental_weight_percentages: 0.006 Wt% C, 0.43 Wt% Mn, 0.33 Wt% Si, 14.40 Wt% Ni, 16.30 Wt% Cr, 0 Wt% W [TABLE 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 16-14 [TABLE 1]
+- fabrication_steps: Prepared in a vacuum furnace; specimens were cut from rolled sheet of these alloys, having a thickness of 5 mm and a diameter of 12 mm [Experimental Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution treatment was performed by heating in nitrogen at 1150 C for 30 minutes [Experimental Procedures]
+- cooling_methods: Water quenching [Experimental Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically polished with emery paper under water up to grade 1000 [Experimental Procedures]
+- chemical_surface_preparation: Degreased in absolute ethyl alcohol, washed in deionized water, and dried by warm air blowing [Experimental Procedures]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental Procedures]
+- electrochemical_mode: Anodic polarization [Abstract, Electrochemical Behavior of Pure W]
+- solution_chemistry_summary: 0.1 M NaCl containing 0 M Na2WO4 [Inhibitive Properties of Tungstate Ions]
+- operating_parameters_summary: Potentiodynamic scan at a rate of 20 mV/min at 60 C [Experimental Procedures, Inhibitive Properties of Tungstate Ions]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 80 mV vs SCE [Inhibitive Properties of Tungstate Ions]
+- electrolyte_temperature: 60 C [Inhibitive Properties of Tungstate Ions]
+- continuous_sweep_rate: 20 mV/min [Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [Inhibitive Properties of Tungstate Ions]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Inhibitive Properties of Tungstate Ions]
+- electrolyte_molar_concentrations: 0.1 M NaCl [Inhibitive Properties of Tungstate Ions]
+- electrolyte_soluble_additives: None [Inhibitive Properties of Tungstate Ions]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -360 mV vs SCE [Inhibitive Properties of Tungstate Ions]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral [Abstract, Inhibitive Properties of Tungstate Ions]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental Procedures]
+- electrochemical_mode: Anodic polarization [Abstract, Electrochemical Behavior of Pure W]
+- solution_chemistry_summary: 0.1 M NaCl containing 0.025 M Na2WO4 [Inhibitive Properties of Tungstate Ions]
+- operating_parameters_summary: Potentiodynamic scan at a rate of 20 mV/min at 60 C [Experimental Procedures, Inhibitive Properties of Tungstate Ions]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 150 mV vs SCE [Inhibitive Properties of Tungstate Ions]
+- electrolyte_temperature: 60 C [Inhibitive Properties of Tungstate Ions]
+- continuous_sweep_rate: 20 mV/min [Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [Inhibitive Properties of Tungstate Ions]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Inhibitive Properties of Tungstate Ions]
+- electrolyte_molar_concentrations: 0.1 M NaCl [Inhibitive Properties of Tungstate Ions]
+- electrolyte_soluble_additives: 0.025 M Na2WO4 [Inhibitive Properties of Tungstate Ions]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral [Abstract, Inhibitive Properties of Tungstate Ions]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental Procedures]
+- electrochemical_mode: Anodic polarization [Abstract, Electrochemical Behavior of Pure W]
+- solution_chemistry_summary: 0.1 M NaCl containing 0.1 M Na2WO4 [Inhibitive Properties of Tungstate Ions]
+- operating_parameters_summary: Potentiodynamic scan at a rate of 20 mV/min at 60 C [Experimental Procedures, Inhibitive Properties of Tungstate Ions]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 220 mV vs SCE [Inhibitive Properties of Tungstate Ions]
+- electrolyte_temperature: 60 C [Inhibitive Properties of Tungstate Ions]
+- continuous_sweep_rate: 20 mV/min [Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [Inhibitive Properties of Tungstate Ions]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Inhibitive Properties of Tungstate Ions]
+- electrolyte_molar_concentrations: 0.1 M NaCl [Inhibitive Properties of Tungstate Ions]
+- electrolyte_soluble_additives: 0.1 M Na2WO4 [Inhibitive Properties of Tungstate Ions]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -230 mV vs SCE [Inhibitive Properties of Tungstate Ions]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral [Abstract, Inhibitive Properties of Tungstate Ions]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Abstract]
+- elemental_weight_percentages: 0.005 Wt% C, 0.33 Wt% Mn, 0.40 Wt% Si, 14.00 Wt% Ni, 16.30 Wt% Cr, 2.49 Wt% W [TABLE 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 16-14-2 [TABLE 1]
+- fabrication_steps: Prepared in a vacuum furnace; specimens were cut from rolled sheet of these alloys, having a thickness of 5 mm and a diameter of 12 mm [Experimental Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution treatment was performed by heating in nitrogen at 1150 C for 30 minutes [Experimental Procedures]
+- cooling_methods: Water quenching [Experimental Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically polished with emery paper under water up to grade 1000 [Experimental Procedures]
+- chemical_surface_preparation: Degreased in absolute ethyl alcohol, washed in deionized water, and dried by warm air blowing [Experimental Procedures]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental Procedures]
+- electrochemical_mode: Anodic polarization [Abstract, Electrochemical Behavior of Pure W]
+- solution_chemistry_summary: 0.1 M NaCl without tungstate [Inhibitive Properties of Tungstate Ions]
+- operating_parameters_summary: Potentiodynamic scan at a rate of 20 mV/min at 60 C [Experimental Procedures, Inhibitive Properties of Tungstate Ions]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 210 mV vs SCE [Inhibitive Properties of Tungstate Ions]
+- electrolyte_temperature: 60 C [Inhibitive Properties of Tungstate Ions]
+- continuous_sweep_rate: 20 mV/min [Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [Inhibitive Properties of Tungstate Ions]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Inhibitive Properties of Tungstate Ions]
+- electrolyte_molar_concentrations: 0.1 M NaCl [Inhibitive Properties of Tungstate Ions]
+- electrolyte_soluble_additives: None [Inhibitive Properties of Tungstate Ions]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral [Abstract, Inhibitive Properties of Tungstate Ions]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Abstract]
+- elemental_weight_percentages: 0.006 Wt% C, 0.30 Wt% Mn, 0.41 Wt% Si, 14.10 Wt% Ni, 16.50 Wt% Cr, 4.81 Wt% W [TABLE 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 16-14-4 [TABLE 1]
+- fabrication_steps: Prepared in a vacuum furnace; specimens were cut from rolled sheet of these alloys, having a thickness of 5 mm and a diameter of 12 mm [Experimental Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution treatment was performed by heating in nitrogen at 1150 C for 30 minutes [Experimental Procedures]
+- cooling_methods: Water quenching [Experimental Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically polished with emery paper under water up to grade 1000 [Experimental Procedures]
+- chemical_surface_preparation: Degreased in absolute ethyl alcohol, washed in deionized water, and dried by warm air blowing [Experimental Procedures]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental Procedures]
+- electrochemical_mode: Anodic polarization [Abstract, Electrochemical Behavior of Pure W]
+- solution_chemistry_summary: 0.1 M NaCl without tungstate [Inhibitive Properties of Tungstate Ions]
+- operating_parameters_summary: Potentiodynamic scan at a rate of 20 mV/min at 60 C [Experimental Procedures, Inhibitive Properties of Tungstate Ions]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 300 mV vs SCE [Inhibitive Properties of Tungstate Ions]
+- electrolyte_temperature: 60 C [Inhibitive Properties of Tungstate Ions]
+- continuous_sweep_rate: 20 mV/min [Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [Inhibitive Properties of Tungstate Ions]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Inhibitive Properties of Tungstate Ions]
+- electrolyte_molar_concentrations: 0.1 M NaCl [Inhibitive Properties of Tungstate Ions]
+- electrolyte_soluble_additives: None [Inhibitive Properties of Tungstate Ions]
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Neutral [Abstract, Inhibitive Properties of Tungstate Ions]
+- passive_current_density: Not specified in text.

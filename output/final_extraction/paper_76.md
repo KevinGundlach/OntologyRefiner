@@ -1,0 +1,483 @@
+# Base Material
+- standard_designation: 18Cr-5Ni-10Mn [Abstract]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: C: 0.024%, Mn: 10.4%, Si: 0.22%, P: 0.027%, S: 0.022%, Cr: 17.4%, Ni: 5.5%, N: 0.07% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenite with a small amount of $\delta$-ferrite [Results - Phase Composition]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite, $\delta$-ferrite, $Me_{23}C_6$ carbides, $Me_2(C,N)$ carbonitrides [Results - Phase Composition]
+- inclusion_composition: Carbides ($Me_{23}C_6$ type) and carbonitrides [$Me_2(C,N)$ type] [Results - Phase Composition]
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18Cr-5Ni-10Mn (0.07% N) Quenched [Experimental]
+- fabrication_steps: Hot forged into rods, 18 mm in diameter [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heated in air at 1120 C for 1 hour [Experimental]
+- cooling_methods: Water quenched [Experimental]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization (induction time measurement) [Results - Measurements]
+- electrochemical_mode: Potentiostatic [Results - Measurements]
+- solution_chemistry_summary: 0.1 N H2SO4 + 0.05 N NaCl [Results - Measurements]
+- operating_parameters_summary: Constant potential maintained to measure induction time and pit number to estimate the lower limit of pit nucleation at 25 C [Results - Measurements]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 100 mVNHE < Enp < 115 mVNHE [Table 2]
+- electrolyte_temperature: 25 C [Results - Measurements]
+- continuous_sweep_rate: Not applicable [Results - Measurements]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Normal Hydrogen Electrode (NHE) [Table 2]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: H2SO4, NaCl [Results - Measurements]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Results - Measurements]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization [Results - Measurements]
+- electrochemical_mode: Potentiodynamic [Results - Measurements]
+- solution_chemistry_summary: 0.1 N H2SO4 + 0.05 N NaCl [Results - Measurements]
+- operating_parameters_summary: Potentiokinetic sweep at 2 V/h at 25 C to estimate the potentiokinetic potential of pit nucleation [Results - Measurements]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Approx. 581 mVNHE (calculated via regression E'np = 1445 * N(%) + 480) [Results - Measurements]
+- electrolyte_temperature: 25 C [Results - Measurements]
+- continuous_sweep_rate: 2 V/h [Results - Measurements]
+- discrete_step_size: Not applicable [Results - Measurements]
+- holding_duration: Not applicable [Results - Measurements]
+- reference_electrode: Normal Hydrogen Electrode (NHE) [Results - Measurements]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: H2SO4, NaCl [Results - Measurements]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Results - Measurements]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 0.003 to 0.01 mA/cm2 [Results - Measurements]
+
+# Base Material
+- standard_designation: 18Cr-5Ni-10Mn [Abstract]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: C: 0.025%, Mn: 9.6%, Si: 0.23%, P: 0.030%, S: 0.018%, Cr: 17.7%, Ni: 5.6%, N: 0.12% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic [Results - Phase Composition]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite, $Me_{23}C_6$ carbides, $Me_2(C,N)$ carbonitrides [Results - Phase Composition]
+- inclusion_composition: Carbides ($Me_{23}C_6$ type) and carbonitrides [$Me_2(C,N)$ type] [Results - Phase Composition]
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18Cr-5Ni-10Mn (0.12% N) Quenched [Experimental]
+- fabrication_steps: Hot forged into rods, 18 mm in diameter [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heated in air at 1120 C for 1 hour [Experimental]
+- cooling_methods: Water quenched [Experimental]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization (induction time measurement) [Results - Measurements]
+- electrochemical_mode: Potentiostatic [Results - Measurements]
+- solution_chemistry_summary: 0.1 N H2SO4 + 0.05 N NaCl [Results - Measurements]
+- operating_parameters_summary: Constant potential maintained to measure induction time and pit number to estimate the lower limit of pit nucleation at 25 C [Results - Measurements]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 90 mVNHE < Enp < 115 mVNHE [Table 2]
+- electrolyte_temperature: 25 C [Results - Measurements]
+- continuous_sweep_rate: Not applicable [Results - Measurements]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Normal Hydrogen Electrode (NHE) [Table 2]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: H2SO4, NaCl [Results - Measurements]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Results - Measurements]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization [Results - Measurements]
+- electrochemical_mode: Potentiodynamic [Results - Measurements]
+- solution_chemistry_summary: 0.1 N H2SO4 + 0.05 N NaCl [Results - Measurements]
+- operating_parameters_summary: Potentiokinetic sweep at 2 V/h at 25 C to estimate the potentiokinetic potential of pit nucleation [Results - Measurements]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Approx. 653 mVNHE (calculated via regression E'np = 1445 * N(%) + 480) [Results - Measurements]
+- electrolyte_temperature: 25 C [Results - Measurements]
+- continuous_sweep_rate: 2 V/h [Results - Measurements]
+- discrete_step_size: Not applicable [Results - Measurements]
+- holding_duration: Not applicable [Results - Measurements]
+- reference_electrode: Normal Hydrogen Electrode (NHE) [Results - Measurements]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: H2SO4, NaCl [Results - Measurements]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Results - Measurements]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 0.003 to 0.01 mA/cm2 [Results - Measurements]
+
+# Base Material
+- standard_designation: 18Cr-5Ni-10Mn [Abstract]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: C: 0.0185%, Mn: 9.9%, Si: 0.44%, P: 0.027%, S: 0.018%, Cr: 18.1%, Ni: 5.7%, N: 0.17% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenite with a small amount of $\delta$-ferrite [Results - Phase Composition]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite, $\delta$-ferrite, $Me_{23}C_6$ carbides, $Me_2(C,N)$ carbonitrides [Results - Phase Composition]
+- inclusion_composition: Carbides ($Me_{23}C_6$ type) and carbonitrides [$Me_2(C,N)$ type] [Results - Phase Composition]
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18Cr-5Ni-10Mn (0.17% N) Quenched [Experimental]
+- fabrication_steps: Hot forged into rods, 18 mm in diameter [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heated in air at 1120 C for 1 hour [Experimental]
+- cooling_methods: Water quenched [Experimental]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization (induction time measurement) [Results - Measurements]
+- electrochemical_mode: Potentiostatic [Results - Measurements]
+- solution_chemistry_summary: 0.1 N H2SO4 + 0.05 N NaCl [Results - Measurements]
+- operating_parameters_summary: Constant potential maintained to measure induction time and pit number to estimate the lower limit of pit nucleation at 25 C [Results - Measurements]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 340 mVNHE < Enp < 360 mVNHE [Table 2]
+- electrolyte_temperature: 25 C [Results - Measurements]
+- continuous_sweep_rate: Not applicable [Results - Measurements]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Normal Hydrogen Electrode (NHE) [Table 2]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: H2SO4, NaCl [Results - Measurements]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Results - Measurements]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization [Results - Measurements]
+- electrochemical_mode: Potentiodynamic [Results - Measurements]
+- solution_chemistry_summary: 0.1 N H2SO4 + 0.05 N NaCl [Results - Measurements]
+- operating_parameters_summary: Potentiokinetic sweep at 2 V/h at 25 C to estimate the potentiokinetic potential of pit nucleation [Results - Measurements]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Approx. 726 mVNHE (calculated via regression E'np = 1445 * N(%) + 480) [Results - Measurements]
+- electrolyte_temperature: 25 C [Results - Measurements]
+- continuous_sweep_rate: 2 V/h [Results - Measurements]
+- discrete_step_size: Not applicable [Results - Measurements]
+- holding_duration: Not applicable [Results - Measurements]
+- reference_electrode: Normal Hydrogen Electrode (NHE) [Results - Measurements]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: H2SO4, NaCl [Results - Measurements]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Results - Measurements]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 0.003 to 0.01 mA/cm2 [Results - Measurements]
+
+# Base Material
+- standard_designation: 18Cr-5Ni-10Mn [Abstract]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: C: 0.020%, Mn: 10.2%, Si: 0.31%, P: 0.026%, S: 0.024%, Cr: 17.8%, Ni: 5.2%, N: 0.25% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic [Results - Phase Composition]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite, $Me_{23}C_6$ carbides, $Me_2(C,N)$ carbonitrides [Results - Phase Composition]
+- inclusion_composition: Carbides ($Me_{23}C_6$ type) and carbonitrides [$Me_2(C,N)$ type] [Results - Phase Composition]
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18Cr-5Ni-10Mn (0.25% N) Quenched [Experimental]
+- fabrication_steps: Hot forged into rods, 18 mm in diameter [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heated in air at 1120 C for 1 hour [Experimental]
+- cooling_methods: Water quenched [Experimental]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization (induction time measurement) [Results - Measurements]
+- electrochemical_mode: Potentiostatic [Results - Measurements]
+- solution_chemistry_summary: 0.1 N H2SO4 + 0.05 N NaCl [Results - Measurements]
+- operating_parameters_summary: Constant potential maintained to measure induction time and pit number to estimate the lower limit of pit nucleation at 25 C [Results - Measurements]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 190 mVNHE < Enp < 215 mVNHE [Table 2]
+- electrolyte_temperature: 25 C [Results - Measurements]
+- continuous_sweep_rate: Not applicable [Results - Measurements]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Normal Hydrogen Electrode (NHE) [Table 2]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: H2SO4, NaCl [Results - Measurements]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Results - Measurements]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization [Results - Measurements]
+- electrochemical_mode: Potentiodynamic [Results - Measurements]
+- solution_chemistry_summary: 0.1 N H2SO4 + 0.05 N NaCl [Results - Measurements]
+- operating_parameters_summary: Potentiokinetic sweep at 2 V/h at 25 C to estimate the potentiokinetic potential of pit nucleation [Results - Measurements]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Approx. 841 mVNHE (calculated via regression E'np = 1445 * N(%) + 480) [Results - Measurements]
+- electrolyte_temperature: 25 C [Results - Measurements]
+- continuous_sweep_rate: 2 V/h [Results - Measurements]
+- discrete_step_size: Not applicable [Results - Measurements]
+- holding_duration: Not applicable [Results - Measurements]
+- reference_electrode: Normal Hydrogen Electrode (NHE) [Results - Measurements]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: H2SO4, NaCl [Results - Measurements]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Results - Measurements]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 0.003 to 0.01 mA/cm2 [Results - Measurements]
+
+# Base Material
+- standard_designation: 18Cr-5Ni-10Mn [Abstract]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: C: 0.020%, Mn: 10.7%, Si: 0.32%, P: 0.029%, S: 0.022%, Cr: 18.2%, Ni: 5.4%, N: 0.35% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic [Results - Phase Composition]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite, $Me_{23}C_6$ carbides, $Me_2(C,N)$ carbonitrides [Results - Phase Composition]
+- inclusion_composition: Carbides ($Me_{23}C_6$ type) and carbonitrides [$Me_2(C,N)$ type] [Results - Phase Composition]
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18Cr-5Ni-10Mn (0.35% N) Quenched [Experimental]
+- fabrication_steps: Hot forged into rods, 18 mm in diameter [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heated in air at 1120 C for 1 hour [Experimental]
+- cooling_methods: Water quenched [Experimental]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization (induction time measurement) [Results - Measurements]
+- electrochemical_mode: Potentiostatic [Results - Measurements]
+- solution_chemistry_summary: 0.1 N H2SO4 + 0.05 N NaCl [Results - Measurements]
+- operating_parameters_summary: Constant potential maintained to measure induction time and pit number to estimate the lower limit of pit nucleation at 25 C [Results - Measurements]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 315 mVNHE < Enp < 340 mVNHE [Table 2]
+- electrolyte_temperature: 25 C [Results - Measurements]
+- continuous_sweep_rate: Not applicable [Results - Measurements]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Normal Hydrogen Electrode (NHE) [Table 2]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: H2SO4, NaCl [Results - Measurements]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Results - Measurements]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization (induction time measurement) [Results - Measurements]
+- electrochemical_mode: Potentiostatic [Results - Measurements]
+- solution_chemistry_summary: 0.1 N H2SO4 + 0.05 N NaCl [Results - Measurements]
+- operating_parameters_summary: Constant potential maintained to measure induction time and pit number to estimate the lower limit of pit nucleation at 40 C [Results - Measurements]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Approx. 65 to 90 mVNHE (shifted about 250 mV in the negative direction from the 25 C value of 315 to 340 mVNHE) [Results - Measurements]
+- electrolyte_temperature: 40 C [Results - Measurements]
+- continuous_sweep_rate: Not applicable [Results - Measurements]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Normal Hydrogen Electrode (NHE) [Results - Measurements]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: H2SO4, NaCl [Results - Measurements]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Results - Measurements]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiokinetic polarization [Results - Measurements]
+- electrochemical_mode: Potentiodynamic [Results - Measurements]
+- solution_chemistry_summary: 0.1 N H2SO4 + 0.05 N NaCl [Results - Measurements]
+- operating_parameters_summary: Potentiokinetic sweep at 2 V/h at 25 C to estimate the potentiokinetic potential of pit nucleation [Results - Measurements]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Approx. 986 mVNHE (calculated via regression E'np = 1445 * N(%) + 480) [Results - Measurements]
+- electrolyte_temperature: 25 C [Results - Measurements]
+- continuous_sweep_rate: 2 V/h [Results - Measurements]
+- discrete_step_size: Not applicable [Results - Measurements]
+- holding_duration: Not applicable [Results - Measurements]
+- reference_electrode: Normal Hydrogen Electrode (NHE) [Results - Measurements]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: H2SO4, NaCl [Results - Measurements]
+- electrolyte_molar_concentrations: 0.1 N H2SO4, 0.05 N NaCl [Results - Measurements]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 0.003 to 0.01 mA/cm2 [Results - Measurements]

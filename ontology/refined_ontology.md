@@ -1,0 +1,63 @@
+Here is the updated, atomized Data Extraction Template. Overly broad and compound variables have been split into specific, single-responsibility variables based strictly on their original text definitions. 
+
+# Base Material
+- `standard_designation`: The standard designations used to uniquely identify the material based on its distinct characteristics.
+- `trade_name`: The trade names used to uniquely identify the material.
+- `commercial_grade`: The commercial grades used to categorize the material.
+- `uns_code`: The Unified Numbering System (UNS) codes used to uniquely identify the material.
+- `alloy_family`: The broad alloy families used to categorize the material based on its distinct characteristics.
+- `elemental_weight_percentages`: The bulk weight percentages of critical alloying elements in the material.
+- `elemental_atomic_percentages`: The atomic percentages of critical alloying elements in the material.
+- `spatial_chemical_homogeneity`: The spatial chemical homogeneity of the material's elemental makeup.
+- `trace_impurities`: Trace impurities introduced into the material from raw precursor metals.
+- `derived_theoretical_metrics`: Derived theoretical metrics utilized to predict phase balances within the material.
+- `overall_microstructure`: Comprehensive details regarding the overall internal crystalline structure of the material.
+- `average_grain_dimensions`: The average grain dimensions within the material's microstructure.
+- `crystallographic_phases`: Specific crystallographic phases or lattice structures present in the material.
+- `inclusion_composition`: The composition of non-metallic inclusions or boundaries that may act as preferential defect sites.
+- `inclusion_size`: The size of non-metallic inclusions or boundaries.
+- `inclusion_density`: The density of non-metallic inclusions or boundaries.
+
+## Conditioned Material
+- `material_identification`: The unique designation, name, or identification code of the conditioned material or alloy under investigation.
+- `fabrication_steps`: A comprehensive summary of the overall preparation, manufacturing, and fabrication steps applied to the bulk base material.
+- `welding_operations`: Specific welding operations applied to produce the specimen prior to extraction.
+- `welding_techniques`: The specific techniques utilized during welding operations to produce the specimen.
+- `filler_wire_composition`: The composition of the filler wire used to produce the specimen prior to extraction.
+- `heat_treatments`: Standard heat treatments applied to condition the material microstructure.
+- `cooling_methods`: Cooling methods utilized during the thermal conditioning history.
+- `simulated_transient_thermal_cycles`: Simulated transient thermal cycles applied to condition the material microstructure.
+- `purposeful_sensitization_indicators`: Explicit indicators of purposeful sensitization used to induce specific precipitation in the material.
+- `mechanical_surface_preparation`: Mechanical procedures (e.g., grinding, polishing) applied to the specimen prior to testing to standardize surface topography.
+- `chemical_surface_preparation`: Chemical procedures (e.g., etching, passivation) applied prior to testing to stabilize the protective passive film.
+- `final_surface_roughness`: The final roughness characteristics established on the test specimen.
+- `exposed_surface_area`: The explicitly defined geometric surface area of the working electrode actively exposed to the testing electrolyte, utilized to calculate current densities and scale the statistical probability of defect-driven pitting initiation.
+
+### Experiment
+- `experimental_test_type`: The specific test types utilized during the experimental procedure.
+- `electrochemical_mode`: The electrochemical modes applied during the test.
+- `solution_chemistry_summary`: A comprehensive summary of the solution chemistry used in the experiment.
+- `operating_parameters_summary`: A comprehensive overview of the operating parameters applied during the test.
+- `overarching_environmental_conditions`: The overarching environmental conditions under which the experimental procedure was conducted.
+- `pitting_potential`: The measured critical electrochemical potential at which stable, localized pitting initiates and continuously propagates on the material surface.
+- `electrolyte_temperature`: The thermodynamic temperature of the bulk test solution, representing a key variable influencing generalized and localized corrosion susceptibility.
+- `continuous_sweep_rate`: The continuous sweep rate applied to change the electrical potential during potentiodynamic polarization testing.
+- `discrete_step_size`: The discrete step-size applied to change the electrical potential during stepwise polarization testing.
+- `holding_duration`: The holding duration applied at discrete electrical potential steps during stepwise polarization testing.
+- `reference_electrode`: The specific standard electrode (e.g., SCE, Ag/AgCl) utilized to measure, reference, and establish standardized electrical potentials within the electrochemical cell.
+- `electrolyte_solvents`: The solvents utilized in the precise chemical formulation of the testing solution.
+- `electrolyte_primary_salts`: The primary salts utilized in the precise chemical formulation of the testing solution.
+- `electrolyte_molar_concentrations`: The molar concentrations of the constituents within the testing solution.
+- `electrolyte_soluble_additives`: The soluble additives included in the chemical formulation of the testing solution.
+- `dissolved_gas_condition`: The dissolved gas condition within the bulk electrolyte, specifying whether the solution is actively aerated, naturally exposed to air, or deaerated/purged.
+- `purge_gas_type`: The specific inert gas (e.g., nitrogen, argon) used for purging the electrolyte solution.
+- `corrosion_potential`: The steady-state open-circuit resting potential (Ecorr) of the working electrode measured in the test solution prior to any active external polarization.
+- `ocp_stabilization_methodology`: The specific methodology used to establish a steady-state open-circuit equilibrium prior to active electrochemical testing.
+- `ocp_resting_duration`: The specific resting duration used to establish a steady-state open-circuit equilibrium.
+- `ocp_stability_threshold`: The specific stability threshold used to establish a steady-state open-circuit equilibrium.
+- `counter_electrode_composition`: The material composition of the auxiliary electrode utilized to complete the electrochemical circuit.
+- `counter_electrode_geometry`: The physical geometry of the auxiliary electrode.
+- `counter_electrode_exposed_area`: The exposed area of the auxiliary electrode utilized to complete the circuit.
+- `counter_electrode_isolation_method`: The isolation method applied to the auxiliary electrode.
+- `electrolyte_ph`: The explicitly measured, controlled, or actively adjusted hydrogen ion concentration (pH) of the bulk testing electrolyte.
+- `passive_current_density`: The baseline, steady-state anodic current density maintained by the material's protective oxide layer across its passive potential domain prior to localized breakdown.

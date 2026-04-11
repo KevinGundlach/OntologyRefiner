@@ -1,0 +1,363 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: CoCrFeNi2 (A35) [1. Introduction]
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High-Entropy Alloys (HEAs) [1. Introduction]
+- elemental_weight_percentages: Fe 19.98 wt.%, Ni 40.84 wt.%, Co 20.67 wt.%, Cr 18.4 wt.% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: O 11 ppm, N 11 ppm, C 165 ppm, S 10 ppm [Table 1]
+- derived_theoretical_metrics: Configurational entropy (ΔSconf) = 1.3R; predicted to form a single FCC structure [Table 1, 2.1 Alloy Design and Manufacture]
+- overall_microstructure: Equiaxed grain structure indicating full recrystallization, single-phase microstructure [3.1 Microstructure Characterization]
+- average_grain_dimensions: 40 μm (std. dev.: 4.8), ASTM grain size 6 [Table 1, 3.1 Microstructure Characterization]
+- crystallographic_phases: FCC (Face-Centered Cubic) [2.1 Alloy Design and Manufacture]
+- inclusion_composition: Small inclusions from casting, sulfur inclusions [3.1 Microstructure Characterization, 3.2 Electrochemical Testing]
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: A35 [2.1 Alloy Design and Manufacture]
+- fabrication_steps: Induction-melted under inert gas and poured with a 50°C superheat into a 75 mm cylindrical graphite mold having a nonreactive ceramic wash coat. Hot worked at 900°C consisting of forging and rolling to reduce the round ingots into slab shapes, ultimately formed into strip product with a thickness of approximately 3.7 mm [2.1 Alloy Design and Manufacture]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Computationally optimized homogenization heat treatment; preheated for 3 hours prior to fabrication [2.1 Alloy Design and Manufacture]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Wet ground through a 600-grit finish using SiC grinding paper [2.3 Electrochemical Testing]
+- chemical_surface_preparation: Degreased with acetone, and air dried [2.3 Electrochemical Testing]
+- final_surface_roughness: 600-grit finish [2.3 Electrochemical Testing]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [2.3 Electrochemical Testing]
+- electrochemical_mode: Potentiodynamic [2.3 Electrochemical Testing]
+- solution_chemistry_summary: 3.5 wt.% NaCl aqueous solution [2.3 Electrochemical Testing]
+- operating_parameters_summary: Fixed voltage scan rate of 1 mV/s from an initial potential of -0.25 V versus Eoc to a final potential of 1.6 V versus Eoc [2.3 Electrochemical Testing]
+- overarching_environmental_conditions: 25°C, nondeaerated [2.3 Electrochemical Testing]
+- pitting_potential: 0.32 V versus SCE [Table 2, 3.2 Electrochemical Testing]
+- electrolyte_temperature: 25°C [2.3 Electrochemical Testing]
+- continuous_sweep_rate: 1 mV/s [2.3 Electrochemical Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard calomel electrode (SCE) [2.3 Electrochemical Testing]
+- electrolyte_solvents: Water [1. Introduction]
+- electrolyte_primary_salts: Sodium chloride (NaCl) [1. Introduction]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nondeaerated [2.3 Electrochemical Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -0.29 V versus SCE [Table 2]
+- ocp_stabilization_methodology: Kept at a potential of 800 mV more negative than the free potential for 2 minutes, then measured open circuit potential (Eoc) [2.3 Electrochemical Testing]
+- ocp_resting_duration: 30 minutes [2.3 Electrochemical Testing]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.3 Electrochemical Testing]
+- counter_electrode_geometry: Sheet [2.3 Electrochemical Testing]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Initial pH 8.4; Final pH 10.9 [3.2 Electrochemical Testing]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Cyclic potentiodynamic polarization [2.3 Electrochemical Testing]
+- electrochemical_mode: Potentiodynamic [2.3 Electrochemical Testing]
+- solution_chemistry_summary: 3.5 wt.% NaCl aqueous solution [2.3 Electrochemical Testing]
+- operating_parameters_summary: Fixed voltage scanning rate of 1 mV/s from -0.25 V versus Eoc to an anodic potential of 1.5 V versus Eoc, reversed to the initial value [2.3 Electrochemical Testing]
+- overarching_environmental_conditions: 25°C, nondeaerated [2.3 Electrochemical Testing]
+- pitting_potential: 0.32 V versus SCE [Table 2, 3.2 Electrochemical Testing]
+- electrolyte_temperature: 25°C [2.3 Electrochemical Testing]
+- continuous_sweep_rate: 1 mV/s [2.3 Electrochemical Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard calomel electrode (SCE) [2.3 Electrochemical Testing]
+- electrolyte_solvents: Water [1. Introduction]
+- electrolyte_primary_salts: Sodium chloride (NaCl) [1. Introduction]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nondeaerated [2.3 Electrochemical Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -0.29 V versus SCE [Table 2]
+- ocp_stabilization_methodology: Kept at a potential of 800 mV more negative than the free potential for 2 minutes, then measured open circuit potential (Eoc) [2.3 Electrochemical Testing]
+- ocp_resting_duration: 30 minutes [2.3 Electrochemical Testing]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.3 Electrochemical Testing]
+- counter_electrode_geometry: Sheet [2.3 Electrochemical Testing]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Initial pH 8.4; Final pH 10.9 [3.2 Electrochemical Testing]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: CoCrFeNi2Mo0.25 (A36) [1. Introduction]
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High-Entropy Alloys (HEAs) [1. Introduction]
+- elemental_weight_percentages: Fe 18.46 wt.%, Ni 37.81 wt.%, Co 18.99 wt.%, Mo 7.64 wt.%, Cr 16.95 wt.% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: O 4 ppm, N 9 ppm, C 160 ppm, S 10 ppm [Table 1]
+- derived_theoretical_metrics: Configurational entropy (ΔSconf) = 1.5R; predicted to form small mole fractions of μ phase [Table 1, 2.1 Alloy Design and Manufacture]
+- overall_microstructure: Equiaxed grain structure indicating full recrystallization, single-phase microstructure (No μ phase observed) [3.1 Microstructure Characterization]
+- average_grain_dimensions: 86 μm (std. dev.: 7.5), ASTM grain size 4 [Table 1, 3.1 Microstructure Characterization]
+- crystallographic_phases: FCC (Face-Centered Cubic) [2.1 Alloy Design and Manufacture]
+- inclusion_composition: Small inclusions from casting [3.1 Microstructure Characterization]
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: A36 [2.1 Alloy Design and Manufacture]
+- fabrication_steps: Induction-melted under inert gas and poured with a 50°C superheat into a 75 mm cylindrical graphite mold having a nonreactive ceramic wash coat. Hot worked at 1100°C consisting of forging and rolling to reduce the round ingots into slab shapes, ultimately formed into strip product with a thickness of approximately 3.7 mm [2.1 Alloy Design and Manufacture]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Computationally optimized homogenization heat treatment; preheated for 3 hours prior to fabrication [2.1 Alloy Design and Manufacture]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Wet ground through a 600-grit finish using SiC grinding paper [2.3 Electrochemical Testing]
+- chemical_surface_preparation: Degreased with acetone, and air dried [2.3 Electrochemical Testing]
+- final_surface_roughness: 600-grit finish [2.3 Electrochemical Testing]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [2.3 Electrochemical Testing]
+- electrochemical_mode: Potentiodynamic [2.3 Electrochemical Testing]
+- solution_chemistry_summary: 3.5 wt.% NaCl aqueous solution [2.3 Electrochemical Testing]
+- operating_parameters_summary: Fixed voltage scan rate of 1 mV/s from an initial potential of -0.25 V versus Eoc to a final potential of 1.6 V versus Eoc [2.3 Electrochemical Testing]
+- overarching_environmental_conditions: 25°C, nondeaerated [2.3 Electrochemical Testing]
+- pitting_potential: 0.91 V versus SCE [Table 2, 3.2 Electrochemical Testing]
+- electrolyte_temperature: 25°C [2.3 Electrochemical Testing]
+- continuous_sweep_rate: 1 mV/s [2.3 Electrochemical Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard calomel electrode (SCE) [2.3 Electrochemical Testing]
+- electrolyte_solvents: Water [1. Introduction]
+- electrolyte_primary_salts: Sodium chloride (NaCl) [1. Introduction]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nondeaerated [2.3 Electrochemical Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -0.26 V versus SCE [Table 2]
+- ocp_stabilization_methodology: Kept at a potential of 800 mV more negative than the free potential for 2 minutes, then measured open circuit potential (Eoc) [2.3 Electrochemical Testing]
+- ocp_resting_duration: 30 minutes [2.3 Electrochemical Testing]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.3 Electrochemical Testing]
+- counter_electrode_geometry: Sheet [2.3 Electrochemical Testing]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Initial pH 8.4; Final pH 10.1 [3.2 Electrochemical Testing]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Cyclic potentiodynamic polarization [2.3 Electrochemical Testing]
+- electrochemical_mode: Potentiodynamic [2.3 Electrochemical Testing]
+- solution_chemistry_summary: 3.5 wt.% NaCl aqueous solution [2.3 Electrochemical Testing]
+- operating_parameters_summary: Fixed voltage scanning rate of 1 mV/s from -0.25 V versus Eoc to an anodic potential of 1.5 V versus Eoc, reversed to the initial value [2.3 Electrochemical Testing]
+- overarching_environmental_conditions: 25°C, nondeaerated [2.3 Electrochemical Testing]
+- pitting_potential: 0.91 V versus SCE [Table 2, 3.2 Electrochemical Testing]
+- electrolyte_temperature: 25°C [2.3 Electrochemical Testing]
+- continuous_sweep_rate: 1 mV/s [2.3 Electrochemical Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard calomel electrode (SCE) [2.3 Electrochemical Testing]
+- electrolyte_solvents: Water [1. Introduction]
+- electrolyte_primary_salts: Sodium chloride (NaCl) [1. Introduction]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nondeaerated [2.3 Electrochemical Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -0.26 V versus SCE [Table 2]
+- ocp_stabilization_methodology: Kept at a potential of 800 mV more negative than the free potential for 2 minutes, then measured open circuit potential (Eoc) [2.3 Electrochemical Testing]
+- ocp_resting_duration: 30 minutes [2.3 Electrochemical Testing]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.3 Electrochemical Testing]
+- counter_electrode_geometry: Sheet [2.3 Electrochemical Testing]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Initial pH 8.4; Final pH 10.1 [3.2 Electrochemical Testing]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: HASTELLOY C-276 [1. Introduction]
+- trade_name: C-276 [1. Introduction]
+- commercial_grade: Commercial alloy [1. Introduction]
+- uns_code: UNS N10276 [1. Introduction]
+- alloy_family: Ni-Mo-Cr superalloy [1. Introduction]
+- elemental_weight_percentages: Fe 5.5 wt.%, Ni 57 wt.%, Co 2.5 wt.%, Mo 16 wt.%, Cr 15.5 wt.%, W 4.00 wt.%, Mn 1.00 wt.% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Si 800 ppm, V 3500 ppm, C 100 ppm [Table 1]
+- derived_theoretical_metrics: Configurational entropy (ΔSconf) = 1.4R [Table 1]
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: ASTM grain size 5 [Table 1]
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: C-276 [Table 1, 2.3 Electrochemical Testing]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Wet ground through a 600-grit finish using SiC grinding paper [2.3 Electrochemical Testing]
+- chemical_surface_preparation: Degreased with acetone, and air dried [2.3 Electrochemical Testing]
+- final_surface_roughness: 600-grit finish [2.3 Electrochemical Testing]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [2.3 Electrochemical Testing]
+- electrochemical_mode: Potentiodynamic [2.3 Electrochemical Testing]
+- solution_chemistry_summary: 3.5 wt.% NaCl aqueous solution [2.3 Electrochemical Testing]
+- operating_parameters_summary: Fixed voltage scan rate of 1 mV/s from an initial potential of -0.25 V versus Eoc to a final potential of 1.6 V versus Eoc [2.3 Electrochemical Testing]
+- overarching_environmental_conditions: 25°C, nondeaerated [2.3 Electrochemical Testing]
+- pitting_potential: 0.74 V versus SCE [Table 2, 3.2 Electrochemical Testing]
+- electrolyte_temperature: 25°C [2.3 Electrochemical Testing]
+- continuous_sweep_rate: 1 mV/s [2.3 Electrochemical Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard calomel electrode (SCE) [2.3 Electrochemical Testing]
+- electrolyte_solvents: Water [1. Introduction]
+- electrolyte_primary_salts: Sodium chloride (NaCl) [1. Introduction]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nondeaerated [2.3 Electrochemical Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -0.28 V versus SCE [Table 2]
+- ocp_stabilization_methodology: Kept at a potential of 800 mV more negative than the free potential for 2 minutes, then measured open circuit potential (Eoc) [2.3 Electrochemical Testing]
+- ocp_resting_duration: 30 minutes [2.3 Electrochemical Testing]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.3 Electrochemical Testing]
+- counter_electrode_geometry: Sheet [2.3 Electrochemical Testing]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Initial pH 8.4 [3.2 Electrochemical Testing]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Cyclic potentiodynamic polarization [2.3 Electrochemical Testing]
+- electrochemical_mode: Potentiodynamic [2.3 Electrochemical Testing]
+- solution_chemistry_summary: 3.5 wt.% NaCl aqueous solution [2.3 Electrochemical Testing]
+- operating_parameters_summary: Fixed voltage scanning rate of 1 mV/s from -0.25 V versus Eoc to an anodic potential of 1.5 V versus Eoc, reversed to the initial value [2.3 Electrochemical Testing]
+- overarching_environmental_conditions: 25°C, nondeaerated [2.3 Electrochemical Testing]
+- pitting_potential: 0.74 V versus SCE [Table 2, 3.2 Electrochemical Testing]
+- electrolyte_temperature: 25°C [2.3 Electrochemical Testing]
+- continuous_sweep_rate: 1 mV/s [2.3 Electrochemical Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard calomel electrode (SCE) [2.3 Electrochemical Testing]
+- electrolyte_solvents: Water [1. Introduction]
+- electrolyte_primary_salts: Sodium chloride (NaCl) [1. Introduction]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nondeaerated [2.3 Electrochemical Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -0.28 V versus SCE [Table 2]
+- ocp_stabilization_methodology: Kept at a potential of 800 mV more negative than the free potential for 2 minutes, then measured open circuit potential (Eoc) [2.3 Electrochemical Testing]
+- ocp_resting_duration: 30 minutes [2.3 Electrochemical Testing]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.3 Electrochemical Testing]
+- counter_electrode_geometry: Sheet [2.3 Electrochemical Testing]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Initial pH 8.4 [3.2 Electrochemical Testing]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Stainless steel 316L [1. Introduction]
+- trade_name: SS316 [Table 1]
+- commercial_grade: Commercial alloy [1. Introduction]
+- uns_code: UNS 31600 [1. Introduction]
+- alloy_family: Austenitic stainless-steel [1. Introduction]
+- elemental_weight_percentages: Fe 68.59 wt.%, Ni 10.47 wt.%, Co 0.21 wt.%, Mo 2 wt.%, Cr 16.61 wt.%, Cu 0.35 wt.%, Mn 1.39 wt.% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: P 310 ppm, Si 2500 ppm, N 536 ppm, C 178 ppm, S 200 ppm [Table 1]
+- derived_theoretical_metrics: Configurational entropy (ΔSconf) = 1.0R [Table 1]
+- overall_microstructure: Austenitic [1. Introduction]
+- average_grain_dimensions: ASTM grain size 7 [Table 1]
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: SS316 [Table 1, 2.3 Electrochemical Testing]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Wet ground through a 600-grit finish using SiC grinding paper [2.3 Electrochemical Testing]
+- chemical_surface_preparation: Degreased with acetone, and air dried [2.3 Electrochemical Testing]
+- final_surface_roughness: 600-grit finish [2.3 Electrochemical Testing]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [2.3 Electrochemical Testing]
+- electrochemical_mode: Potentiodynamic [2.3 Electrochemical Testing]
+- solution_chemistry_summary: 3.5 wt.% NaCl aqueous solution [2.3 Electrochemical Testing]
+- operating_parameters_summary: Fixed voltage scan rate of 1 mV/s from an initial potential of -0.25 V versus Eoc to a final potential of 1.6 V versus Eoc [2.3 Electrochemical Testing]
+- overarching_environmental_conditions: 25°C, nondeaerated [2.3 Electrochemical Testing]
+- pitting_potential: 0.27 V versus SCE [Table 2, 3.2 Electrochemical Testing]
+- electrolyte_temperature: 25°C [2.3 Electrochemical Testing]
+- continuous_sweep_rate: 1 mV/s [2.3 Electrochemical Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard calomel electrode (SCE) [2.3 Electrochemical Testing]
+- electrolyte_solvents: Water [1. Introduction]
+- electrolyte_primary_salts: Sodium chloride (NaCl) [1. Introduction]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nondeaerated [2.3 Electrochemical Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -0.25 V versus SCE [Table 2]
+- ocp_stabilization_methodology: Kept at a potential of 800 mV more negative than the free potential for 2 minutes, then measured open circuit potential (Eoc) [2.3 Electrochemical Testing]
+- ocp_resting_duration: 30 minutes [2.3 Electrochemical Testing]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.3 Electrochemical Testing]
+- counter_electrode_geometry: Sheet [2.3 Electrochemical Testing]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Initial pH 8.4 [3.2 Electrochemical Testing]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Cyclic potentiodynamic polarization [2.3 Electrochemical Testing]
+- electrochemical_mode: Potentiodynamic [2.3 Electrochemical Testing]
+- solution_chemistry_summary: 3.5 wt.% NaCl aqueous solution [2.3 Electrochemical Testing]
+- operating_parameters_summary: Fixed voltage scanning rate of 1 mV/s from -0.25 V versus Eoc to an anodic potential of 1.5 V versus Eoc, reversed to the initial value [2.3 Electrochemical Testing]
+- overarching_environmental_conditions: 25°C, nondeaerated [2.3 Electrochemical Testing]
+- pitting_potential: 0.27 V versus SCE [Table 2, 3.2 Electrochemical Testing]
+- electrolyte_temperature: 25°C [2.3 Electrochemical Testing]
+- continuous_sweep_rate: 1 mV/s [2.3 Electrochemical Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard calomel electrode (SCE) [2.3 Electrochemical Testing]
+- electrolyte_solvents: Water [1. Introduction]
+- electrolyte_primary_salts: Sodium chloride (NaCl) [1. Introduction]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nondeaerated [2.3 Electrochemical Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -0.25 V versus SCE [Table 2]
+- ocp_stabilization_methodology: Kept at a potential of 800 mV more negative than the free potential for 2 minutes, then measured open circuit potential (Eoc) [2.3 Electrochemical Testing]
+- ocp_resting_duration: 30 minutes [2.3 Electrochemical Testing]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.3 Electrochemical Testing]
+- counter_electrode_geometry: Sheet [2.3 Electrochemical Testing]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Initial pH 8.4 [3.2 Electrochemical Testing]
+- passive_current_density: Not specified in text.

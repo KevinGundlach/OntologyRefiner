@@ -1,0 +1,369 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Abstract]
+- elemental_weight_percentages: 0.003-0.020% C, 0.49-0.55% Si, 1.31-1.45% Mn, 0.009-0.010% P, <0.003% S, 19.20-20.14% Cr, 24.75-24.99% Ni, 0.04-4.59% Mo, 0.010-0.210% N [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Single-phase structure [Section 1.1]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic structure, free from second phase precipitates [Section 2.1]
+- average_grain_dimensions: 60–70 µm [Section 2.1]
+- crystallographic_phases: Austenitic [Section 2.1]
+- inclusion_composition: Non-metallic inclusions [Section 3. Results]
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy K0 [Table 1]
+- fabrication_steps: Produced as laboratory heats, then forged, hot rolled and cold rolled to produce 3 mm strip [Section 2.1]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed for 20 min at 1100°C and brine-quenched; denitriding in hydrogen for 72 h at 1200°C, followed by cold rolling to reduce the grain size and final annealing for 20 min at 1100°C [Section 2.1]
+- cooling_methods: Brine-quenched [Section 2.1]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Wet surface ground to 600 mesh SiC paper [Section 2.1]
+- chemical_surface_preparation: Allowed to passivate in air for at least 18 h prior to testing. Passivation and lacquering was used to avoid crevice corrosion [Section 2.1; Section 2.2]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 cm² [Section 2.2]
+
+### Experiment
+- experimental_test_type: Pitting potential determination [Section 2.2]
+- electrochemical_mode: Potentiodynamic polarization [Section 2.2]
+- solution_chemistry_summary: 1 M NaCl [Section 2.2]
+- operating_parameters_summary: Potential scan rate of 20 mV/min from the corrosion potential [Section 2.2]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text. (Data presented graphically in Figure 3) [Figure 3]
+- electrolyte_temperature: 40°C and 50°C [Figure 3]
+- continuous_sweep_rate: 20 mV/min [Section 2.2]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [Figure 3]
+- electrolyte_solvents: Aqueous [Section 1. Introduction]
+- electrolyte_primary_salts: NaCl [Section 2.2]
+- electrolyte_molar_concentrations: 1 M [Section 2.2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy K1 [Table 1]
+- fabrication_steps: Produced as laboratory heats, then forged, hot rolled and cold rolled to produce 3 mm strip [Section 2.1]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed for 20 min at 1100°C and brine-quenched [Section 2.1]
+- cooling_methods: Brine-quenched [Section 2.1]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Wet surface ground to 600 mesh SiC paper [Section 2.1]
+- chemical_surface_preparation: Allowed to passivate in air for at least 18 h prior to testing. Passivation and lacquering was used to avoid crevice corrosion [Section 2.1; Section 2.2]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 cm² [Section 2.2]
+
+### Experiment
+- experimental_test_type: Pitting potential determination [Section 2.2]
+- electrochemical_mode: Potentiodynamic polarization [Section 2.2]
+- solution_chemistry_summary: 1 M NaCl [Section 2.2]
+- operating_parameters_summary: Potential scan rate of 20 mV/min from the corrosion potential [Section 2.2]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text. (Data presented graphically in Figure 3) [Figure 3]
+- electrolyte_temperature: 40°C and 50°C [Figure 3]
+- continuous_sweep_rate: 20 mV/min [Section 2.2]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [Figure 3]
+- electrolyte_solvents: Aqueous [Section 1. Introduction]
+- electrolyte_primary_salts: NaCl [Section 2.2]
+- electrolyte_molar_concentrations: 1 M [Section 2.2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy K2 [Table 1]
+- fabrication_steps: Produced as laboratory heats, then forged, hot rolled and cold rolled to produce 3 mm strip [Section 2.1]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed for 20 min at 1100°C and brine-quenched [Section 2.1]
+- cooling_methods: Brine-quenched [Section 2.1]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Wet surface ground to 600 mesh SiC paper [Section 2.1]
+- chemical_surface_preparation: Allowed to passivate in air for at least 18 h prior to testing. Passivation and lacquering was used to avoid crevice corrosion [Section 2.1; Section 2.2]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 cm² [Section 2.2]
+
+### Experiment
+- experimental_test_type: Pitting potential determination [Section 2.2]
+- electrochemical_mode: Potentiodynamic polarization [Section 2.2]
+- solution_chemistry_summary: 1 M NaCl [Section 2.2]
+- operating_parameters_summary: Potential scan rate of 20 mV/min from the corrosion potential [Section 2.2]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text. (Data presented graphically in Figure 3) [Figure 3]
+- electrolyte_temperature: 40°C and 50°C [Figure 3]
+- continuous_sweep_rate: 20 mV/min [Section 2.2]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [Figure 3]
+- electrolyte_solvents: Aqueous [Section 1. Introduction]
+- electrolyte_primary_salts: NaCl [Section 2.2]
+- electrolyte_molar_concentrations: 1 M [Section 2.2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy K3 [Table 1]
+- fabrication_steps: Produced as laboratory heats, then forged, hot rolled and cold rolled to produce 3 mm strip [Section 2.1]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed for 20 min at 1100°C and brine-quenched [Section 2.1]
+- cooling_methods: Brine-quenched [Section 2.1]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Wet surface ground to 600 mesh SiC paper [Section 2.1]
+- chemical_surface_preparation: Allowed to passivate in air for at least 18 h prior to testing. Passivation and lacquering was used to avoid crevice corrosion [Section 2.1; Section 2.2]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 cm² [Section 2.2]
+
+### Experiment
+- experimental_test_type: Pitting potential determination [Section 2.2]
+- electrochemical_mode: Potentiodynamic polarization [Section 2.2]
+- solution_chemistry_summary: 1 M NaCl [Section 2.2]
+- operating_parameters_summary: Potential scan rate of 20 mV/min from the corrosion potential [Section 2.2]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text. (Data presented graphically in Figure 3) [Figure 3]
+- electrolyte_temperature: 40°C and 50°C [Figure 3]
+- continuous_sweep_rate: 20 mV/min [Section 2.2]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [Figure 3]
+- electrolyte_solvents: Aqueous [Section 1. Introduction]
+- electrolyte_primary_salts: NaCl [Section 2.2]
+- electrolyte_molar_concentrations: 1 M [Section 2.2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy L0 [Table 1]
+- fabrication_steps: Produced as laboratory heats, then forged, hot rolled and cold rolled to produce 3 mm strip [Section 2.1]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed for 20 min at 1100°C and brine-quenched; denitriding in hydrogen for 72 h at 1200°C, followed by cold rolling to reduce the grain size and final annealing for 20 min at 1100°C [Section 2.1]
+- cooling_methods: Brine-quenched [Section 2.1]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Wet surface ground to 600 mesh SiC paper [Section 2.1]
+- chemical_surface_preparation: Allowed to passivate in air for at least 18 h prior to testing. Passivation and lacquering was used to avoid crevice corrosion [Section 2.1; Section 2.2]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 cm² [Section 2.2]
+
+### Experiment
+- experimental_test_type: Pitting potential determination [Section 2.2]
+- electrochemical_mode: Potentiodynamic polarization [Section 2.2]
+- solution_chemistry_summary: 1 M NaCl [Section 2.2]
+- operating_parameters_summary: Potential scan rate of 20 mV/min from the corrosion potential [Section 2.2]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text. (Data presented graphically in Figure 3) [Figure 3]
+- electrolyte_temperature: 75°C and 90°C [Figure 3]
+- continuous_sweep_rate: 20 mV/min [Section 2.2]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [Figure 3]
+- electrolyte_solvents: Aqueous [Section 1. Introduction]
+- electrolyte_primary_salts: NaCl [Section 2.2]
+- electrolyte_molar_concentrations: 1 M [Section 2.2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy L1 [Table 1]
+- fabrication_steps: Produced as laboratory heats, then forged, hot rolled and cold rolled to produce 3 mm strip [Section 2.1]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed for 20 min at 1100°C and brine-quenched [Section 2.1]
+- cooling_methods: Brine-quenched [Section 2.1]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Wet surface ground to 600 mesh SiC paper [Section 2.1]
+- chemical_surface_preparation: Allowed to passivate in air for at least 18 h prior to testing. Passivation and lacquering was used to avoid crevice corrosion [Section 2.1; Section 2.2]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 cm² [Section 2.2]
+
+### Experiment
+- experimental_test_type: Pitting potential determination [Section 2.2]
+- electrochemical_mode: Potentiodynamic polarization [Section 2.2]
+- solution_chemistry_summary: 1 M NaCl [Section 2.2]
+- operating_parameters_summary: Potential scan rate of 20 mV/min from the corrosion potential [Section 2.2]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text. (Data presented graphically in Figure 3) [Figure 3]
+- electrolyte_temperature: 75°C and 90°C [Figure 3]
+- continuous_sweep_rate: 20 mV/min [Section 2.2]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [Figure 3]
+- electrolyte_solvents: Aqueous [Section 1. Introduction]
+- electrolyte_primary_salts: NaCl [Section 2.2]
+- electrolyte_molar_concentrations: 1 M [Section 2.2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy L2 [Table 1]
+- fabrication_steps: Produced as laboratory heats, then forged, hot rolled and cold rolled to produce 3 mm strip [Section 2.1]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed for 20 min at 1100°C and brine-quenched [Section 2.1]
+- cooling_methods: Brine-quenched [Section 2.1]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Wet surface ground to 600 mesh SiC paper [Section 2.1]
+- chemical_surface_preparation: Allowed to passivate in air for at least 18 h prior to testing. Passivation and lacquering was used to avoid crevice corrosion [Section 2.1; Section 2.2]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 cm² [Section 2.2]
+
+### Experiment
+- experimental_test_type: Pitting potential determination [Section 2.2]
+- electrochemical_mode: Potentiodynamic polarization [Section 2.2]
+- solution_chemistry_summary: 1 M NaCl [Section 2.2]
+- operating_parameters_summary: Potential scan rate of 20 mV/min from the corrosion potential [Section 2.2]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text. (Data presented graphically in Figure 3) [Figure 3]
+- electrolyte_temperature: 75°C and 90°C [Figure 3]
+- continuous_sweep_rate: 20 mV/min [Section 2.2]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [Figure 3]
+- electrolyte_solvents: Aqueous [Section 1. Introduction]
+- electrolyte_primary_salts: NaCl [Section 2.2]
+- electrolyte_molar_concentrations: 1 M [Section 2.2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy L3 [Table 1]
+- fabrication_steps: Produced as laboratory heats, then forged, hot rolled and cold rolled to produce 3 mm strip [Section 2.1]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed for 20 min at 1100°C and brine-quenched [Section 2.1]
+- cooling_methods: Brine-quenched [Section 2.1]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Wet surface ground to 600 mesh SiC paper [Section 2.1]
+- chemical_surface_preparation: Allowed to passivate in air for at least 18 h prior to testing. Passivation and lacquering was used to avoid crevice corrosion [Section 2.1; Section 2.2]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1 cm² [Section 2.2]
+
+### Experiment
+- experimental_test_type: Pitting potential determination [Section 2.2]
+- electrochemical_mode: Potentiodynamic polarization [Section 2.2]
+- solution_chemistry_summary: 1 M NaCl [Section 2.2]
+- operating_parameters_summary: Potential scan rate of 20 mV/min from the corrosion potential [Section 2.2]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text. (Data presented graphically in Figure 3) [Figure 3]
+- electrolyte_temperature: 75°C and 90°C [Figure 3]
+- continuous_sweep_rate: 20 mV/min [Section 2.2]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE [Figure 3]
+- electrolyte_solvents: Aqueous [Section 1. Introduction]
+- electrolyte_primary_salts: NaCl [Section 2.2]
+- electrolyte_molar_concentrations: 1 M [Section 2.2]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

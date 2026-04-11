@@ -1,0 +1,310 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Aluminum-Molybdenum alloys [Abstract]
+- elemental_weight_percentages: Up to 6 weight percent Mo [Fig. 1]
+- elemental_atomic_percentages: 0.0 to 13.0 a/o Mo [Table II; Results]
+- spatial_chemical_homogeneity: The composition of the alloy varied across the wafer; specimens were taken from the center of the wafer where the compositional and thickness gradients were the lowest [Experimental Procedure]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Uneven nodule-like structure [Results]
+- average_grain_dimensions: Approximately 0.25 µm for pure Al; reduced to 0.12 µm with the addition of up to 6 a/o Mo [Results]
+- crystallographic_phases: Face center cubic (fcc) lattice, with Mo atoms substitutionally replacing Al in solid solution. No evidence of Al-Mo intermetallic phase formation [Results]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Pure Al (0.0 a/o Mo) [Table II]
+- fabrication_steps: Prepared by RF magnetron sputter deposition onto a 5 cm diam single-crystal silicon wafer. Vacuum pressure prior to sputtering was 10^-7 torr. Films grown at a rate of 5 Å/s to a thickness between 0.8 and 1.0 µm [Experimental Procedure]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Substrate cooled to near -196°C immediately after the start of sputter deposition to minimize heating and suppress precipitation. After deposition, the temperature slowly increased to ambient prior to removal from the vacuum chamber [Experimental Procedure]
+- cooling_methods: Silicon substrate cooled to near -196°C [Experimental Procedure]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Samples were masked with lacquer and allowed to dry for 24h prior to electrochemical testing [Experimental Procedure]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Experimental Procedure]
+- electrochemical_mode: Scanning anodically or cathodically from Ecorr [Experimental Procedure]
+- solution_chemistry_summary: 0.1N KCl aqueous solution, pH adjusted to 8 with KOH [Experimental Procedure]
+- operating_parameters_summary: Vigorously agitated with a magnetic stirrer throughout the test; scanned at a rate of 0.2 mV/s [Experimental Procedure]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.2 mV/s [Experimental Procedure]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE), held approximately 2 mm from the surface using a Luggin probe [Experimental Procedure]
+- electrolyte_solvents: Distilled water [Experimental Procedure]
+- electrolyte_primary_salts: KCl [Experimental Procedure]
+- electrolyte_molar_concentrations: 0.1N KCl [Experimental Procedure]
+- electrolyte_soluble_additives: KOH [Experimental Procedure]
+- dissolved_gas_condition: Degassed under vacuum and subsequently deaerated [Experimental Procedure]
+- purge_gas_type: High purity nitrogen [Experimental Procedure]
+- corrosion_potential: -1405 mV vs. SCE [Table II]
+- ocp_stabilization_methodology: Potential was monitored continuously after immersion; stabilization determined when the change in open-circuit potential was less than 1 mV over a 6 min period [Experimental Procedure]
+- ocp_resting_duration: Approximately 1h (1h in the solution prior to leveling off) [Results]
+- ocp_stability_threshold: Less than 1 mV over a 6 min period [Experimental Procedure]
+- counter_electrode_composition: Platinum [Experimental Procedure]
+- counter_electrode_geometry: Wire mesh [Experimental Procedure]
+- counter_electrode_exposed_area: At least ten times that of the working electrode [Experimental Procedure]
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 8 [Experimental Procedure]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Al-2.8 a/o Mo [Table II]
+- fabrication_steps: Prepared by co-depositing Al and Mo using RF magnetron sputter deposition onto a 5 cm diam single-crystal silicon wafer. Vacuum pressure prior to sputtering was 10^-7 torr. Films grown at a rate of 5 Å/s to a thickness between 0.8 and 1.0 µm [Experimental Procedure]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Substrate cooled to near -196°C immediately after the start of sputter deposition to minimize heating and suppress precipitation. After deposition, the temperature slowly increased to ambient prior to removal from the vacuum chamber [Experimental Procedure]
+- cooling_methods: Silicon substrate cooled to near -196°C [Experimental Procedure]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Samples were masked with lacquer and allowed to dry for 24h prior to electrochemical testing [Experimental Procedure]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Experimental Procedure]
+- electrochemical_mode: Scanning anodically or cathodically from Ecorr [Experimental Procedure]
+- solution_chemistry_summary: 0.1N KCl aqueous solution, pH adjusted to 8 with KOH [Experimental Procedure]
+- operating_parameters_summary: Vigorously agitated with a magnetic stirrer throughout the test; scanned at a rate of 0.2 mV/s [Experimental Procedure]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.2 mV/s [Experimental Procedure]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE), held approximately 2 mm from the surface using a Luggin probe [Experimental Procedure]
+- electrolyte_solvents: Distilled water [Experimental Procedure]
+- electrolyte_primary_salts: KCl [Experimental Procedure]
+- electrolyte_molar_concentrations: 0.1N KCl [Experimental Procedure]
+- electrolyte_soluble_additives: KOH [Experimental Procedure]
+- dissolved_gas_condition: Degassed under vacuum and subsequently deaerated [Experimental Procedure]
+- purge_gas_type: High purity nitrogen [Experimental Procedure]
+- corrosion_potential: -1002 mV vs. SCE [Table II]
+- ocp_stabilization_methodology: Potential was monitored continuously after immersion; stabilization determined when the change in open-circuit potential was less than 1 mV over a 6 min period [Experimental Procedure]
+- ocp_resting_duration: Approximately 1h (1h in the solution prior to leveling off) [Results]
+- ocp_stability_threshold: Less than 1 mV over a 6 min period [Experimental Procedure]
+- counter_electrode_composition: Platinum [Experimental Procedure]
+- counter_electrode_geometry: Wire mesh [Experimental Procedure]
+- counter_electrode_exposed_area: At least ten times that of the working electrode [Experimental Procedure]
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 8 [Experimental Procedure]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Al-5.4 a/o Mo [Table II]
+- fabrication_steps: Prepared by co-depositing Al and Mo using RF magnetron sputter deposition onto a 5 cm diam single-crystal silicon wafer. Vacuum pressure prior to sputtering was 10^-7 torr. Films grown at a rate of 5 Å/s to a thickness between 0.8 and 1.0 µm [Experimental Procedure]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Substrate cooled to near -196°C immediately after the start of sputter deposition to minimize heating and suppress precipitation. After deposition, the temperature slowly increased to ambient prior to removal from the vacuum chamber [Experimental Procedure]
+- cooling_methods: Silicon substrate cooled to near -196°C [Experimental Procedure]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Samples were masked with lacquer and allowed to dry for 24h prior to electrochemical testing [Experimental Procedure]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Experimental Procedure]
+- electrochemical_mode: Scanning anodically or cathodically from Ecorr [Experimental Procedure]
+- solution_chemistry_summary: 0.1N KCl aqueous solution, pH adjusted to 8 with KOH [Experimental Procedure]
+- operating_parameters_summary: Vigorously agitated with a magnetic stirrer throughout the test; scanned at a rate of 0.2 mV/s [Experimental Procedure]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.2 mV/s [Experimental Procedure]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE), held approximately 2 mm from the surface using a Luggin probe [Experimental Procedure]
+- electrolyte_solvents: Distilled water [Experimental Procedure]
+- electrolyte_primary_salts: KCl [Experimental Procedure]
+- electrolyte_molar_concentrations: 0.1N KCl [Experimental Procedure]
+- electrolyte_soluble_additives: KOH [Experimental Procedure]
+- dissolved_gas_condition: Degassed under vacuum and subsequently deaerated [Experimental Procedure]
+- purge_gas_type: High purity nitrogen [Experimental Procedure]
+- corrosion_potential: -953 mV vs. SCE [Table II]
+- ocp_stabilization_methodology: Potential was monitored continuously after immersion; stabilization determined when the change in open-circuit potential was less than 1 mV over a 6 min period [Experimental Procedure]
+- ocp_resting_duration: Approximately 1h (1h in the solution prior to leveling off) [Results]
+- ocp_stability_threshold: Less than 1 mV over a 6 min period [Experimental Procedure]
+- counter_electrode_composition: Platinum [Experimental Procedure]
+- counter_electrode_geometry: Wire mesh [Experimental Procedure]
+- counter_electrode_exposed_area: At least ten times that of the working electrode [Experimental Procedure]
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 8 [Experimental Procedure]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Al-7.1 a/o Mo [Table II]
+- fabrication_steps: Prepared by co-depositing Al and Mo using RF magnetron sputter deposition onto a 5 cm diam single-crystal silicon wafer. Vacuum pressure prior to sputtering was 10^-7 torr. Films grown at a rate of 5 Å/s to a thickness between 0.8 and 1.0 µm [Experimental Procedure]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Substrate cooled to near -196°C immediately after the start of sputter deposition to minimize heating and suppress precipitation. After deposition, the temperature slowly increased to ambient prior to removal from the vacuum chamber [Experimental Procedure]
+- cooling_methods: Silicon substrate cooled to near -196°C [Experimental Procedure]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Samples were masked with lacquer and allowed to dry for 24h prior to electrochemical testing [Experimental Procedure]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Experimental Procedure]
+- electrochemical_mode: Scanning anodically or cathodically from Ecorr [Experimental Procedure]
+- solution_chemistry_summary: 0.1N KCl aqueous solution, pH adjusted to 8 with KOH [Experimental Procedure]
+- operating_parameters_summary: Vigorously agitated with a magnetic stirrer throughout the test; scanned at a rate of 0.2 mV/s [Experimental Procedure]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.2 mV/s [Experimental Procedure]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE), held approximately 2 mm from the surface using a Luggin probe [Experimental Procedure]
+- electrolyte_solvents: Distilled water [Experimental Procedure]
+- electrolyte_primary_salts: KCl [Experimental Procedure]
+- electrolyte_molar_concentrations: 0.1N KCl [Experimental Procedure]
+- electrolyte_soluble_additives: KOH [Experimental Procedure]
+- dissolved_gas_condition: Degassed under vacuum and subsequently deaerated [Experimental Procedure]
+- purge_gas_type: High purity nitrogen [Experimental Procedure]
+- corrosion_potential: -877 mV vs. SCE [Table II]
+- ocp_stabilization_methodology: Potential was monitored continuously after immersion; stabilization determined when the change in open-circuit potential was less than 1 mV over a 6 min period [Experimental Procedure]
+- ocp_resting_duration: Approximately 1h (1h in the solution prior to leveling off) [Results]
+- ocp_stability_threshold: Less than 1 mV over a 6 min period [Experimental Procedure]
+- counter_electrode_composition: Platinum [Experimental Procedure]
+- counter_electrode_geometry: Wire mesh [Experimental Procedure]
+- counter_electrode_exposed_area: At least ten times that of the working electrode [Experimental Procedure]
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 8 [Experimental Procedure]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Al-10.4 a/o Mo [Table II]
+- fabrication_steps: Prepared by co-depositing Al and Mo using RF magnetron sputter deposition onto a 5 cm diam single-crystal silicon wafer. Vacuum pressure prior to sputtering was 10^-7 torr. Films grown at a rate of 5 Å/s to a thickness between 0.8 and 1.0 µm [Experimental Procedure]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Substrate cooled to near -196°C immediately after the start of sputter deposition to minimize heating and suppress precipitation. After deposition, the temperature slowly increased to ambient prior to removal from the vacuum chamber [Experimental Procedure]
+- cooling_methods: Silicon substrate cooled to near -196°C [Experimental Procedure]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Samples were masked with lacquer and allowed to dry for 24h prior to electrochemical testing [Experimental Procedure]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Experimental Procedure]
+- electrochemical_mode: Scanning anodically or cathodically from Ecorr [Experimental Procedure]
+- solution_chemistry_summary: 0.1N KCl aqueous solution, pH adjusted to 8 with KOH [Experimental Procedure]
+- operating_parameters_summary: Vigorously agitated with a magnetic stirrer throughout the test; scanned at a rate of 0.2 mV/s [Experimental Procedure]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.2 mV/s [Experimental Procedure]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE), held approximately 2 mm from the surface using a Luggin probe [Experimental Procedure]
+- electrolyte_solvents: Distilled water [Experimental Procedure]
+- electrolyte_primary_salts: KCl [Experimental Procedure]
+- electrolyte_molar_concentrations: 0.1N KCl [Experimental Procedure]
+- electrolyte_soluble_additives: KOH [Experimental Procedure]
+- dissolved_gas_condition: Degassed under vacuum and subsequently deaerated [Experimental Procedure]
+- purge_gas_type: High purity nitrogen [Experimental Procedure]
+- corrosion_potential: -883 mV vs. SCE [Table II]
+- ocp_stabilization_methodology: Potential was monitored continuously after immersion; stabilization determined when the change in open-circuit potential was less than 1 mV over a 6 min period [Experimental Procedure]
+- ocp_resting_duration: Approximately 1h (1h in the solution prior to leveling off) [Results]
+- ocp_stability_threshold: Less than 1 mV over a 6 min period [Experimental Procedure]
+- counter_electrode_composition: Platinum [Experimental Procedure]
+- counter_electrode_geometry: Wire mesh [Experimental Procedure]
+- counter_electrode_exposed_area: At least ten times that of the working electrode [Experimental Procedure]
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 8 [Experimental Procedure]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Al-6Mo (referred to as 6 a/o in text and 6 wt% in Fig. 1 caption) [Fig. 1; Introduction]
+- fabrication_steps: Prepared by co-depositing Al and Mo using RF magnetron sputter deposition onto a 5 cm diam single-crystal silicon wafer. Vacuum pressure prior to sputtering was 10^-7 torr. Films grown at a rate of 5 Å/s to a thickness between 0.8 and 1.0 µm [Experimental Procedure]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Substrate cooled to near -196°C immediately after the start of sputter deposition to minimize heating and suppress precipitation. After deposition, the temperature slowly increased to ambient prior to removal from the vacuum chamber [Experimental Procedure]
+- cooling_methods: Silicon substrate cooled to near -196°C [Experimental Procedure]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Samples were masked with lacquer and allowed to dry for 24h prior to electrochemical testing [Experimental Procedure]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Experimental Procedure]
+- electrochemical_mode: Scanning anodically or cathodically from Ecorr [Experimental Procedure]
+- solution_chemistry_summary: 0.1N KCl aqueous solution, pH adjusted to 8 with KOH [Experimental Procedure]
+- operating_parameters_summary: Vigorously agitated with a magnetic stirrer throughout the test; scanned at a rate of 0.2 mV/s [Experimental Procedure]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.2 mV/s [Experimental Procedure]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE), held approximately 2 mm from the surface using a Luggin probe [Experimental Procedure]
+- electrolyte_solvents: Distilled water [Experimental Procedure]
+- electrolyte_primary_salts: KCl [Experimental Procedure]
+- electrolyte_molar_concentrations: 0.1N KCl [Experimental Procedure]
+- electrolyte_soluble_additives: KOH [Experimental Procedure]
+- dissolved_gas_condition: Degassed under vacuum and subsequently deaerated [Fig. 1; Experimental Procedure]
+- purge_gas_type: High purity nitrogen [Experimental Procedure]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Potential was monitored continuously after immersion; stabilization determined when the change in open-circuit potential was less than 1 mV over a 6 min period [Experimental Procedure]
+- ocp_resting_duration: Approximately 1h (1h in the solution prior to leveling off) [Results]
+- ocp_stability_threshold: Less than 1 mV over a 6 min period [Experimental Procedure]
+- counter_electrode_composition: Platinum [Experimental Procedure]
+- counter_electrode_geometry: Wire mesh [Experimental Procedure]
+- counter_electrode_exposed_area: At least ten times that of the working electrode [Experimental Procedure]
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 8 [Experimental Procedure]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Experimental Procedure]
+- electrochemical_mode: Scanning anodically or cathodically from Ecorr [Experimental Procedure]
+- solution_chemistry_summary: 0.1N KCl aqueous solution, pH adjusted to 8 with KOH [Experimental Procedure]
+- operating_parameters_summary: Vigorously agitated with a magnetic stirrer throughout the test; scanned at a rate of 0.2 mV/s [Experimental Procedure]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.2 mV/s [Experimental Procedure]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE), held approximately 2 mm from the surface using a Luggin probe [Experimental Procedure]
+- electrolyte_solvents: Distilled water [Experimental Procedure]
+- electrolyte_primary_salts: KCl [Experimental Procedure]
+- electrolyte_molar_concentrations: 0.1N KCl [Experimental Procedure]
+- electrolyte_soluble_additives: KOH [Experimental Procedure]
+- dissolved_gas_condition: Air saturated [Fig. 1; Introduction]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Potential was monitored continuously after immersion; stabilization determined when the change in open-circuit potential was less than 1 mV over a 6 min period [Experimental Procedure]
+- ocp_resting_duration: Approximately 1h (1h in the solution prior to leveling off) [Results]
+- ocp_stability_threshold: Less than 1 mV over a 6 min period [Experimental Procedure]
+- counter_electrode_composition: Platinum [Experimental Procedure]
+- counter_electrode_geometry: Wire mesh [Experimental Procedure]
+- counter_electrode_exposed_area: At least ten times that of the working electrode [Experimental Procedure]
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 8 [Experimental Procedure]
+- passive_current_density: Not specified in text.

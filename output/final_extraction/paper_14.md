@@ -1,0 +1,636 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Abstract]
+- elemental_weight_percentages: Cr 19.17 Wt%, Ni 20.24 Wt%, Mn 0.99 Wt%, C 0.030 Wt%, N 0.19 Wt%, Si 0.44 Wt%, P 0.012 Wt%, S 0.012 Wt%, Mo 3.04 Wt% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Wholly austenitic [Discussion]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 7580-1 [Table 1]
+- fabrication_steps: Experimental 50 pound heats [Conclusions]; splits from one heat [Table 1]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Freshly abraded [Increasing Temperature Screening Test]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Increasing Temperature Screening Test [Increasing Temperature Screening Test]
+- electrochemical_mode: Potentiostatic [Increasing Temperature Screening Test]
+- solution_chemistry_summary: Nitrogenated 3.5% (0.6M) NaCl pH3 solution [Increasing Temperature Screening Test]
+- operating_parameters_summary: Potential rapidly increased to +500 mV (SCE) and held potentiostatically; temperature of the solution was increased at the rate of 0.6 C per minute [Increasing Temperature Screening Test]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 30 - 32 C (Average 31 C) [Table 2]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: 5 minutes waiting period before increasing temperature [Increasing Temperature Screening Test]
+- reference_electrode: Saturated Calomel Electrode (SCE) [Increasing Temperature Screening Test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Increasing Temperature Screening Test]
+- electrolyte_molar_concentrations: 0.6M NaCl [Increasing Temperature Screening Test]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nitrogenated [Increasing Temperature Screening Test]
+- purge_gas_type: Nitrogen [Increasing Temperature Screening Test]
+- corrosion_potential: -365 to -370 mV (SCE) [Increasing Temperature Screening Test]
+- ocp_stabilization_methodology: Allowed to corrode freely [Increasing Temperature Screening Test]
+- ocp_resting_duration: 5 minutes [Increasing Temperature Screening Test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 3 [Increasing Temperature Screening Test]
+- passive_current_density: Decreased to the range 1 to 3 µA/cm2 [Increasing Temperature Screening Test]
+
+### Experiment
+- experimental_test_type: FeCl3 Exposure Tests at Various Temperatures [FeCl3 Exposure Tests at Various Temperatures]
+- electrochemical_mode: Freely corroding [Abstract / FeCl3 Exposure Tests at Various Temperatures]
+- solution_chemistry_summary: 10% (0.6M) FeCl3 solution [FeCl3 Exposure Tests at Various Temperatures]
+- operating_parameters_summary: 24 hour exposure; bath temperature was then increased by 2.5 C and the coupon reimmersed for another 24 hours [FeCl3 Exposure Tests at Various Temperatures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Tested from 27.5 C to 65 C; pitting observed at 32.5 C and above [Table 3]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [FeCl3 Exposure Tests at Various Temperatures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [FeCl3 Exposure Tests at Various Temperatures]
+- electrolyte_molar_concentrations: 0.6M FeCl3 [FeCl3 Exposure Tests at Various Temperatures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: +695 mV (SCE) measured on bright platinum [FeCl3 Exposure Tests at Various Temperatures]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Approximately 1 [FeCl3 Exposure Tests at Various Temperatures]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Abstract]
+- elemental_weight_percentages: Mo 4.48 Wt% (Cr, Ni, Mn, C, N, Si, P, S not analyzed) [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Wholly austenitic [Discussion]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 7580-2 [Table 1]
+- fabrication_steps: Experimental 50 pound heats [Conclusions]; splits from one heat [Table 1]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Freshly abraded [Increasing Temperature Screening Test]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Increasing Temperature Screening Test [Increasing Temperature Screening Test]
+- electrochemical_mode: Potentiostatic [Increasing Temperature Screening Test]
+- solution_chemistry_summary: Nitrogenated 3.5% (0.6M) NaCl pH3 solution [Increasing Temperature Screening Test]
+- operating_parameters_summary: Potential rapidly increased to +500 mV (SCE) and held potentiostatically; temperature of the solution was increased at the rate of 0.6 C per minute [Increasing Temperature Screening Test]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 39.5 - 43 C (Average 41.5 C) [Table 2]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: 5 minutes waiting period before increasing temperature [Increasing Temperature Screening Test]
+- reference_electrode: Saturated Calomel Electrode (SCE) [Increasing Temperature Screening Test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Increasing Temperature Screening Test]
+- electrolyte_molar_concentrations: 0.6M NaCl [Increasing Temperature Screening Test]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nitrogenated [Increasing Temperature Screening Test]
+- purge_gas_type: Nitrogen [Increasing Temperature Screening Test]
+- corrosion_potential: -365 to -370 mV (SCE) [Increasing Temperature Screening Test]
+- ocp_stabilization_methodology: Allowed to corrode freely [Increasing Temperature Screening Test]
+- ocp_resting_duration: 5 minutes [Increasing Temperature Screening Test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 3 [Increasing Temperature Screening Test]
+- passive_current_density: Decreased to the range 1 to 3 µA/cm2 [Increasing Temperature Screening Test]
+
+### Experiment
+- experimental_test_type: FeCl3 Exposure Tests at Various Temperatures [FeCl3 Exposure Tests at Various Temperatures]
+- electrochemical_mode: Freely corroding [Abstract / FeCl3 Exposure Tests at Various Temperatures]
+- solution_chemistry_summary: 10% (0.6M) FeCl3 solution [FeCl3 Exposure Tests at Various Temperatures]
+- operating_parameters_summary: 24 hour exposure; bath temperature was then increased by 2.5 C and the coupon reimmersed for another 24 hours [FeCl3 Exposure Tests at Various Temperatures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Tested from 27.5 C to 65 C; pitting observed at 42.5 C and above [Table 3]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [FeCl3 Exposure Tests at Various Temperatures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [FeCl3 Exposure Tests at Various Temperatures]
+- electrolyte_molar_concentrations: 0.6M FeCl3 [FeCl3 Exposure Tests at Various Temperatures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: +695 mV (SCE) measured on bright platinum [FeCl3 Exposure Tests at Various Temperatures]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Approximately 1 [FeCl3 Exposure Tests at Various Temperatures]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Abstract]
+- elemental_weight_percentages: Mo 5.60 Wt% (Cr, Ni, Mn, C, N, Si, P, S not analyzed) [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Wholly austenitic [Discussion]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 7580-3 [Table 1]
+- fabrication_steps: Experimental 50 pound heats [Conclusions]; splits from one heat [Table 1]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Freshly abraded [Increasing Temperature Screening Test]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Increasing Temperature Screening Test [Increasing Temperature Screening Test]
+- electrochemical_mode: Potentiostatic [Increasing Temperature Screening Test]
+- solution_chemistry_summary: Nitrogenated 3.5% (0.6M) NaCl pH3 solution [Increasing Temperature Screening Test]
+- operating_parameters_summary: Potential rapidly increased to +500 mV (SCE) and held potentiostatically; temperature of the solution was increased at the rate of 0.6 C per minute [Increasing Temperature Screening Test]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 46 - 56 C (Average 53 C) [Table 2]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: 5 minutes waiting period before increasing temperature [Increasing Temperature Screening Test]
+- reference_electrode: Saturated Calomel Electrode (SCE) [Increasing Temperature Screening Test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Increasing Temperature Screening Test]
+- electrolyte_molar_concentrations: 0.6M NaCl [Increasing Temperature Screening Test]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nitrogenated [Increasing Temperature Screening Test]
+- purge_gas_type: Nitrogen [Increasing Temperature Screening Test]
+- corrosion_potential: -365 to -370 mV (SCE) [Increasing Temperature Screening Test]
+- ocp_stabilization_methodology: Allowed to corrode freely [Increasing Temperature Screening Test]
+- ocp_resting_duration: 5 minutes [Increasing Temperature Screening Test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 3 [Increasing Temperature Screening Test]
+- passive_current_density: Decreased to the range 1 to 3 µA/cm2 [Increasing Temperature Screening Test]
+
+### Experiment
+- experimental_test_type: FeCl3 Exposure Tests at Various Temperatures [FeCl3 Exposure Tests at Various Temperatures]
+- electrochemical_mode: Freely corroding [Abstract / FeCl3 Exposure Tests at Various Temperatures]
+- solution_chemistry_summary: 10% (0.6M) FeCl3 solution [FeCl3 Exposure Tests at Various Temperatures]
+- operating_parameters_summary: 24 hour exposure; bath temperature was then increased by 2.5 C and the coupon reimmersed for another 24 hours [FeCl3 Exposure Tests at Various Temperatures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Tested from 27.5 C to 65 C; pitting observed at 52.5 C and above [Table 3]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [FeCl3 Exposure Tests at Various Temperatures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [FeCl3 Exposure Tests at Various Temperatures]
+- electrolyte_molar_concentrations: 0.6M FeCl3 [FeCl3 Exposure Tests at Various Temperatures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: +695 mV (SCE) measured on bright platinum [FeCl3 Exposure Tests at Various Temperatures]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Approximately 1 [FeCl3 Exposure Tests at Various Temperatures]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Abstract]
+- elemental_weight_percentages: Cr 17.88 Wt%, Ni 18.96 Wt%, Mn 0.89 Wt%, C 0.030 Wt%, N 0.20 Wt%, Si 0.43 Wt%, P 0.012 Wt%, S 0.013 Wt%, Mo 7.30 Wt% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Wholly austenitic [Discussion]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 7580-4 [Table 1]
+- fabrication_steps: Experimental 50 pound heats [Conclusions]; splits from one heat [Table 1]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Freshly abraded [Increasing Temperature Screening Test]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Increasing Temperature Screening Test [Increasing Temperature Screening Test]
+- electrochemical_mode: Potentiostatic [Increasing Temperature Screening Test]
+- solution_chemistry_summary: Nitrogenated 3.5% (0.6M) NaCl pH3 solution [Increasing Temperature Screening Test]
+- operating_parameters_summary: Potential rapidly increased to +500 mV (SCE) and held potentiostatically; temperature of the solution was increased at the rate of 0.6 C per minute [Increasing Temperature Screening Test]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 60 - 62.5 C (Average 61 C) [Table 2]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: 5 minutes waiting period before increasing temperature [Increasing Temperature Screening Test]
+- reference_electrode: Saturated Calomel Electrode (SCE) [Increasing Temperature Screening Test]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Increasing Temperature Screening Test]
+- electrolyte_molar_concentrations: 0.6M NaCl [Increasing Temperature Screening Test]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Nitrogenated [Increasing Temperature Screening Test]
+- purge_gas_type: Nitrogen [Increasing Temperature Screening Test]
+- corrosion_potential: -365 to -370 mV (SCE) [Increasing Temperature Screening Test]
+- ocp_stabilization_methodology: Allowed to corrode freely [Increasing Temperature Screening Test]
+- ocp_resting_duration: 5 minutes [Increasing Temperature Screening Test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 3 [Increasing Temperature Screening Test]
+- passive_current_density: Decreased to the range 1 to 3 µA/cm2 [Increasing Temperature Screening Test]
+
+### Experiment
+- experimental_test_type: FeCl3 Exposure Tests at Various Temperatures [FeCl3 Exposure Tests at Various Temperatures]
+- electrochemical_mode: Freely corroding [Abstract / FeCl3 Exposure Tests at Various Temperatures]
+- solution_chemistry_summary: 10% (0.6M) FeCl3 solution [FeCl3 Exposure Tests at Various Temperatures]
+- operating_parameters_summary: 24 hour exposure; bath temperature was then increased by 2.5 C and the coupon reimmersed for another 24 hours [FeCl3 Exposure Tests at Various Temperatures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Tested from 27.5 C to 65 C; pitting observed at 62.5 C and above (Note: Listed as 7590-4 in Table 3) [Table 3]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [FeCl3 Exposure Tests at Various Temperatures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [FeCl3 Exposure Tests at Various Temperatures]
+- electrolyte_molar_concentrations: 0.6M FeCl3 [FeCl3 Exposure Tests at Various Temperatures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: +695 mV (SCE) measured on bright platinum [FeCl3 Exposure Tests at Various Temperatures]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Approximately 1 [FeCl3 Exposure Tests at Various Temperatures]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: 317L [Table 1]
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Abstract]
+- elemental_weight_percentages: Cr 18-20 Wt%, Ni 14.03 Wt%, Mn 2.00 Wt% max, C 0.030 Wt% max, Si 1.00 Wt% max, P 0.045 Wt% max, S 0.030 Wt% max, Mo 3.11 Wt% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Wholly austenitic [Discussion]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 317L [Table 1]
+- fabrication_steps: Commercial scale [Conclusions / Discussion]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: FeCl3 Exposure Tests at Various Temperatures [FeCl3 Exposure Tests at Various Temperatures]
+- electrochemical_mode: Freely corroding [Abstract / FeCl3 Exposure Tests at Various Temperatures]
+- solution_chemistry_summary: 10% (0.6M) FeCl3 solution [FeCl3 Exposure Tests at Various Temperatures]
+- operating_parameters_summary: 24 hour exposure; bath temperature was then increased by 2.5 C and the coupon reimmersed for another 24 hours [FeCl3 Exposure Tests at Various Temperatures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Tested from 27.5 C to 65 C; pitting observed at 30 C and above [Table 3]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [FeCl3 Exposure Tests at Various Temperatures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [FeCl3 Exposure Tests at Various Temperatures]
+- electrolyte_molar_concentrations: 0.6M FeCl3 [FeCl3 Exposure Tests at Various Temperatures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: +695 mV (SCE) measured on bright platinum [FeCl3 Exposure Tests at Various Temperatures]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Approximately 1 [FeCl3 Exposure Tests at Various Temperatures]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: 66 hour exposure experiments [Discussion]
+- electrochemical_mode: Freely corroding [Discussion]
+- solution_chemistry_summary: 16% sodium hypochlorite (domestic bleach) containing 3.5% NaCl [Discussion]
+- operating_parameters_summary: 66 hour exposure [Discussion]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Pitting observed at 30 C or higher, but not at 27.5 C or lower [Discussion]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium hypochlorite, NaCl [Discussion]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: 66 hour exposure experiments [Discussion]
+- electrochemical_mode: Freely corroding [Discussion]
+- solution_chemistry_summary: 10% FeCl3 [Discussion]
+- operating_parameters_summary: 66 hour exposure [Discussion]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Pitting observed at 30 C or higher, but not at 27.5 C or lower [Discussion]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Discussion]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: 66 hour exposure experiments [Discussion]
+- electrochemical_mode: Freely corroding [Discussion]
+- solution_chemistry_summary: 5% potassium ferricyanide containing 3.5% NaCl [Discussion]
+- operating_parameters_summary: 66 hour exposure [Discussion]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Pitting observed at 30 C or higher, but not at 27.5 C or lower [Discussion]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Potassium ferricyanide, NaCl [Discussion]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Alloy A [Table 1]
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Abstract]
+- elemental_weight_percentages: Cr 17.30 Wt%, Ni 23.80 Wt%, Mn 1.72 Wt%, C 0.018 Wt%, N 0.03 Wt%, Si 0.44 Wt%, P 0.010 Wt%, S 0.004 Wt%, Mo 4.60 Wt% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Wholly austenitic [Discussion]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy A [Table 1]
+- fabrication_steps: Commercial scale [Conclusions / Discussion]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: FeCl3 Exposure Tests at Various Temperatures [FeCl3 Exposure Tests at Various Temperatures]
+- electrochemical_mode: Freely corroding [Abstract / FeCl3 Exposure Tests at Various Temperatures]
+- solution_chemistry_summary: 10% (0.6M) FeCl3 solution [FeCl3 Exposure Tests at Various Temperatures]
+- operating_parameters_summary: 24 hour exposure; bath temperature was then increased by 2.5 C and the coupon reimmersed for another 24 hours [FeCl3 Exposure Tests at Various Temperatures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Tested from 27.5 C to 65 C; pitting observed at 45 C and above [Table 3]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [FeCl3 Exposure Tests at Various Temperatures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [FeCl3 Exposure Tests at Various Temperatures]
+- electrolyte_molar_concentrations: 0.6M FeCl3 [FeCl3 Exposure Tests at Various Temperatures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: +695 mV (SCE) measured on bright platinum [FeCl3 Exposure Tests at Various Temperatures]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Approximately 1 [FeCl3 Exposure Tests at Various Temperatures]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Alloy B [Table 1]
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Abstract]
+- elemental_weight_percentages: Cr 15-17 Wt%, Ni 24-27 Wt%, Mn 2.00 Wt% max, C 0.080 Wt% max, N 0.10-0.20 Wt%, Si 1.00 Wt% max, Mo 6.00 Wt% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Wholly austenitic [Discussion]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy B [Table 1]
+- fabrication_steps: Commercial scale [Conclusions / Discussion]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: FeCl3 Exposure Tests at Various Temperatures [FeCl3 Exposure Tests at Various Temperatures]
+- electrochemical_mode: Freely corroding [Abstract / FeCl3 Exposure Tests at Various Temperatures]
+- solution_chemistry_summary: 10% (0.6M) FeCl3 solution [FeCl3 Exposure Tests at Various Temperatures]
+- operating_parameters_summary: 24 hour exposure; bath temperature was then increased by 2.5 C and the coupon reimmersed for another 24 hours [FeCl3 Exposure Tests at Various Temperatures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Tested from 27.5 C to 65 C; pitting observed at 57.5 C and above [Table 3]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [FeCl3 Exposure Tests at Various Temperatures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [FeCl3 Exposure Tests at Various Temperatures]
+- electrolyte_molar_concentrations: 0.6M FeCl3 [FeCl3 Exposure Tests at Various Temperatures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: +695 mV (SCE) measured on bright platinum [FeCl3 Exposure Tests at Various Temperatures]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Approximately 1 [FeCl3 Exposure Tests at Various Temperatures]
+- passive_current_density: Not specified in text.

@@ -1,0 +1,309 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Abstract]
+- elemental_weight_percentages: Fe 69.8, Cr 17, Ni 13, N 0.157 wt% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite phase [INTRODUCTION]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Fe-17Cr-13Ni-0.15N alloy [EXPERIMENTAL METHOD]
+- fabrication_steps: Provided by IRSID Unieux (France) [EXPERIMENTAL METHOD]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically polished with 0.5 µm diamond paste [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Mirror-like finish [EXPERIMENTAL METHOD]
+- exposed_surface_area: Sample disks of 10 mm diameter [EXPERIMENTAL METHOD]
+
+### Experiment
+- experimental_test_type: Potentiodynamic (i-E) curves [EXPERIMENTAL RESULTS AND DISCUSSION]
+- electrochemical_mode: Anodic polarization curve [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 0.5 M H2SO4 solution [EXPERIMENTAL METHOD]
+- operating_parameters_summary: Cathodically reduced (-1 V, 300 s) prior to measurement; potential scan from -350 to 1350 mV(SHE) at 1 mV s-1 [EXPERIMENTAL METHOD; EXPERIMENTAL RESULTS AND DISCUSSION]
+- overarching_environmental_conditions: Inert gas glove box [EXPERIMENTAL METHOD]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 mV s-1 [EXPERIMENTAL METHOD]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Mercurous sulfate reference electrode (referenced to standard hydrogen electrode (SHE)) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Water (aqueous solution implied by acid molarity and use of ultra-pure water for rinsing) [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 0.5 M H2SO4 [EXPERIMENTAL METHOD]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: De-aerated by purging with N2 [EXPERIMENTAL METHOD]
+- purge_gas_type: N2 [EXPERIMENTAL METHOD]
+- corrosion_potential: -159 mV(SHE) [Table 2]
+- ocp_stabilization_methodology: Cathodically reduced (-1 V, 300 s) prior to measurement [EXPERIMENTAL METHOD]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL METHOD]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 2 µA cm-2 [Table 2]
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Ultra pure [Abstract; Table 1]
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Abstract]
+- elemental_weight_percentages: Fe 72, Cr 18, Ni 10, N <10 ppm wt% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Less than 10 ppm of nitrogen in the bulk [EXPERIMENTAL METHOD; Table 1]
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite phase [INTRODUCTION]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Fe-18Cr-10Ni (ultra pure) [EXPERIMENTAL RESULTS AND DISCUSSION; Table 1]
+- fabrication_steps: Prepared at Ecole des Mines de St Etienne (France) [EXPERIMENTAL METHOD]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically polished with 0.5 µm diamond paste [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Mirror-like finish [EXPERIMENTAL METHOD]
+- exposed_surface_area: Sample disks of 10 mm diameter [EXPERIMENTAL METHOD]
+
+### Experiment
+- experimental_test_type: Potentiodynamic (i-E) curves [EXPERIMENTAL RESULTS AND DISCUSSION]
+- electrochemical_mode: Anodic polarization curve [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 0.5 M H2SO4 solution [EXPERIMENTAL METHOD]
+- operating_parameters_summary: Cathodically reduced (-1 V, 300 s) prior to measurement; potential scan from -350 to 1350 mV(SHE) at 1 mV s-1 [EXPERIMENTAL METHOD; EXPERIMENTAL RESULTS AND DISCUSSION]
+- overarching_environmental_conditions: Inert gas glove box [EXPERIMENTAL METHOD]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 mV s-1 [EXPERIMENTAL METHOD]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Mercurous sulfate reference electrode (referenced to standard hydrogen electrode (SHE)) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Water (aqueous solution implied by acid molarity and use of ultra-pure water for rinsing) [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 0.5 M H2SO4 [EXPERIMENTAL METHOD]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: De-aerated by purging with N2 [EXPERIMENTAL METHOD]
+- purge_gas_type: N2 [EXPERIMENTAL METHOD]
+- corrosion_potential: -180 mV(SHE) [Table 2]
+- ocp_stabilization_methodology: Cathodically reduced (-1 V, 300 s) prior to measurement [EXPERIMENTAL METHOD]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL METHOD]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 2.7 µA cm-2 [Table 2]
+
+# Base Material
+- standard_designation: Type 304 [Table 1]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Abstract]
+- elemental_weight_percentages: Fe 72.01, Cr 17.38, Ni 8.28, N 0.04, Mo 0.14, Mn 1.43, Si 0.49, Cu 0.15 wt% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: B, C, Al, P, S <0.1 wt% [Table 1]
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite phase [INTRODUCTION]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Type 304 stainless steel [EXPERIMENTAL RESULTS AND DISCUSSION; Table 1]
+- fabrication_steps: Supplied by UGINE (France) [EXPERIMENTAL METHOD]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically polished with 0.5 µm diamond paste [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Mirror-like finish [EXPERIMENTAL METHOD]
+- exposed_surface_area: Sample disks of 10 mm diameter [EXPERIMENTAL METHOD]
+
+### Experiment
+- experimental_test_type: Potentiodynamic (i-E) curves [EXPERIMENTAL RESULTS AND DISCUSSION]
+- electrochemical_mode: Anodic polarization curve [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 0.5 M H2SO4 solution [EXPERIMENTAL METHOD]
+- operating_parameters_summary: Cathodically reduced (-1 V, 300 s) prior to measurement; potential scan from -350 to 1350 mV(SHE) at 1 mV s-1 [EXPERIMENTAL METHOD; EXPERIMENTAL RESULTS AND DISCUSSION]
+- overarching_environmental_conditions: Inert gas glove box [EXPERIMENTAL METHOD]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 mV s-1 [EXPERIMENTAL METHOD]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Mercurous sulfate reference electrode (referenced to standard hydrogen electrode (SHE)) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Water (aqueous solution implied by acid molarity and use of ultra-pure water for rinsing) [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 0.5 M H2SO4 [EXPERIMENTAL METHOD]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: De-aerated by purging with N2 [EXPERIMENTAL METHOD]
+- purge_gas_type: N2 [EXPERIMENTAL METHOD]
+- corrosion_potential: -130 mV(SHE) [Table 2]
+- ocp_stabilization_methodology: Cathodically reduced (-1 V, 300 s) prior to measurement [EXPERIMENTAL METHOD]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL METHOD]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 1.8 µA cm-2 [Table 2]
+
+# Base Material
+- standard_designation: 304L [EXPERIMENTAL RESULTS AND DISCUSSION]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [EXPERIMENTAL RESULTS AND DISCUSSION]
+- elemental_weight_percentages: N 0.068 wt% [EXPERIMENTAL RESULTS AND DISCUSSION]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 304L stainless steel [EXPERIMENTAL RESULTS AND DISCUSSION]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic curves [EXPERIMENTAL RESULTS AND DISCUSSION]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL RESULTS AND DISCUSSION]
+- solution_chemistry_summary: 1 M H2SO4 [EXPERIMENTAL RESULTS AND DISCUSSION]
+- operating_parameters_summary: General corrosion behavior tested at 60°C with 0.25 mV s-1 [EXPERIMENTAL RESULTS AND DISCUSSION]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 60°C [EXPERIMENTAL RESULTS AND DISCUSSION]
+- continuous_sweep_rate: 0.25 mV s-1 [EXPERIMENTAL RESULTS AND DISCUSSION]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text. (Potentials reported in mV/SHE in Figure 3) [EXPERIMENTAL RESULTS AND DISCUSSION]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 1 M H2SO4 [EXPERIMENTAL RESULTS AND DISCUSSION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: 304LN [EXPERIMENTAL RESULTS AND DISCUSSION]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [EXPERIMENTAL RESULTS AND DISCUSSION]
+- elemental_weight_percentages: N 0.145 wt% [EXPERIMENTAL RESULTS AND DISCUSSION]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 304LN stainless steel [EXPERIMENTAL RESULTS AND DISCUSSION]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic curves [EXPERIMENTAL RESULTS AND DISCUSSION]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL RESULTS AND DISCUSSION]
+- solution_chemistry_summary: 1 M H2SO4 [EXPERIMENTAL RESULTS AND DISCUSSION]
+- operating_parameters_summary: General corrosion behavior tested at 60°C with 0.25 mV s-1 [EXPERIMENTAL RESULTS AND DISCUSSION]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 60°C [EXPERIMENTAL RESULTS AND DISCUSSION]
+- continuous_sweep_rate: 0.25 mV s-1 [EXPERIMENTAL RESULTS AND DISCUSSION]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text. (Potentials reported in mV/SHE in Figure 3) [EXPERIMENTAL RESULTS AND DISCUSSION]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 1 M H2SO4 [EXPERIMENTAL RESULTS AND DISCUSSION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

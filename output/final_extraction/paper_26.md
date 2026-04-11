@@ -1,0 +1,511 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High-entropy alloys (HEAs) (1. Introduction)
+- elemental_weight_percentages: Al 0.00%, Cr 23.63%, Fe 38.03%, Mn 24.99%, Ni 13.33% (Table 1)
+- elemental_atomic_percentages: Cr 1 mol, Fe 1.5 mol, Mn 1 mol, Ni 0.5 mol (2.1. Test materials)
+- spatial_chemical_homogeneity: The alloy was repeatedly melted and solidified so as to yield a completely alloyed state and to improve its chemical homogeneity. (2.1. Test materials)
+- trace_impurities: Elements in the form of granules with purities of over 99 wt% were used as raw materials, trace impurities not explicitly specified. (2.1. Test materials)
+- derived_theoretical_metrics: Configurational entropy change per mole (ΔSconf) = 1.61R for an equimolar five-element system (1. Introduction)
+- overall_microstructure: Face-centered cubic (fcc) solid-solution with an α-FeCr structure. (3.1. Potentiodynamic polarization)
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Face-centered cubic (fcc) phase. (3.1. Potentiodynamic polarization)
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: As-cast CrFe1.5MnNi0.5 alloy (3.1. Potentiodynamic polarization)
+- fabrication_steps: Elements were melted by the arc melting process at a current of 500 ampere in a water-cooled copper hearth. Melting and casting were conducted in a vacuum of 0.01 atm following purging with argon three times. The alloy was repeatedly melted and solidified. Ingots were approximately 50 mm in diameter and 20 mm in thickness. An alloy cylinder was obtained by cutting the bulk material using an electric arc line. Each test specimen was then cold-mounted using an epoxy resin. (2.1. Test materials)
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Cooled in a water-cooled copper hearth during the arc melting process. (2.1. Test materials)
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: All specimens were mechanically polished using a series of 240–1200 SiC grit papers and cleaned in acetone and distilled water. (2.1. Test materials)
+- chemical_surface_preparation: Cathodically polarized to a potential of -0.2 V for 300 s to reduce the possible existing surface oxides. (2.2. Electrochemical measurements and surface morphology)
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.5 cm^2 (2.1. Test materials)
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization (2.2. Electrochemical measurements and surface morphology)
+- electrochemical_mode: Potentiodynamic anodic polarization (2.2. Electrochemical measurements and surface morphology)
+- solution_chemistry_summary: 1 M NaCl solution (3.1. Potentiodynamic polarization)
+- operating_parameters_summary: Anodic polarization scan at 1 mV/s from -0.5 V to 1.5 V vs. OCP after 30 min of open-circuit stabilization. (2.2. Electrochemical measurements and surface morphology)
+- overarching_environmental_conditions: Aqueous environments; deaerated by purified nitrogen gas before and throughout the tests. (1. Introduction / 2.2. Electrochemical measurements and surface morphology)
+- pitting_potential: -19 mV (SHE) (3.1. Potentiodynamic polarization)
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 mV s^-1 (2.2. Electrochemical measurements and surface morphology)
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode (3 M KCl) with E = 0.208 VSHE. Potentials are presented on standard hydrogen scale (SHE). (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_solvents: Not explicitly specified, assumed aqueous/distilled water. (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_primary_salts: NaCl (3.1. Potentiodynamic polarization)
+- electrolyte_molar_concentrations: 1 M NaCl (3.1. Potentiodynamic polarization)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (2.2. Electrochemical measurements and surface morphology)
+- purge_gas_type: Purified nitrogen gas (2.2. Electrochemical measurements and surface morphology)
+- corrosion_potential: Not specified in text for 1 M NaCl.
+- ocp_stabilization_methodology: Specimen was allowed to corrode freely to reach a quasi-stationary value of the open circuit potential. (2.2. Electrochemical measurements and surface morphology)
+- ocp_resting_duration: 30 min (2.2. Electrochemical measurements and surface morphology)
+- ocp_stability_threshold: Quasi-stationary value (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_composition: Platinum sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_geometry: Sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_exposed_area: 4 cm^2 (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text for 1 M NaCl.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization (2.2. Electrochemical measurements and surface morphology)
+- electrochemical_mode: Potentiodynamic anodic polarization (2.2. Electrochemical measurements and surface morphology)
+- solution_chemistry_summary: 0.5 M H2SO4 solution (Table 3)
+- operating_parameters_summary: Anodic polarization scan at 1 mV/s from -0.5 V to 1.5 V vs. OCP after 30 min of open-circuit stabilization. (2.2. Electrochemical measurements and surface morphology)
+- overarching_environmental_conditions: Aqueous environments; deaerated by purified nitrogen gas before and throughout the tests. (1. Introduction / 2.2. Electrochemical measurements and surface morphology)
+- pitting_potential: 1172 mV (SHE) (Table 3)
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 mV s^-1 (2.2. Electrochemical measurements and surface morphology)
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode (3 M KCl) with E = 0.208 VSHE. Potentials are presented on standard hydrogen scale (SHE). (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_solvents: Not explicitly specified, assumed aqueous/distilled water. (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_primary_salts: H2SO4 (Table 3)
+- electrolyte_molar_concentrations: 0.5 M H2SO4 (Table 3)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (2.2. Electrochemical measurements and surface morphology)
+- purge_gas_type: Purified nitrogen gas (2.2. Electrochemical measurements and surface morphology)
+- corrosion_potential: -221 mV (SHE) (Table 3)
+- ocp_stabilization_methodology: Specimen was allowed to corrode freely to reach a quasi-stationary value of the open circuit potential. (2.2. Electrochemical measurements and surface morphology)
+- ocp_resting_duration: 30 min (2.2. Electrochemical measurements and surface morphology)
+- ocp_stability_threshold: Quasi-stationary value (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_composition: Platinum sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_geometry: Sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_exposed_area: 4 cm^2 (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 3.14 × 10^-5 A/cm^2 (Table 3)
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization (2.2. Electrochemical measurements and surface morphology)
+- electrochemical_mode: Potentiodynamic anodic polarization (2.2. Electrochemical measurements and surface morphology)
+- solution_chemistry_summary: 0.5 M H2SO4 + 0.10 M NaCl solution (Table 3)
+- operating_parameters_summary: Anodic polarization scan at 1 mV/s from -0.5 V to 1.5 V vs. OCP after 30 min of open-circuit stabilization. (2.2. Electrochemical measurements and surface morphology)
+- overarching_environmental_conditions: Aqueous environments; deaerated by purified nitrogen gas before and throughout the tests. (1. Introduction / 2.2. Electrochemical measurements and surface morphology)
+- pitting_potential: 1180 mV (SHE) (Table 3)
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 mV s^-1 (2.2. Electrochemical measurements and surface morphology)
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode (3 M KCl) with E = 0.208 VSHE. Potentials are presented on standard hydrogen scale (SHE). (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_solvents: Not explicitly specified, assumed aqueous/distilled water. (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_primary_salts: H2SO4, NaCl (Table 3)
+- electrolyte_molar_concentrations: 0.5 M H2SO4, 0.10 M NaCl (Table 3)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (2.2. Electrochemical measurements and surface morphology)
+- purge_gas_type: Purified nitrogen gas (2.2. Electrochemical measurements and surface morphology)
+- corrosion_potential: -242 mV (SHE) (Table 3)
+- ocp_stabilization_methodology: Specimen was allowed to corrode freely to reach a quasi-stationary value of the open circuit potential. (2.2. Electrochemical measurements and surface morphology)
+- ocp_resting_duration: 30 min (2.2. Electrochemical measurements and surface morphology)
+- ocp_stability_threshold: Quasi-stationary value (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_composition: Platinum sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_geometry: Sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_exposed_area: 4 cm^2 (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 7.09 × 10^-5 A/cm^2 (Table 3)
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization (2.2. Electrochemical measurements and surface morphology)
+- electrochemical_mode: Potentiodynamic anodic polarization (2.2. Electrochemical measurements and surface morphology)
+- solution_chemistry_summary: 0.5 M H2SO4 + 0.25 M NaCl solution (Table 3)
+- operating_parameters_summary: Anodic polarization scan at 1 mV/s from -0.5 V to 1.5 V vs. OCP after 30 min of open-circuit stabilization. (2.2. Electrochemical measurements and surface morphology)
+- overarching_environmental_conditions: Aqueous environments; deaerated by purified nitrogen gas before and throughout the tests. (1. Introduction / 2.2. Electrochemical measurements and surface morphology)
+- pitting_potential: 589 mV (SHE) (Table 3)
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 mV s^-1 (2.2. Electrochemical measurements and surface morphology)
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode (3 M KCl) with E = 0.208 VSHE. Potentials are presented on standard hydrogen scale (SHE). (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_solvents: Not explicitly specified, assumed aqueous/distilled water. (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_primary_salts: H2SO4, NaCl (Table 3)
+- electrolyte_molar_concentrations: 0.5 M H2SO4, 0.25 M NaCl (Table 3)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (2.2. Electrochemical measurements and surface morphology)
+- purge_gas_type: Purified nitrogen gas (2.2. Electrochemical measurements and surface morphology)
+- corrosion_potential: -238 mV (SHE) (Table 3)
+- ocp_stabilization_methodology: Specimen was allowed to corrode freely to reach a quasi-stationary value of the open circuit potential. (2.2. Electrochemical measurements and surface morphology)
+- ocp_resting_duration: 30 min (2.2. Electrochemical measurements and surface morphology)
+- ocp_stability_threshold: Quasi-stationary value (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_composition: Platinum sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_geometry: Sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_exposed_area: 4 cm^2 (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 4.75 × 10^-3 A/cm^2 (Table 3)
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization (2.2. Electrochemical measurements and surface morphology)
+- electrochemical_mode: Potentiodynamic anodic polarization (2.2. Electrochemical measurements and surface morphology)
+- solution_chemistry_summary: 0.5 M H2SO4 + 0.50 M NaCl solution (Table 3)
+- operating_parameters_summary: Anodic polarization scan at 1 mV/s from -0.5 V to 1.5 V vs. OCP after 30 min of open-circuit stabilization. (2.2. Electrochemical measurements and surface morphology)
+- overarching_environmental_conditions: Aqueous environments; deaerated by purified nitrogen gas before and throughout the tests. (1. Introduction / 2.2. Electrochemical measurements and surface morphology)
+- pitting_potential: 475 mV (SHE) (Table 3)
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 mV s^-1 (2.2. Electrochemical measurements and surface morphology)
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode (3 M KCl) with E = 0.208 VSHE. Potentials are presented on standard hydrogen scale (SHE). (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_solvents: Not explicitly specified, assumed aqueous/distilled water. (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_primary_salts: H2SO4, NaCl (Table 3)
+- electrolyte_molar_concentrations: 0.5 M H2SO4, 0.50 M NaCl (Table 3)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (2.2. Electrochemical measurements and surface morphology)
+- purge_gas_type: Purified nitrogen gas (2.2. Electrochemical measurements and surface morphology)
+- corrosion_potential: -240 mV (SHE) (Table 3)
+- ocp_stabilization_methodology: Specimen was allowed to corrode freely to reach a quasi-stationary value of the open circuit potential. (2.2. Electrochemical measurements and surface morphology)
+- ocp_resting_duration: 30 min (2.2. Electrochemical measurements and surface morphology)
+- ocp_stability_threshold: Quasi-stationary value (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_composition: Platinum sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_geometry: Sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_exposed_area: 4 cm^2 (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 5.78 × 10^-3 A/cm^2 (Table 3)
+
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High-entropy alloys (HEAs) (1. Introduction)
+- elemental_weight_percentages: Al 3.55%, Cr 22.79%, Fe 36.68%, Mn 24.10%, Ni 12.86% (Table 1)
+- elemental_atomic_percentages: Al 0.3 mol, Cr 1 mol, Fe 1.5 mol, Mn 1 mol, Ni 0.5 mol (2.1. Test materials)
+- spatial_chemical_homogeneity: The alloy was repeatedly melted and solidified so as to yield a completely alloyed state and to improve its chemical homogeneity. (2.1. Test materials)
+- trace_impurities: Elements in the form of granules with purities of over 99 wt% were used as raw materials, trace impurities not explicitly specified. (2.1. Test materials)
+- derived_theoretical_metrics: Configurational entropy change per mole (ΔSconf) > 1.61R (1. Introduction)
+- overall_microstructure: Mixed fcc/bcc phases (3.1. Potentiodynamic polarization)
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Face-centered cubic (fcc) and body-centered cubic (bcc) phases. (3.1. Potentiodynamic polarization)
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: As-cast Al0.3CrFe1.5MnNi0.5 alloy (3.1. Potentiodynamic polarization)
+- fabrication_steps: Elements were melted by the arc melting process at a current of 500 ampere in a water-cooled copper hearth. Melting and casting were conducted in a vacuum of 0.01 atm following purging with argon three times. The alloy was repeatedly melted and solidified. Ingots were approximately 50 mm in diameter and 20 mm in thickness. An alloy cylinder was obtained by cutting the bulk material using an electric arc line. Each test specimen was then cold-mounted using an epoxy resin. (2.1. Test materials)
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Cooled in a water-cooled copper hearth during the arc melting process. (2.1. Test materials)
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: All specimens were mechanically polished using a series of 240–1200 SiC grit papers and cleaned in acetone and distilled water. (2.1. Test materials)
+- chemical_surface_preparation: Cathodically polarized to a potential of -0.2 V for 300 s to reduce the possible existing surface oxides. (2.2. Electrochemical measurements and surface morphology)
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.5 cm^2 (2.1. Test materials)
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization (2.2. Electrochemical measurements and surface morphology)
+- electrochemical_mode: Potentiodynamic anodic polarization (2.2. Electrochemical measurements and surface morphology)
+- solution_chemistry_summary: 1 M NaCl solution (3.1. Potentiodynamic polarization)
+- operating_parameters_summary: Anodic polarization scan at 1 mV/s from -0.5 V to 1.5 V vs. OCP after 30 min of open-circuit stabilization. (2.2. Electrochemical measurements and surface morphology)
+- overarching_environmental_conditions: Aqueous environments; deaerated by purified nitrogen gas before and throughout the tests. (1. Introduction / 2.2. Electrochemical measurements and surface morphology)
+- pitting_potential: -123 mV (SHE) (3.1. Potentiodynamic polarization)
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 mV s^-1 (2.2. Electrochemical measurements and surface morphology)
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode (3 M KCl) with E = 0.208 VSHE. Potentials are presented on standard hydrogen scale (SHE). (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_solvents: Not explicitly specified, assumed aqueous/distilled water. (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_primary_salts: NaCl (3.1. Potentiodynamic polarization)
+- electrolyte_molar_concentrations: 1 M NaCl (3.1. Potentiodynamic polarization)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (2.2. Electrochemical measurements and surface morphology)
+- purge_gas_type: Purified nitrogen gas (2.2. Electrochemical measurements and surface morphology)
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Specimen was allowed to corrode freely to reach a quasi-stationary value of the open circuit potential. (2.2. Electrochemical measurements and surface morphology)
+- ocp_resting_duration: 30 min (2.2. Electrochemical measurements and surface morphology)
+- ocp_stability_threshold: Quasi-stationary value (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_composition: Platinum sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_geometry: Sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_exposed_area: 4 cm^2 (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization (2.2. Electrochemical measurements and surface morphology)
+- electrochemical_mode: Potentiodynamic anodic polarization (2.2. Electrochemical measurements and surface morphology)
+- solution_chemistry_summary: 0.5 M H2SO4 solution (Table 3)
+- operating_parameters_summary: Anodic polarization scan at 1 mV/s from -0.5 V to 1.5 V vs. OCP after 30 min of open-circuit stabilization. (2.2. Electrochemical measurements and surface morphology)
+- overarching_environmental_conditions: Aqueous environments; deaerated by purified nitrogen gas before and throughout the tests. (1. Introduction / 2.2. Electrochemical measurements and surface morphology)
+- pitting_potential: 1164 mV (SHE) (Table 3)
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 mV s^-1 (2.2. Electrochemical measurements and surface morphology)
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode (3 M KCl) with E = 0.208 VSHE. Potentials are presented on standard hydrogen scale (SHE). (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_solvents: Not explicitly specified, assumed aqueous/distilled water. (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_primary_salts: H2SO4 (Table 3)
+- electrolyte_molar_concentrations: 0.5 M H2SO4 (Table 3)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (2.2. Electrochemical measurements and surface morphology)
+- purge_gas_type: Purified nitrogen gas (2.2. Electrochemical measurements and surface morphology)
+- corrosion_potential: -194 mV (SHE) (Table 3)
+- ocp_stabilization_methodology: Specimen was allowed to corrode freely to reach a quasi-stationary value of the open circuit potential. (2.2. Electrochemical measurements and surface morphology)
+- ocp_resting_duration: 30 min (2.2. Electrochemical measurements and surface morphology)
+- ocp_stability_threshold: Quasi-stationary value (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_composition: Platinum sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_geometry: Sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_exposed_area: 4 cm^2 (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 7.39 × 10^-5 A/cm^2 (Table 3)
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization (2.2. Electrochemical measurements and surface morphology)
+- electrochemical_mode: Potentiodynamic anodic polarization (2.2. Electrochemical measurements and surface morphology)
+- solution_chemistry_summary: 0.5 M H2SO4 + 0.10 M NaCl solution (Table 3)
+- operating_parameters_summary: Anodic polarization scan at 1 mV/s from -0.5 V to 1.5 V vs. OCP after 30 min of open-circuit stabilization. (2.2. Electrochemical measurements and surface morphology)
+- overarching_environmental_conditions: Aqueous environments; deaerated by purified nitrogen gas before and throughout the tests. (1. Introduction / 2.2. Electrochemical measurements and surface morphology)
+- pitting_potential: 1156 mV (SHE) (Table 3)
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 mV s^-1 (2.2. Electrochemical measurements and surface morphology)
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode (3 M KCl) with E = 0.208 VSHE. Potentials are presented on standard hydrogen scale (SHE). (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_solvents: Not explicitly specified, assumed aqueous/distilled water. (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_primary_salts: H2SO4, NaCl (Table 3)
+- electrolyte_molar_concentrations: 0.5 M H2SO4, 0.10 M NaCl (Table 3)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (2.2. Electrochemical measurements and surface morphology)
+- purge_gas_type: Purified nitrogen gas (2.2. Electrochemical measurements and surface morphology)
+- corrosion_potential: -219 mV (SHE) (Table 3)
+- ocp_stabilization_methodology: Specimen was allowed to corrode freely to reach a quasi-stationary value of the open circuit potential. (2.2. Electrochemical measurements and surface morphology)
+- ocp_resting_duration: 30 min (2.2. Electrochemical measurements and surface morphology)
+- ocp_stability_threshold: Quasi-stationary value (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_composition: Platinum sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_geometry: Sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_exposed_area: 4 cm^2 (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 1.21 × 10^-4 A/cm^2 (Table 3)
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization (2.2. Electrochemical measurements and surface morphology)
+- electrochemical_mode: Potentiodynamic anodic polarization (2.2. Electrochemical measurements and surface morphology)
+- solution_chemistry_summary: 0.5 M H2SO4 + 0.25 M NaCl solution (Table 3)
+- operating_parameters_summary: Anodic polarization scan at 1 mV/s from -0.5 V to 1.5 V vs. OCP after 30 min of open-circuit stabilization. (2.2. Electrochemical measurements and surface morphology)
+- overarching_environmental_conditions: Aqueous environments; deaerated by purified nitrogen gas before and throughout the tests. (1. Introduction / 2.2. Electrochemical measurements and surface morphology)
+- pitting_potential: 250 mV (SHE) (Table 3)
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 mV s^-1 (2.2. Electrochemical measurements and surface morphology)
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode (3 M KCl) with E = 0.208 VSHE. Potentials are presented on standard hydrogen scale (SHE). (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_solvents: Not explicitly specified, assumed aqueous/distilled water. (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_primary_salts: H2SO4, NaCl (Table 3)
+- electrolyte_molar_concentrations: 0.5 M H2SO4, 0.25 M NaCl (Table 3)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (2.2. Electrochemical measurements and surface morphology)
+- purge_gas_type: Purified nitrogen gas (2.2. Electrochemical measurements and surface morphology)
+- corrosion_potential: -231 mV (SHE) (Table 3)
+- ocp_stabilization_methodology: Specimen was allowed to corrode freely to reach a quasi-stationary value of the open circuit potential. (2.2. Electrochemical measurements and surface morphology)
+- ocp_resting_duration: 30 min (2.2. Electrochemical measurements and surface morphology)
+- ocp_stability_threshold: Quasi-stationary value (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_composition: Platinum sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_geometry: Sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_exposed_area: 4 cm^2 (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 1.78 × 10^-3 A/cm^2 (Table 3)
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization (2.2. Electrochemical measurements and surface morphology)
+- electrochemical_mode: Potentiodynamic anodic polarization (2.2. Electrochemical measurements and surface morphology)
+- solution_chemistry_summary: 0.5 M H2SO4 + 0.50 M NaCl solution (Table 3)
+- operating_parameters_summary: Anodic polarization scan at 1 mV/s from -0.5 V to 1.5 V vs. OCP after 30 min of open-circuit stabilization. (2.2. Electrochemical measurements and surface morphology)
+- overarching_environmental_conditions: Aqueous environments; deaerated by purified nitrogen gas before and throughout the tests. (1. Introduction / 2.2. Electrochemical measurements and surface morphology)
+- pitting_potential: 257 mV (SHE) (Table 3)
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 mV s^-1 (2.2. Electrochemical measurements and surface morphology)
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode (3 M KCl) with E = 0.208 VSHE. Potentials are presented on standard hydrogen scale (SHE). (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_solvents: Not explicitly specified, assumed aqueous/distilled water. (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_primary_salts: H2SO4, NaCl (Table 3)
+- electrolyte_molar_concentrations: 0.5 M H2SO4, 0.50 M NaCl (Table 3)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (2.2. Electrochemical measurements and surface morphology)
+- purge_gas_type: Purified nitrogen gas (2.2. Electrochemical measurements and surface morphology)
+- corrosion_potential: -250 mV (SHE) (Table 3)
+- ocp_stabilization_methodology: Specimen was allowed to corrode freely to reach a quasi-stationary value of the open circuit potential. (2.2. Electrochemical measurements and surface morphology)
+- ocp_resting_duration: 30 min (2.2. Electrochemical measurements and surface morphology)
+- ocp_stability_threshold: Quasi-stationary value (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_composition: Platinum sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_geometry: Sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_exposed_area: 4 cm^2 (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 3.95 × 10^-2 A/cm^2 (Table 3)
+
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High-entropy alloys (HEAs) (1. Introduction)
+- elemental_weight_percentages: Al 5.78%, Cr 22.26%, Fe 35.83%, Mn 23.54%, Ni 12.56% (Table 1)
+- elemental_atomic_percentages: Al 0.5 mol, Cr 1 mol, Fe 1.5 mol, Mn 1 mol, Ni 0.5 mol (2.1. Test materials)
+- spatial_chemical_homogeneity: The alloy was repeatedly melted and solidified so as to yield a completely alloyed state and to improve its chemical homogeneity. (2.1. Test materials)
+- trace_impurities: Elements in the form of granules with purities of over 99 wt% were used as raw materials, trace impurities not explicitly specified. (2.1. Test materials)
+- derived_theoretical_metrics: Configurational entropy change per mole (ΔSconf) > 1.61R (1. Introduction)
+- overall_microstructure: Single bcc structure (3.1. Potentiodynamic polarization)
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Body-centered cubic (bcc) phase. (3.1. Potentiodynamic polarization)
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: As-cast Al0.5CrFe1.5MnNi0.5 alloy (3.1. Potentiodynamic polarization)
+- fabrication_steps: Elements were melted by the arc melting process at a current of 500 ampere in a water-cooled copper hearth. Melting and casting were conducted in a vacuum of 0.01 atm following purging with argon three times. The alloy was repeatedly melted and solidified. Ingots were approximately 50 mm in diameter and 20 mm in thickness. An alloy cylinder was obtained by cutting the bulk material using an electric arc line. Each test specimen was then cold-mounted using an epoxy resin. (2.1. Test materials)
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Cooled in a water-cooled copper hearth during the arc melting process. (2.1. Test materials)
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: All specimens were mechanically polished using a series of 240–1200 SiC grit papers and cleaned in acetone and distilled water. (2.1. Test materials)
+- chemical_surface_preparation: Cathodically polarized to a potential of -0.2 V for 300 s to reduce the possible existing surface oxides. (2.2. Electrochemical measurements and surface morphology)
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.5 cm^2 (2.1. Test materials)
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization (2.2. Electrochemical measurements and surface morphology)
+- electrochemical_mode: Potentiodynamic anodic polarization (2.2. Electrochemical measurements and surface morphology)
+- solution_chemistry_summary: 1 M NaCl solution (3.1. Potentiodynamic polarization)
+- operating_parameters_summary: Anodic polarization scan at 1 mV/s from -0.5 V to 1.5 V vs. OCP after 30 min of open-circuit stabilization. (2.2. Electrochemical measurements and surface morphology)
+- overarching_environmental_conditions: Aqueous environments; deaerated by purified nitrogen gas before and throughout the tests. (1. Introduction / 2.2. Electrochemical measurements and surface morphology)
+- pitting_potential: -123 mV (SHE) (3.1. Potentiodynamic polarization)
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 mV s^-1 (2.2. Electrochemical measurements and surface morphology)
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode (3 M KCl) with E = 0.208 VSHE. Potentials are presented on standard hydrogen scale (SHE). (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_solvents: Not explicitly specified, assumed aqueous/distilled water. (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_primary_salts: NaCl (3.1. Potentiodynamic polarization)
+- electrolyte_molar_concentrations: 1 M NaCl (3.1. Potentiodynamic polarization)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (2.2. Electrochemical measurements and surface morphology)
+- purge_gas_type: Purified nitrogen gas (2.2. Electrochemical measurements and surface morphology)
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Specimen was allowed to corrode freely to reach a quasi-stationary value of the open circuit potential. (2.2. Electrochemical measurements and surface morphology)
+- ocp_resting_duration: 30 min (2.2. Electrochemical measurements and surface morphology)
+- ocp_stability_threshold: Quasi-stationary value (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_composition: Platinum sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_geometry: Sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_exposed_area: 4 cm^2 (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization (2.2. Electrochemical measurements and surface morphology)
+- electrochemical_mode: Potentiodynamic anodic polarization (2.2. Electrochemical measurements and surface morphology)
+- solution_chemistry_summary: 0.5 M H2SO4 solution (Table 2)
+- operating_parameters_summary: Anodic polarization scan at 1 mV/s from -0.5 V to 1.5 V vs. OCP after 30 min of open-circuit stabilization. (2.2. Electrochemical measurements and surface morphology)
+- overarching_environmental_conditions: Aqueous environments; deaerated by purified nitrogen gas before and throughout the tests. (1. Introduction / 2.2. Electrochemical measurements and surface morphology)
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 mV s^-1 (2.2. Electrochemical measurements and surface morphology)
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode (3 M KCl) with E = 0.208 VSHE. Potentials are presented on standard hydrogen scale (SHE). (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_solvents: Not explicitly specified, assumed aqueous/distilled water. (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_primary_salts: H2SO4 (Table 2)
+- electrolyte_molar_concentrations: 0.5 M H2SO4 (Table 2)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (2.2. Electrochemical measurements and surface morphology)
+- purge_gas_type: Purified nitrogen gas (2.2. Electrochemical measurements and surface morphology)
+- corrosion_potential: -206 mV (SHE) (Table 2)
+- ocp_stabilization_methodology: Specimen was allowed to corrode freely to reach a quasi-stationary value of the open circuit potential. (2.2. Electrochemical measurements and surface morphology)
+- ocp_resting_duration: 30 min (2.2. Electrochemical measurements and surface morphology)
+- ocp_stability_threshold: Quasi-stationary value (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_composition: Platinum sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_geometry: Sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_exposed_area: 4 cm^2 (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 6.82 × 10^-5 A/cm^2 (Table 2)
+
+
+# Base Material
+- standard_designation: 304 stainless steel (3.1. Potentiodynamic polarization)
+- trade_name: Not specified in text.
+- commercial_grade: 304 (3.1. Potentiodynamic polarization)
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels (3.1. Potentiodynamic polarization)
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: fcc γ-iron type (3.1. Potentiodynamic polarization)
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Face-centered cubic (fcc) γ-iron phase. (3.1. Potentiodynamic polarization)
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 304 stainless steel (3.1. Potentiodynamic polarization)
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: All specimens were mechanically polished using a series of 240–1200 SiC grit papers and cleaned in acetone and distilled water. (2.1. Test materials)
+- chemical_surface_preparation: Cathodically polarized to a potential of -0.2 V for 300 s to reduce the possible existing surface oxides. (2.2. Electrochemical measurements and surface morphology)
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.5 cm^2 (2.1. Test materials)
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization (2.2. Electrochemical measurements and surface morphology)
+- electrochemical_mode: Potentiodynamic anodic polarization (2.2. Electrochemical measurements and surface morphology)
+- solution_chemistry_summary: 0.5 M H2SO4 solution (Table 2)
+- operating_parameters_summary: Anodic polarization scan at 1 mV/s from -0.5 V to 1.5 V vs. OCP after 30 min of open-circuit stabilization. (2.2. Electrochemical measurements and surface morphology)
+- overarching_environmental_conditions: Aqueous environments; deaerated by purified nitrogen gas before and throughout the tests. (1. Introduction / 2.2. Electrochemical measurements and surface morphology)
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 mV s^-1 (2.2. Electrochemical measurements and surface morphology)
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl electrode (3 M KCl) with E = 0.208 VSHE. Potentials are presented on standard hydrogen scale (SHE). (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_solvents: Not explicitly specified, assumed aqueous/distilled water. (2.2. Electrochemical measurements and surface morphology)
+- electrolyte_primary_salts: H2SO4 (Table 2)
+- electrolyte_molar_concentrations: 0.5 M H2SO4 (Table 2)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (2.2. Electrochemical measurements and surface morphology)
+- purge_gas_type: Purified nitrogen gas (2.2. Electrochemical measurements and surface morphology)
+- corrosion_potential: -186 mV (SHE) (Table 2)
+- ocp_stabilization_methodology: Specimen was allowed to corrode freely to reach a quasi-stationary value of the open circuit potential. (2.2. Electrochemical measurements and surface morphology)
+- ocp_resting_duration: 30 min (2.2. Electrochemical measurements and surface morphology)
+- ocp_stability_threshold: Quasi-stationary value (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_composition: Platinum sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_geometry: Sheet (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_exposed_area: 4 cm^2 (2.2. Electrochemical measurements and surface morphology)
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 8.05 × 10^-6 A/cm^2 (Table 2)

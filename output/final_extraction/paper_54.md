@@ -1,0 +1,537 @@
+# Base Material
+- standard_designation: Alloy 30 [Table 1]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Experimental stainless steel [Introduction]
+- elemental_weight_percentages: N: 0.440, Mo: 6.06, C: 0.018, Ni: 19.90, Si: 0.30, Cr: 24.32, Mn: Not specified in text, Fe: Balance [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Cr equivalent = % Cr + 1.5% Si + % Mo; Ni equivalent = % Ni + 30% (%C + %N) + 0.5 % Mn [Microstructure]
+- overall_microstructure: Fully austenitic; has some inclusions [Microstructure]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite ($\gamma$) [Microstructure]
+- inclusion_composition: More Mo and Cr and less Fe than the matrix [Microstructure]
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 30 specimen [Polarization Test]
+- fabrication_steps: Prepared from commercially pure grades of Fe, Ni, ferrochrome, Mn, Mo, Si, manganese or chromium nitride, and chromium carbide. Melted in a vacuum induction furnace by melting Fe, Ni, Mo, Mn, and ferrochrome in a vacuum, bleeding nitrogen, and introducing Mn4N or CrN wrapped in iron foil into the melt. Solid sections of cast ingots were soaked for 30 minutes, hot rolled at 1205 C and 1095 C, pickled in 10% HNO3 and 2% HF at 65 C, cold rolled to 2 mm, annealed at 1065 C for 5 minutes, water quenched, and pickled again in HNO3-HF at 65 C [Experimental Procedure]
+- welding_operations: A Type 308 rod was welded to one side of each specimen [Polarization Test]
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Type 308 [Polarization Test]
+- heat_treatments: Annealed at 1065 C for 5 minutes [Experimental Procedure]
+- cooling_methods: Water quenched [Experimental Procedure]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted in epoxy, ground to 600 grit [Polarization Test]
+- chemical_surface_preparation: Rinsed with distilled water; specimen/mount interface covered with a thin film of lacquer; cleaned with distilled water just prior to transferring to the cell [Polarization Test]
+- final_surface_roughness: 600 grit [Polarization Test]
+- exposed_surface_area: Approximately 1 cm2 [Polarization Test]
+
+### Experiment
+- experimental_test_type: Anodic polarization test [Polarization Test]
+- electrochemical_mode: Potentiodynamic [Polarization Test]
+- solution_chemistry_summary: Deaerated 1 N NaCl solution [Polarization Test]
+- operating_parameters_summary: 30 C, deoxygenated with nitrogen, scanning rate of 20 mV/min starting from the corrosion potential [Polarization Test]
+- overarching_environmental_conditions: Laboratory environment, test cell temperature held constant with a Braun contact thermometer and temperature controller [Polarization Test]
+- pitting_potential: > 708 mV vs. S.C.E. (did not show any breakdown) [Table 2]
+- electrolyte_temperature: 30 C [Polarization Test]
+- continuous_sweep_rate: 20 mV/min [Polarization Test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (S.C.E.) [Polarization Test]
+- electrolyte_solvents: Distilled water [Polarization Test]
+- electrolyte_primary_salts: NaCl [Polarization Test]
+- electrolyte_molar_concentrations: 1 N NaCl [Polarization Test]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deoxygenated/Deaerated [Polarization Test]
+- purge_gas_type: Prepurified nitrogen (90 ml/min) [Polarization Test]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: 50 minutes after immersion [Polarization Test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Anodic polarization test [Polarization Tests in More Aggressive Environments]
+- electrochemical_mode: Potentiodynamic [Polarization Tests in More Aggressive Environments]
+- solution_chemistry_summary: Deaerated 1 N NaCl + 0.5 N HCl [Polarization Tests in More Aggressive Environments]
+- operating_parameters_summary: 50 C, deoxygenated with nitrogen, scanning rate of 6 mV/min [Polarization Tests in More Aggressive Environments]
+- overarching_environmental_conditions: Laboratory environment, test cell temperature held constant [Polarization Tests in More Aggressive Environments]
+- pitting_potential: > 908 mV vs. S.C.E. (did not show any breakdown) [Table 3]
+- electrolyte_temperature: 50 C [Polarization Tests in More Aggressive Environments]
+- continuous_sweep_rate: 6 mV/min [Polarization Tests in More Aggressive Environments]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (S.C.E.) [Polarization Test]
+- electrolyte_solvents: Distilled water [Polarization Test]
+- electrolyte_primary_salts: NaCl, HCl [Polarization Tests in More Aggressive Environments]
+- electrolyte_molar_concentrations: 1 N NaCl, 0.5 N HCl [Polarization Tests in More Aggressive Environments]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deoxygenated/Deaerated [Polarization Test]
+- purge_gas_type: Prepurified nitrogen [Polarization Test]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: 50 minutes after immersion [Polarization Test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 0.69 [Polarization Tests in More Aggressive Environments]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Anodic polarization test [Polarization Tests in More Aggressive Environments]
+- electrochemical_mode: Potentiodynamic [Polarization Tests in More Aggressive Environments]
+- solution_chemistry_summary: Deaerated 1 N NaCl + 0.5 N HCl [Polarization Tests in More Aggressive Environments]
+- operating_parameters_summary: 70 C, deoxygenated with nitrogen, scanning rate of 6 mV/min [Polarization Tests in More Aggressive Environments]
+- overarching_environmental_conditions: Laboratory environment, test cell temperature held constant [Polarization Tests in More Aggressive Environments]
+- pitting_potential: Did not break down [Polarization Tests in More Aggressive Environments]
+- electrolyte_temperature: 70 C [Polarization Tests in More Aggressive Environments]
+- continuous_sweep_rate: 6 mV/min [Polarization Tests in More Aggressive Environments]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (S.C.E.) [Polarization Test]
+- electrolyte_solvents: Distilled water [Polarization Test]
+- electrolyte_primary_salts: NaCl, HCl [Polarization Tests in More Aggressive Environments]
+- electrolyte_molar_concentrations: 1 N NaCl, 0.5 N HCl [Polarization Tests in More Aggressive Environments]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deoxygenated/Deaerated [Polarization Test]
+- purge_gas_type: Prepurified nitrogen [Polarization Test]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: 50 minutes after immersion [Polarization Test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 0.69 [Polarization Tests in More Aggressive Environments]
+- passive_current_density: 7.5 $\mu$A/cm2 (at +0.2 V S.C.E.) [Table 4]
+
+### Experiment
+- experimental_test_type: Anodic polarization test [Polarization Tests in More Aggressive Environments]
+- electrochemical_mode: Potentiodynamic [Polarization Tests in More Aggressive Environments]
+- solution_chemistry_summary: Deaerated 2 N NaCl + 0.5 N HCl [Polarization Tests in More Aggressive Environments]
+- operating_parameters_summary: 70 C, deoxygenated with nitrogen, scanning rate of 6 mV/min [Polarization Tests in More Aggressive Environments]
+- overarching_environmental_conditions: Laboratory environment, test cell temperature held constant [Polarization Tests in More Aggressive Environments]
+- pitting_potential: Did not break down [Polarization Tests in More Aggressive Environments]
+- electrolyte_temperature: 70 C [Polarization Tests in More Aggressive Environments]
+- continuous_sweep_rate: 6 mV/min [Polarization Tests in More Aggressive Environments]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (S.C.E.) [Polarization Test]
+- electrolyte_solvents: Distilled water [Polarization Test]
+- electrolyte_primary_salts: NaCl, HCl [Polarization Tests in More Aggressive Environments]
+- electrolyte_molar_concentrations: 2 N NaCl, 0.5 N HCl [Polarization Tests in More Aggressive Environments]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deoxygenated/Deaerated [Polarization Test]
+- purge_gas_type: Prepurified nitrogen [Polarization Test]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: 50 minutes after immersion [Polarization Test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: 1.7 $\mu$A/cm2 (at +0.2 V S.C.E.) [Polarization Tests in More Aggressive Environments]
+
+# Base Material
+- standard_designation: Alloy C-276 [Table 5]
+- trade_name: Hastelloy alloy C-276 [Introduction]
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Nickel based alloy [Abstract]
+- elemental_weight_percentages: Fe: 5.69, Mo: 15.80, Ni: Balance, Cr: 15.61, C: 0.003, Co: 1.40, W: 3.64, V: 0.19 [Table 5]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy C-276 specimen [Polarization Test]
+- fabrication_steps: Commercial alloy, specific manufacturing steps not specified in text. [Experimental Procedure]
+- welding_operations: A Type 308 rod was welded to one side of each specimen [Polarization Test]
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Type 308 [Polarization Test]
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted in epoxy, ground to 600 grit [Polarization Test]
+- chemical_surface_preparation: Rinsed with distilled water; specimen/mount interface covered with a thin film of lacquer; cleaned with distilled water just prior to transferring to the cell [Polarization Test]
+- final_surface_roughness: 600 grit [Polarization Test]
+- exposed_surface_area: Approximately 1 cm2 [Polarization Test]
+
+### Experiment
+- experimental_test_type: Anodic polarization test [Polarization Test]
+- electrochemical_mode: Potentiodynamic [Polarization Test]
+- solution_chemistry_summary: Deaerated 1 N NaCl solution [Polarization Test]
+- operating_parameters_summary: 30 C, deoxygenated with nitrogen, scanning rate of 20 mV/min starting from the corrosion potential [Polarization Test]
+- overarching_environmental_conditions: Laboratory environment, test cell temperature held constant [Polarization Test]
+- pitting_potential: > 708 mV vs. S.C.E. (did not show any breakdown) [Table 2]
+- electrolyte_temperature: 30 C [Polarization Test]
+- continuous_sweep_rate: 20 mV/min [Polarization Test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (S.C.E.) [Polarization Test]
+- electrolyte_solvents: Distilled water [Polarization Test]
+- electrolyte_primary_salts: NaCl [Polarization Test]
+- electrolyte_molar_concentrations: 1 N NaCl [Polarization Test]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deoxygenated/Deaerated [Polarization Test]
+- purge_gas_type: Prepurified nitrogen (90 ml/min) [Polarization Test]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: 50 minutes after immersion [Polarization Test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Anodic polarization test [Polarization Tests in More Aggressive Environments]
+- electrochemical_mode: Potentiodynamic [Polarization Tests in More Aggressive Environments]
+- solution_chemistry_summary: Deaerated 1 N NaCl + 0.5 N HCl [Polarization Tests in More Aggressive Environments]
+- operating_parameters_summary: 50 C, deoxygenated with nitrogen, scanning rate of 6 mV/min [Polarization Tests in More Aggressive Environments]
+- overarching_environmental_conditions: Laboratory environment, test cell temperature held constant [Polarization Tests in More Aggressive Environments]
+- pitting_potential: > 908 mV vs. S.C.E. (did not show any breakdown) [Table 3]
+- electrolyte_temperature: 50 C [Polarization Tests in More Aggressive Environments]
+- continuous_sweep_rate: 6 mV/min [Polarization Tests in More Aggressive Environments]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (S.C.E.) [Polarization Test]
+- electrolyte_solvents: Distilled water [Polarization Test]
+- electrolyte_primary_salts: NaCl, HCl [Polarization Tests in More Aggressive Environments]
+- electrolyte_molar_concentrations: 1 N NaCl, 0.5 N HCl [Polarization Tests in More Aggressive Environments]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deoxygenated/Deaerated [Polarization Test]
+- purge_gas_type: Prepurified nitrogen [Polarization Test]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: 50 minutes after immersion [Polarization Test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 0.69 [Polarization Tests in More Aggressive Environments]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Anodic polarization test [Polarization Tests in More Aggressive Environments]
+- electrochemical_mode: Potentiodynamic [Polarization Tests in More Aggressive Environments]
+- solution_chemistry_summary: Deaerated 1 N NaCl + 0.5 N HCl [Polarization Tests in More Aggressive Environments]
+- operating_parameters_summary: 70 C, deoxygenated with nitrogen, scanning rate of 6 mV/min [Polarization Tests in More Aggressive Environments]
+- overarching_environmental_conditions: Laboratory environment, test cell temperature held constant [Polarization Tests in More Aggressive Environments]
+- pitting_potential: Did not break down [Polarization Tests in More Aggressive Environments]
+- electrolyte_temperature: 70 C [Polarization Tests in More Aggressive Environments]
+- continuous_sweep_rate: 6 mV/min [Polarization Tests in More Aggressive Environments]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (S.C.E.) [Polarization Test]
+- electrolyte_solvents: Distilled water [Polarization Test]
+- electrolyte_primary_salts: NaCl, HCl [Polarization Tests in More Aggressive Environments]
+- electrolyte_molar_concentrations: 1 N NaCl, 0.5 N HCl [Polarization Tests in More Aggressive Environments]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deoxygenated/Deaerated [Polarization Test]
+- purge_gas_type: Prepurified nitrogen [Polarization Test]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: 50 minutes after immersion [Polarization Test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 0.69 [Polarization Tests in More Aggressive Environments]
+- passive_current_density: 25 $\mu$A/cm2 (at +0.2 V S.C.E.) [Table 4]
+
+### Experiment
+- experimental_test_type: Anodic polarization test [Polarization Tests in More Aggressive Environments]
+- electrochemical_mode: Potentiodynamic [Polarization Tests in More Aggressive Environments]
+- solution_chemistry_summary: Deaerated 2 N NaCl + 0.5 N HCl [Polarization Tests in More Aggressive Environments]
+- operating_parameters_summary: 70 C, deoxygenated with nitrogen, scanning rate of 6 mV/min [Polarization Tests in More Aggressive Environments]
+- overarching_environmental_conditions: Laboratory environment, test cell temperature held constant [Polarization Tests in More Aggressive Environments]
+- pitting_potential: Did not break down [Polarization Tests in More Aggressive Environments]
+- electrolyte_temperature: 70 C [Polarization Tests in More Aggressive Environments]
+- continuous_sweep_rate: 6 mV/min [Polarization Tests in More Aggressive Environments]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (S.C.E.) [Polarization Test]
+- electrolyte_solvents: Distilled water [Polarization Test]
+- electrolyte_primary_salts: NaCl, HCl [Polarization Tests in More Aggressive Environments]
+- electrolyte_molar_concentrations: 2 N NaCl, 0.5 N HCl [Polarization Tests in More Aggressive Environments]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deoxygenated/Deaerated [Polarization Test]
+- purge_gas_type: Prepurified nitrogen [Polarization Test]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: 50 minutes after immersion [Polarization Test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: ~100 $\mu$A/cm2 (at +0.2 V S.C.E.) [Polarization Tests in More Aggressive Environments]
+
+# Base Material
+- standard_designation: Alloy G [Table 5]
+- trade_name: Hastelloy alloy G [Introduction]
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Nickel based alloy [Abstract]
+- elemental_weight_percentages: Fe: 19.69, Mo: 6.42, Ni: Balance, Cr: 21.89, C: 0.014, Co: 2.29, W: 0.65, Cb + Ta: 2.24, Cu: 1.78 [Table 5]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy G specimen [Polarization Test]
+- fabrication_steps: Commercial alloy, specific manufacturing steps not specified in text. [Experimental Procedure]
+- welding_operations: A Type 308 rod was welded to one side of each specimen [Polarization Test]
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Type 308 [Polarization Test]
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted in epoxy, ground to 600 grit [Polarization Test]
+- chemical_surface_preparation: Rinsed with distilled water; specimen/mount interface covered with a thin film of lacquer; cleaned with distilled water just prior to transferring to the cell [Polarization Test]
+- final_surface_roughness: 600 grit [Polarization Test]
+- exposed_surface_area: Approximately 1 cm2 [Polarization Test]
+
+### Experiment
+- experimental_test_type: Anodic polarization test [Polarization Test]
+- electrochemical_mode: Potentiodynamic [Polarization Test]
+- solution_chemistry_summary: Deaerated 1 N NaCl solution [Polarization Test]
+- operating_parameters_summary: 30 C, deoxygenated with nitrogen, scanning rate of 20 mV/min starting from the corrosion potential [Polarization Test]
+- overarching_environmental_conditions: Laboratory environment, test cell temperature held constant [Polarization Test]
+- pitting_potential: > 708 mV vs. S.C.E. (did not show any breakdown) [Table 2]
+- electrolyte_temperature: 30 C [Polarization Test]
+- continuous_sweep_rate: 20 mV/min [Polarization Test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (S.C.E.) [Polarization Test]
+- electrolyte_solvents: Distilled water [Polarization Test]
+- electrolyte_primary_salts: NaCl [Polarization Test]
+- electrolyte_molar_concentrations: 1 N NaCl [Polarization Test]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deoxygenated/Deaerated [Polarization Test]
+- purge_gas_type: Prepurified nitrogen (90 ml/min) [Polarization Test]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: 50 minutes after immersion [Polarization Test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Anodic polarization test [Polarization Tests in More Aggressive Environments]
+- electrochemical_mode: Potentiodynamic [Polarization Tests in More Aggressive Environments]
+- solution_chemistry_summary: Deaerated 1 N NaCl + 0.5 N HCl [Polarization Tests in More Aggressive Environments]
+- operating_parameters_summary: 50 C, deoxygenated with nitrogen, scanning rate of 6 mV/min [Polarization Tests in More Aggressive Environments]
+- overarching_environmental_conditions: Laboratory environment, test cell temperature held constant [Polarization Tests in More Aggressive Environments]
+- pitting_potential: > 908 mV vs. S.C.E. (did not show any breakdown) [Table 3]
+- electrolyte_temperature: 50 C [Polarization Tests in More Aggressive Environments]
+- continuous_sweep_rate: 6 mV/min [Polarization Tests in More Aggressive Environments]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (S.C.E.) [Polarization Test]
+- electrolyte_solvents: Distilled water [Polarization Test]
+- electrolyte_primary_salts: NaCl, HCl [Polarization Tests in More Aggressive Environments]
+- electrolyte_molar_concentrations: 1 N NaCl, 0.5 N HCl [Polarization Tests in More Aggressive Environments]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deoxygenated/Deaerated [Polarization Test]
+- purge_gas_type: Prepurified nitrogen [Polarization Test]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: 50 minutes after immersion [Polarization Test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 0.69 [Polarization Tests in More Aggressive Environments]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Anodic polarization test [Polarization Tests in More Aggressive Environments]
+- electrochemical_mode: Potentiodynamic [Polarization Tests in More Aggressive Environments]
+- solution_chemistry_summary: Deaerated 1 N NaCl + 0.5 N HCl [Polarization Tests in More Aggressive Environments]
+- operating_parameters_summary: 70 C, deoxygenated with nitrogen, scanning rate of 6 mV/min [Polarization Tests in More Aggressive Environments]
+- overarching_environmental_conditions: Laboratory environment, test cell temperature held constant [Polarization Tests in More Aggressive Environments]
+- pitting_potential: ~200 mV (0.2 V) vs. S.C.E. [Polarization Tests in More Aggressive Environments]
+- electrolyte_temperature: 70 C [Polarization Tests in More Aggressive Environments]
+- continuous_sweep_rate: 6 mV/min [Polarization Tests in More Aggressive Environments]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (S.C.E.) [Polarization Test]
+- electrolyte_solvents: Distilled water [Polarization Test]
+- electrolyte_primary_salts: NaCl, HCl [Polarization Tests in More Aggressive Environments]
+- electrolyte_molar_concentrations: 1 N NaCl, 0.5 N HCl [Polarization Tests in More Aggressive Environments]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deoxygenated/Deaerated [Polarization Test]
+- purge_gas_type: Prepurified nitrogen [Polarization Test]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: 50 minutes after immersion [Polarization Test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 0.69 [Polarization Tests in More Aggressive Environments]
+- passive_current_density: 1000 $\mu$A/cm2 (at +0.2 V S.C.E.) [Table 4]
+
+# Base Material
+- standard_designation: AL-6X [Table 5]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Commercial stainless steel [Introduction]
+- elemental_weight_percentages: Fe: Balance, Mo: 6.45, Ni: 24.64, Cr: 20.35, C: 0.018, Mn: 1.39, Si: 0.41, N: 0.018 [Table 5]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [Role of Nitrogen]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: AL-6X specimen [Polarization Test]
+- fabrication_steps: Commercial alloy, specific manufacturing steps not specified in text. [Experimental Procedure]
+- welding_operations: A Type 308 rod was welded to one side of each specimen [Polarization Test]
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Type 308 [Polarization Test]
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted in epoxy, ground to 600 grit [Polarization Test]
+- chemical_surface_preparation: Rinsed with distilled water; specimen/mount interface covered with a thin film of lacquer; cleaned with distilled water just prior to transferring to the cell [Polarization Test]
+- final_surface_roughness: 600 grit [Polarization Test]
+- exposed_surface_area: Approximately 1 cm2 [Polarization Test]
+
+### Experiment
+- experimental_test_type: Anodic polarization test [Polarization Test]
+- electrochemical_mode: Potentiodynamic [Polarization Test]
+- solution_chemistry_summary: Deaerated 1 N NaCl solution [Polarization Test]
+- operating_parameters_summary: 30 C, deoxygenated with nitrogen, scanning rate of 20 mV/min starting from the corrosion potential [Polarization Test]
+- overarching_environmental_conditions: Laboratory environment, test cell temperature held constant [Polarization Test]
+- pitting_potential: 562 mV vs. S.C.E. [Table 2]
+- electrolyte_temperature: 30 C [Polarization Test]
+- continuous_sweep_rate: 20 mV/min [Polarization Test]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (S.C.E.) [Polarization Test]
+- electrolyte_solvents: Distilled water [Polarization Test]
+- electrolyte_primary_salts: NaCl [Polarization Test]
+- electrolyte_molar_concentrations: 1 N NaCl [Polarization Test]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deoxygenated/Deaerated [Polarization Test]
+- purge_gas_type: Prepurified nitrogen (90 ml/min) [Polarization Test]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: 50 minutes after immersion [Polarization Test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Anodic polarization test [Polarization Tests in More Aggressive Environments]
+- electrochemical_mode: Potentiodynamic [Polarization Tests in More Aggressive Environments]
+- solution_chemistry_summary: Deaerated 1 N NaCl + 0.5 N HCl [Polarization Tests in More Aggressive Environments]
+- operating_parameters_summary: 50 C, deoxygenated with nitrogen, scanning rate of 6 mV/min [Polarization Tests in More Aggressive Environments]
+- overarching_environmental_conditions: Laboratory environment, test cell temperature held constant [Polarization Tests in More Aggressive Environments]
+- pitting_potential: 195 mV vs. S.C.E. [Table 3]
+- electrolyte_temperature: 50 C [Polarization Tests in More Aggressive Environments]
+- continuous_sweep_rate: 6 mV/min [Polarization Tests in More Aggressive Environments]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (S.C.E.) [Polarization Test]
+- electrolyte_solvents: Distilled water [Polarization Test]
+- electrolyte_primary_salts: NaCl, HCl [Polarization Tests in More Aggressive Environments]
+- electrolyte_molar_concentrations: 1 N NaCl, 0.5 N HCl [Polarization Tests in More Aggressive Environments]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deoxygenated/Deaerated [Polarization Test]
+- purge_gas_type: Prepurified nitrogen [Polarization Test]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: 50 minutes after immersion [Polarization Test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 0.69 [Polarization Tests in More Aggressive Environments]
+- passive_current_density: 4 $\mu$A/cm2 [Table 3]
+
+### Experiment
+- experimental_test_type: Anodic polarization test [Role of Nitrogen]
+- electrochemical_mode: Potentiodynamic [Role of Nitrogen]
+- solution_chemistry_summary: Deaerated 1 N NaCl + 0.5 N HCl with 0.1 N NaNO3 [Role of Nitrogen]
+- operating_parameters_summary: 50 C, deoxygenated with nitrogen, scanning rate of 6 mV/min [Role of Nitrogen]
+- overarching_environmental_conditions: Laboratory environment, test cell temperature held constant [Polarization Tests in More Aggressive Environments]
+- pitting_potential: Not specified in text (shown graphically in Figure 11 to substantially improve passivity and breakdown potential). [Role of Nitrogen]
+- electrolyte_temperature: 50 C [Role of Nitrogen]
+- continuous_sweep_rate: 6 mV/min [Polarization Tests in More Aggressive Environments]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (S.C.E.) [Polarization Test]
+- electrolyte_solvents: Distilled water [Polarization Test]
+- electrolyte_primary_salts: NaCl, HCl [Role of Nitrogen]
+- electrolyte_molar_concentrations: 1 N NaCl, 0.5 N HCl, 0.1 N NaNO3 [Role of Nitrogen]
+- electrolyte_soluble_additives: 0.1 N NaNO3 [Role of Nitrogen]
+- dissolved_gas_condition: Deoxygenated/Deaerated [Polarization Test]
+- purge_gas_type: Prepurified nitrogen [Polarization Test]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: 50 minutes after immersion [Polarization Test]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 0.69 [Role of Nitrogen]
+- passive_current_density: Not specified in text.

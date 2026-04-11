@@ -1,0 +1,256 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High Entropy Alloys (Abstract)
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Al: 0.5 mol ratio; Co, Cr, Cu, Fe, Ni: 1 mol ratio each. Boron atom percentages: B 0: 0 atom %, B 0.2: 3.5 atom %, B 0.6: 9.8 atom %, B 1.0: 15.4 atom % (Experimental - Table I).
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Configurational entropy change per mole (ΔS_conf) of 1.95R for a seven-element equimolar solution, though actual values vary by composition (Introduction).
+- overall_microstructure: Simple face-centered cubic (fcc) solid-solution structure (Introduction).
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Simple fcc solid-solution; Cr, Fe, and Co borides (Abstract, Introduction).
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: B 0 / Al0.5CoCrCuFeNi (Experimental - Table I)
+- fabrication_steps: Melted in an induction furnace at 1600°C after purging with argon; poured into a shell mold preheated at 1100°C; cut by electric arc line into pieces 3 mm thick and 8 mm in diameter (Experimental)
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Cut by electric arc line; cold-mounted using an epoxy resin (Experimental)
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.5 cm2 (Experimental)
+
+### Experiment
+- experimental_test_type: Anodic polarization and electrochemical impedance spectroscopy (Abstract)
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 1 N H2SO4 aqueous solution (Abstract)
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Aqueous / Water (Abstract)
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 1 N H2SO4 (Abstract)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: B 0.2 / Al0.5CoCrCuFeNiB0.2 (Experimental - Table I)
+- fabrication_steps: Melted in an induction furnace at 1600°C after purging with argon; poured into a shell mold preheated at 1100°C; cut by electric arc line into pieces 3 mm thick and 8 mm in diameter (Experimental)
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Cut by electric arc line; cold-mounted using an epoxy resin (Experimental)
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.5 cm2 (Experimental)
+
+### Experiment
+- experimental_test_type: Anodic polarization and electrochemical impedance spectroscopy (Abstract)
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 1 N H2SO4 aqueous solution (Abstract)
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Aqueous / Water (Abstract)
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 1 N H2SO4 (Abstract)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: B 0.6 / Al0.5CoCrCuFeNiB0.6 (Experimental - Table I)
+- fabrication_steps: Melted in an induction furnace at 1600°C after purging with argon; poured into a shell mold preheated at 1100°C; cut by electric arc line into pieces 3 mm thick and 8 mm in diameter (Experimental)
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Cut by electric arc line; cold-mounted using an epoxy resin (Experimental)
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.5 cm2 (Experimental)
+
+### Experiment
+- experimental_test_type: Anodic polarization and electrochemical impedance spectroscopy (Abstract)
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 1 N H2SO4 aqueous solution (Abstract)
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Aqueous / Water (Abstract)
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 1 N H2SO4 (Abstract)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: B 1.0 / Al0.5CoCrCuFeNiB1.0 (Experimental - Table I)
+- fabrication_steps: Melted in an induction furnace at 1600°C after purging with argon; poured into a shell mold preheated at 1100°C; cut by electric arc line into pieces 3 mm thick and 8 mm in diameter (Experimental)
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Cut by electric arc line; cold-mounted using an epoxy resin (Experimental)
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.5 cm2 (Experimental)
+
+### Experiment
+- experimental_test_type: Anodic polarization and electrochemical impedance spectroscopy (Abstract)
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 1 N H2SO4 aqueous solution (Abstract)
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Aqueous / Water (Abstract)
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 1 N H2SO4 (Abstract)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+
+# Base Material
+- standard_designation: 304 stainless steel (Experimental)
+- trade_name: Not specified in text.
+- commercial_grade: 304 (Experimental)
+- uns_code: Not specified in text.
+- alloy_family: Stainless steel (Experimental)
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 304 stainless steel rod (Experimental)
+- fabrication_steps: Machined down to 5 mm thick and 12.7 mm in diameter (Experimental)
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Cold-mounted using an epoxy resin (Experimental)
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 1.26 cm2 (Experimental)
+
+### Experiment
+- experimental_test_type: Anodic polarization and electrochemical impedance spectroscopy (Abstract)
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 1 N H2SO4 aqueous solution (Abstract)
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Aqueous / Water (Abstract)
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: 1 N H2SO4 (Abstract)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

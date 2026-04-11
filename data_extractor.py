@@ -46,34 +46,3 @@ class DataExtractorAgent:
             f.write(text)
 
         return text
-
-
-# Notes from Gemini regarding implementation.
-# It highly recommends repeating parts of the system prompt after the paper text.
-# May incorporate that into llm_helper if I get poor performance.
-#
-# Info regarding how to update the data extractor for vllm.
-# from openai import OpenAI
-
-# # Point to your vLLM server
-# client = OpenAI(
-#     base_url="http://<your-vllm-ip>:<port>/v1",
-#     api_key="EMPTY" # vLLM doesn't require a real key
-# )
-
-# paper_markdown = "..." # Loaded from your Docling output
-
-# response = client.chat.completions.create(
-#     model="qwen3.5-122b-a10b", # Use your exact vLLM model name
-#     messages=[
-#         {"role": "system", "content": "You are an expert Materials Science Data Extractor... [Insert full System Prompt here]"},
-#         {"role": "user", "content": f"""Here is the research paper:
-
-# <research_paper>
-# {paper_markdown}
-# </research_paper>
-
-# Based strictly on the paper above, extract the data using the required Markdown template. Remember to duplicate experiment details for each conditioned material, output "Not specified in text" if missing, and provide exact quote citations."""}
-#     ],
-#     temperature=0.1 # Keep this very low for data extraction!
-# )

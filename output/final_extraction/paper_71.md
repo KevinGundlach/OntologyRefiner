@@ -1,0 +1,1730 @@
+```markdown
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: 0.030 wt% C, 0.13 wt% Si, 3.84 wt% Mn, 0.011 wt% S, 0.014 wt% P, 17.38 wt% Cr, 20.15 wt% Ni, 0.02 wt% Mo, 0.036 wt% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Fully austenitic structure [Testing]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [Testing]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Steel 1 [Table I]
+- fabrication_steps: 5 kg melts made at atmospheric pressure in an induction furnace using Japanese iron, nickel pellets, electrolytic chromium, ferro-molybdenum, refined manganese, and high-nitrogen ferro-chromium. Ingots cast and hot rolled to 20 mm diameter bars [Testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1100°C for 30 min [Testing]
+- cooling_methods: Cooled in still air [Testing]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to a 120 grit finish [Testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Testing]
+- exposed_surface_area: 5 cm^2 [Testing]
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, and thereafter at a steady rate of 1 V in 50 min. Critical pitting potential taken as that at which there was an anodic current flow of 10^-5 A/cm^2 [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -65 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique with crevice [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, and thereafter at a steady rate of 1 V in 50 min. Critical pitting potential taken as that at which there was an anodic current flow of 10^-5 A/cm^2. Samples had a ring made from round section 'neoprene' (2.5 mm section) fastened firmly round the cylindrical specimen [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -90 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: 0.025 wt% C, 0.19 wt% Si, 4.22 wt% Mn, 0.010 wt% S, 0.017 wt% P, 17.68 wt% Cr, 20.43 wt% Ni, 0.08 wt% Mo, 0.300 wt% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Fully austenitic structure [Testing]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [Testing]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Steel 2 [Table I]
+- fabrication_steps: 5 kg melts made at atmospheric pressure in an induction furnace; ingots cast and hot rolled to 20 mm diameter bars [Testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1100°C for 30 min [Testing]
+- cooling_methods: Cooled in still air [Testing]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to a 120 grit finish [Testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Testing]
+- exposed_surface_area: 5 cm^2 [Testing]
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2 [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -25 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique with crevice [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2. Samples had a ring made from round section 'neoprene' (2.5 mm section) fastened firmly round the cylindrical specimen [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -15 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: 0.035 wt% C, 0.19 wt% Si, 4.38 wt% Mn, 0.010 wt% S, 0.016 wt% P, 17.95 wt% Cr, 19.90 wt% Ni, 1.03 wt% Mo, 0.031 wt% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Fully austenitic structure [Testing]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [Testing]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Steel 3 [Table I]
+- fabrication_steps: 5 kg melts made at atmospheric pressure in an induction furnace; ingots cast and hot rolled to 20 mm diameter bars [Testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1100°C for 30 min [Testing]
+- cooling_methods: Cooled in still air [Testing]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to a 120 grit finish [Testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Testing]
+- exposed_surface_area: 5 cm^2 [Testing]
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2 [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -40 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique with crevice [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2. Samples had a ring made from round section 'neoprene' (2.5 mm section) fastened firmly round the cylindrical specimen [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -30 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: 0.007 wt% C, 0.22 wt% Si, 4.08 wt% Mn, 0.016 wt% S, 0.020 wt% P, 16.42 wt% Cr, 19.90 wt% Ni, 1.03 wt% Mo, 0.155 wt% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Fully austenitic structure [Testing]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [Testing]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Steel 4 [Table I]
+- fabrication_steps: 5 kg melts made at atmospheric pressure in an induction furnace; ingots cast and hot rolled to 20 mm diameter bars [Testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1100°C for 30 min [Testing]
+- cooling_methods: Cooled in still air [Testing]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to a 120 grit finish [Testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Testing]
+- exposed_surface_area: 5 cm^2 [Testing]
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2 [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -15 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique with crevice [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2. Samples had a ring made from round section 'neoprene' (2.5 mm section) fastened firmly round the cylindrical specimen [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -60 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: 0.024 wt% C, 0.33 wt% Si, 4.06 wt% Mn, 0.016 wt% S, 0.020 wt% P, 16.86 wt% Cr, 19.98 wt% Ni, 1.03 wt% Mo, 0.270 wt% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Fully austenitic structure [Testing]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [Testing]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Steel 5 [Table I]
+- fabrication_steps: 5 kg melts made at atmospheric pressure in an induction furnace; ingots cast and hot rolled to 20 mm diameter bars [Testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1100°C for 30 min [Testing]
+- cooling_methods: Cooled in still air [Testing]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to a 120 grit finish [Testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Testing]
+- exposed_surface_area: 5 cm^2 [Testing]
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2 [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +65 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique with crevice [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2. Samples had a ring made from round section 'neoprene' (2.5 mm section) fastened firmly round the cylindrical specimen [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -20 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: 0.025 wt% C, 0.17 wt% Si, 4.31 wt% Mn, 0.012 wt% S, 0.018 wt% P, 16.66 wt% Cr, 20.54 wt% Ni, 1.01 wt% Mo, 0.290 wt% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Fully austenitic structure [Testing]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [Testing]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Steel 6 [Table I]
+- fabrication_steps: 5 kg melts made at atmospheric pressure in an induction furnace; ingots cast and hot rolled to 20 mm diameter bars [Testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1100°C for 30 min [Testing]
+- cooling_methods: Cooled in still air [Testing]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to a 120 grit finish [Testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Testing]
+- exposed_surface_area: 5 cm^2 [Testing]
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2 [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +50 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique with crevice [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2. Samples had a ring made from round section 'neoprene' (2.5 mm section) fastened firmly round the cylindrical specimen [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +20 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: 0.021 wt% C, 0.18 wt% Si, 4.25 wt% Mn, 0.014 wt% S, 0.019 wt% P, 16.34 wt% Cr, 19.16 wt% Ni, 2.98 wt% Mo, 0.034 wt% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Fully austenitic structure [Testing]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [Testing]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Steel 7 [Table I]
+- fabrication_steps: 5 kg melts made at atmospheric pressure in an induction furnace; ingots cast and hot rolled to 20 mm diameter bars [Testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1100°C for 30 min [Testing]
+- cooling_methods: Cooled in still air [Testing]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to a 120 grit finish [Testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Testing]
+- exposed_surface_area: 5 cm^2 [Testing]
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2 [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +20 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique with crevice [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2. Samples had a ring made from round section 'neoprene' (2.5 mm section) fastened firmly round the cylindrical specimen [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +10 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: 0.008 wt% C, 0.14 wt% Si, 4.06 wt% Mn, 0.019 wt% S, 0.017 wt% P, 16.70 wt% Cr, 19.65 wt% Ni, 2.92 wt% Mo, 0.149 wt% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Fully austenitic structure [Testing]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [Testing]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Steel 8 [Table I]
+- fabrication_steps: 5 kg melts made at atmospheric pressure in an induction furnace; ingots cast and hot rolled to 20 mm diameter bars [Testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1100°C for 30 min [Testing]
+- cooling_methods: Cooled in still air [Testing]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to a 120 grit finish [Testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Testing]
+- exposed_surface_area: 5 cm^2 [Testing]
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2 [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +85 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique with crevice [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2. Samples had a ring made from round section 'neoprene' (2.5 mm section) fastened firmly round the cylindrical specimen [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +40 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: 0.012 wt% C, 0.27 wt% Si, 4.07 wt% Mn, 0.018 wt% S, 0.020 wt% P, 16.80 wt% Cr, 20.05 wt% Ni, 2.94 wt% Mo, 0.291 wt% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Fully austenitic structure [Testing]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [Testing]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Steel 9 [Table I]
+- fabrication_steps: 5 kg melts made at atmospheric pressure in an induction furnace; ingots cast and hot rolled to 20 mm diameter bars [Testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1100°C for 30 min [Testing]
+- cooling_methods: Cooled in still air [Testing]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to a 120 grit finish [Testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Testing]
+- exposed_surface_area: 5 cm^2 [Testing]
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2 [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +80 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique with crevice [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2. Samples had a ring made from round section 'neoprene' (2.5 mm section) fastened firmly round the cylindrical specimen [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +95 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: 0.025 wt% C, 0.23 wt% Si, 4.53 wt% Mn, 0.010 wt% S, 0.019 wt% P, 16.58 wt% Cr, 20.29 wt% Ni, 2.72 wt% Mo, 0.310 wt% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Fully austenitic structure [Testing]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [Testing]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Steel 10 [Table I]
+- fabrication_steps: 5 kg melts made at atmospheric pressure in an induction furnace; ingots cast and hot rolled to 20 mm diameter bars [Testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1100°C for 30 min [Testing]
+- cooling_methods: Cooled in still air [Testing]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to a 120 grit finish [Testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Testing]
+- exposed_surface_area: 5 cm^2 [Testing]
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2 [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +95 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique with crevice [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2. Samples had a ring made from round section 'neoprene' (2.5 mm section) fastened firmly round the cylindrical specimen [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +70 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: 0.012 wt% C, 0.13 wt% Si, 4.28 wt% Mn, 0.009 wt% S, 0.007 wt% P, 22.58 wt% Cr, 19.88 wt% Ni, 0.05 wt% Mo, 0.054 wt% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Fully austenitic structure [Testing]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [Testing]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Steel 11 [Table I]
+- fabrication_steps: 5 kg melts made at atmospheric pressure in an induction furnace; ingots cast and hot rolled to 20 mm diameter bars [Testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1100°C for 30 min [Testing]
+- cooling_methods: Cooled in still air [Testing]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to a 120 grit finish [Testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Testing]
+- exposed_surface_area: 5 cm^2 [Testing]
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2 [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -30 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique with crevice [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2. Samples had a ring made from round section 'neoprene' (2.5 mm section) fastened firmly round the cylindrical specimen [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -60 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: 0.017 wt% C, 0.14 wt% Si, 4.33 wt% Mn, 0.008 wt% S, 0.008 wt% P, 22.46 wt% Cr, 20.27 wt% Ni, 0.10 wt% Mo, 0.390 wt% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Fully austenitic structure [Testing]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [Testing]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Steel 12 [Table I]
+- fabrication_steps: 5 kg melts made at atmospheric pressure in an induction furnace; ingots cast and hot rolled to 20 mm diameter bars [Testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1100°C for 30 min [Testing]
+- cooling_methods: Cooled in still air [Testing]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to a 120 grit finish [Testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Testing]
+- exposed_surface_area: 5 cm^2 [Testing]
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2 [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +50 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique with crevice [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2. Samples had a ring made from round section 'neoprene' (2.5 mm section) fastened firmly round the cylindrical specimen [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +80 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: 0.020 wt% C, 0.16 wt% Si, 4.20 wt% Mn, 0.007 wt% S, 0.015 wt% P, 22.13 wt% Cr, 20.30 wt% Ni, 0.99 wt% Mo, 0.054 wt% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Fully austenitic structure [Testing]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [Testing]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Steel 13 [Table I]
+- fabrication_steps: 5 kg melts made at atmospheric pressure in an induction furnace; ingots cast and hot rolled to 20 mm diameter bars [Testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1100°C for 30 min [Testing]
+- cooling_methods: Cooled in still air [Testing]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to a 120 grit finish [Testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Testing]
+- exposed_surface_area: 5 cm^2 [Testing]
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2 [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -10 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique with crevice [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2. Samples had a ring made from round section 'neoprene' (2.5 mm section) fastened firmly round the cylindrical specimen [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -10 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: 0.008 wt% C, 0.15 wt% Si, 4.02 wt% Mn, 0.018 wt% S, 0.016 wt% P, 22.52 wt% Cr, 19.85 wt% Ni, 1.07 wt% Mo, 0.155 wt% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Fully austenitic structure [Testing]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [Testing]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Steel 14 [Table I]
+- fabrication_steps: 5 kg melts made at atmospheric pressure in an induction furnace; ingots cast and hot rolled to 20 mm diameter bars [Testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1100°C for 30 min [Testing]
+- cooling_methods: Cooled in still air [Testing]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to a 120 grit finish [Testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Testing]
+- exposed_surface_area: 5 cm^2 [Testing]
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2 [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +35 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique with crevice [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2. Samples had a ring made from round section 'neoprene' (2.5 mm section) fastened firmly round the cylindrical specimen [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -70 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: 0.011 wt% C, 0.20 wt% Si, 3.80 wt% Mn, 0.015 wt% S, 0.020 wt% P, 22.72 wt% Cr, 19.95 wt% Ni, 1.02 wt% Mo, 0.412 wt% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Fully austenitic structure [Testing]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [Testing]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Steel 15 [Table I]
+- fabrication_steps: 5 kg melts made at atmospheric pressure in an induction furnace; ingots cast and hot rolled to 20 mm diameter bars [Testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1100°C for 30 min [Testing]
+- cooling_methods: Cooled in still air [Testing]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to a 120 grit finish [Testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Testing]
+- exposed_surface_area: 5 cm^2 [Testing]
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2 [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +200 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique with crevice [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2. Samples had a ring made from round section 'neoprene' (2.5 mm section) fastened firmly round the cylindrical specimen [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +65 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: 0.025 wt% C, 0.21 wt% Si, 4.29 wt% Mn, 0.011 wt% S, 0.013 wt% P, 22.41 wt% Cr, 19.96 wt% Ni, 2.64 wt% Mo, 0.067 wt% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Fully austenitic structure [Testing]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [Testing]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Steel 16 [Table I]
+- fabrication_steps: 5 kg melts made at atmospheric pressure in an induction furnace; ingots cast and hot rolled to 20 mm diameter bars [Testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1100°C for 30 min [Testing]
+- cooling_methods: Cooled in still air [Testing]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to a 120 grit finish [Testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Testing]
+- exposed_surface_area: 5 cm^2 [Testing]
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2 [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +125 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique with crevice [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2. Samples had a ring made from round section 'neoprene' (2.5 mm section) fastened firmly round the cylindrical specimen [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +40 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: 0.012 wt% C, 0.14 wt% Si, 3.80 wt% Mn, 0.019 wt% S, 0.017 wt% P, 22.84 wt% Cr, 20.05 wt% Ni, 2.85 wt% Mo, 0.159 wt% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Fully austenitic structure [Testing]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [Testing]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Steel 17 [Table I]
+- fabrication_steps: 5 kg melts made at atmospheric pressure in an induction furnace; ingots cast and hot rolled to 20 mm diameter bars [Testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1100°C for 30 min [Testing]
+- cooling_methods: Cooled in still air [Testing]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to a 120 grit finish [Testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Testing]
+- exposed_surface_area: 5 cm^2 [Testing]
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2 [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +170 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique with crevice [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2. Samples had a ring made from round section 'neoprene' (2.5 mm section) fastened firmly round the cylindrical specimen [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +150 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: 0.022 wt% C, 0.16 wt% Si, 4.35 wt% Mn, 0.011 wt% S, 0.015 wt% P, 22.35 wt% Cr, 20.39 wt% Ni, 2.73 wt% Mo, 0.310 wt% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Fully austenitic structure [Testing]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [Testing]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Steel 18 [Table I]
+- fabrication_steps: 5 kg melts made at atmospheric pressure in an induction furnace; ingots cast and hot rolled to 20 mm diameter bars [Testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1100°C for 30 min [Testing]
+- cooling_methods: Cooled in still air [Testing]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to a 120 grit finish [Testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Testing]
+- exposed_surface_area: 5 cm^2 [Testing]
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2 [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +920 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique with crevice [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2. Samples had a ring made from round section 'neoprene' (2.5 mm section) fastened firmly round the cylindrical specimen [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +130 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steels [Introduction]
+- elemental_weight_percentages: 0.020 wt% C, 0.23 wt% Si, 3.75 wt% Mn, 0.017 wt% S, 0.019 wt% P, 22.52 wt% Cr, 19.95 wt% Ni, 2.96 wt% Mo, 0.455 wt% N [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Fully austenitic structure [Testing]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite [Testing]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Steel 19 [Table I]
+- fabrication_steps: 5 kg melts made at atmospheric pressure in an induction furnace; ingots cast and hot rolled to 20 mm diameter bars [Testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treated at 1100°C for 30 min [Testing]
+- cooling_methods: Cooled in still air [Testing]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground to a 120 grit finish [Testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120 grit finish [Testing]
+- exposed_surface_area: 5 cm^2 [Testing]
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2 [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +940 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic technique with crevice [Testing]
+- electrochemical_mode: Potentiodynamic polarization [Testing]
+- solution_chemistry_summary: Aerated solution of 0.6 M sodium chloride and 0.1 M sodium bicarbonate [Testing]
+- operating_parameters_summary: Pretreatment for 5 min at -1.5 V, potential increased rapidly to -0.5 V, then steady rate of 1 V in 50 min. Critical pitting potential taken at anodic current flow of 10^-5 A/cm^2. Samples had a ring made from round section 'neoprene' (2.5 mm section) fastened firmly round the cylindrical specimen [Testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +905 mV [Table II]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 1 V in 50 min [Testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard saturated calomel electrode (SCE) [Testing]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride, sodium bicarbonate [Testing]
+- electrolyte_molar_concentrations: 0.6 M sodium chloride, 0.1 M sodium bicarbonate [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Testing]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+```

@@ -1,0 +1,247 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High-entropy alloys [1. Introduction]
+- elemental_weight_percentages: Fe: 24.58 wt.%, Cr: 25.12 wt.%, Ni: 25.92 wt.%, Co: 24.90 wt.% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text. (Note: Precursor metals used were 99.99% high purity [2.1. Materials preparation])
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Fcc structure [3.1. Microstructure and phase constitution of as-cast FeCoNiCrCux alloys]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Fcc structure with a lattice parameter of 3.587 × 10^-10 m [3.1. Microstructure and phase constitution of as-cast FeCoNiCrCux alloys]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: as-cast FeCoNiCr [3.1. Microstructure and phase constitution of as-cast FeCoNiCrCux alloys]
+- fabrication_steps: Melted by arc melting from a mixture of high purity (99.99%) of Fe, Co, Ni, Cr, and Cu metals under a titanium-gettered atmosphere of argon [2.1. Materials preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: As-cast [3.1. Microstructure and phase constitution of as-cast FeCoNiCrCux alloys]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [2.3. Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic [2.3. Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 3.5% NaCl solution [2.3. Potentiodynamic polarization measurements]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 1 mV s^-1 from the initial potential of -250 mV versus open circuit potential to the final potential of 1.6 V_SCE. The potential was measured through a Luggin probe [2.3. Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: Conducted in aerated conditions at 25 °C under atmospheric pressure [2.3. Potentiodynamic polarization measurements]
+- pitting_potential: 0.31 V_SCE [Table 5]
+- electrolyte_temperature: 25 °C [2.3. Potentiodynamic polarization measurements]
+- continuous_sweep_rate: 1 mV s^-1 [2.3. Potentiodynamic polarization measurements]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [2.3. Potentiodynamic polarization measurements]
+- electrolyte_solvents: Aqueous [1. Introduction]
+- electrolyte_primary_salts: NaCl [2.3. Potentiodynamic polarization measurements]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [2.3. Potentiodynamic polarization measurements]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -0.26 V_SCE [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.3. Potentiodynamic polarization measurements]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High-entropy alloys [1. Introduction]
+- elemental_weight_percentages: Fe: 20.47 wt.%, Cr: 16.48 wt.%, Ni: 25.48 wt.%, Co: 23.99 wt.%, Cu: 13.49 wt.% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Cu segregation in interdendrites due to weaker bonding force (chemical mixing enthalpy) to other constituent elements [3.1. Microstructure and phase constitution of as-cast FeCoNiCrCux alloys; 4. Conclusions]
+- trace_impurities: Not specified in text. (Note: Precursor metals used were 99.99% high purity [2.1. Materials preparation])
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Composed of dendrites and interdendrites. The interdendrite is a Cu-rich phase, and dendrite is a Cu-depleted (Cr-rich) phase [3.1. Microstructure and phase constitution of as-cast FeCoNiCrCux alloys]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Fcc structure with a lattice parameter of 3.585 × 10^-10 m [3.1. Microstructure and phase constitution of as-cast FeCoNiCrCux alloys]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: as-cast FeCoNiCrCu0.5 [3.1. Microstructure and phase constitution of as-cast FeCoNiCrCux alloys]
+- fabrication_steps: Melted by arc melting from a mixture of high purity (99.99%) of Fe, Co, Ni, Cr, and Cu metals under a titanium-gettered atmosphere of argon [2.1. Materials preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: As-cast [3.1. Microstructure and phase constitution of as-cast FeCoNiCrCux alloys]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [2.3. Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic [2.3. Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 3.5% NaCl solution [2.3. Potentiodynamic polarization measurements]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 1 mV s^-1 from the initial potential of -250 mV versus open circuit potential to the final potential of 1.6 V_SCE. The potential was measured through a Luggin probe [2.3. Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: Conducted in aerated conditions at 25 °C under atmospheric pressure [2.3. Potentiodynamic polarization measurements]
+- pitting_potential: 0.09 V_SCE [Table 5]
+- electrolyte_temperature: 25 °C [2.3. Potentiodynamic polarization measurements]
+- continuous_sweep_rate: 1 mV s^-1 [2.3. Potentiodynamic polarization measurements]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [2.3. Potentiodynamic polarization measurements]
+- electrolyte_solvents: Aqueous [1. Introduction]
+- electrolyte_primary_salts: NaCl [2.3. Potentiodynamic polarization measurements]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [2.3. Potentiodynamic polarization measurements]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -0.29 V_SCE [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.3. Potentiodynamic polarization measurements]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High-entropy alloys [1. Introduction]
+- elemental_weight_percentages: Fe: 18.78 wt.%, Cr: 16.25 wt.%, Ni: 21.78 wt.%, Co: 21.50 wt.%, Cu: 21.69 wt.% [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Cu segregation in interdendrites due to weaker bonding force (chemical mixing enthalpy) to other constituent elements [3.1. Microstructure and phase constitution of as-cast FeCoNiCrCux alloys; 4. Conclusions]
+- trace_impurities: Not specified in text. (Note: Precursor metals used were 99.99% high purity [2.1. Materials preparation])
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Composed of dendrites and interdendrites. The interdendrite is a Cu-rich phase, and dendrite is a Cu-depleted (Cr-rich) phase [3.1. Microstructure and phase constitution of as-cast FeCoNiCrCux alloys]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Fcc structure with a lattice parameter of 3.582 × 10^-10 m [3.1. Microstructure and phase constitution of as-cast FeCoNiCrCux alloys]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: as-cast FeCoNiCrCu [3.1. Microstructure and phase constitution of as-cast FeCoNiCrCux alloys]
+- fabrication_steps: Melted by arc melting from a mixture of high purity (99.99%) of Fe, Co, Ni, Cr, and Cu metals under a titanium-gettered atmosphere of argon [2.1. Materials preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: As-cast [3.1. Microstructure and phase constitution of as-cast FeCoNiCrCux alloys]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [2.3. Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic [2.3. Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 3.5% NaCl solution [2.3. Potentiodynamic polarization measurements]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 1 mV s^-1 from the initial potential of -250 mV versus open circuit potential to the final potential of 1.6 V_SCE. The potential was measured through a Luggin probe [2.3. Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: Conducted in aerated conditions at 25 °C under atmospheric pressure [2.3. Potentiodynamic polarization measurements]
+- pitting_potential: 0.08 V_SCE [Table 5]
+- electrolyte_temperature: 25 °C [2.3. Potentiodynamic polarization measurements]
+- continuous_sweep_rate: 1 mV s^-1 [2.3. Potentiodynamic polarization measurements]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [2.3. Potentiodynamic polarization measurements]
+- electrolyte_solvents: Aqueous [1. Introduction]
+- electrolyte_primary_salts: NaCl [2.3. Potentiodynamic polarization measurements]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [2.3. Potentiodynamic polarization measurements]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -0.33 V_SCE [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.3. Potentiodynamic polarization measurements]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: AISI 304L [2.1. Materials preparation]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Stainless steel [2.1. Materials preparation]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: AISI 304L stainless steel [2.1. Materials preparation]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [2.3. Potentiodynamic polarization measurements]
+- electrochemical_mode: Potentiodynamic [2.3. Potentiodynamic polarization measurements]
+- solution_chemistry_summary: 3.5% NaCl solution [2.3. Potentiodynamic polarization measurements]
+- operating_parameters_summary: Scanned potentiodynamically at a rate of 1 mV s^-1 from the initial potential of -250 mV versus open circuit potential to the final potential of 1.6 V_SCE. The potential was measured through a Luggin probe [2.3. Potentiodynamic polarization measurements]
+- overarching_environmental_conditions: Conducted in aerated conditions at 25 °C under atmospheric pressure [2.3. Potentiodynamic polarization measurements]
+- pitting_potential: 0.23 V_SCE [Table 5]
+- electrolyte_temperature: 25 °C [2.3. Potentiodynamic polarization measurements]
+- continuous_sweep_rate: 1 mV s^-1 [2.3. Potentiodynamic polarization measurements]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [2.3. Potentiodynamic polarization measurements]
+- electrolyte_solvents: Aqueous [1. Introduction]
+- electrolyte_primary_salts: NaCl [2.3. Potentiodynamic polarization measurements]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [2.3. Potentiodynamic polarization measurements]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -0.25 V_SCE [Table 5]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.3. Potentiodynamic polarization measurements]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

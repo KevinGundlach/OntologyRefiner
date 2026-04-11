@@ -1,0 +1,335 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: austenitic stainless steel [Conventional stainless steels, (i) General Corrosion Resistance]
+- elemental_weight_percentages: 18% Chromium, 10% Nickel [Conventional stainless steels, (i) General Corrosion Resistance]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: stable austenitic microstructure [Conventional stainless steels, (i) General Corrosion Resistance]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: austenite [Conventional stainless steels, (i) General Corrosion Resistance]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: cast 18Cr10Ni steel [(iii) Pitting Resistance]
+- fabrication_steps: cast [(iii) Pitting Resistance]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: annealed condition [Conventional stainless steels, (i) General Corrosion Resistance]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic tests / Polarisation [(iii) Pitting Resistance]
+- electrochemical_mode: Anodic polarisation [Potentiostatic Test Procedure]
+- solution_chemistry_summary: 3% sodium chloride solution [(iii) Pitting Resistance]
+- operating_parameters_summary: Stepping rate at 10 mV/min, oxygen-free high purity nitrogen purge, Standard Calomel Electrode reference, 30 °C [Potentiostatic Test Procedure; Fig. 9]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -50 mV (S.C.E.) [(iii) Pitting Resistance; Fig. 9]
+- electrolyte_temperature: 30 °C [Fig. 9]
+- continuous_sweep_rate: 10 mV/min [Potentiostatic Test Procedure]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard Calomel Electrode (S.C.E.) [Potentiostatic Test Procedure]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: sodium chloride (NaCl) [(iii) Pitting Resistance]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: purged with oxygen-free high purity nitrogen [Potentiostatic Test Procedure]
+- purge_gas_type: nitrogen [Potentiostatic Test Procedure]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: austenitic stainless steel [Alloy development]
+- elemental_weight_percentages: 18% Chromium, 10% Nickel, 3% Molybdenum [Conventional stainless steels, (i) General Corrosion Resistance]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: stable austenite [Conventional stainless steels, (i) General Corrosion Resistance]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: austenite [Conventional stainless steels, (i) General Corrosion Resistance]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18Cr10Ni3Mo cast material [Conventional stainless steels, (i) General Corrosion Resistance]
+- fabrication_steps: cast [Conventional stainless steels, (i) General Corrosion Resistance]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic tests / Polarisation [(iii) Pitting Resistance]
+- electrochemical_mode: Anodic polarisation [Potentiostatic Test Procedure]
+- solution_chemistry_summary: 3% sodium chloride solution [(iii) Pitting Resistance]
+- operating_parameters_summary: Stepping rate at 10 mV/min, oxygen-free high purity nitrogen purge, Standard Calomel Electrode reference, 30 °C [Potentiostatic Test Procedure; Fig. 10]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +200 mV (S.C.E.) [(iii) Pitting Resistance; Fig. 10]
+- electrolyte_temperature: 30 °C [Fig. 10]
+- continuous_sweep_rate: 10 mV/min [Potentiostatic Test Procedure]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard Calomel Electrode (S.C.E.) [Potentiostatic Test Procedure]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: sodium chloride (NaCl) [(iii) Pitting Resistance]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: purged with oxygen-free high purity nitrogen [Potentiostatic Test Procedure]
+- purge_gas_type: nitrogen [Potentiostatic Test Procedure]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: FERRALIUM alloy [Introduction; (iv) Ferralium alloy]
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: duplex austenitic-ferritic stainless steel [(iv) Ferralium alloy]
+- elemental_weight_percentages: approx. 25% Chromium, 5% Nickel, Copper, Molybdenum [(iv) Ferralium alloy]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: duplex austenitic-ferritic (50 : 50) microstructure [(iv) Ferralium alloy]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: austenite, ferrite [(iv) Ferralium alloy]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Ferralium alloy [(iv) Ferralium alloy]
+- fabrication_steps: proprietary alloy [(iv) Ferralium alloy]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic tests / Polarisation [(iv) Ferralium alloy]
+- electrochemical_mode: Anodic polarisation [Potentiostatic Test Procedure]
+- solution_chemistry_summary: 3% sodium chloride [(iv) Ferralium alloy]
+- operating_parameters_summary: Stepping rate at 10 mV/min, oxygen-free high purity nitrogen purge, Standard Calomel Electrode reference, 30 °C [Potentiostatic Test Procedure; Fig. 11]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: approx. +800 mV (S.C.E.) [(iv) Ferralium alloy; Fig. 11]
+- electrolyte_temperature: 30 °C [Fig. 11]
+- continuous_sweep_rate: 10 mV/min [Potentiostatic Test Procedure]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard Calomel Electrode (S.C.E.) [Potentiostatic Test Procedure]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: sodium chloride (NaCl) [(iv) Ferralium alloy]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: purged with oxygen-free high purity nitrogen [Potentiostatic Test Procedure]
+- purge_gas_type: nitrogen [Potentiostatic Test Procedure]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: stainless steel [Alloy development]
+- elemental_weight_percentages: 25% Chromium, 5.5% Nickel, 3.0% Copper, 2.5% Molybdenum [Alloy development; Fig. 17]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: As Cast 25Cr5Ni3Cu2.5Mo [Fig. 17]
+- fabrication_steps: cast [Alloy development; Fig. 17]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: as-cast structure [Alloy development]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic tests / Polarisation [Alloy development; Fig. 17]
+- electrochemical_mode: Anodic polarisation [Potentiostatic Test Procedure]
+- solution_chemistry_summary: 3% sodium chloride [Fig. 17]
+- operating_parameters_summary: Stepping rate at 10 mV/min, oxygen-free high purity nitrogen purge, Standard Calomel Electrode reference, 30 °C [Potentiostatic Test Procedure; Fig. 17]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +400 mV (S.C.E.) [Fig. 17]
+- electrolyte_temperature: 30 °C [Fig. 17]
+- continuous_sweep_rate: 10 mV/min [Potentiostatic Test Procedure]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard Calomel Electrode (S.C.E.) [Potentiostatic Test Procedure]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: sodium chloride (NaCl) [Fig. 17]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: purged with oxygen-free high purity nitrogen [Potentiostatic Test Procedure; Fig. 17]
+- purge_gas_type: nitrogen [Potentiostatic Test Procedure; Fig. 17]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: As Rolled 25Cr5Ni3Cu2.5Mo [Fig. 17]
+- fabrication_steps: hot and cold working / rolled [Alloy development; Fig. 17]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic tests / Polarisation [Alloy development; Fig. 17]
+- electrochemical_mode: Anodic polarisation [Potentiostatic Test Procedure]
+- solution_chemistry_summary: 3% sodium chloride [Fig. 17]
+- operating_parameters_summary: Stepping rate at 10 mV/min, oxygen-free high purity nitrogen purge, Standard Calomel Electrode reference, 30 °C [Potentiostatic Test Procedure; Fig. 17]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +250 mV (S.C.E.) [Fig. 17]
+- electrolyte_temperature: 30 °C [Fig. 17]
+- continuous_sweep_rate: 10 mV/min [Potentiostatic Test Procedure]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard Calomel Electrode (S.C.E.) [Potentiostatic Test Procedure]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: sodium chloride (NaCl) [Fig. 17]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: purged with oxygen-free high purity nitrogen [Potentiostatic Test Procedure; Fig. 17]
+- purge_gas_type: nitrogen [Potentiostatic Test Procedure; Fig. 17]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Solution Treated (1120 °C) 25Cr5Ni3Cu2.5Mo [Fig. 17]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: solution treatment at 1120 °C [Alloy development; Fig. 17]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic tests / Polarisation [Alloy development; Fig. 17]
+- electrochemical_mode: Anodic polarisation [Potentiostatic Test Procedure]
+- solution_chemistry_summary: 3% sodium chloride [Fig. 17]
+- operating_parameters_summary: Stepping rate at 10 mV/min, oxygen-free high purity nitrogen purge, Standard Calomel Electrode reference, 30 °C [Potentiostatic Test Procedure; Fig. 17]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +1000 mV (S.C.E.) [Fig. 17]
+- electrolyte_temperature: 30 °C [Fig. 17]
+- continuous_sweep_rate: 10 mV/min [Potentiostatic Test Procedure]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard Calomel Electrode (S.C.E.) [Potentiostatic Test Procedure]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: sodium chloride (NaCl) [Fig. 17]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: purged with oxygen-free high purity nitrogen [Potentiostatic Test Procedure; Fig. 17]
+- purge_gas_type: nitrogen [Potentiostatic Test Procedure; Fig. 17]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

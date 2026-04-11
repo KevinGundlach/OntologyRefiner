@@ -1,0 +1,359 @@
+# Base Material
+- standard_designation: AISI 304 SS (Abstract)
+- trade_name: Not specified in text.
+- commercial_grade: 304 (Abstract)
+- uns_code: Not specified in text.
+- alloy_family: Stainless Steels (Title)
+- elemental_weight_percentages: Fe 71.49, Ni 8.46, Cr 16.62, C 0.054, Mn 1.78, S 0.007, Si 0.56, Cu 0.21, Mo 0.21, P 0.03 wt% (Table 1)
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: AISI 304 SS sheet (Experimental Procedures)
+- fabrication_steps: Prepared from sheet material (Experimental Procedures)
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Gradually ground to a 4/0 finish using emery paper (Experimental Procedures)
+- chemical_surface_preparation: Degreased in acetone first, then in methanol (Experimental Procedures)
+- final_surface_roughness: 4/0 finish (Experimental Procedures)
+- exposed_surface_area: 20 x 40 mm (scratching) and 100 x 100 mm (polarization), edges masked with a silicon-base sealer (Experimental Procedures)
+
+### Experiment
+- experimental_test_type: Stepped potentiostatic polarization (Experimental Procedures)
+- electrochemical_mode: Potentiostatic (Experimental Procedures)
+- solution_chemistry_summary: Pure chloride solution (Table 2)
+- operating_parameters_summary: Stepped potentiostatic polarization at 80 C in pure chloride solution (Experimental Procedures)
+- overarching_environmental_conditions: 80 ± 2 C (Experimental Procedures)
+- pitting_potential: 500 mV (Table 2)
+- electrolyte_temperature: 80 ± 2 C (Experimental Procedures)
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 10 mV (Experimental Procedures)
+- holding_duration: Every hour for the positive polarization direction, and every 100 s for the reverse scan (Experimental Procedures)
+- reference_electrode: Saturated Ag/AgCl reference electrode with no Luggin probe (Experimental Procedures)
+- electrolyte_solvents: Deionized water (conductivity < 0.1 µS/cm) (Experimental Procedures)
+- electrolyte_primary_salts: Certified grade NaCl (Experimental Procedures)
+- electrolyte_molar_concentrations: 7.00 x 10^-4 M Cl- (Table 2)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum (Experimental Procedures)
+- counter_electrode_geometry: Screen (Experimental Procedures)
+- counter_electrode_exposed_area: Approximately 50 x 100 mm (Experimental Procedures)
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Stepped potentiostatic polarization (Experimental Procedures)
+- electrochemical_mode: Potentiostatic (Experimental Procedures)
+- solution_chemistry_summary: Chloride-Thiosulfate Solution (Table 2)
+- operating_parameters_summary: Stepped potentiostatic polarization at 80 C in a mixed chloride-thiosulfate solution (Experimental Procedures)
+- overarching_environmental_conditions: 80 ± 2 C (Experimental Procedures)
+- pitting_potential: 215 mV (Table 2)
+- electrolyte_temperature: 80 ± 2 C (Experimental Procedures)
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 10 mV (Experimental Procedures)
+- holding_duration: Every hour for the positive polarization direction, and every 100 s for the reverse scan (Experimental Procedures)
+- reference_electrode: Saturated Ag/AgCl reference electrode with no Luggin probe (Experimental Procedures)
+- electrolyte_solvents: Deionized water (conductivity < 0.1 µS/cm) (Experimental Procedures)
+- electrolyte_primary_salts: Certified grade NaCl and Na2S2O3·5H2O (Experimental Procedures)
+- electrolyte_molar_concentrations: 7.00 x 10^-4 M Cl- and 8.00 x 10^-5 M S2O3= (Table 2)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum (Experimental Procedures)
+- counter_electrode_geometry: Screen (Experimental Procedures)
+- counter_electrode_exposed_area: Approximately 50 x 100 mm (Experimental Procedures)
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Scratching (Experimental Procedures)
+- electrochemical_mode: Potentiostatic (Experimental Procedures)
+- solution_chemistry_summary: Chloride-Thiosulfate Solution (Table 2)
+- operating_parameters_summary: Scratching with a diamond engraving pencil under fixed potentials at 80 C (Experimental Procedures)
+- overarching_environmental_conditions: 80 ± 2 C (Experimental Procedures)
+- pitting_potential: 25 mV (Table 2)
+- electrolyte_temperature: 80 ± 2 C (Experimental Procedures)
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 25 mV (Experimental Procedures)
+- holding_duration: Until steady-state current was reached (Experimental Procedures)
+- reference_electrode: Saturated Ag/AgCl reference electrode with no Luggin probe (Experimental Procedures)
+- electrolyte_solvents: Deionized water (conductivity < 0.1 µS/cm) (Experimental Procedures)
+- electrolyte_primary_salts: Certified grade NaCl and Na2S2O3·5H2O (Experimental Procedures)
+- electrolyte_molar_concentrations: 7.00 x 10^-4 M Cl- and 8.00 x 10^-5 M S2O3= (Table 2)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum (Experimental Procedures)
+- counter_electrode_geometry: Screen (Experimental Procedures)
+- counter_electrode_exposed_area: Approximately 50 x 100 mm (Experimental Procedures)
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Alloy 800 (Abstract)
+- trade_name: Not specified in text.
+- commercial_grade: 800 (Abstract)
+- uns_code: Not specified in text.
+- alloy_family: Stainless Alloys / Nickel Alloys (Introduction)
+- elemental_weight_percentages: Fe 47.64, Ni 31.79, Cr 18.50, C 0.023, Mn 0.70, S 0.004, Si 0.39, Cu 0.64, Mo 0.20 wt% (Table 1)
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 800 sheet (Experimental Procedures)
+- fabrication_steps: Prepared from sheet material (Experimental Procedures)
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Gradually ground to a 4/0 finish using emery paper (Experimental Procedures)
+- chemical_surface_preparation: Degreased in acetone first, then in methanol (Experimental Procedures)
+- final_surface_roughness: 4/0 finish (Experimental Procedures)
+- exposed_surface_area: 20 x 40 mm (scratching) and 100 x 100 mm (polarization), edges masked with a silicon-base sealer (Experimental Procedures)
+
+### Experiment
+- experimental_test_type: Stepped potentiostatic polarization (Experimental Procedures)
+- electrochemical_mode: Potentiostatic (Experimental Procedures)
+- solution_chemistry_summary: Pure chloride solution (Table 2)
+- operating_parameters_summary: Stepped potentiostatic polarization at 80 C in pure chloride solution (Experimental Procedures)
+- overarching_environmental_conditions: 80 ± 2 C (Experimental Procedures)
+- pitting_potential: 550 mV (Table 2)
+- electrolyte_temperature: 80 ± 2 C (Experimental Procedures)
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 10 mV (Experimental Procedures)
+- holding_duration: Every hour for the positive polarization direction, and every 100 s for the reverse scan (Experimental Procedures)
+- reference_electrode: Saturated Ag/AgCl reference electrode with no Luggin probe (Experimental Procedures)
+- electrolyte_solvents: Deionized water (conductivity < 0.1 µS/cm) (Experimental Procedures)
+- electrolyte_primary_salts: Certified grade NaCl (Experimental Procedures)
+- electrolyte_molar_concentrations: 7.00 x 10^-4 M Cl- (Table 2)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum (Experimental Procedures)
+- counter_electrode_geometry: Screen (Experimental Procedures)
+- counter_electrode_exposed_area: Approximately 50 x 100 mm (Experimental Procedures)
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Stepped potentiostatic polarization (Experimental Procedures)
+- electrochemical_mode: Potentiostatic (Experimental Procedures)
+- solution_chemistry_summary: Chloride-Thiosulfate Solution (Table 2)
+- operating_parameters_summary: Stepped potentiostatic polarization at 80 C in a mixed chloride-thiosulfate solution (Experimental Procedures)
+- overarching_environmental_conditions: 80 ± 2 C (Experimental Procedures)
+- pitting_potential: 290 mV (Table 2)
+- electrolyte_temperature: 80 ± 2 C (Experimental Procedures)
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 10 mV (Experimental Procedures)
+- holding_duration: Every hour for the positive polarization direction, and every 100 s for the reverse scan (Experimental Procedures)
+- reference_electrode: Saturated Ag/AgCl reference electrode with no Luggin probe (Experimental Procedures)
+- electrolyte_solvents: Deionized water (conductivity < 0.1 µS/cm) (Experimental Procedures)
+- electrolyte_primary_salts: Certified grade NaCl and Na2S2O3·5H2O (Experimental Procedures)
+- electrolyte_molar_concentrations: 7.00 x 10^-4 M Cl- and 8.00 x 10^-5 M S2O3= (Table 2)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum (Experimental Procedures)
+- counter_electrode_geometry: Screen (Experimental Procedures)
+- counter_electrode_exposed_area: Approximately 50 x 100 mm (Experimental Procedures)
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Scratching (Experimental Procedures)
+- electrochemical_mode: Potentiostatic (Experimental Procedures)
+- solution_chemistry_summary: Chloride-Thiosulfate Solution (Table 2)
+- operating_parameters_summary: Scratching with a diamond engraving pencil under fixed potentials at 80 C (Experimental Procedures)
+- overarching_environmental_conditions: 80 ± 2 C (Experimental Procedures)
+- pitting_potential: 100 mV (Table 2)
+- electrolyte_temperature: 80 ± 2 C (Experimental Procedures)
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 25 mV (Experimental Procedures)
+- holding_duration: Until steady-state current was reached (Experimental Procedures)
+- reference_electrode: Saturated Ag/AgCl reference electrode with no Luggin probe (Experimental Procedures)
+- electrolyte_solvents: Deionized water (conductivity < 0.1 µS/cm) (Experimental Procedures)
+- electrolyte_primary_salts: Certified grade NaCl and Na2S2O3·5H2O (Experimental Procedures)
+- electrolyte_molar_concentrations: 7.00 x 10^-4 M Cl- and 8.00 x 10^-5 M S2O3= (Table 2)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum (Experimental Procedures)
+- counter_electrode_geometry: Screen (Experimental Procedures)
+- counter_electrode_exposed_area: Approximately 50 x 100 mm (Experimental Procedures)
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Alloy 600 (Abstract)
+- trade_name: Not specified in text.
+- commercial_grade: 600 (Abstract)
+- uns_code: Not specified in text.
+- alloy_family: Stainless Alloys / Nickel Alloys (Introduction)
+- elemental_weight_percentages: Fe 9.72, Ni 73.86, Cr 15.50, C 0.04, Mn 0.31, S 0.001, Si 0.26, Cu 0.31 wt% (Table 1)
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 600 sheet (Experimental Procedures)
+- fabrication_steps: Prepared from sheet material (Experimental Procedures)
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Gradually ground to a 4/0 finish using emery paper (Experimental Procedures)
+- chemical_surface_preparation: Degreased in acetone first, then in methanol (Experimental Procedures)
+- final_surface_roughness: 4/0 finish (Experimental Procedures)
+- exposed_surface_area: 20 x 40 mm (scratching) and 100 x 100 mm (polarization), edges masked with a silicon-base sealer (Experimental Procedures)
+
+### Experiment
+- experimental_test_type: Stepped potentiostatic polarization (Experimental Procedures)
+- electrochemical_mode: Potentiostatic (Experimental Procedures)
+- solution_chemistry_summary: Pure chloride solution (Table 2)
+- operating_parameters_summary: Stepped potentiostatic polarization at 80 C in pure chloride solution (Experimental Procedures)
+- overarching_environmental_conditions: 80 ± 2 C (Experimental Procedures)
+- pitting_potential: 650 mV (Table 2)
+- electrolyte_temperature: 80 ± 2 C (Experimental Procedures)
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 10 mV (Experimental Procedures)
+- holding_duration: Every hour for the positive polarization direction, and every 100 s for the reverse scan (Experimental Procedures)
+- reference_electrode: Saturated Ag/AgCl reference electrode with no Luggin probe (Experimental Procedures)
+- electrolyte_solvents: Deionized water (conductivity < 0.1 µS/cm) (Experimental Procedures)
+- electrolyte_primary_salts: Certified grade NaCl (Experimental Procedures)
+- electrolyte_molar_concentrations: 7.00 x 10^-4 M Cl- (Table 2)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum (Experimental Procedures)
+- counter_electrode_geometry: Screen (Experimental Procedures)
+- counter_electrode_exposed_area: Approximately 50 x 100 mm (Experimental Procedures)
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Stepped potentiostatic polarization (Experimental Procedures)
+- electrochemical_mode: Potentiostatic (Experimental Procedures)
+- solution_chemistry_summary: Chloride-Thiosulfate Solution (Table 2)
+- operating_parameters_summary: Stepped potentiostatic polarization at 80 C in a mixed chloride-thiosulfate solution (Experimental Procedures)
+- overarching_environmental_conditions: 80 ± 2 C (Experimental Procedures)
+- pitting_potential: 350 mV (Table 2)
+- electrolyte_temperature: 80 ± 2 C (Experimental Procedures)
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 10 mV (Experimental Procedures)
+- holding_duration: Every hour for the positive polarization direction, and every 100 s for the reverse scan (Experimental Procedures)
+- reference_electrode: Saturated Ag/AgCl reference electrode with no Luggin probe (Experimental Procedures)
+- electrolyte_solvents: Deionized water (conductivity < 0.1 µS/cm) (Experimental Procedures)
+- electrolyte_primary_salts: Certified grade NaCl and Na2S2O3·5H2O (Experimental Procedures)
+- electrolyte_molar_concentrations: 7.00 x 10^-4 M Cl- and 8.00 x 10^-5 M S2O3= (Table 2)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum (Experimental Procedures)
+- counter_electrode_geometry: Screen (Experimental Procedures)
+- counter_electrode_exposed_area: Approximately 50 x 100 mm (Experimental Procedures)
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Scratching (Experimental Procedures)
+- electrochemical_mode: Potentiostatic (Experimental Procedures)
+- solution_chemistry_summary: Chloride-Thiosulfate Solution (Table 2)
+- operating_parameters_summary: Scratching with a diamond engraving pencil under fixed potentials at 80 C (Experimental Procedures)
+- overarching_environmental_conditions: 80 ± 2 C (Experimental Procedures)
+- pitting_potential: 150 mV (Table 2)
+- electrolyte_temperature: 80 ± 2 C (Experimental Procedures)
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 25 mV (Experimental Procedures)
+- holding_duration: Until steady-state current was reached (Experimental Procedures)
+- reference_electrode: Saturated Ag/AgCl reference electrode with no Luggin probe (Experimental Procedures)
+- electrolyte_solvents: Deionized water (conductivity < 0.1 µS/cm) (Experimental Procedures)
+- electrolyte_primary_salts: Certified grade NaCl and Na2S2O3·5H2O (Experimental Procedures)
+- electrolyte_molar_concentrations: 7.00 x 10^-4 M Cl- and 8.00 x 10^-5 M S2O3= (Table 2)
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum (Experimental Procedures)
+- counter_electrode_geometry: Screen (Experimental Procedures)
+- counter_electrode_exposed_area: Approximately 50 x 100 mm (Experimental Procedures)
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

@@ -1,0 +1,441 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: super-duplex SS [3. Corrosion resistance of developed steel]
+- uns_code: Not specified in text.
+- alloy_family: duplex stainless steel [1. Introduction]
+- elemental_weight_percentages: 27.3% Cr, 7.3% Ni, 3.8% Mo, 0.31% N [3. Corrosion resistance of developed steel]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Pitting Index (P. I.) = 41.7 [3. Corrosion resistance of developed steel]
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: austenite, ferrite [3. Corrosion resistance of developed steel]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 28%Cr duplex SS seamless tube base metal [3. Corrosion resistance of developed steel]
+- fabrication_steps: Powder metallurgical (P/M) process: inert gas atomization of powder -> packing in mild steel capsule -> cold isostatic pressing (CIP) -> hot extrusion to tube -> capsule removing by acid pickling [2. Development of 28%Cr duplex stainless steel]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: heat treated at 1373K(1100°C) [2. Development of 28%Cr duplex stainless steel]
+- cooling_methods: water quenching [2. Development of 28%Cr duplex stainless steel]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: potentiodynamic polarization [3. Corrosion resistance of developed steel]
+- electrochemical_mode: potential sweep method [3. Corrosion resistance of developed steel]
+- solution_chemistry_summary: synthetic seawater [3. Corrosion resistance of developed steel]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: ~1.0 V vs SCE at 333K, ~1.0 V vs SCE at 353K, ~0.8 V vs SCE at 373K [3. Corrosion resistance of developed steel]
+- electrolyte_temperature: 333K, 353K, 373K [3. Corrosion resistance of developed steel]
+- continuous_sweep_rate: 20 mV/min [3. Corrosion resistance of developed steel]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [3. Corrosion resistance of developed steel]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 28%Cr duplex SS after high-temperature heat treatment [3. Corrosion resistance of developed steel]
+- fabrication_steps: Powder metallurgical (P/M) process: inert gas atomization -> packing in mild steel capsule -> cold isostatic pressing -> hot extrusion -> capsule removing by acid pickling -> initial heat treatment at 1373K(1100°C) with water quenching [2. Development of 28%Cr duplex stainless steel]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: heated for 10s at maximum heating temperatures ranging from 1273K to 1673K [3. Corrosion resistance of developed steel]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: potentiodynamic polarization [3. Corrosion resistance of developed steel]
+- electrochemical_mode: potential sweep method [3. Corrosion resistance of developed steel]
+- solution_chemistry_summary: synthetic seawater [3. Corrosion resistance of developed steel]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: ~1.0 V vs SCE at 1273K heating, ~0.9 V vs SCE at 1373K heating, ~0.8 V vs SCE at 1473K heating, ~0.7 V vs SCE at 1573K heating, ~0.6 V vs SCE at 1673K heating [3. Corrosion resistance of developed steel]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 20 mV/min [3. Corrosion resistance of developed steel]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [3. Corrosion resistance of developed steel]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 28%Cr duplex SS girth weldment [3. Corrosion resistance of developed steel]
+- fabrication_steps: Powder metallurgical (P/M) process for the seamless tube [2. Development of 28%Cr duplex stainless steel]
+- welding_operations: girth welding [3. Corrosion resistance of developed steel]
+- welding_techniques: gas tungsten arc welding (GTAW) with heat input of 6 to 13.5 kJ/cm [3. Corrosion resistance of developed steel]
+- filler_wire_composition: similar filler metal to the 28%Cr duplex SS [3. Corrosion resistance of developed steel]
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: potentiodynamic polarization [3. Corrosion resistance of developed steel]
+- electrochemical_mode: potential sweep method [3. Corrosion resistance of developed steel]
+- solution_chemistry_summary: synthetic seawater [3. Corrosion resistance of developed steel]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: ~0.65 V vs SCE at 6 kJ/cm, ~0.7 V vs SCE at 11 kJ/cm, ~0.5 V vs SCE at 12 kJ/cm and 13.5 kJ/cm [3. Corrosion resistance of developed steel]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 20 mV/min [3. Corrosion resistance of developed steel]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [3. Corrosion resistance of developed steel]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: tube-to-tube sheet weldment (28%Cr tube to 25%Cr duplex SS tube sheet) [3. Corrosion resistance of developed steel]
+- fabrication_steps: Powder metallurgical (P/M) process for the 28%Cr seamless tube [2. Development of 28%Cr duplex stainless steel]
+- welding_operations: tube-to-tube sheet welding [3. Corrosion resistance of developed steel]
+- welding_techniques: gas tungsten arc welding (GTAW) with heat input of 5.8 kJ/cm [3. Corrosion resistance of developed steel]
+- filler_wire_composition: 28%Cr or 25%Cr duplex SS filler metal [3. Corrosion resistance of developed steel]
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: potentiodynamic polarization [3. Corrosion resistance of developed steel]
+- electrochemical_mode: potential sweep method [3. Corrosion resistance of developed steel]
+- solution_chemistry_summary: synthetic seawater [3. Corrosion resistance of developed steel]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: ~0.8 V vs SCE (with 28Cr filler), ~0.4 V vs SCE (with 329J2L filler) [3. Corrosion resistance of developed steel]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 20 mV/min [3. Corrosion resistance of developed steel]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [3. Corrosion resistance of developed steel]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: JIS SUS329J2L [3. Corrosion resistance of developed steel]
+- trade_name: 25Cr [3. Corrosion resistance of developed steel]
+- commercial_grade: conventional duplex SS [3. Corrosion resistance of developed steel]
+- uns_code: UNS S31250 [3. Corrosion resistance of developed steel]
+- alloy_family: duplex stainless steel [1. Introduction]
+- elemental_weight_percentages: 25.2% Cr, 7.1% Ni, 3.0% Mo, 0.14% N [3. Corrosion resistance of developed steel]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Pitting Index (P. I.) = 35.6 [3. Corrosion resistance of developed steel]
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 329J2L base metal [3. Corrosion resistance of developed steel]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: potentiodynamic polarization [3. Corrosion resistance of developed steel]
+- electrochemical_mode: potential sweep method [3. Corrosion resistance of developed steel]
+- solution_chemistry_summary: synthetic seawater [3. Corrosion resistance of developed steel]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: ~1.0 V vs SCE at 333K, ~0.4 V vs SCE at 353K, ~0.3 V vs SCE at 373K [3. Corrosion resistance of developed steel]
+- electrolyte_temperature: 333K, 353K, 373K [3. Corrosion resistance of developed steel]
+- continuous_sweep_rate: 20 mV/min [3. Corrosion resistance of developed steel]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [3. Corrosion resistance of developed steel]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: 2942 [3. Corrosion resistance of developed steel]
+- trade_name: Not specified in text.
+- commercial_grade: super-ferritic SS [3. Corrosion resistance of developed steel]
+- uns_code: UNS S44800 [3. Corrosion resistance of developed steel]
+- alloy_family: super-ferritic stainless steel [3. Corrosion resistance of developed steel]
+- elemental_weight_percentages: 28.4% Cr, 2.6% Ni, 4.2% Mo [3. Corrosion resistance of developed steel]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Pitting Index (P. I.) = 41.0 [3. Corrosion resistance of developed steel]
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 2942 base metal [3. Corrosion resistance of developed steel]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: potentiodynamic polarization [3. Corrosion resistance of developed steel]
+- electrochemical_mode: potential sweep method [3. Corrosion resistance of developed steel]
+- solution_chemistry_summary: synthetic seawater [3. Corrosion resistance of developed steel]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: ~1.0 V vs SCE at 333K, ~0.6 V vs SCE at 353K, ~0.5 V vs SCE at 373K [3. Corrosion resistance of developed steel]
+- electrolyte_temperature: 333K, 353K, 373K [3. Corrosion resistance of developed steel]
+- continuous_sweep_rate: 20 mV/min [3. Corrosion resistance of developed steel]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [3. Corrosion resistance of developed steel]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: 254 [3. Corrosion resistance of developed steel]
+- trade_name: Not specified in text.
+- commercial_grade: super-austenitic SS [3. Corrosion resistance of developed steel]
+- uns_code: UNS S31254 [3. Corrosion resistance of developed steel]
+- alloy_family: super-austenitic stainless steel [3. Corrosion resistance of developed steel]
+- elemental_weight_percentages: 19.8% Cr, 18.6% Ni, 6.4% Mo, 0.20% N [3. Corrosion resistance of developed steel]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Pitting Index (P. I.) = 41.0 [3. Corrosion resistance of developed steel]
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 254 base metal [3. Corrosion resistance of developed steel]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: potentiodynamic polarization [3. Corrosion resistance of developed steel]
+- electrochemical_mode: potential sweep method [3. Corrosion resistance of developed steel]
+- solution_chemistry_summary: synthetic seawater [3. Corrosion resistance of developed steel]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: ~1.0 V vs SCE at 333K, ~1.0 V vs SCE at 353K, ~0.8 V vs SCE at 373K [3. Corrosion resistance of developed steel]
+- electrolyte_temperature: 333K, 353K, 373K [3. Corrosion resistance of developed steel]
+- continuous_sweep_rate: 20 mV/min [3. Corrosion resistance of developed steel]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [3. Corrosion resistance of developed steel]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: duplex stainless steel [2. Development of 28%Cr duplex stainless steel]
+- elemental_weight_percentages: 27-28% Cr, 3.7-4.0% Mo, 2.8-9.9% Ni, 0.14-0.36% N, 0.003-0.013% C, 0.4-0.7% Si, 1.4-1.6% Mn [2. Development of 28%Cr duplex stainless steel]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Pitting Index (P. I.) > 40 [2. Development of 28%Cr duplex stainless steel]
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Simulated HAZ specimen of 27.5%Cr-3.8%Mo experimental alloys [2. Development of 28%Cr duplex stainless steel]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: cooling rate 30k/s [2. Development of 28%Cr duplex stainless steel]
+- simulated_transient_thermal_cycles: thermal cycle with a peak temperature of 1648K(1375°C) and holding duration of 1s [2. Development of 28%Cr duplex stainless steel]
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: potentiodynamic polarization [2. Development of 28%Cr duplex stainless steel]
+- electrochemical_mode: potential sweep method [2. Development of 28%Cr duplex stainless steel]
+- solution_chemistry_summary: synthetic seawater [2. Development of 28%Cr duplex stainless steel]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: reached 0.6V vs SCE with 0.3%N addition [2. Development of 28%Cr duplex stainless steel]
+- electrolyte_temperature: 353K(80°C) [2. Development of 28%Cr duplex stainless steel]
+- continuous_sweep_rate: 20 mV/min [2. Development of 28%Cr duplex stainless steel]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [2. Development of 28%Cr duplex stainless steel]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Not specified in text.
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

@@ -1,0 +1,105 @@
+# Base Material
+- standard_designation: Equiatomic FeSiBAlNi [Abstract]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High-entropy alloys (HEAs) [1. Introduction]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Equiatomic Fe, Si, B, Al, and Ni [Abstract]
+- spatial_chemical_homogeneity: Irregular dark and grey particles uniformly distributed in the continuous compact matrix with Fe-rich, Al-rich, and Al/O-rich areas [3.2. Phase constitution and microstructure of the as-sintered bulk FeSiBAlNi HEA]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Atomic-size difference ($\delta$) = 0.1705; Mixing enthalpy ($\Delta H_{mix}$) = -30.88 kJ/mol [3.1. Microstructure and thermal properties of the as-milled FeSiBAlNi HEA]
+- overall_microstructure: Amorphous composite structure comprising solid-solution phases (bcc and fcc) after sintering at 520°C; mixture of two fcc phases and one bcc phase after sintering at 1080°C [Abstract]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Body-centered cubic (bcc) phase, face-centered cubic (fcc) phases, and amorphous phase [Abstract]
+- inclusion_composition: Inevitable oxides (Al/O-rich) [3.2. Phase constitution and microstructure of the as-sintered bulk FeSiBAlNi HEA]
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: FeSiBAlNi HEA sintered at 520°C [Abstract]
+- fabrication_steps: Mechanical alloying (MA) in a planetary ball mill at 350 r/min for 240 h under an Ar atmosphere at room temperature using a stainless steel cylinder and balls (mass ratio 15:1), interrupted every 30 min. Followed by spark plasma sintering (SPS) in a graphite die at 520°C for 10 min at a heating rate of 40°C/min under axial pressure of 80 MPa in an Ar atmosphere. [3. Results and discussion]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Allowed to freely cool to room temperature [3. Results and discussion]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground using 2000-grit SiC paper [3. Results and discussion]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Smooth surface [3. Results and discussion]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Abstract]
+- electrochemical_mode: Potentiodynamic polarization [3.4. Corrosion resistance of the as-sintered FeSiBAlNi HEA]
+- solution_chemistry_summary: Seawater solution prepared by dissolving artificial sea salt in distilled water at a mass ratio of 1:30 [3. Results and discussion]
+- operating_parameters_summary: Potential sweep rate of 3 mV/s after the open-circuit potential had sufficiently stabilized in a three-electrode cell [3. Results and discussion]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -0.56 V vs. Ag/AgCl [3.4. Corrosion resistance of the as-sintered FeSiBAlNi HEA]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 3 mV/s [3. Results and discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl reference electrode [3. Results and discussion]
+- electrolyte_solvents: Distilled water [3. Results and discussion]
+- electrolyte_primary_salts: Artificial sea salt [3. Results and discussion]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -0.88 V vs. Ag/AgCl [3.4. Corrosion resistance of the as-sintered FeSiBAlNi HEA]
+- ocp_stabilization_methodology: Open-circuit potential sufficiently stabilized [3. Results and discussion]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt (Platinum) [3. Results and discussion]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: FeSiBAlNi HEA sintered at 1080°C [Abstract]
+- fabrication_steps: Mechanical alloying (MA) in a planetary ball mill at 350 r/min for 240 h under an Ar atmosphere at room temperature using a stainless steel cylinder and balls (mass ratio 15:1), interrupted every 30 min. Followed by spark plasma sintering (SPS) in a graphite die at 1080°C for 10 min at a heating rate of 40°C/min under axial pressure of 80 MPa in an Ar atmosphere. [3. Results and discussion]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Allowed to freely cool to room temperature [3. Results and discussion]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Ground using 2000-grit SiC paper [3. Results and discussion]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Smooth surface [3. Results and discussion]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization measurements [Abstract]
+- electrochemical_mode: Potentiodynamic polarization [3.4. Corrosion resistance of the as-sintered FeSiBAlNi HEA]
+- solution_chemistry_summary: Seawater solution prepared by dissolving artificial sea salt in distilled water at a mass ratio of 1:30 [3. Results and discussion]
+- operating_parameters_summary: Potential sweep rate of 3 mV/s after the open-circuit potential had sufficiently stabilized in a three-electrode cell [3. Results and discussion]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 3 mV/s [3. Results and discussion]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Ag/AgCl reference electrode [3. Results and discussion]
+- electrolyte_solvents: Distilled water [3. Results and discussion]
+- electrolyte_primary_salts: Artificial sea salt [3. Results and discussion]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -0.23 V vs. Ag/AgCl [3.4. Corrosion resistance of the as-sintered FeSiBAlNi HEA]
+- ocp_stabilization_methodology: Open-circuit potential sufficiently stabilized [3. Results and discussion]
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt (Platinum) [3. Results and discussion]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

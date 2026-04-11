@@ -1,0 +1,699 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic Stainless Steels [Anodic Polarization of Austenitic Stainless Steels]
+- elemental_weight_percentages: 19.97-20.01% Cr, 39.09-39.13% Ni, 0.025-4.85% Mo, 1.21% Mn, 0.46% Si, 0.056% C, 0.039-0.040% N, balance Fe [Table I. Compositions of alloys studied]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Completely austenitic [Results]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenitic [Results]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 20% Cr-39% Ni-0.0% Mo High-nickel austenitic stainless steel [Table III]
+- fabrication_steps: Induction-melted in an argon atmosphere and cast in air using the split heat technique. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm and then cold-rolled to 0.38 cm. [Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 1150°C for 1 hr. [Procedures]
+- cooling_methods: Water-quenched. [Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with the distilled water slurry of 0.3μ alumina. [Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Circular area 0.3 cm in diameter. [Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization experiments [ABSTRACT]
+- electrochemical_mode: Potentiodynamic scanning [Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl). [Procedures]
+- operating_parameters_summary: Potentiodynamic scan starting at -0.7 V in the active region to passive potential region to form passive film in situ. [Procedures]
+- overarching_environmental_conditions: Constant temperature of 24°C ± 1°C. [Procedures]
+- pitting_potential: 0.64 V vs. SCE [Table III]
+- electrolyte_temperature: 24°C ± 1°C [Procedures]
+- continuous_sweep_rate: 600 mv/hr up to potentials of about 0.2-0.3v less noble than the expected pitting potential, then decreased to 60 mv/hr. [Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Hydrochloric acid (HCl) [Procedures]
+- electrolyte_molar_concentrations: 0.1 N [Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Procedures]
+- purge_gas_type: Argon [Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum auxiliary electrode [Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 20% Cr-39% Ni-1% Mo High-nickel austenitic stainless steel [Table III]
+- fabrication_steps: Induction-melted in an argon atmosphere and cast in air using the split heat technique. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm and then cold-rolled to 0.38 cm. [Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 1150°C for 1 hr. [Procedures]
+- cooling_methods: Water-quenched. [Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with the distilled water slurry of 0.3μ alumina. [Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Circular area 0.3 cm in diameter. [Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization experiments [ABSTRACT]
+- electrochemical_mode: Potentiodynamic scanning [Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl). [Procedures]
+- operating_parameters_summary: Potentiodynamic scan starting at -0.7 V in the active region to passive potential region to form passive film in situ. [Procedures]
+- overarching_environmental_conditions: Constant temperature of 24°C ± 1°C. [Procedures]
+- pitting_potential: No pitting up to 0.8 V vs. SCE [Table III]
+- electrolyte_temperature: 24°C ± 1°C [Procedures]
+- continuous_sweep_rate: 600 mv/hr up to potentials of about 0.2-0.3v less noble than the expected pitting potential, then decreased to 60 mv/hr. [Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Hydrochloric acid (HCl) [Procedures]
+- electrolyte_molar_concentrations: 0.1 N [Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Procedures]
+- purge_gas_type: Argon [Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum auxiliary electrode [Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 20% Cr-39% Ni-3% Mo High-nickel austenitic stainless steel [Table III]
+- fabrication_steps: Induction-melted in an argon atmosphere and cast in air using the split heat technique. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm and then cold-rolled to 0.38 cm. [Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 1150°C for 1 hr. [Procedures]
+- cooling_methods: Water-quenched. [Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with the distilled water slurry of 0.3μ alumina. [Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Circular area 0.3 cm in diameter. [Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization experiments [ABSTRACT]
+- electrochemical_mode: Potentiodynamic scanning [Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl). [Procedures]
+- operating_parameters_summary: Potentiodynamic scan starting at -0.7 V in the active region to passive potential region to form passive film in situ. [Procedures]
+- overarching_environmental_conditions: Constant temperature of 24°C ± 1°C. [Procedures]
+- pitting_potential: No pitting up to 0.8 V vs. SCE [Table III]
+- electrolyte_temperature: 24°C ± 1°C [Procedures]
+- continuous_sweep_rate: 600 mv/hr up to potentials of about 0.2-0.3v less noble than the expected pitting potential, then decreased to 60 mv/hr. [Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Hydrochloric acid (HCl) [Procedures]
+- electrolyte_molar_concentrations: 0.1 N [Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Procedures]
+- purge_gas_type: Argon [Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum auxiliary electrode [Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 20% Cr-39% Ni-5% Mo High-nickel austenitic stainless steel [Table III]
+- fabrication_steps: Induction-melted in an argon atmosphere and cast in air using the split heat technique. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm and then cold-rolled to 0.38 cm. [Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 1150°C for 1 hr. [Procedures]
+- cooling_methods: Water-quenched. [Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with the distilled water slurry of 0.3μ alumina. [Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Circular area 0.3 cm in diameter. [Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization experiments [ABSTRACT]
+- electrochemical_mode: Potentiodynamic scanning [Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl). [Procedures]
+- operating_parameters_summary: Potentiodynamic scan starting at -0.7 V in the active region to passive potential region to form passive film in situ. [Procedures]
+- overarching_environmental_conditions: Constant temperature of 24°C ± 1°C. [Procedures]
+- pitting_potential: No pitting up to 0.8 V vs. SCE [Table III]
+- electrolyte_temperature: 24°C ± 1°C [Procedures]
+- continuous_sweep_rate: 600 mv/hr up to potentials of about 0.2-0.3v less noble than the expected pitting potential, then decreased to 60 mv/hr. [Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Hydrochloric acid (HCl) [Procedures]
+- electrolyte_molar_concentrations: 0.1 N [Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Procedures]
+- purge_gas_type: Argon [Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum auxiliary electrode [Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic Stainless Steels [Anodic Polarization of Austenitic Stainless Steels]
+- elemental_weight_percentages: 17.60-17.67% Cr, 13.50-13.57% Ni, 1.99-3.89% Mo, 1.72-1.84% Mn, 0.45-0.53% Si, 0.025-0.027% C, 0.030-0.033% N, balance Fe [Table I. Compositions of alloys studied]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Delta ferrite is present in the alloys containing over 2.9% molybdenum, with the 3.9% molybdenum alloy containing an appreciable amount. [Results]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenitic matrix with delta ferrite in higher Mo alloys. [Results]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18% Cr-14% Ni-2% Mo Low-nickel austenitic stainless steel [Table III]
+- fabrication_steps: Induction-melted in an argon atmosphere and cast in air using the split heat technique. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm and then cold-rolled to 0.38 cm. [Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 1120°C for 1 hr. [Procedures]
+- cooling_methods: Water-quenched. [Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with the distilled water slurry of 0.3μ alumina. [Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Circular area 0.3 cm in diameter. [Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization experiments [ABSTRACT]
+- electrochemical_mode: Potentiodynamic scanning [Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl). [Procedures]
+- operating_parameters_summary: Potentiodynamic scan starting at -0.7 V in the active region to passive potential region to form passive film in situ. [Procedures]
+- overarching_environmental_conditions: Constant temperature of 24°C ± 1°C. [Procedures]
+- pitting_potential: 0.39 V vs. SCE [Table III]
+- electrolyte_temperature: 24°C ± 1°C [Procedures]
+- continuous_sweep_rate: 600 mv/hr up to potentials of about 0.2-0.3v less noble than the expected pitting potential, then decreased to 60 mv/hr. [Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Hydrochloric acid (HCl) [Procedures]
+- electrolyte_molar_concentrations: 0.1 N [Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Procedures]
+- purge_gas_type: Argon [Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum auxiliary electrode [Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18% Cr-14% Ni-2.5% Mo Low-nickel austenitic stainless steel [Table III]
+- fabrication_steps: Induction-melted in an argon atmosphere and cast in air using the split heat technique. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm and then cold-rolled to 0.38 cm. [Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 1120°C for 1 hr. [Procedures]
+- cooling_methods: Water-quenched. [Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with the distilled water slurry of 0.3μ alumina. [Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Circular area 0.3 cm in diameter. [Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization experiments [ABSTRACT]
+- electrochemical_mode: Potentiodynamic scanning [Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl). [Procedures]
+- operating_parameters_summary: Potentiodynamic scan starting at -0.7 V in the active region to passive potential region to form passive film in situ. [Procedures]
+- overarching_environmental_conditions: Constant temperature of 24°C ± 1°C. [Procedures]
+- pitting_potential: No pitting up to 0.8 V vs. SCE [Table III]
+- electrolyte_temperature: 24°C ± 1°C [Procedures]
+- continuous_sweep_rate: 600 mv/hr up to potentials of about 0.2-0.3v less noble than the expected pitting potential, then decreased to 60 mv/hr. [Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Hydrochloric acid (HCl) [Procedures]
+- electrolyte_molar_concentrations: 0.1 N [Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Procedures]
+- purge_gas_type: Argon [Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum auxiliary electrode [Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18% Cr-14% Ni-3% Mo Low-nickel austenitic stainless steel [Table III]
+- fabrication_steps: Induction-melted in an argon atmosphere and cast in air using the split heat technique. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm and then cold-rolled to 0.38 cm. [Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 1120°C for 1 hr. [Procedures]
+- cooling_methods: Water-quenched. [Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with the distilled water slurry of 0.3μ alumina. [Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Circular area 0.3 cm in diameter. [Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization experiments [ABSTRACT]
+- electrochemical_mode: Potentiodynamic scanning [Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl). [Procedures]
+- operating_parameters_summary: Potentiodynamic scan starting at -0.7 V in the active region to passive potential region to form passive film in situ. [Procedures]
+- overarching_environmental_conditions: Constant temperature of 24°C ± 1°C. [Procedures]
+- pitting_potential: No pitting up to 0.8 V vs. SCE [Table III]
+- electrolyte_temperature: 24°C ± 1°C [Procedures]
+- continuous_sweep_rate: 600 mv/hr up to potentials of about 0.2-0.3v less noble than the expected pitting potential, then decreased to 60 mv/hr. [Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Hydrochloric acid (HCl) [Procedures]
+- electrolyte_molar_concentrations: 0.1 N [Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Procedures]
+- purge_gas_type: Argon [Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum auxiliary electrode [Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization experiments [ABSTRACT]
+- electrochemical_mode: Potentiodynamic scanning [Procedures]
+- solution_chemistry_summary: Argon-saturated 1.0M sodium chloride (NaCl). [Table IV]
+- operating_parameters_summary: Potentiodynamic scan starting at -0.7 V in the active region to test effect of scanning rates. [Table IV]
+- overarching_environmental_conditions: Constant temperature of 24°C ± 1°C. [Procedures]
+- pitting_potential: 0.43 V vs. SCE [Table IV]
+- electrolyte_temperature: 24°C ± 1°C [Procedures]
+- continuous_sweep_rate: 2000 mv/hr [Table IV]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride (NaCl) [Table IV]
+- electrolyte_molar_concentrations: 1.0 M [Table IV]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Table IV]
+- purge_gas_type: Argon [Table IV]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum auxiliary electrode [Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization experiments [ABSTRACT]
+- electrochemical_mode: Potentiodynamic scanning [Procedures]
+- solution_chemistry_summary: Argon-saturated 1.0M sodium chloride (NaCl). [Table IV]
+- operating_parameters_summary: Potentiodynamic scan starting at -0.7 V in the active region to test effect of scanning rates. [Table IV]
+- overarching_environmental_conditions: Constant temperature of 24°C ± 1°C. [Procedures]
+- pitting_potential: 0.47 V vs. SCE [Table IV]
+- electrolyte_temperature: 24°C ± 1°C [Procedures]
+- continuous_sweep_rate: 600 mv/hr [Table IV]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride (NaCl) [Table IV]
+- electrolyte_molar_concentrations: 1.0 M [Table IV]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Table IV]
+- purge_gas_type: Argon [Table IV]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum auxiliary electrode [Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization experiments [ABSTRACT]
+- electrochemical_mode: Potentiodynamic scanning [Procedures]
+- solution_chemistry_summary: Argon-saturated 1.0M sodium chloride (NaCl). [Table IV]
+- operating_parameters_summary: Potentiodynamic scan starting at -0.7 V in the active region to test effect of scanning rates. [Table IV]
+- overarching_environmental_conditions: Constant temperature of 24°C ± 1°C. [Procedures]
+- pitting_potential: 0.525 V vs. SCE [Table IV]
+- electrolyte_temperature: 24°C ± 1°C [Procedures]
+- continuous_sweep_rate: 600 mv/hr from -0.7 to + 0.3v then 60 mv/hr [Table IV]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride (NaCl) [Table IV]
+- electrolyte_molar_concentrations: 1.0 M [Table IV]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Table IV]
+- purge_gas_type: Argon [Table IV]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum auxiliary electrode [Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization experiments [ABSTRACT]
+- electrochemical_mode: Potentiodynamic scanning [Procedures]
+- solution_chemistry_summary: Argon-saturated 1.0M sodium chloride (NaCl). [Table IV]
+- operating_parameters_summary: Potentiodynamic scan starting at -0.7 V in the active region to test effect of scanning rates. [Table IV]
+- overarching_environmental_conditions: Constant temperature of 24°C ± 1°C. [Procedures]
+- pitting_potential: 0.655 V vs. SCE [Table IV]
+- electrolyte_temperature: 24°C ± 1°C [Procedures]
+- continuous_sweep_rate: 600 mv/hr from -0.7 to + 0.3v then 20 mv/hr [Table IV]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Sodium chloride (NaCl) [Table IV]
+- electrolyte_molar_concentrations: 1.0 M [Table IV]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Table IV]
+- purge_gas_type: Argon [Table IV]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum auxiliary electrode [Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18% Cr-14% Ni-3.5% Mo Low-nickel austenitic stainless steel [Table III]
+- fabrication_steps: Induction-melted in an argon atmosphere and cast in air using the split heat technique. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm and then cold-rolled to 0.38 cm. [Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 1120°C for 1 hr. [Procedures]
+- cooling_methods: Water-quenched. [Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with the distilled water slurry of 0.3μ alumina. [Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Circular area 0.3 cm in diameter. [Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization experiments [ABSTRACT]
+- electrochemical_mode: Potentiodynamic scanning [Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl). [Procedures]
+- operating_parameters_summary: Potentiodynamic scan starting at -0.7 V in the active region to passive potential region to form passive film in situ. [Procedures]
+- overarching_environmental_conditions: Constant temperature of 24°C ± 1°C. [Procedures]
+- pitting_potential: No pitting up to 0.8 V vs. SCE [Table III]
+- electrolyte_temperature: 24°C ± 1°C [Procedures]
+- continuous_sweep_rate: 600 mv/hr up to potentials of about 0.2-0.3v less noble than the expected pitting potential, then decreased to 60 mv/hr. [Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Hydrochloric acid (HCl) [Procedures]
+- electrolyte_molar_concentrations: 0.1 N [Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Procedures]
+- purge_gas_type: Argon [Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum auxiliary electrode [Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18% Cr-14% Ni-4% Mo Low-nickel austenitic stainless steel [Table III]
+- fabrication_steps: Induction-melted in an argon atmosphere and cast in air using the split heat technique. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm and then cold-rolled to 0.38 cm. [Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 1120°C for 1 hr. [Procedures]
+- cooling_methods: Water-quenched. [Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with the distilled water slurry of 0.3μ alumina. [Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Circular area 0.3 cm in diameter. [Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization experiments [ABSTRACT]
+- electrochemical_mode: Potentiodynamic scanning [Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl). [Procedures]
+- operating_parameters_summary: Potentiodynamic scan starting at -0.7 V in the active region to passive potential region to form passive film in situ. [Procedures]
+- overarching_environmental_conditions: Constant temperature of 24°C ± 1°C. [Procedures]
+- pitting_potential: No pitting up to 0.8 V vs. SCE [Table III]
+- electrolyte_temperature: 24°C ± 1°C [Procedures]
+- continuous_sweep_rate: 600 mv/hr up to potentials of about 0.2-0.3v less noble than the expected pitting potential, then decreased to 60 mv/hr. [Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Hydrochloric acid (HCl) [Procedures]
+- electrolyte_molar_concentrations: 0.1 N [Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Procedures]
+- purge_gas_type: Argon [Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum auxiliary electrode [Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic Stainless Steels [Anodic Polarization of Austenitic Stainless Steels]
+- elemental_weight_percentages: 17.86-18.07% Cr, 16.13-16.25% Ni, 0.067-4.99% Mo, 0.08-0.09% Si, 0.002-0.004% C, 0.010-0.012% N, balance Fe [Table I. Compositions of alloys studied]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenitic [Results]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18% Cr-16% Ni-0% Mo High-purity austenitic stainless steel [Table III]
+- fabrication_steps: Prepared as separate heats by melting and casting in vacuum. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm and then cold-rolled to 0.38 cm. [Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 1150°C for 1 hr. [Procedures]
+- cooling_methods: Water-quenched. [Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with the distilled water slurry of 0.3μ alumina. [Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Circular area 0.3 cm in diameter. [Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization experiments [ABSTRACT]
+- electrochemical_mode: Potentiodynamic scanning [Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl). [Procedures]
+- operating_parameters_summary: Potentiodynamic scan starting at -0.7 V in the active region to passive potential region to form passive film in situ. [Procedures]
+- overarching_environmental_conditions: Constant temperature of 24°C ± 1°C. [Procedures]
+- pitting_potential: No pitting up to 0.8 V vs. SCE [Table III]
+- electrolyte_temperature: 24°C ± 1°C [Procedures]
+- continuous_sweep_rate: 600 mv/hr up to potentials of about 0.2-0.3v less noble than the expected pitting potential, then decreased to 60 mv/hr. [Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Hydrochloric acid (HCl) [Procedures]
+- electrolyte_molar_concentrations: 0.1 N [Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Procedures]
+- purge_gas_type: Argon [Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum auxiliary electrode [Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18% Cr-16% Ni-2.5% Mo High-purity austenitic stainless steel [Table III]
+- fabrication_steps: Prepared as separate heats by melting and casting in vacuum. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm and then cold-rolled to 0.38 cm. [Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 1150°C for 1 hr. [Procedures]
+- cooling_methods: Water-quenched. [Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with the distilled water slurry of 0.3μ alumina. [Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Circular area 0.3 cm in diameter. [Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization experiments [ABSTRACT]
+- electrochemical_mode: Potentiodynamic scanning [Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl). [Procedures]
+- operating_parameters_summary: Potentiodynamic scan starting at -0.7 V in the active region to passive potential region to form passive film in situ. [Procedures]
+- overarching_environmental_conditions: Constant temperature of 24°C ± 1°C. [Procedures]
+- pitting_potential: No pitting up to 0.8 V vs. SCE [Table III]
+- electrolyte_temperature: 24°C ± 1°C [Procedures]
+- continuous_sweep_rate: 600 mv/hr up to potentials of about 0.2-0.3v less noble than the expected pitting potential, then decreased to 60 mv/hr. [Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Hydrochloric acid (HCl) [Procedures]
+- electrolyte_molar_concentrations: 0.1 N [Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Procedures]
+- purge_gas_type: Argon [Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum auxiliary electrode [Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18% Cr-16% Ni-5% Mo High-purity austenitic stainless steel [Table III]
+- fabrication_steps: Prepared as separate heats by melting and casting in vacuum. The ingots were hot-forged and hot-rolled to a thickness of 0.76 cm and then cold-rolled to 0.38 cm. [Procedures]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 1150°C for 1 hr. [Procedures]
+- cooling_methods: Water-quenched. [Procedures]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished using standard metallographic techniques, ending with the distilled water slurry of 0.3μ alumina. [Procedures]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Circular area 0.3 cm in diameter. [Procedures]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization experiments [ABSTRACT]
+- electrochemical_mode: Potentiodynamic scanning [Procedures]
+- solution_chemistry_summary: Argon-saturated 0.1N hydrochloric acid (HCl). [Procedures]
+- operating_parameters_summary: Potentiodynamic scan starting at -0.7 V in the active region to passive potential region to form passive film in situ. [Procedures]
+- overarching_environmental_conditions: Constant temperature of 24°C ± 1°C. [Procedures]
+- pitting_potential: No pitting up to 0.8 V vs. SCE [Table III]
+- electrolyte_temperature: 24°C ± 1°C [Procedures]
+- continuous_sweep_rate: 600 mv/hr up to potentials of about 0.2-0.3v less noble than the expected pitting potential, then decreased to 60 mv/hr. [Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Procedures]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: Hydrochloric acid (HCl) [Procedures]
+- electrolyte_molar_concentrations: 0.1 N [Procedures]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Argon-saturated [Procedures]
+- purge_gas_type: Argon [Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum auxiliary electrode [Procedures]
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Isolated from the test solution by means of a glass frit [Procedures]
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

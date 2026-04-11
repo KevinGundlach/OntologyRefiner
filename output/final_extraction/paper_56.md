@@ -1,0 +1,405 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Pure Aluminum [Abstract, 2.1. Materials]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: 99.999% Al [2.1. Materials]
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Polycrystalline [2.1. Materials]
+- average_grain_dimensions: Approximately 10-80 $\mu$m in the short transverse direction [2.2. Heat treatments]
+- crystallographic_phases: fcc aluminum [1.3. Corrosion properties and objective]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Pure Al Free standing [Table 1]
+- fabrication_steps: Manufactured to dimensions of 2.5 x 2.5 cm and 20 $\mu$m thick and cut into ~1.4 mm x 2.5 cm x 20 $\mu$m segments [2.1. Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Methanol rinse [2.3. Electrochemical testing]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 10^-1 cm^2 [Table 1, 2.3. Electrochemical testing]
+
+### Experiment
+- experimental_test_type: Anodic potentiodynamic polarization experiment [2.3. Electrochemical testing, Fig. 3]
+- electrochemical_mode: Potentiodynamic polarization [2.3. Electrochemical testing]
+- solution_chemistry_summary: 0.6 M (3.5 wt.%) NaCl electrolyte prepared using deionized water of 18 M$\Omega$ cm resistivity and ACS certified reagents [2.3. Electrochemical testing]
+- operating_parameters_summary: Deaerated with N2 gas, open circuit potential measured for approximately 1 h, anodic scan at 0.1 mV s^-1 [2.3. Electrochemical testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -0.650 $\pm$ 0.034 V vs. SCE [Table 1]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV s^-1 [2.3. Electrochemical testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.3. Electrochemical testing]
+- electrolyte_solvents: Deionized water (18 M$\Omega$ cm resistivity) [2.3. Electrochemical testing]
+- electrolyte_primary_salts: NaCl [2.3. Electrochemical testing]
+- electrolyte_molar_concentrations: 0.6 M [2.3. Electrochemical testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.3. Electrochemical testing]
+- purge_gas_type: N2 gas [2.3. Electrochemical testing]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open circuit potential measurement prior to scan [2.3. Electrochemical testing]
+- ocp_resting_duration: Approximately 1 h [2.3. Electrochemical testing]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.3. Electrochemical testing]
+- counter_electrode_geometry: Mesh [2.3. Electrochemical testing]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Near-neutral [1.1. Opportunity for new metallic coatings]
+- passive_current_density: 1 to 5 $\mu$A cm^-2 [2.3. Electrochemical testing]
+
+## Conditioned Material
+- material_identification: Pure Al Microelectrode [Table 1]
+- fabrication_steps: Manufactured to dimensions of 2.5 x 2.5 cm and 20 $\mu$m thick and cut into ~1.4 mm x 2.5 cm x 20 $\mu$m segments. Mounted on end in Buehler Epoxide resin exposing the foil cross-section [2.1. Materials, 2.3. Electrochemical testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Wet polished through 600 grit SiC paper. Successive polish to a 0.05 $\mu$m finish in alumina suspensions [2.3. Electrochemical testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 0.05 $\mu$m finish [2.3. Electrochemical testing]
+- exposed_surface_area: 10^-4 cm^2 [Table 1, 2.3. Electrochemical testing]
+
+### Experiment
+- experimental_test_type: Anodic potentiodynamic polarization experiment [2.3. Electrochemical testing, Fig. 3]
+- electrochemical_mode: Potentiodynamic polarization [2.3. Electrochemical testing]
+- solution_chemistry_summary: 0.6 M (3.5 wt.%) NaCl electrolyte prepared using deionized water of 18 M$\Omega$ cm resistivity and ACS certified reagents [2.3. Electrochemical testing]
+- operating_parameters_summary: Deaerated with N2 gas, open circuit potential measured for approximately 1 h, anodic scan at 0.1 mV s^-1 [2.3. Electrochemical testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -0.376 $\pm$ 0.113 V vs. SCE [Table 1]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV s^-1 [2.3. Electrochemical testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.3. Electrochemical testing]
+- electrolyte_solvents: Deionized water (18 M$\Omega$ cm resistivity) [2.3. Electrochemical testing]
+- electrolyte_primary_salts: NaCl [2.3. Electrochemical testing]
+- electrolyte_molar_concentrations: 0.6 M [2.3. Electrochemical testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.3. Electrochemical testing]
+- purge_gas_type: N2 gas [2.3. Electrochemical testing]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open circuit potential measurement prior to scan [2.3. Electrochemical testing]
+- ocp_resting_duration: Approximately 1 h [2.3. Electrochemical testing]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.3. Electrochemical testing]
+- counter_electrode_geometry: Mesh [2.3. Electrochemical testing]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Near-neutral [1.1. Opportunity for new metallic coatings]
+- passive_current_density: 1 to 5 $\mu$A cm^-2 [2.3. Electrochemical testing]
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Al-TM-RE metallic glass / Al-Ni-Y family [2.1. Materials]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: 87 at.% Al, 8.7 at.% Ni, 4.3 at.% Y [2.1. Materials]
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Purity of Al and Y was 99.9%, and that of Ni was 99.99% [2.1. Materials]
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Wholly amorphous structure (as-spun) [2.1. Materials]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Amorphous phase [1.2. Physical metallurgy and thermal stability]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Amorphous Al87Ni8.7Y4.3 Microelectrode [Table 1]
+- fabrication_steps: Ingots produced by arc-melting elemental chips under an argon atmosphere. Metallic glass ribbons prepared in a helium atmosphere using a 0.20 m diameter copper wheel with an approximate circumferential velocity of 45 m s^-1. Ribbons formed with dimensions of 15-20 $\mu$m thick, 1-2 mm wide. Mounted on end in Buehler Epoxide resin exposing the foil cross-section [2.1. Materials, 2.3. Electrochemical testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: None (as-spun) [2.1. Materials]
+- cooling_methods: Rapid cooling via melt spinning [1.1. Opportunity for new metallic coatings, 2.1. Materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Wet polished through 600 grit SiC paper. Successive polish to a 0.05 $\mu$m finish in alumina suspensions [2.3. Electrochemical testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 0.05 $\mu$m finish, average RMS roughness of 124 A [2.3. Electrochemical testing]
+- exposed_surface_area: 10^-4 cm^2 [Table 1, 2.3. Electrochemical testing]
+
+### Experiment
+- experimental_test_type: Anodic potentiodynamic polarization experiment [2.3. Electrochemical testing]
+- electrochemical_mode: Potentiodynamic polarization [2.3. Electrochemical testing]
+- solution_chemistry_summary: 0.6 M (3.5 wt.%) NaCl electrolyte prepared using deionized water of 18 M$\Omega$ cm resistivity and ACS certified reagents [2.3. Electrochemical testing]
+- operating_parameters_summary: Deaerated with N2 gas, open circuit potential measured for approximately 1 h, anodic scan at 0.1 mV s^-1 [2.3. Electrochemical testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -0.237 $\pm$ 0.030 V vs. SCE [Table 1]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV s^-1 [2.3. Electrochemical testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.3. Electrochemical testing]
+- electrolyte_solvents: Deionized water (18 M$\Omega$ cm resistivity) [2.3. Electrochemical testing]
+- electrolyte_primary_salts: NaCl [2.3. Electrochemical testing]
+- electrolyte_molar_concentrations: 0.6 M [2.3. Electrochemical testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.3. Electrochemical testing]
+- purge_gas_type: N2 gas [2.3. Electrochemical testing]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open circuit potential measurement prior to scan [2.3. Electrochemical testing]
+- ocp_resting_duration: Approximately 1 h [2.3. Electrochemical testing]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.3. Electrochemical testing]
+- counter_electrode_geometry: Mesh [2.3. Electrochemical testing]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Near-neutral [1.1. Opportunity for new metallic coatings]
+- passive_current_density: 1 to 5 $\mu$A cm^-2 [2.3. Electrochemical testing]
+
+## Conditioned Material
+- material_identification: Nanocrystalline Al87Ni8.7Y4.3 Microelectrode [Table 1]
+- fabrication_steps: Ingots produced by arc-melting elemental chips under an argon atmosphere. Metallic glass ribbons prepared in a helium atmosphere using a 0.20 m diameter copper wheel with an approximate circumferential velocity of 45 m s^-1. Ribbons formed with dimensions of 15-20 $\mu$m thick, 1-2 mm wide. Encapsulated in Pyrex or quartz tubes back-filled with argon gas prior to heat treatment. Mounted on end in Buehler Epoxide resin exposing the foil cross-section [2.1. Materials, 2.2. Heat treatments, 2.3. Electrochemical testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Isothermally heat treated at 150 °C for 25 h in a Precision Gravity Convection Oven Model 16EG [2.2. Heat treatments]
+- cooling_methods: Allowed to air cool following heat treatment [2.2. Heat treatments]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Wet polished through 600 grit SiC paper. Successive polish to a 0.05 $\mu$m finish in alumina suspensions [2.3. Electrochemical testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 0.05 $\mu$m finish [2.3. Electrochemical testing]
+- exposed_surface_area: 10^-4 cm^2 [Table 1, 2.3. Electrochemical testing]
+
+### Experiment
+- experimental_test_type: Anodic potentiodynamic polarization experiment [2.3. Electrochemical testing]
+- electrochemical_mode: Potentiodynamic polarization [2.3. Electrochemical testing]
+- solution_chemistry_summary: 0.6 M (3.5 wt.%) NaCl electrolyte prepared using deionized water of 18 M$\Omega$ cm resistivity and ACS certified reagents [2.3. Electrochemical testing]
+- operating_parameters_summary: Deaerated with N2 gas, open circuit potential measured for approximately 1 h, anodic scan at 0.1 mV s^-1 [2.3. Electrochemical testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -0.133 $\pm$ 0.167 V vs. SCE [Table 1]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV s^-1 [2.3. Electrochemical testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.3. Electrochemical testing]
+- electrolyte_solvents: Deionized water (18 M$\Omega$ cm resistivity) [2.3. Electrochemical testing]
+- electrolyte_primary_salts: NaCl [2.3. Electrochemical testing]
+- electrolyte_molar_concentrations: 0.6 M [2.3. Electrochemical testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.3. Electrochemical testing]
+- purge_gas_type: N2 gas [2.3. Electrochemical testing]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open circuit potential measurement prior to scan [2.3. Electrochemical testing]
+- ocp_resting_duration: Approximately 1 h [2.3. Electrochemical testing]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.3. Electrochemical testing]
+- counter_electrode_geometry: Mesh [2.3. Electrochemical testing]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Near-neutral [1.1. Opportunity for new metallic coatings]
+- passive_current_density: 1 to 5 $\mu$A cm^-2 [2.3. Electrochemical testing]
+
+## Conditioned Material
+- material_identification: Fully crystalline Al87Ni8.7Y4.3 Microelectrode [Table 1]
+- fabrication_steps: Ingots produced by arc-melting elemental chips under an argon atmosphere. Metallic glass ribbons prepared in a helium atmosphere using a 0.20 m diameter copper wheel with an approximate circumferential velocity of 45 m s^-1. Ribbons formed with dimensions of 15-20 $\mu$m thick, 1-2 mm wide. Encapsulated in Pyrex or quartz tubes back-filled with argon gas prior to heat treatment. Mounted on end in Buehler Epoxide resin exposing the foil cross-section [2.1. Materials, 2.2. Heat treatments, 2.3. Electrochemical testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treating for 1 h at 550 °C in a Thermolyne 480 000 furnace [2.2. Heat treatments]
+- cooling_methods: Allowed to air cool following heat treatment [2.2. Heat treatments]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Wet polished through 600 grit SiC paper. Successive polish to a 0.05 $\mu$m finish in alumina suspensions [2.3. Electrochemical testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 0.05 $\mu$m finish [2.3. Electrochemical testing]
+- exposed_surface_area: 10^-4 cm^2 [Table 1, 2.3. Electrochemical testing]
+
+### Experiment
+- experimental_test_type: Anodic potentiodynamic polarization experiment [2.3. Electrochemical testing]
+- electrochemical_mode: Potentiodynamic polarization [2.3. Electrochemical testing]
+- solution_chemistry_summary: 0.6 M (3.5 wt.%) NaCl electrolyte prepared using deionized water of 18 M$\Omega$ cm resistivity and ACS certified reagents [2.3. Electrochemical testing]
+- operating_parameters_summary: Deaerated with N2 gas, open circuit potential measured for approximately 1 h, anodic scan at 0.1 mV s^-1 [2.3. Electrochemical testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -0.143 $\pm$ 0.194 V vs. SCE [Table 1]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV s^-1 [2.3. Electrochemical testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.3. Electrochemical testing]
+- electrolyte_solvents: Deionized water (18 M$\Omega$ cm resistivity) [2.3. Electrochemical testing]
+- electrolyte_primary_salts: NaCl [2.3. Electrochemical testing]
+- electrolyte_molar_concentrations: 0.6 M [2.3. Electrochemical testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.3. Electrochemical testing]
+- purge_gas_type: N2 gas [2.3. Electrochemical testing]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open circuit potential measurement prior to scan [2.3. Electrochemical testing]
+- ocp_resting_duration: Approximately 1 h [2.3. Electrochemical testing]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.3. Electrochemical testing]
+- counter_electrode_geometry: Mesh [2.3. Electrochemical testing]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Near-neutral [1.1. Opportunity for new metallic coatings]
+- passive_current_density: 1 to 5 $\mu$A cm^-2 [2.3. Electrochemical testing]
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Al-TM-RE metallic glass / Al-Fe-Gd family [2.1. Materials]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: 90 at.% Al, 5 at.% Fe, 5 at.% Gd [2.1. Materials]
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Purity of Al and Gd was 99.9%, Fe was 99.98% [2.1. Materials]
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Wholly amorphous structure (as-spun) [2.1. Materials]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Amorphous phase [1.2. Physical metallurgy and thermal stability]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Amorphous Al90Fe5Gd5 Microelectrode [Table 1]
+- fabrication_steps: Ingots produced by arc-melting elemental chips under an argon atmosphere. Metallic glass ribbons prepared in a helium atmosphere using a 0.20 m diameter copper wheel with an approximate circumferential velocity of 45 m s^-1. Ribbons formed with dimensions of 15-20 $\mu$m thick, 1-2 mm wide. Mounted on end in Buehler Epoxide resin exposing the foil cross-section [2.1. Materials, 2.3. Electrochemical testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: None (as-spun) [2.1. Materials]
+- cooling_methods: Rapid cooling via melt spinning [1.1. Opportunity for new metallic coatings, 2.1. Materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Wet polished through 600 grit SiC paper. Successive polish to a 0.05 $\mu$m finish in alumina suspensions [2.3. Electrochemical testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 0.05 $\mu$m finish, average RMS roughness of 124 A [2.3. Electrochemical testing]
+- exposed_surface_area: 10^-4 cm^2 [Table 1, 2.3. Electrochemical testing]
+
+### Experiment
+- experimental_test_type: Anodic potentiodynamic polarization experiment [2.3. Electrochemical testing]
+- electrochemical_mode: Potentiodynamic polarization [2.3. Electrochemical testing]
+- solution_chemistry_summary: 0.6 M (3.5 wt.%) NaCl electrolyte prepared using deionized water of 18 M$\Omega$ cm resistivity and ACS certified reagents [2.3. Electrochemical testing]
+- operating_parameters_summary: Deaerated with N2 gas, open circuit potential measured for approximately 1 h, anodic scan at 0.1 mV s^-1 [2.3. Electrochemical testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -0.099 $\pm$ 0.093 V vs. SCE [Table 1]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV s^-1 [2.3. Electrochemical testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.3. Electrochemical testing]
+- electrolyte_solvents: Deionized water (18 M$\Omega$ cm resistivity) [2.3. Electrochemical testing]
+- electrolyte_primary_salts: NaCl [2.3. Electrochemical testing]
+- electrolyte_molar_concentrations: 0.6 M [2.3. Electrochemical testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.3. Electrochemical testing]
+- purge_gas_type: N2 gas [2.3. Electrochemical testing]
+- corrosion_potential: Ecorr remains near -1 V [3.1. Critical potentials associated with micrometer-scale pitting]
+- ocp_stabilization_methodology: Open circuit potential measurement prior to scan [2.3. Electrochemical testing]
+- ocp_resting_duration: Approximately 1 h [2.3. Electrochemical testing]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.3. Electrochemical testing]
+- counter_electrode_geometry: Mesh [2.3. Electrochemical testing]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Near-neutral [1.1. Opportunity for new metallic coatings]
+- passive_current_density: 1 to 5 $\mu$A cm^-2 [2.3. Electrochemical testing]
+
+## Conditioned Material
+- material_identification: Nanocrystalline Al90Fe5Gd5 Microelectrode [Table 1]
+- fabrication_steps: Ingots produced by arc-melting elemental chips under an argon atmosphere. Metallic glass ribbons prepared in a helium atmosphere using a 0.20 m diameter copper wheel with an approximate circumferential velocity of 45 m s^-1. Ribbons formed with dimensions of 15-20 $\mu$m thick, 1-2 mm wide. Encapsulated in Pyrex or quartz tubes back-filled with argon gas prior to heat treatment. Mounted on end in Buehler Epoxide resin exposing the foil cross-section [2.1. Materials, 2.2. Heat treatments, 2.3. Electrochemical testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Isothermally heat treated at 150 °C for 25 h in a Precision Gravity Convection Oven Model 16EG [2.2. Heat treatments]
+- cooling_methods: Allowed to air cool following heat treatment [2.2. Heat treatments]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Wet polished through 600 grit SiC paper. Successive polish to a 0.05 $\mu$m finish in alumina suspensions [2.3. Electrochemical testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 0.05 $\mu$m finish [2.3. Electrochemical testing]
+- exposed_surface_area: 10^-4 cm^2 [Table 1, 2.3. Electrochemical testing]
+
+### Experiment
+- experimental_test_type: Anodic potentiodynamic polarization experiment [2.3. Electrochemical testing]
+- electrochemical_mode: Potentiodynamic polarization [2.3. Electrochemical testing]
+- solution_chemistry_summary: 0.6 M (3.5 wt.%) NaCl electrolyte prepared using deionized water of 18 M$\Omega$ cm resistivity and ACS certified reagents [2.3. Electrochemical testing]
+- operating_parameters_summary: Deaerated with N2 gas, open circuit potential measured for approximately 1 h, anodic scan at 0.1 mV s^-1 [2.3. Electrochemical testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -0.044 $\pm$ 0.130 V vs. SCE [Table 1]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV s^-1 [2.3. Electrochemical testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.3. Electrochemical testing]
+- electrolyte_solvents: Deionized water (18 M$\Omega$ cm resistivity) [2.3. Electrochemical testing]
+- electrolyte_primary_salts: NaCl [2.3. Electrochemical testing]
+- electrolyte_molar_concentrations: 0.6 M [2.3. Electrochemical testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.3. Electrochemical testing]
+- purge_gas_type: N2 gas [2.3. Electrochemical testing]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open circuit potential measurement prior to scan [2.3. Electrochemical testing]
+- ocp_resting_duration: Approximately 1 h [2.3. Electrochemical testing]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.3. Electrochemical testing]
+- counter_electrode_geometry: Mesh [2.3. Electrochemical testing]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Near-neutral [1.1. Opportunity for new metallic coatings]
+- passive_current_density: 1 to 5 $\mu$A cm^-2 [2.3. Electrochemical testing]
+
+## Conditioned Material
+- material_identification: Fully crystalline Al90Fe5Gd5 Microelectrode [Table 1]
+- fabrication_steps: Ingots produced by arc-melting elemental chips under an argon atmosphere. Metallic glass ribbons prepared in a helium atmosphere using a 0.20 m diameter copper wheel with an approximate circumferential velocity of 45 m s^-1. Ribbons formed with dimensions of 15-20 $\mu$m thick, 1-2 mm wide. Encapsulated in Pyrex or quartz tubes back-filled with argon gas prior to heat treatment. Mounted on end in Buehler Epoxide resin exposing the foil cross-section [2.1. Materials, 2.2. Heat treatments, 2.3. Electrochemical testing]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat treating for 1 h at 550 °C in a Thermolyne 480 000 furnace [2.2. Heat treatments]
+- cooling_methods: Allowed to air cool following heat treatment [2.2. Heat treatments]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Wet polished through 600 grit SiC paper. Successive polish to a 0.05 $\mu$m finish in alumina suspensions [2.3. Electrochemical testing]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 0.05 $\mu$m finish [2.3. Electrochemical testing]
+- exposed_surface_area: 10^-4 cm^2 [Table 1, 2.3. Electrochemical testing]
+
+### Experiment
+- experimental_test_type: Anodic potentiodynamic polarization experiment [2.3. Electrochemical testing]
+- electrochemical_mode: Potentiodynamic polarization [2.3. Electrochemical testing]
+- solution_chemistry_summary: 0.6 M (3.5 wt.%) NaCl electrolyte prepared using deionized water of 18 M$\Omega$ cm resistivity and ACS certified reagents [2.3. Electrochemical testing]
+- operating_parameters_summary: Deaerated with N2 gas, open circuit potential measured for approximately 1 h, anodic scan at 0.1 mV s^-1 [2.3. Electrochemical testing]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -0.499 $\pm$ 0.163 V vs. SCE [Table 1]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 0.1 mV s^-1 [2.3. Electrochemical testing]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [2.3. Electrochemical testing]
+- electrolyte_solvents: Deionized water (18 M$\Omega$ cm resistivity) [2.3. Electrochemical testing]
+- electrolyte_primary_salts: NaCl [2.3. Electrochemical testing]
+- electrolyte_molar_concentrations: 0.6 M [2.3. Electrochemical testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [2.3. Electrochemical testing]
+- purge_gas_type: N2 gas [2.3. Electrochemical testing]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open circuit potential measurement prior to scan [2.3. Electrochemical testing]
+- ocp_resting_duration: Approximately 1 h [2.3. Electrochemical testing]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [2.3. Electrochemical testing]
+- counter_electrode_geometry: Mesh [2.3. Electrochemical testing]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Near-neutral [1.1. Opportunity for new metallic coatings]
+- passive_current_density: 1 to 5 $\mu$A cm^-2 [2.3. Electrochemical testing]

@@ -1,0 +1,1000 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Alloy 825 [Table 1]
+- commercial_grade: Not specified in text.
+- uns_code: N08825 [Table 1]
+- alloy_family: Nickel alloys [Introduction]
+- elemental_weight_percentages: 30.0 Fe, 2.2 Cu, 42.0 Ni, 21.5 Cr, 3.0 Mo, 0.9 Ti [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 825 Sheet [Procedure]
+- fabrication_steps: Cut from commercially produced 0.062-in. (1.57-mm) and 0.125-in. (3.25-mm) sheet [Procedure]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Given a 120-grit surface finish with aluminum oxide paper and cleaned with acetone [Procedure]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120-grit surface finish [Procedure]
+- exposed_surface_area: 2 x 2 in. (51 x 51 mm) by sheet thickness [Procedure]
+
+### Experiment
+- experimental_test_type: Critical crevice temperature (CCT) determination (MTI procedure) [Procedure]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6% FeCl3 (10% FeCl3·6H2O) [Procedure]
+- operating_parameters_summary: Specimens fitted with TFE-fluorocarbon washers were immersed for 24 h at a fixed temperature; if no attack occurred, they were further exposed without resanding for 24 h at a 2.5 C higher temperature until attack was observed. [Procedure]
+- overarching_environmental_conditions: Severe oxidizing chloride environments [Introduction]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Fixed initial temperature, increased in increments of 2.5 C every 24 h [Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Distilled water [Procedure]
+- electrolyte_primary_salts: Reagent-grade FeCl3·6H2O [Procedure]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 1.2 to 1.3 [Results and discussion]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Critical crevice temperature (CCT) determination (Modified MTI procedure) [Procedure]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6% FeCl3 (10% FeCl3·6H2O) [Procedure]
+- operating_parameters_summary: Specimens fitted with TFE-fluorocarbon washers were immersed for 24 h at a fixed temperature; if no attack occurred, they were resanded and cleaned before further exposure for 24 h at a 2.5 C higher temperature until attack was observed. [Procedure]
+- overarching_environmental_conditions: Severe oxidizing chloride environments [Introduction]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Fixed initial temperature, increased in increments of 2.5 C every 24 h [Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Distilled water [Procedure]
+- electrolyte_primary_salts: Reagent-grade FeCl3·6H2O [Procedure]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 1.2 to 1.3 [Results and discussion]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Alloy 317LM [Table 1]
+- commercial_grade: Not specified in text.
+- uns_code: S31703 [Table 1]
+- alloy_family: Nickel alloys / Austenitic stainless steels [Introduction, Relationship to alloying elements]
+- elemental_weight_percentages: 61.0 Fe, 14.0 Ni, 19.0 Cr, 4.25 Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 317LM Sheet [Procedure]
+- fabrication_steps: Cut from commercially produced 0.062-in. (1.57-mm) and 0.125-in. (3.25-mm) sheet [Procedure]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Given a 120-grit surface finish with aluminum oxide paper and cleaned with acetone [Procedure]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120-grit surface finish [Procedure]
+- exposed_surface_area: 2 x 2 in. (51 x 51 mm) by sheet thickness [Procedure]
+
+### Experiment
+- experimental_test_type: Critical crevice temperature (CCT) determination (MTI procedure) [Procedure]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6% FeCl3 (10% FeCl3·6H2O) [Procedure]
+- operating_parameters_summary: Specimens fitted with TFE-fluorocarbon washers were immersed for 24 h at a fixed temperature; if no attack occurred, they were further exposed without resanding for 24 h at a 2.5 C higher temperature until attack was observed. [Procedure]
+- overarching_environmental_conditions: Severe oxidizing chloride environments [Introduction]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Fixed initial temperature, increased in increments of 2.5 C every 24 h [Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Distilled water [Procedure]
+- electrolyte_primary_salts: Reagent-grade FeCl3·6H2O [Procedure]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 1.2 to 1.3 [Results and discussion]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Critical crevice temperature (CCT) determination (Modified MTI procedure) [Procedure]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6% FeCl3 (10% FeCl3·6H2O) [Procedure]
+- operating_parameters_summary: Specimens fitted with TFE-fluorocarbon washers were immersed for 24 h at a fixed temperature; if no attack occurred, they were resanded and cleaned before further exposure for 24 h at a 2.5 C higher temperature until attack was observed. [Procedure]
+- overarching_environmental_conditions: Severe oxidizing chloride environments [Introduction]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Fixed initial temperature, increased in increments of 2.5 C every 24 h [Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Distilled water [Procedure]
+- electrolyte_primary_salts: Reagent-grade FeCl3·6H2O [Procedure]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 1.2 to 1.3 [Results and discussion]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Alloy 904L [Table 1]
+- commercial_grade: Not specified in text.
+- uns_code: N08904 [Table 1]
+- alloy_family: Nickel alloys [Introduction]
+- elemental_weight_percentages: 45.0 Fe, 1.5 Cu, 25.5 Ni, 21.0 Cr, 4.7 Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 904L Sheet [Procedure]
+- fabrication_steps: Cut from commercially produced 0.062-in. (1.57-mm) and 0.125-in. (3.25-mm) sheet [Procedure]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Given a 120-grit surface finish with aluminum oxide paper and cleaned with acetone [Procedure]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120-grit surface finish [Procedure]
+- exposed_surface_area: 2 x 2 in. (51 x 51 mm) by sheet thickness [Procedure]
+
+### Experiment
+- experimental_test_type: Critical crevice temperature (CCT) determination (MTI procedure) [Procedure]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6% FeCl3 (10% FeCl3·6H2O) [Procedure]
+- operating_parameters_summary: Specimens fitted with TFE-fluorocarbon washers were immersed for 24 h at a fixed temperature; if no attack occurred, they were further exposed without resanding for 24 h at a 2.5 C higher temperature until attack was observed. [Procedure]
+- overarching_environmental_conditions: Severe oxidizing chloride environments [Introduction]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Fixed initial temperature, increased in increments of 2.5 C every 24 h [Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Distilled water [Procedure]
+- electrolyte_primary_salts: Reagent-grade FeCl3·6H2O [Procedure]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 1.2 to 1.3 [Results and discussion]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Critical crevice temperature (CCT) determination (Modified MTI procedure) [Procedure]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6% FeCl3 (10% FeCl3·6H2O) [Procedure]
+- operating_parameters_summary: Specimens fitted with TFE-fluorocarbon washers were immersed for 24 h at a fixed temperature; if no attack occurred, they were resanded and cleaned before further exposure for 24 h at a 2.5 C higher temperature until attack was observed. [Procedure]
+- overarching_environmental_conditions: Severe oxidizing chloride environments [Introduction]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Fixed initial temperature, increased in increments of 2.5 C every 24 h [Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Distilled water [Procedure]
+- electrolyte_primary_salts: Reagent-grade FeCl3·6H2O [Procedure]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 1.2 to 1.3 [Results and discussion]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Alloy G [Table 1]
+- commercial_grade: Not specified in text.
+- uns_code: N06007 [Table 1]
+- alloy_family: Nickel alloys [Introduction]
+- elemental_weight_percentages: 19.5 Fe, 2.0 Cu, 44.0 Ni, 22.0 Cr, 6.5 Mo, 2.0 Cb (Includes Ta), 2.5 Co, 1.0 W [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy G Sheet [Procedure]
+- fabrication_steps: Cut from commercially produced 0.062-in. (1.57-mm) and 0.125-in. (3.25-mm) sheet [Procedure]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Given a 120-grit surface finish with aluminum oxide paper and cleaned with acetone [Procedure]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120-grit surface finish [Procedure]
+- exposed_surface_area: 2 x 2 in. (51 x 51 mm) by sheet thickness [Procedure]
+
+### Experiment
+- experimental_test_type: Critical crevice temperature (CCT) determination (MTI procedure) [Procedure]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6% FeCl3 (10% FeCl3·6H2O) [Procedure]
+- operating_parameters_summary: Specimens fitted with TFE-fluorocarbon washers were immersed for 24 h at a fixed temperature; if no attack occurred, they were further exposed without resanding for 24 h at a 2.5 C higher temperature until attack was observed. [Procedure]
+- overarching_environmental_conditions: Severe oxidizing chloride environments [Introduction]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Fixed initial temperature, increased in increments of 2.5 C every 24 h [Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Distilled water [Procedure]
+- electrolyte_primary_salts: Reagent-grade FeCl3·6H2O [Procedure]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 1.2 to 1.3 [Results and discussion]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Critical crevice temperature (CCT) determination (Modified MTI procedure) [Procedure]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6% FeCl3 (10% FeCl3·6H2O) [Procedure]
+- operating_parameters_summary: Specimens fitted with TFE-fluorocarbon washers were immersed for 24 h at a fixed temperature; if no attack occurred, they were resanded and cleaned before further exposure for 24 h at a 2.5 C higher temperature until attack was observed. [Procedure]
+- overarching_environmental_conditions: Severe oxidizing chloride environments [Introduction]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Fixed initial temperature, increased in increments of 2.5 C every 24 h [Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Distilled water [Procedure]
+- electrolyte_primary_salts: Reagent-grade FeCl3·6H2O [Procedure]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 1.2 to 1.3 [Results and discussion]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Alloy G-3 [Table 1]
+- commercial_grade: Not specified in text.
+- uns_code: N06985 [Table 1]
+- alloy_family: Nickel alloys [Introduction]
+- elemental_weight_percentages: 19.5 Fe, 1.9 Cu, 49.0 Ni, 22.2 Cr, 7.0 Mo, 1.0 W [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy G-3 Sheet [Procedure]
+- fabrication_steps: Cut from commercially produced 0.062-in. (1.57-mm) and 0.125-in. (3.25-mm) sheet [Procedure]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Given a 120-grit surface finish with aluminum oxide paper and cleaned with acetone [Procedure]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120-grit surface finish [Procedure]
+- exposed_surface_area: 2 x 2 in. (51 x 51 mm) by sheet thickness [Procedure]
+
+### Experiment
+- experimental_test_type: Critical crevice temperature (CCT) determination (MTI procedure) [Procedure]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6% FeCl3 (10% FeCl3·6H2O) [Procedure]
+- operating_parameters_summary: Specimens fitted with TFE-fluorocarbon washers were immersed for 24 h at a fixed temperature; if no attack occurred, they were further exposed without resanding for 24 h at a 2.5 C higher temperature until attack was observed. [Procedure]
+- overarching_environmental_conditions: Severe oxidizing chloride environments [Introduction]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Fixed initial temperature, increased in increments of 2.5 C every 24 h [Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Distilled water [Procedure]
+- electrolyte_primary_salts: Reagent-grade FeCl3·6H2O [Procedure]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 1.2 to 1.3 [Results and discussion]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Critical crevice temperature (CCT) determination (Modified MTI procedure) [Procedure]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6% FeCl3 (10% FeCl3·6H2O) [Procedure]
+- operating_parameters_summary: Specimens fitted with TFE-fluorocarbon washers were immersed for 24 h at a fixed temperature; if no attack occurred, they were resanded and cleaned before further exposure for 24 h at a 2.5 C higher temperature until attack was observed. [Procedure]
+- overarching_environmental_conditions: Severe oxidizing chloride environments [Introduction]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Fixed initial temperature, increased in increments of 2.5 C every 24 h [Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Distilled water [Procedure]
+- electrolyte_primary_salts: Reagent-grade FeCl3·6H2O [Procedure]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 1.2 to 1.3 [Results and discussion]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Alloy HX [Table 1]
+- commercial_grade: Not specified in text.
+- uns_code: N06002 [Table 1]
+- alloy_family: Nickel alloys [Introduction]
+- elemental_weight_percentages: 18.5 Fe, 48.0 Ni, 22.0 Cr, 9.0 Mo, 1.5 Co, 0.6 W [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy HX Sheet [Procedure]
+- fabrication_steps: Cut from commercially produced 0.062-in. (1.57-mm) and 0.125-in. (3.25-mm) sheet [Procedure]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Given a 120-grit surface finish with aluminum oxide paper and cleaned with acetone [Procedure]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120-grit surface finish [Procedure]
+- exposed_surface_area: 2 x 2 in. (51 x 51 mm) by sheet thickness [Procedure]
+
+### Experiment
+- experimental_test_type: Critical crevice temperature (CCT) determination (MTI procedure) [Procedure]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6% FeCl3 (10% FeCl3·6H2O) [Procedure]
+- operating_parameters_summary: Specimens fitted with TFE-fluorocarbon washers were immersed for 24 h at a fixed temperature; if no attack occurred, they were further exposed without resanding for 24 h at a 2.5 C higher temperature until attack was observed. [Procedure]
+- overarching_environmental_conditions: Severe oxidizing chloride environments [Introduction]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Fixed initial temperature, increased in increments of 2.5 C every 24 h [Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Distilled water [Procedure]
+- electrolyte_primary_salts: Reagent-grade FeCl3·6H2O [Procedure]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 1.2 to 1.3 [Results and discussion]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Critical crevice temperature (CCT) determination (Modified MTI procedure) [Procedure]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6% FeCl3 (10% FeCl3·6H2O) [Procedure]
+- operating_parameters_summary: Specimens fitted with TFE-fluorocarbon washers were immersed for 24 h at a fixed temperature; if no attack occurred, they were resanded and cleaned before further exposure for 24 h at a 2.5 C higher temperature until attack was observed. [Procedure]
+- overarching_environmental_conditions: Severe oxidizing chloride environments [Introduction]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Fixed initial temperature, increased in increments of 2.5 C every 24 h [Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Distilled water [Procedure]
+- electrolyte_primary_salts: Reagent-grade FeCl3·6H2O [Procedure]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 1.2 to 1.3 [Results and discussion]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Alloy 625 [Table 1]
+- commercial_grade: Not specified in text.
+- uns_code: N06625 [Table 1]
+- alloy_family: Nickel alloys [Introduction]
+- elemental_weight_percentages: 2.5 Fe, 61.0 Ni, 21.0 Cr, 9.0 Mo, 3.6 Cb (Includes Ta) [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 625 Sheet [Procedure]
+- fabrication_steps: Cut from commercially produced 0.062-in. (1.57-mm) and 0.125-in. (3.25-mm) sheet [Procedure]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Given a 120-grit surface finish with aluminum oxide paper and cleaned with acetone [Procedure]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120-grit surface finish [Procedure]
+- exposed_surface_area: 2 x 2 in. (51 x 51 mm) by sheet thickness [Procedure]
+
+### Experiment
+- experimental_test_type: Critical crevice temperature (CCT) determination (MTI procedure) [Procedure]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6% FeCl3 (10% FeCl3·6H2O) [Procedure]
+- operating_parameters_summary: Specimens fitted with TFE-fluorocarbon washers were immersed for 24 h at a fixed temperature; if no attack occurred, they were further exposed without resanding for 24 h at a 2.5 C higher temperature until attack was observed. [Procedure]
+- overarching_environmental_conditions: Severe oxidizing chloride environments [Introduction]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Fixed initial temperature, increased in increments of 2.5 C every 24 h [Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Distilled water [Procedure]
+- electrolyte_primary_salts: Reagent-grade FeCl3·6H2O [Procedure]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 1.2 to 1.3 [Results and discussion]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Critical crevice temperature (CCT) determination (Modified MTI procedure) [Procedure]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6% FeCl3 (10% FeCl3·6H2O) [Procedure]
+- operating_parameters_summary: Specimens fitted with TFE-fluorocarbon washers were immersed for 24 h at a fixed temperature; if no attack occurred, they were resanded and cleaned before further exposure for 24 h at a 2.5 C higher temperature until attack was observed. [Procedure]
+- overarching_environmental_conditions: Severe oxidizing chloride environments [Introduction]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Fixed initial temperature, increased in increments of 2.5 C every 24 h [Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Distilled water [Procedure]
+- electrolyte_primary_salts: Reagent-grade FeCl3·6H2O [Procedure]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 1.2 to 1.3 [Results and discussion]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Alloy C-22 [Table 1]
+- commercial_grade: Not specified in text.
+- uns_code: N06022 [Table 1]
+- alloy_family: Nickel alloys [Introduction]
+- elemental_weight_percentages: 4.0 Fe, 58.0 Ni, 21.0 Cr, 13.5 Mo, 2.5 Co, 3.0 W [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy C-22 Sheet [Procedure]
+- fabrication_steps: Cut from commercially produced 0.062-in. (1.57-mm) and 0.125-in. (3.25-mm) sheet [Procedure]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Given a 120-grit surface finish with aluminum oxide paper and cleaned with acetone [Procedure]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120-grit surface finish [Procedure]
+- exposed_surface_area: 2 x 2 in. (51 x 51 mm) by sheet thickness [Procedure]
+
+### Experiment
+- experimental_test_type: Critical crevice temperature (CCT) determination (MTI procedure) [Procedure]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6% FeCl3 (10% FeCl3·6H2O) [Procedure]
+- operating_parameters_summary: Specimens fitted with TFE-fluorocarbon washers were immersed for 24 h at a fixed temperature; if no attack occurred, they were further exposed without resanding for 24 h at a 2.5 C higher temperature until attack was observed. [Procedure]
+- overarching_environmental_conditions: Severe oxidizing chloride environments [Introduction]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Fixed initial temperature, increased in increments of 2.5 C every 24 h [Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Distilled water [Procedure]
+- electrolyte_primary_salts: Reagent-grade FeCl3·6H2O [Procedure]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 1.2 to 1.3 [Results and discussion]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Critical crevice temperature (CCT) determination (Modified MTI procedure) [Procedure]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6% FeCl3 (10% FeCl3·6H2O) [Procedure]
+- operating_parameters_summary: Specimens fitted with TFE-fluorocarbon washers were immersed for 24 h at a fixed temperature; if no attack occurred, they were resanded and cleaned before further exposure for 24 h at a 2.5 C higher temperature until attack was observed. [Procedure]
+- overarching_environmental_conditions: Severe oxidizing chloride environments [Introduction]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Fixed initial temperature, increased in increments of 2.5 C every 24 h [Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Distilled water [Procedure]
+- electrolyte_primary_salts: Reagent-grade FeCl3·6H2O [Procedure]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 1.2 to 1.3 [Results and discussion]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Alloy C-276 [Table 1]
+- commercial_grade: Not specified in text.
+- uns_code: N10276 [Table 1]
+- alloy_family: Nickel alloys [Introduction]
+- elemental_weight_percentages: 5.0 Fe, 59.0 Ni, 15.5 Cr, 16.0 Mo, 4.0 W [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy C-276 Sheet [Procedure]
+- fabrication_steps: Cut from commercially produced 0.062-in. (1.57-mm) and 0.125-in. (3.25-mm) sheet [Procedure]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Given a 120-grit surface finish with aluminum oxide paper and cleaned with acetone [Procedure]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120-grit surface finish [Procedure]
+- exposed_surface_area: 2 x 2 in. (51 x 51 mm) by sheet thickness [Procedure]
+
+### Experiment
+- experimental_test_type: Critical crevice temperature (CCT) determination (MTI procedure) [Procedure]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6% FeCl3 (10% FeCl3·6H2O) [Procedure]
+- operating_parameters_summary: Specimens fitted with TFE-fluorocarbon washers were immersed for 24 h at a fixed temperature; if no attack occurred, they were further exposed without resanding for 24 h at a 2.5 C higher temperature until attack was observed. [Procedure]
+- overarching_environmental_conditions: Severe oxidizing chloride environments [Introduction]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Fixed initial temperature, increased in increments of 2.5 C every 24 h [Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Distilled water [Procedure]
+- electrolyte_primary_salts: Reagent-grade FeCl3·6H2O [Procedure]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 1.2 to 1.3 [Results and discussion]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Critical crevice temperature (CCT) determination (Modified MTI procedure) [Procedure]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6% FeCl3 (10% FeCl3·6H2O) [Procedure]
+- operating_parameters_summary: Specimens fitted with TFE-fluorocarbon washers were immersed for 24 h at a fixed temperature; if no attack occurred, they were resanded and cleaned before further exposure for 24 h at a 2.5 C higher temperature until attack was observed. [Procedure]
+- overarching_environmental_conditions: Severe oxidizing chloride environments [Introduction]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Fixed initial temperature, increased in increments of 2.5 C every 24 h [Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Distilled water [Procedure]
+- electrolyte_primary_salts: Reagent-grade FeCl3·6H2O [Procedure]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 1.2 to 1.3 [Results and discussion]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Alloy C-4 [Table 1]
+- commercial_grade: Not specified in text.
+- uns_code: N06455 [Table 1]
+- alloy_family: Nickel alloys [Introduction]
+- elemental_weight_percentages: 68.0 Ni, 16.3 Cr, 15.3 Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy C-4 Sheet [Procedure]
+- fabrication_steps: Cut from commercially produced 0.062-in. (1.57-mm) and 0.125-in. (3.25-mm) sheet [Procedure]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Given a 120-grit surface finish with aluminum oxide paper and cleaned with acetone [Procedure]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120-grit surface finish [Procedure]
+- exposed_surface_area: 2 x 2 in. (51 x 51 mm) by sheet thickness [Procedure]
+
+### Experiment
+- experimental_test_type: Critical crevice temperature (CCT) determination (MTI procedure) [Procedure]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6% FeCl3 (10% FeCl3·6H2O) [Procedure]
+- operating_parameters_summary: Specimens fitted with TFE-fluorocarbon washers were immersed for 24 h at a fixed temperature; if no attack occurred, they were further exposed without resanding for 24 h at a 2.5 C higher temperature until attack was observed. [Procedure]
+- overarching_environmental_conditions: Severe oxidizing chloride environments [Introduction]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Fixed initial temperature, increased in increments of 2.5 C every 24 h [Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Distilled water [Procedure]
+- electrolyte_primary_salts: Reagent-grade FeCl3·6H2O [Procedure]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 1.2 to 1.3 [Results and discussion]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Critical crevice temperature (CCT) determination (Modified MTI procedure) [Procedure]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6% FeCl3 (10% FeCl3·6H2O) [Procedure]
+- operating_parameters_summary: Specimens fitted with TFE-fluorocarbon washers were immersed for 24 h at a fixed temperature; if no attack occurred, they were resanded and cleaned before further exposure for 24 h at a 2.5 C higher temperature until attack was observed. [Procedure]
+- overarching_environmental_conditions: Severe oxidizing chloride environments [Introduction]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Fixed initial temperature, increased in increments of 2.5 C every 24 h [Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Distilled water [Procedure]
+- electrolyte_primary_salts: Reagent-grade FeCl3·6H2O [Procedure]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 1.2 to 1.3 [Results and discussion]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: ALLCORR [Table 1]
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Nickel alloys [Introduction]
+- elemental_weight_percentages: 56.0 Ni, 31.0 Cr, 10.0 Mo, 2.0 W [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: ALLCORR Sheet [Procedure]
+- fabrication_steps: Cut from commercially produced 0.062-in. (1.57-mm) and 0.125-in. (3.25-mm) sheet [Procedure]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Given a 120-grit surface finish with aluminum oxide paper and cleaned with acetone [Procedure]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 120-grit surface finish [Procedure]
+- exposed_surface_area: 2 x 2 in. (51 x 51 mm) by sheet thickness [Procedure]
+
+### Experiment
+- experimental_test_type: Critical crevice temperature (CCT) determination (MTI procedure) [Procedure]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6% FeCl3 (10% FeCl3·6H2O) [Procedure]
+- operating_parameters_summary: Specimens fitted with TFE-fluorocarbon washers were immersed for 24 h at a fixed temperature; if no attack occurred, they were further exposed without resanding for 24 h at a 2.5 C higher temperature until attack was observed. [Procedure]
+- overarching_environmental_conditions: Severe oxidizing chloride environments [Introduction]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Fixed initial temperature, increased in increments of 2.5 C every 24 h [Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Distilled water [Procedure]
+- electrolyte_primary_salts: Reagent-grade FeCl3·6H2O [Procedure]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 1.2 to 1.3 [Results and discussion]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Critical crevice temperature (CCT) determination (Modified MTI procedure) [Procedure]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6% FeCl3 (10% FeCl3·6H2O) [Procedure]
+- operating_parameters_summary: Specimens fitted with TFE-fluorocarbon washers were immersed for 24 h at a fixed temperature; if no attack occurred, they were resanded and cleaned before further exposure for 24 h at a 2.5 C higher temperature until attack was observed. [Procedure]
+- overarching_environmental_conditions: Severe oxidizing chloride environments [Introduction]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Fixed initial temperature, increased in increments of 2.5 C every 24 h [Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Distilled water [Procedure]
+- electrolyte_primary_salts: Reagent-grade FeCl3·6H2O [Procedure]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 1.2 to 1.3 [Results and discussion]
+- passive_current_density: Not specified in text.

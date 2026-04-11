@@ -1,0 +1,495 @@
+# Base Material
+- standard_designation: Cast equivalent of AISI 304 SS [INTRODUCTION]
+- trade_name: Not specified in text.
+- commercial_grade: CF-11 [Table 1]
+- uns_code: Not specified in text.
+- alloy_family: Cast Duplex CF-Type Stainless Steels [Title; INTRODUCTION]
+- elemental_weight_percentages: 65.9 Fe, 20.8 Cr, 11.7 Ni, 0.22 Mo, 0.050 C, 0.025 N, 0.01 P, 0.01 S, 0.7 Si, 0.6 Mn [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Effective chromium content (Creff) = 22.1 [Table 2]
+- overall_microstructure: Duplex microstructure with 7 Ferrite No. [Table 1]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite and ferrite [EXPERIMENTAL PROCEDURE]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Solution-Treated CF-11 [RESULTS AND DISCUSSION]
+- fabrication_steps: Base melting stock was prepared and cast into cylindrical shapes using a Balzers induction furnace. High-purity Fe, Cr, Ni, Mo, and graphite powders were used to adjust composition. High-nitrogen ferrochrome facilitated the addition of nitrogen. [EXPERIMENTAL PROCEDURE - Alloys and Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution-treated for 1 h at 1120 C [RESULTS AND DISCUSSION]
+- cooling_methods: Water quench [RESULTS AND DISCUSSION]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Essentially carbide free [RESULTS AND DISCUSSION]
+- mechanical_surface_preparation: Polishing through 9-µm diamond paste surface finish [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- chemical_surface_preparation: Prepassivated in 50% nitric acid (50 C). Edges painted with corrosion-resistant enamel. Exposed portion swabbed with diamond paste to remove the passive film. [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- final_surface_roughness: 9-µm surface finish [RESULTS AND DISCUSSION]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Cyclic polarization pitting test (CPPT) [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- electrochemical_mode: Potentiodynamic anodic polarization [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- solution_chemistry_summary: 1 N sulfuric acid containing 0.5 M NaCl [RESULTS AND DISCUSSION]
+- operating_parameters_summary: Sample polarized anodically at 3 V/h up to the pitting potential, continued until current density reached 10^-4 A/cm^2, then scan direction was reversed [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- overarching_environmental_conditions: 27 C, deaerated with nitrogen purge [RESULTS AND DISCUSSION]
+- pitting_potential: 795 mVSHE [Table 2]
+- electrolyte_temperature: 27 C [RESULTS AND DISCUSSION]
+- continuous_sweep_rate: 3 V/h [RESULTS AND DISCUSSION]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard Hydrogen Electrode (SHE) [EXPERIMENTAL PROCEDURE - Atomic Absorption Spectroscopy]
+- electrolyte_solvents: Aqueous environment [RESULTS AND DISCUSSION]
+- electrolyte_primary_salts: NaCl [RESULTS AND DISCUSSION]
+- electrolyte_molar_concentrations: 1 N H2SO4, 0.5 M NaCl [RESULTS AND DISCUSSION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [RESULTS AND DISCUSSION]
+- purge_gas_type: Nitrogen [RESULTS AND DISCUSSION]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Wait for a stable open circuit potential (Ec) before starting the test [RESULTS AND DISCUSSION]
+- ocp_resting_duration: 3 min [RESULTS AND DISCUSSION]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Bulk pH near 0.5 [RESULTS AND DISCUSSION]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Cast equivalent of AISI 304 SS [INTRODUCTION]
+- trade_name: Not specified in text.
+- commercial_grade: CF-12 [Table 1]
+- uns_code: Not specified in text.
+- alloy_family: Cast Duplex CF-Type Stainless Steels [Title; INTRODUCTION]
+- elemental_weight_percentages: 66.9 Fe, 20.9 Cr, 10.5 Ni, 0.22 Mo, 0.050 C, 0.054 N, 0.01 P, 0.01 S, 0.7 Si, 0.7 Mn [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Effective chromium content (Creff) = 22.5 [Table 2]
+- overall_microstructure: Duplex microstructure with 9 Ferrite No. [Table 1]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite and ferrite [EXPERIMENTAL PROCEDURE]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Solution-Treated CF-12 [RESULTS AND DISCUSSION]
+- fabrication_steps: Base melting stock was prepared and cast into cylindrical shapes using a Balzers induction furnace. High-purity Fe, Cr, Ni, Mo, and graphite powders were used to adjust composition. High-nitrogen ferrochrome facilitated the addition of nitrogen. [EXPERIMENTAL PROCEDURE - Alloys and Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution-treated for 1 h at 1120 C [RESULTS AND DISCUSSION]
+- cooling_methods: Water quench [RESULTS AND DISCUSSION]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Essentially carbide free [RESULTS AND DISCUSSION]
+- mechanical_surface_preparation: Polishing through 9-µm diamond paste surface finish [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- chemical_surface_preparation: Prepassivated in 50% nitric acid (50 C). Edges painted with corrosion-resistant enamel. Exposed portion swabbed with diamond paste to remove the passive film. [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- final_surface_roughness: 9-µm surface finish [RESULTS AND DISCUSSION]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Cyclic polarization pitting test (CPPT) [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- electrochemical_mode: Potentiodynamic anodic polarization [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- solution_chemistry_summary: 1 N sulfuric acid containing 0.5 M NaCl [RESULTS AND DISCUSSION]
+- operating_parameters_summary: Sample polarized anodically at 3 V/h up to the pitting potential, continued until current density reached 10^-4 A/cm^2, then scan direction was reversed [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- overarching_environmental_conditions: 27 C, deaerated with nitrogen purge [RESULTS AND DISCUSSION]
+- pitting_potential: 810 mVSHE [Table 2]
+- electrolyte_temperature: 27 C [RESULTS AND DISCUSSION]
+- continuous_sweep_rate: 3 V/h [RESULTS AND DISCUSSION]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard Hydrogen Electrode (SHE) [EXPERIMENTAL PROCEDURE - Atomic Absorption Spectroscopy]
+- electrolyte_solvents: Aqueous environment [RESULTS AND DISCUSSION]
+- electrolyte_primary_salts: NaCl [RESULTS AND DISCUSSION]
+- electrolyte_molar_concentrations: 1 N H2SO4, 0.5 M NaCl [RESULTS AND DISCUSSION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [RESULTS AND DISCUSSION]
+- purge_gas_type: Nitrogen [RESULTS AND DISCUSSION]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Wait for a stable open circuit potential (Ec) before starting the test [RESULTS AND DISCUSSION]
+- ocp_resting_duration: 3 min [RESULTS AND DISCUSSION]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Bulk pH near 0.5 [RESULTS AND DISCUSSION]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Cast equivalent of AISI 304 SS [INTRODUCTION]
+- trade_name: Not specified in text.
+- commercial_grade: CF-13 [Table 1]
+- uns_code: Not specified in text.
+- alloy_family: Cast Duplex CF-Type Stainless Steels [Title; INTRODUCTION]
+- elemental_weight_percentages: 68.2 Fe, 20.8 Cr, 9.2 Ni, 0.23 Mo, 0.050 C, 0.082 N, 0.01 P, 0.01 S, 0.7 Si, 0.7 Mn [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Effective chromium content (Creff) = 23.2 [Table 2]
+- overall_microstructure: Duplex microstructure with 10 Ferrite No. [Table 1]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite and ferrite [EXPERIMENTAL PROCEDURE]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Solution-Treated CF-13 [RESULTS AND DISCUSSION]
+- fabrication_steps: Base melting stock was prepared and cast into cylindrical shapes using a Balzers induction furnace. High-purity Fe, Cr, Ni, Mo, and graphite powders were used to adjust composition. High-nitrogen ferrochrome facilitated the addition of nitrogen. [EXPERIMENTAL PROCEDURE - Alloys and Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution-treated for 1 h at 1120 C [RESULTS AND DISCUSSION]
+- cooling_methods: Water quench [RESULTS AND DISCUSSION]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Essentially carbide free [RESULTS AND DISCUSSION]
+- mechanical_surface_preparation: Polishing through 9-µm diamond paste surface finish [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- chemical_surface_preparation: Prepassivated in 50% nitric acid (50 C). Edges painted with corrosion-resistant enamel. Exposed portion swabbed with diamond paste to remove the passive film. [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- final_surface_roughness: 9-µm surface finish [RESULTS AND DISCUSSION]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Cyclic polarization pitting test (CPPT) [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- electrochemical_mode: Potentiodynamic anodic polarization [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- solution_chemistry_summary: 1 N sulfuric acid containing 0.5 M NaCl [RESULTS AND DISCUSSION]
+- operating_parameters_summary: Sample polarized anodically at 3 V/h up to the pitting potential, continued until current density reached 10^-4 A/cm^2, then scan direction was reversed [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- overarching_environmental_conditions: 27 C, deaerated with nitrogen purge [RESULTS AND DISCUSSION]
+- pitting_potential: 860 mVSHE [Table 2]
+- electrolyte_temperature: 27 C [RESULTS AND DISCUSSION]
+- continuous_sweep_rate: 3 V/h [RESULTS AND DISCUSSION]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard Hydrogen Electrode (SHE) [EXPERIMENTAL PROCEDURE - Atomic Absorption Spectroscopy]
+- electrolyte_solvents: Aqueous environment [RESULTS AND DISCUSSION]
+- electrolyte_primary_salts: NaCl [RESULTS AND DISCUSSION]
+- electrolyte_molar_concentrations: 1 N H2SO4, 0.5 M NaCl [RESULTS AND DISCUSSION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [RESULTS AND DISCUSSION]
+- purge_gas_type: Nitrogen [RESULTS AND DISCUSSION]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Wait for a stable open circuit potential (Ec) before starting the test [RESULTS AND DISCUSSION]
+- ocp_resting_duration: 3 min [RESULTS AND DISCUSSION]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Bulk pH near 0.5 [RESULTS AND DISCUSSION]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Cast equivalent of AISI 304 SS [INTRODUCTION]
+- trade_name: Not specified in text.
+- commercial_grade: CF-14 [Table 1]
+- uns_code: Not specified in text.
+- alloy_family: Cast Duplex CF-Type Stainless Steels [Title; INTRODUCTION]
+- elemental_weight_percentages: 69.1 Fe, 21.0 Cr, 8.0 Ni, 0.23 Mo, 0.050 C, 0.098 N, 0.01 P, 0.01 S, 0.8 Si, 0.7 Mn [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Effective chromium content (Creff) = 23.9 [Table 2]
+- overall_microstructure: Duplex microstructure with 15 Ferrite No. [Table 1]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite and ferrite [EXPERIMENTAL PROCEDURE]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Solution-Treated CF-14 [RESULTS AND DISCUSSION]
+- fabrication_steps: Base melting stock was prepared and cast into cylindrical shapes using a Balzers induction furnace. High-purity Fe, Cr, Ni, Mo, and graphite powders were used to adjust composition. High-nitrogen ferrochrome facilitated the addition of nitrogen. [EXPERIMENTAL PROCEDURE - Alloys and Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution-treated for 1 h at 1120 C [RESULTS AND DISCUSSION]
+- cooling_methods: Water quench [RESULTS AND DISCUSSION]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Essentially carbide free [RESULTS AND DISCUSSION]
+- mechanical_surface_preparation: Polishing through 9-µm diamond paste surface finish [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- chemical_surface_preparation: Prepassivated in 50% nitric acid (50 C). Edges painted with corrosion-resistant enamel. Exposed portion swabbed with diamond paste to remove the passive film. [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- final_surface_roughness: 9-µm surface finish [RESULTS AND DISCUSSION]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Cyclic polarization pitting test (CPPT) [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- electrochemical_mode: Potentiodynamic anodic polarization [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- solution_chemistry_summary: 1 N sulfuric acid containing 0.5 M NaCl [RESULTS AND DISCUSSION]
+- operating_parameters_summary: Sample polarized anodically at 3 V/h up to the pitting potential, continued until current density reached 10^-4 A/cm^2, then scan direction was reversed [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- overarching_environmental_conditions: 27 C, deaerated with nitrogen purge [RESULTS AND DISCUSSION]
+- pitting_potential: 920 mVSHE [Table 2]
+- electrolyte_temperature: 27 C [RESULTS AND DISCUSSION]
+- continuous_sweep_rate: 3 V/h [RESULTS AND DISCUSSION]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard Hydrogen Electrode (SHE) [EXPERIMENTAL PROCEDURE - Atomic Absorption Spectroscopy]
+- electrolyte_solvents: Aqueous environment [RESULTS AND DISCUSSION]
+- electrolyte_primary_salts: NaCl [RESULTS AND DISCUSSION]
+- electrolyte_molar_concentrations: 1 N H2SO4, 0.5 M NaCl [RESULTS AND DISCUSSION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [RESULTS AND DISCUSSION]
+- purge_gas_type: Nitrogen [RESULTS AND DISCUSSION]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Wait for a stable open circuit potential (Ec) before starting the test [RESULTS AND DISCUSSION]
+- ocp_resting_duration: 3 min [RESULTS AND DISCUSSION]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Bulk pH near 0.5 [RESULTS AND DISCUSSION]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Cast equivalent of AISI 304 SS [INTRODUCTION]
+- trade_name: Not specified in text.
+- commercial_grade: CF-3 [Table 1]
+- uns_code: Not specified in text.
+- alloy_family: Cast Duplex CF-Type Stainless Steels [Title; INTRODUCTION]
+- elemental_weight_percentages: 70.3 Fe, 20.6 Cr, 7.4 Ni, 0.015 C, 0.170 N, 1.1 Si, 0.4 Mn (Mo, P, S not specified/negligible) [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Effective chromium content (Creff) = 24.4 [Table 2]
+- overall_microstructure: Duplex microstructure with 18 Ferrite No. [Table 1]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite and ferrite [EXPERIMENTAL PROCEDURE]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Solution-Treated CF-3 [RESULTS AND DISCUSSION]
+- fabrication_steps: Base melting stock was prepared and cast into cylindrical shapes using a Balzers induction furnace. High-purity Fe, Cr, Ni, Mo, and graphite powders were used to adjust composition. High-nitrogen ferrochrome facilitated the addition of nitrogen. [EXPERIMENTAL PROCEDURE - Alloys and Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution-treated for 1 h at 1120 C [RESULTS AND DISCUSSION]
+- cooling_methods: Water quench [RESULTS AND DISCUSSION]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Essentially carbide free [RESULTS AND DISCUSSION]
+- mechanical_surface_preparation: Polishing through 9-µm diamond paste surface finish [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- chemical_surface_preparation: Prepassivated in 50% nitric acid (50 C). Edges painted with corrosion-resistant enamel. Exposed portion swabbed with diamond paste to remove the passive film. [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- final_surface_roughness: 9-µm surface finish [RESULTS AND DISCUSSION]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Cyclic polarization pitting test (CPPT) [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- electrochemical_mode: Potentiodynamic anodic polarization [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- solution_chemistry_summary: 1 N sulfuric acid containing 0.5 M NaCl [RESULTS AND DISCUSSION]
+- operating_parameters_summary: Sample polarized anodically at 3 V/h up to the pitting potential, continued until current density reached 10^-4 A/cm^2, then scan direction was reversed [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- overarching_environmental_conditions: 27 C, deaerated with nitrogen purge [RESULTS AND DISCUSSION]
+- pitting_potential: 960 mVSHE [Table 2]
+- electrolyte_temperature: 27 C [RESULTS AND DISCUSSION]
+- continuous_sweep_rate: 3 V/h [RESULTS AND DISCUSSION]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard Hydrogen Electrode (SHE) [EXPERIMENTAL PROCEDURE - Atomic Absorption Spectroscopy]
+- electrolyte_solvents: Aqueous environment [RESULTS AND DISCUSSION]
+- electrolyte_primary_salts: NaCl [RESULTS AND DISCUSSION]
+- electrolyte_molar_concentrations: 1 N H2SO4, 0.5 M NaCl [RESULTS AND DISCUSSION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [RESULTS AND DISCUSSION]
+- purge_gas_type: Nitrogen [RESULTS AND DISCUSSION]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Wait for a stable open circuit potential (Ec) before starting the test [RESULTS AND DISCUSSION]
+- ocp_resting_duration: 3 min [RESULTS AND DISCUSSION]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Bulk pH near 0.5 [RESULTS AND DISCUSSION]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Cast equivalent of AISI 304 SS [INTRODUCTION]
+- trade_name: Not specified in text.
+- commercial_grade: CF-4 [Table 1]
+- uns_code: Not specified in text.
+- alloy_family: Cast Duplex CF-Type Stainless Steels [Title; INTRODUCTION]
+- elemental_weight_percentages: 70.6 Fe, 20.5 Cr, 7.2 Ni, 0.058 C, 0.170 N, 1.1 Si, 0.4 Mn (Mo, P, S not specified/negligible) [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Effective chromium content (Creff) = 25.3 [Table 2]
+- overall_microstructure: Duplex microstructure with 11 Ferrite No. [Table 1]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite and ferrite [EXPERIMENTAL PROCEDURE]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Solution-Treated CF-4 [RESULTS AND DISCUSSION]
+- fabrication_steps: Base melting stock was prepared and cast into cylindrical shapes using a Balzers induction furnace. High-purity Fe, Cr, Ni, Mo, and graphite powders were used to adjust composition. High-nitrogen ferrochrome facilitated the addition of nitrogen. [EXPERIMENTAL PROCEDURE - Alloys and Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution-treated for 1 h at 1120 C [RESULTS AND DISCUSSION]
+- cooling_methods: Water quench [RESULTS AND DISCUSSION]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Essentially carbide free [RESULTS AND DISCUSSION]
+- mechanical_surface_preparation: Polishing through 9-µm diamond paste surface finish [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- chemical_surface_preparation: Prepassivated in 50% nitric acid (50 C). Edges painted with corrosion-resistant enamel. Exposed portion swabbed with diamond paste to remove the passive film. [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- final_surface_roughness: 9-µm surface finish [RESULTS AND DISCUSSION]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Cyclic polarization pitting test (CPPT) [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- electrochemical_mode: Potentiodynamic anodic polarization [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- solution_chemistry_summary: 1 N sulfuric acid containing 0.5 M NaCl [RESULTS AND DISCUSSION]
+- operating_parameters_summary: Sample polarized anodically at 3 V/h up to the pitting potential, continued until current density reached 10^-4 A/cm^2, then scan direction was reversed [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- overarching_environmental_conditions: 27 C, deaerated with nitrogen purge [RESULTS AND DISCUSSION]
+- pitting_potential: 1010 mVSHE [Table 2]
+- electrolyte_temperature: 27 C [RESULTS AND DISCUSSION]
+- continuous_sweep_rate: 3 V/h [RESULTS AND DISCUSSION]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard Hydrogen Electrode (SHE) [EXPERIMENTAL PROCEDURE - Atomic Absorption Spectroscopy]
+- electrolyte_solvents: Aqueous environment [RESULTS AND DISCUSSION]
+- electrolyte_primary_salts: NaCl [RESULTS AND DISCUSSION]
+- electrolyte_molar_concentrations: 1 N H2SO4, 0.5 M NaCl [RESULTS AND DISCUSSION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [RESULTS AND DISCUSSION]
+- purge_gas_type: Nitrogen [RESULTS AND DISCUSSION]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Wait for a stable open circuit potential (Ec) before starting the test [RESULTS AND DISCUSSION]
+- ocp_resting_duration: 3 min [RESULTS AND DISCUSSION]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Bulk pH near 0.5 [RESULTS AND DISCUSSION]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Cast equivalent of AISI 304 SS [INTRODUCTION]
+- trade_name: Not specified in text.
+- commercial_grade: CF-1 [Table 2]
+- uns_code: Not specified in text.
+- alloy_family: Cast Duplex CF-Type Stainless Steels [Title; INTRODUCTION]
+- elemental_weight_percentages: 17 Cr, 0.025 C, 0.025 N; balance similar to alloys in Table 1 [RESULTS AND DISCUSSION]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Effective chromium content (Creff) = 17.5 [Table 2]
+- overall_microstructure: Duplex microstructure (austenite and ferrite) [EXPERIMENTAL PROCEDURE]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite and ferrite [EXPERIMENTAL PROCEDURE]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Solution-Treated CF-1 [RESULTS AND DISCUSSION]
+- fabrication_steps: Base melting stock was prepared and cast into cylindrical shapes using a Balzers induction furnace. [EXPERIMENTAL PROCEDURE - Alloys and Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution-treated for 1 h at 1120 C [RESULTS AND DISCUSSION]
+- cooling_methods: Water quench [RESULTS AND DISCUSSION]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Essentially carbide free [RESULTS AND DISCUSSION]
+- mechanical_surface_preparation: Polishing through 9-µm diamond paste surface finish [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- chemical_surface_preparation: Prepassivated in 50% nitric acid (50 C). Edges painted with corrosion-resistant enamel. Exposed portion swabbed with diamond paste to remove the passive film. [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- final_surface_roughness: 9-µm surface finish [RESULTS AND DISCUSSION]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Cyclic polarization pitting test (CPPT) [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- electrochemical_mode: Potentiodynamic anodic polarization [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- solution_chemistry_summary: 1 N sulfuric acid containing 0.5 M NaCl [RESULTS AND DISCUSSION]
+- operating_parameters_summary: Sample polarized anodically at 3 V/h up to the pitting potential, continued until current density reached 10^-4 A/cm^2, then scan direction was reversed [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- overarching_environmental_conditions: 27 C, deaerated with nitrogen purge [RESULTS AND DISCUSSION]
+- pitting_potential: 510 mVSHE [Table 2]
+- electrolyte_temperature: 27 C [RESULTS AND DISCUSSION]
+- continuous_sweep_rate: 3 V/h [RESULTS AND DISCUSSION]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard Hydrogen Electrode (SHE) [EXPERIMENTAL PROCEDURE - Atomic Absorption Spectroscopy]
+- electrolyte_solvents: Aqueous environment [RESULTS AND DISCUSSION]
+- electrolyte_primary_salts: NaCl [RESULTS AND DISCUSSION]
+- electrolyte_molar_concentrations: 1 N H2SO4, 0.5 M NaCl [RESULTS AND DISCUSSION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [RESULTS AND DISCUSSION]
+- purge_gas_type: Nitrogen [RESULTS AND DISCUSSION]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Wait for a stable open circuit potential (Ec) before starting the test [RESULTS AND DISCUSSION]
+- ocp_resting_duration: 3 min [RESULTS AND DISCUSSION]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Bulk pH near 0.5 [RESULTS AND DISCUSSION]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Cast equivalent of AISI 304 SS [INTRODUCTION]
+- trade_name: Not specified in text.
+- commercial_grade: CF-2 [Table 2]
+- uns_code: Not specified in text.
+- alloy_family: Cast Duplex CF-Type Stainless Steels [Title; INTRODUCTION]
+- elemental_weight_percentages: 17 Cr, 0.058 C, 0.025 N; balance similar to alloys in Table 1 [RESULTS AND DISCUSSION]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Effective chromium content (Creff) = 18.5 [Table 2]
+- overall_microstructure: Duplex microstructure (austenite and ferrite) [EXPERIMENTAL PROCEDURE]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite and ferrite [EXPERIMENTAL PROCEDURE]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Solution-Treated CF-2 [RESULTS AND DISCUSSION]
+- fabrication_steps: Base melting stock was prepared and cast into cylindrical shapes using a Balzers induction furnace. [EXPERIMENTAL PROCEDURE - Alloys and Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution-treated for 1 h at 1120 C [RESULTS AND DISCUSSION]
+- cooling_methods: Water quench [RESULTS AND DISCUSSION]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Essentially carbide free [RESULTS AND DISCUSSION]
+- mechanical_surface_preparation: Polishing through 9-µm diamond paste surface finish [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- chemical_surface_preparation: Prepassivated in 50% nitric acid (50 C). Edges painted with corrosion-resistant enamel. Exposed portion swabbed with diamond paste to remove the passive film. [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- final_surface_roughness: 9-µm surface finish [RESULTS AND DISCUSSION]
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Cyclic polarization pitting test (CPPT) [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- electrochemical_mode: Potentiodynamic anodic polarization [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- solution_chemistry_summary: 1 N sulfuric acid containing 0.5 M NaCl [RESULTS AND DISCUSSION]
+- operating_parameters_summary: Sample polarized anodically at 3 V/h up to the pitting potential, continued until current density reached 10^-4 A/cm^2, then scan direction was reversed [EXPERIMENTAL PROCEDURE - Cyclic Polarization Pitting Test]
+- overarching_environmental_conditions: 27 C, deaerated with nitrogen purge [RESULTS AND DISCUSSION]
+- pitting_potential: 710 mVSHE [Table 2]
+- electrolyte_temperature: 27 C [RESULTS AND DISCUSSION]
+- continuous_sweep_rate: 3 V/h [RESULTS AND DISCUSSION]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Standard Hydrogen Electrode (SHE) [EXPERIMENTAL PROCEDURE - Atomic Absorption Spectroscopy]
+- electrolyte_solvents: Aqueous environment [RESULTS AND DISCUSSION]
+- electrolyte_primary_salts: NaCl [RESULTS AND DISCUSSION]
+- electrolyte_molar_concentrations: 1 N H2SO4, 0.5 M NaCl [RESULTS AND DISCUSSION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [RESULTS AND DISCUSSION]
+- purge_gas_type: Nitrogen [RESULTS AND DISCUSSION]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Wait for a stable open circuit potential (Ec) before starting the test [RESULTS AND DISCUSSION]
+- ocp_resting_duration: 3 min [RESULTS AND DISCUSSION]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Bulk pH near 0.5 [RESULTS AND DISCUSSION]
+- passive_current_density: Not specified in text.

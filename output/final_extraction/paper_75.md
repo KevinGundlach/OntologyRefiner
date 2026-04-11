@@ -1,0 +1,148 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: pure aluminum foil [Page 6, Section "Determination of the parameter n"]
+- uns_code: Not specified in text.
+- alloy_family: Aluminum [Page 1, Title]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: pure aluminum foil [Page 6, Section "Determination of the parameter n"]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: having an air-formed oxide film [Page 1, Abstract]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [Page 6, Section "Determination of the parameter n"]
+- electrochemical_mode: Potentiostatic [Page 6, Section "Determination of the parameter n"]
+- solution_chemistry_summary: Deaerated aqueous chloride solution [Page 6, Section "Determination of the parameter n"]
+- operating_parameters_summary: Samples immersed for 24 h in deaerated solutions prior to test [Page 6, Section "Determination of the parameter n"]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -0.605 V [Page 8, Table 1]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE (Saturated Calomel Electrode) [Page 6, Figure 1]
+- electrolyte_solvents: Aqueous [Page 2, Section "Acid-base surface reactions"]
+- electrolyte_primary_salts: Chloride salts [Page 8, Table 1]
+- electrolyte_molar_concentrations: 0.01 M Cl- [Page 8, Table 1]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [Page 6, Section "Determination of the parameter n"]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Immersed in deaerated solutions [Page 6, Section "Determination of the parameter n"]
+- ocp_resting_duration: 24 h [Page 6, Section "Determination of the parameter n"]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [Page 6, Section "Determination of the parameter n"]
+- electrochemical_mode: Potentiostatic [Page 6, Section "Determination of the parameter n"]
+- solution_chemistry_summary: Deaerated aqueous chloride solution [Page 6, Section "Determination of the parameter n"]
+- operating_parameters_summary: Samples immersed for 24 h in deaerated solutions prior to test [Page 6, Section "Determination of the parameter n"]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -0.685 V [Page 8, Table 1]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE (Saturated Calomel Electrode) [Page 6, Figure 1]
+- electrolyte_solvents: Aqueous [Page 2, Section "Acid-base surface reactions"]
+- electrolyte_primary_salts: Chloride salts [Page 8, Table 1]
+- electrolyte_molar_concentrations: 0.1 M Cl- [Page 8, Table 1]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [Page 6, Section "Determination of the parameter n"]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Immersed in deaerated solutions [Page 6, Section "Determination of the parameter n"]
+- ocp_resting_duration: 24 h [Page 6, Section "Determination of the parameter n"]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [Page 6, Section "Determination of the parameter n"]
+- electrochemical_mode: Potentiostatic [Page 6, Section "Determination of the parameter n"]
+- solution_chemistry_summary: Deaerated aqueous chloride solution [Page 6, Section "Determination of the parameter n"]
+- operating_parameters_summary: Samples immersed for 24 h in deaerated solutions prior to test [Page 6, Section "Determination of the parameter n"]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -0.730 V [Page 8, Table 1]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE (Saturated Calomel Electrode) [Page 6, Figure 1]
+- electrolyte_solvents: Aqueous [Page 2, Section "Acid-base surface reactions"]
+- electrolyte_primary_salts: Chloride salts [Page 8, Table 1]
+- electrolyte_molar_concentrations: 0.5 M Cl- [Page 8, Table 1]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [Page 6, Section "Determination of the parameter n"]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Immersed in deaerated solutions [Page 6, Section "Determination of the parameter n"]
+- ocp_resting_duration: 24 h [Page 6, Section "Determination of the parameter n"]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [Page 6, Section "Determination of the parameter n"]
+- electrochemical_mode: Potentiostatic [Page 6, Section "Determination of the parameter n"]
+- solution_chemistry_summary: Deaerated aqueous chloride solution [Page 6, Section "Determination of the parameter n"]
+- operating_parameters_summary: Samples immersed for 24 h in deaerated solutions prior to test [Page 6, Section "Determination of the parameter n"]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -0.745 V [Page 8, Table 1]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE (Saturated Calomel Electrode) [Page 6, Figure 1]
+- electrolyte_solvents: Aqueous [Page 2, Section "Acid-base surface reactions"]
+- electrolyte_primary_salts: Chloride salts [Page 8, Table 1]
+- electrolyte_molar_concentrations: 1.0 M Cl- [Page 8, Table 1]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [Page 6, Section "Determination of the parameter n"]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Immersed in deaerated solutions [Page 6, Section "Determination of the parameter n"]
+- ocp_resting_duration: 24 h [Page 6, Section "Determination of the parameter n"]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

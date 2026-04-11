@@ -1,0 +1,123 @@
+# Base Material
+- standard_designation: Alloy C-276 [Introduction]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: N10276 [TABLE 1 — Ni-Alloy Analyses]
+- alloy_family: molybdenum-bearing nickel alloys [Introduction]
+- elemental_weight_percentages: Ni bal, Cr 15.70, Mo 15.69, Fe 6.06, C 0.002, Mn 0.47, Si 0.02, S 0.002, P 0.008, V 0.14, W 3.65, Co 1.87 [TABLE 1 — Ni-Alloy Analyses]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy C-276 [Experimental > Test Specimens]
+- fabrication_steps: Machined from plate in the as received, mill-annealed condition [Experimental > Test Specimens]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Mill-annealed [Experimental > Test Specimens]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Wet ground on silicon carbide papers down to 600 grade [Experimental > Test Specimens]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Cyclic potentiodynamic polarization tests [Experimental > Procedures]
+- electrochemical_mode: Potentiodynamic [Experimental > Procedures]
+- solution_chemistry_summary: Neutral chloride solutions [Abstract]
+- operating_parameters_summary: Scans starting at Ecorr with dE/dt = 20 mV/min, and reversed at I = 1 mA/cm2 [Experimental > Procedures]
+- overarching_environmental_conditions: Conducted in multinecked 1-L glass corrosion cells at temperatures <= 100 C, and in a Parr 1-L titanium autoclave at temperatures > 100 C; solutions were deaerated with nitrogen [Experimental > Apparatus; Experimental > Procedures]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 25 to 200 C [Introduction]
+- continuous_sweep_rate: 20 mV/min [Experimental > Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: External SCE with a solution bridge and Luggin probe (temperatures <= 100 C); External Ag/AgCl reference electrode maintained at 25 C and system pressure (temperatures > 100 C) [Experimental > Apparatus]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Introduction]
+- electrolyte_molar_concentrations: 0.1 wt% to saturation [Introduction]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [Experimental > Procedures]
+- purge_gas_type: Nitrogen [Experimental > Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Alloy 625 [Introduction]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: N06625 [TABLE 1 — Ni-Alloy Analyses]
+- alloy_family: molybdenum-bearing nickel alloys [Introduction]
+- elemental_weight_percentages: Ni 60.80, Cr 21.63, Mo 8.52, Fe 4.68, C 0.03, Mn 0.10, Si 0.31, S 0.001, Cb + Ta 3.54, P 0.009, Al 0.14, Ti 0.24 [TABLE 1 — Ni-Alloy Analyses]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 625 [Experimental > Test Specimens]
+- fabrication_steps: Machined from plate in the as received, mill-annealed condition [Experimental > Test Specimens]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Mill-annealed [Experimental > Test Specimens]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Wet ground on silicon carbide papers down to 600 grade [Experimental > Test Specimens]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Cyclic potentiodynamic polarization tests [Experimental > Procedures]
+- electrochemical_mode: Potentiodynamic [Experimental > Procedures]
+- solution_chemistry_summary: Neutral chloride solutions [Abstract]
+- operating_parameters_summary: Scans starting at Ecorr with dE/dt = 20 mV/min, and reversed at I = 1 mA/cm2 [Experimental > Procedures]
+- overarching_environmental_conditions: Conducted in multinecked 1-L glass corrosion cells at temperatures <= 100 C, and in a Parr 1-L titanium autoclave at temperatures > 100 C; solutions were deaerated with nitrogen [Experimental > Apparatus; Experimental > Procedures]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 25 to 200 C [Introduction]
+- continuous_sweep_rate: 20 mV/min [Experimental > Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: External SCE with a solution bridge and Luggin probe (temperatures <= 100 C); External Ag/AgCl reference electrode maintained at 25 C and system pressure (temperatures > 100 C) [Experimental > Apparatus]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Introduction]
+- electrolyte_molar_concentrations: 0.1 wt% to saturation [Introduction]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [Experimental > Procedures]
+- purge_gas_type: Nitrogen [Experimental > Procedures]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

@@ -1,0 +1,495 @@
+# Base Material
+- standard_designation: Type 444 Stainless Steel [ABSTRACT, INTRODUCTION]
+- trade_name: Not specified in text.
+- commercial_grade: medium-grade ferritic SS [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- uns_code: UNS S44400 [ABSTRACT, MATERIALS AND METHODS]
+- alloy_family: ferritic stainless steels (SS) [ABSTRACT, INTRODUCTION]
+- elemental_weight_percentages: 17.88% Cr, 2.10% Mo, 0.22% Nb, 0.008% C, 0.24% Si, 0.26% Mn, 0.002% P, 0.003% S, 0.009% N [TABLE 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: sulfur, oxygen, carbon, and nitrogen [INTRODUCTION]
+- derived_theoretical_metrics: Nb/(C+N) = 12.94 [TABLE 1]; PREN = %Cr + 2.5% Mo [DISCUSSION]
+- overall_microstructure: body-centered cubic (bcc) matrix [DISCUSSION]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: chromium and manganese oxides, niobium nitrides and carbides, Al2O3, MnS/SiO2 [RESULTS: Inclusion Distribution and Alloying]
+- inclusion_size: > 8 µm for chromium and manganese oxides [RESULTS: Inclusion Distribution and Alloying]
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Heat F18-2Nb [TABLE 1]
+- fabrication_steps: Manufactured in 30-kg ingots, surface-ground and hot-rolled to 6 mm. Annealed at 1,100°C, cold-rolled to 2-mm thickness, and subsequently annealed at 1,050°C. Specimens were cut using a special punch to give discs 1.6 mm in diameter. [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealing at 1,100°C and 1,050°C [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to 600 grit (silicon carbide [SiC] paper) and dried in a stream of dry air [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- chemical_surface_preparation: Degreased with 95% ethanol [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- final_surface_roughness: 600 grit [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- exposed_surface_area: 1.6 mm diameter disc, exposed central region [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication, Cyclic Polarization Studies]
+
+### Experiment
+- experimental_test_type: Cyclic Polarization Studies [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrochemical_mode: Potentiodynamic polarization [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- solution_chemistry_summary: Neutral 3.5% NaCl solution [MATERIALS AND METHODS: Cyclic Polarization Studies, RESULTS: Macroelement (Chromium, Molybdenum) Pitting Studies]
+- operating_parameters_summary: Polarized initially from -20 mV with respect to the corrosion potential (Ecorr) to a maximum potential of 0.8 VSCE. The reverse polarization sweep was triggered at 0.5 x 10^-3 A/cm^2. The final potential was set to Ecorr with a sweep rate of 20 mV/min. [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- overarching_environmental_conditions: Deaerated systematically for 60 min prior to polarization using a water bath. [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- pitting_potential: 0.439 VSCE [TABLE 2]
+- electrolyte_temperature: 30°C [TABLE 2] / 35°C [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- continuous_sweep_rate: 20 mV/min [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE (Saturated Calomel Electrode) [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: sodium chloride (NaCl) [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- purge_gas_type: High-purity nitrogen [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- corrosion_potential: -0.281 VSCE [TABLE 2]
+- ocp_stabilization_methodology: Deaerated systematically for 60 min prior to polarization [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- ocp_resting_duration: 60 min [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: ~ pH 6.6 [RESULTS: Macroelement (Chromium, Molybdenum) Pitting Studies]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Type 444 Stainless Steel [ABSTRACT, INTRODUCTION]
+- trade_name: Not specified in text.
+- commercial_grade: medium-grade ferritic SS [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- uns_code: UNS S44400 [ABSTRACT, MATERIALS AND METHODS]
+- alloy_family: ferritic stainless steels (SS) [ABSTRACT, INTRODUCTION]
+- elemental_weight_percentages: 19.22% Cr, 0% Mo, 0.22% Nb, 0.009% C, 0.24% Si, 0.25% Mn, 0.002% P, 0.003% S, 0.008% N [TABLE 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: sulfur, oxygen, carbon, and nitrogen [INTRODUCTION]
+- derived_theoretical_metrics: Nb/(C+N) = 12.94 [TABLE 1]; PREN = %Cr + 2.5% Mo [DISCUSSION]
+- overall_microstructure: body-centered cubic (bcc) matrix [DISCUSSION]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: chromium and manganese oxides, niobium nitrides and carbides, Al2O3, MnS/SiO2 [RESULTS: Inclusion Distribution and Alloying]
+- inclusion_size: > 8 µm for chromium and manganese oxides [RESULTS: Inclusion Distribution and Alloying]
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Heat F19-0Nb [TABLE 1]
+- fabrication_steps: Manufactured in 30-kg ingots, surface-ground and hot-rolled to 6 mm. Annealed at 1,100°C, cold-rolled to 2-mm thickness, and subsequently annealed at 1,050°C. Specimens were cut using a special punch to give discs 1.6 mm in diameter. [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealing at 1,100°C and 1,050°C [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to 600 grit (silicon carbide [SiC] paper) and dried in a stream of dry air [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- chemical_surface_preparation: Degreased with 95% ethanol [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- final_surface_roughness: 600 grit [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- exposed_surface_area: 1.6 mm diameter disc, exposed central region [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication, Cyclic Polarization Studies]
+
+### Experiment
+- experimental_test_type: Cyclic Polarization Studies [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrochemical_mode: Potentiodynamic polarization [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- solution_chemistry_summary: Neutral 3.5% NaCl solution [MATERIALS AND METHODS: Cyclic Polarization Studies, RESULTS: Macroelement (Chromium, Molybdenum) Pitting Studies]
+- operating_parameters_summary: Polarized initially from -20 mV with respect to the corrosion potential (Ecorr) to a maximum potential of 0.8 VSCE. The reverse polarization sweep was triggered at 0.5 x 10^-3 A/cm^2. The final potential was set to Ecorr with a sweep rate of 20 mV/min. [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- overarching_environmental_conditions: Deaerated systematically for 60 min prior to polarization using a water bath. [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- pitting_potential: 0.310 VSCE [TABLE 2]
+- electrolyte_temperature: 30°C [TABLE 2] / 35°C [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- continuous_sweep_rate: 20 mV/min [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE (Saturated Calomel Electrode) [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: sodium chloride (NaCl) [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- purge_gas_type: High-purity nitrogen [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- corrosion_potential: -0.184 VSCE [TABLE 2]
+- ocp_stabilization_methodology: Deaerated systematically for 60 min prior to polarization [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- ocp_resting_duration: 60 min [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: ~ pH 6.6 [RESULTS: Macroelement (Chromium, Molybdenum) Pitting Studies]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Type 444 Stainless Steel [ABSTRACT, INTRODUCTION]
+- trade_name: Not specified in text.
+- commercial_grade: medium-grade ferritic SS [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- uns_code: UNS S44400 [ABSTRACT, MATERIALS AND METHODS]
+- alloy_family: ferritic stainless steels (SS) [ABSTRACT, INTRODUCTION]
+- elemental_weight_percentages: 18.9% Cr, 0.97% Mo, 0.23% Nb, 0.01% C, 0.25% Si, 0.26% Mn, 0.002% P, 0.003% S, 0.008% N [TABLE 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: sulfur, oxygen, carbon, and nitrogen [INTRODUCTION]
+- derived_theoretical_metrics: Nb/(C+N) = 12.78 [TABLE 1]; PREN = %Cr + 2.5% Mo [DISCUSSION]
+- overall_microstructure: body-centered cubic (bcc) matrix [DISCUSSION]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: chromium and manganese oxides, niobium nitrides and carbides, Al2O3, MnS/SiO2 [RESULTS: Inclusion Distribution and Alloying]
+- inclusion_size: > 8 µm for chromium and manganese oxides [RESULTS: Inclusion Distribution and Alloying]
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Heat F19-1Nb [TABLE 1]
+- fabrication_steps: Manufactured in 30-kg ingots, surface-ground and hot-rolled to 6 mm. Annealed at 1,100°C, cold-rolled to 2-mm thickness, and subsequently annealed at 1,050°C. Specimens were cut using a special punch to give discs 1.6 mm in diameter. [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealing at 1,100°C and 1,050°C [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to 600 grit (silicon carbide [SiC] paper) and dried in a stream of dry air [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- chemical_surface_preparation: Degreased with 95% ethanol [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- final_surface_roughness: 600 grit [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- exposed_surface_area: 1.6 mm diameter disc, exposed central region [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication, Cyclic Polarization Studies]
+
+### Experiment
+- experimental_test_type: Cyclic Polarization Studies [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrochemical_mode: Potentiodynamic polarization [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- solution_chemistry_summary: Neutral 3.5% NaCl solution [MATERIALS AND METHODS: Cyclic Polarization Studies, RESULTS: Macroelement (Chromium, Molybdenum) Pitting Studies]
+- operating_parameters_summary: Polarized initially from -20 mV with respect to the corrosion potential (Ecorr) to a maximum potential of 0.8 VSCE. The reverse polarization sweep was triggered at 0.5 x 10^-3 A/cm^2. The final potential was set to Ecorr with a sweep rate of 20 mV/min. [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- overarching_environmental_conditions: Deaerated systematically for 60 min prior to polarization using a water bath. [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- pitting_potential: 0.366 VSCE [TABLE 2]
+- electrolyte_temperature: 30°C [TABLE 2] / 35°C [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- continuous_sweep_rate: 20 mV/min [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE (Saturated Calomel Electrode) [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: sodium chloride (NaCl) [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- purge_gas_type: High-purity nitrogen [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- corrosion_potential: -0.184 VSCE [TABLE 2]
+- ocp_stabilization_methodology: Deaerated systematically for 60 min prior to polarization [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- ocp_resting_duration: 60 min [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: ~ pH 6.6 [RESULTS: Macroelement (Chromium, Molybdenum) Pitting Studies]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Type 444 Stainless Steel [ABSTRACT, INTRODUCTION]
+- trade_name: Not specified in text.
+- commercial_grade: medium-grade ferritic SS [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- uns_code: UNS S44400 [ABSTRACT, MATERIALS AND METHODS]
+- alloy_family: ferritic stainless steels (SS) [ABSTRACT, INTRODUCTION]
+- elemental_weight_percentages: 18.92% Cr, 3.07% Mo, 0.22% Nb, 0.008% C, 0.22% Si, 0.26% Mn, 0.002% P, 0.003% S, 0.009% N [TABLE 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: sulfur, oxygen, carbon, and nitrogen [INTRODUCTION]
+- derived_theoretical_metrics: Nb/(C+N) = 12.94 [TABLE 1]; PREN = %Cr + 2.5% Mo [DISCUSSION]
+- overall_microstructure: body-centered cubic (bcc) matrix [DISCUSSION]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: chromium and manganese oxides, niobium nitrides and carbides, Al2O3, MnS/SiO2 [RESULTS: Inclusion Distribution and Alloying]
+- inclusion_size: > 8 µm for chromium and manganese oxides [RESULTS: Inclusion Distribution and Alloying]
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Heat F19-3Nb [TABLE 1]
+- fabrication_steps: Manufactured in 30-kg ingots, surface-ground and hot-rolled to 6 mm. Annealed at 1,100°C, cold-rolled to 2-mm thickness, and subsequently annealed at 1,050°C. Specimens were cut using a special punch to give discs 1.6 mm in diameter. [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealing at 1,100°C and 1,050°C [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to 600 grit (silicon carbide [SiC] paper) and dried in a stream of dry air [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- chemical_surface_preparation: Degreased with 95% ethanol [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- final_surface_roughness: 600 grit [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- exposed_surface_area: 1.6 mm diameter disc, exposed central region [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication, Cyclic Polarization Studies]
+
+### Experiment
+- experimental_test_type: Cyclic Polarization Studies [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrochemical_mode: Potentiodynamic polarization [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- solution_chemistry_summary: Neutral 3.5% NaCl solution [MATERIALS AND METHODS: Cyclic Polarization Studies, RESULTS: Macroelement (Chromium, Molybdenum) Pitting Studies]
+- operating_parameters_summary: Polarized initially from -20 mV with respect to the corrosion potential (Ecorr) to a maximum potential of 0.8 VSCE. The reverse polarization sweep was triggered at 0.5 x 10^-3 A/cm^2. The final potential was set to Ecorr with a sweep rate of 20 mV/min. [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- overarching_environmental_conditions: Deaerated systematically for 60 min prior to polarization using a water bath. [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- pitting_potential: 0.543 VSCE [TABLE 2]
+- electrolyte_temperature: 30°C [TABLE 2] / 35°C [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- continuous_sweep_rate: 20 mV/min [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE (Saturated Calomel Electrode) [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: sodium chloride (NaCl) [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- purge_gas_type: High-purity nitrogen [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- corrosion_potential: -0.170 VSCE [TABLE 2]
+- ocp_stabilization_methodology: Deaerated systematically for 60 min prior to polarization [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- ocp_resting_duration: 60 min [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: ~ pH 6.6 [RESULTS: Macroelement (Chromium, Molybdenum) Pitting Studies]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Type 444 Stainless Steel [ABSTRACT, INTRODUCTION]
+- trade_name: Not specified in text.
+- commercial_grade: medium-grade ferritic SS [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- uns_code: UNS S44400 [ABSTRACT, MATERIALS AND METHODS]
+- alloy_family: ferritic stainless steels (SS) [ABSTRACT, INTRODUCTION]
+- elemental_weight_percentages: 21.96% Cr, 0.99% Mo, 0.23% Nb, 0.01% C, 0.26% Si, 0.26% Mn, 0.002% P, 0.003% S, 0.010% N [TABLE 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: sulfur, oxygen, carbon, and nitrogen [INTRODUCTION]
+- derived_theoretical_metrics: Nb/(C+N) = 11.50 [TABLE 1]; PREN = %Cr + 2.5% Mo [DISCUSSION]
+- overall_microstructure: body-centered cubic (bcc) matrix [DISCUSSION]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: chromium and manganese oxides, niobium nitrides and carbides, Al2O3, MnS/SiO2 [RESULTS: Inclusion Distribution and Alloying]
+- inclusion_size: > 8 µm for chromium and manganese oxides [RESULTS: Inclusion Distribution and Alloying]
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Heat F22-1Nb [TABLE 1]
+- fabrication_steps: Manufactured in 30-kg ingots, surface-ground and hot-rolled to 6 mm. Annealed at 1,100°C, cold-rolled to 2-mm thickness, and subsequently annealed at 1,050°C. Specimens were cut using a special punch to give discs 1.6 mm in diameter. [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealing at 1,100°C and 1,050°C [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to 600 grit (silicon carbide [SiC] paper) and dried in a stream of dry air [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- chemical_surface_preparation: Degreased with 95% ethanol [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- final_surface_roughness: 600 grit [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- exposed_surface_area: 1.6 mm diameter disc, exposed central region [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication, Cyclic Polarization Studies]
+
+### Experiment
+- experimental_test_type: Cyclic Polarization Studies [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrochemical_mode: Potentiodynamic polarization [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- solution_chemistry_summary: Neutral 3.5% NaCl solution [MATERIALS AND METHODS: Cyclic Polarization Studies, RESULTS: Macroelement (Chromium, Molybdenum) Pitting Studies]
+- operating_parameters_summary: Polarized initially from -20 mV with respect to the corrosion potential (Ecorr) to a maximum potential of 0.8 VSCE. The reverse polarization sweep was triggered at 0.5 x 10^-3 A/cm^2. The final potential was set to Ecorr with a sweep rate of 20 mV/min. [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- overarching_environmental_conditions: Deaerated systematically for 60 min prior to polarization using a water bath. [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- pitting_potential: 0.465 VSCE [TABLE 2]
+- electrolyte_temperature: 30°C [TABLE 2] / 35°C [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- continuous_sweep_rate: 20 mV/min [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE (Saturated Calomel Electrode) [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: sodium chloride (NaCl) [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- purge_gas_type: High-purity nitrogen [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- corrosion_potential: -0.203 VSCE [TABLE 2]
+- ocp_stabilization_methodology: Deaerated systematically for 60 min prior to polarization [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- ocp_resting_duration: 60 min [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: ~ pH 6.6 [RESULTS: Macroelement (Chromium, Molybdenum) Pitting Studies]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Type 444 Stainless Steel [ABSTRACT, INTRODUCTION]
+- trade_name: Not specified in text.
+- commercial_grade: medium-grade ferritic SS [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- uns_code: UNS S44400 [ABSTRACT, MATERIALS AND METHODS]
+- alloy_family: ferritic stainless steels (SS) [ABSTRACT, INTRODUCTION]
+- elemental_weight_percentages: 24.05% Cr, 0% Mo, 0.24% Nb, 0.013% C, 0.26% Si, 0.26% Mn, 0.002% P, 0.003% S, 0.008% N [TABLE 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: sulfur, oxygen, carbon, and nitrogen [INTRODUCTION]
+- derived_theoretical_metrics: Nb/(C+N) = 11.43 [TABLE 1]; PREN = %Cr + 2.5% Mo [DISCUSSION]
+- overall_microstructure: body-centered cubic (bcc) matrix [DISCUSSION]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: chromium and manganese oxides, niobium nitrides and carbides, Al2O3, MnS/SiO2 [RESULTS: Inclusion Distribution and Alloying]
+- inclusion_size: > 8 µm for chromium and manganese oxides [RESULTS: Inclusion Distribution and Alloying]
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Heat F24-0Nb [TABLE 1]
+- fabrication_steps: Manufactured in 30-kg ingots, surface-ground and hot-rolled to 6 mm. Annealed at 1,100°C, cold-rolled to 2-mm thickness, and subsequently annealed at 1,050°C. Specimens were cut using a special punch to give discs 1.6 mm in diameter. [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealing at 1,100°C and 1,050°C [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to 600 grit (silicon carbide [SiC] paper) and dried in a stream of dry air [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- chemical_surface_preparation: Degreased with 95% ethanol [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- final_surface_roughness: 600 grit [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- exposed_surface_area: 1.6 mm diameter disc, exposed central region [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication, Cyclic Polarization Studies]
+
+### Experiment
+- experimental_test_type: Cyclic Polarization Studies [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrochemical_mode: Potentiodynamic polarization [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- solution_chemistry_summary: Neutral 3.5% NaCl solution [MATERIALS AND METHODS: Cyclic Polarization Studies, RESULTS: Macroelement (Chromium, Molybdenum) Pitting Studies]
+- operating_parameters_summary: Polarized initially from -20 mV with respect to the corrosion potential (Ecorr) to a maximum potential of 0.8 VSCE. The reverse polarization sweep was triggered at 0.5 x 10^-3 A/cm^2. The final potential was set to Ecorr with a sweep rate of 20 mV/min. [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- overarching_environmental_conditions: Deaerated systematically for 60 min prior to polarization using a water bath. [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- pitting_potential: 0.438 VSCE [TABLE 2]
+- electrolyte_temperature: 30°C [TABLE 2] / 35°C [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- continuous_sweep_rate: 20 mV/min [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE (Saturated Calomel Electrode) [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: sodium chloride (NaCl) [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- purge_gas_type: High-purity nitrogen [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- corrosion_potential: -0.156 VSCE [TABLE 2]
+- ocp_stabilization_methodology: Deaerated systematically for 60 min prior to polarization [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- ocp_resting_duration: 60 min [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: ~ pH 6.6 [RESULTS: Macroelement (Chromium, Molybdenum) Pitting Studies]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Type 444 Stainless Steel [ABSTRACT, INTRODUCTION]
+- trade_name: Not specified in text.
+- commercial_grade: medium-grade ferritic SS [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- uns_code: UNS S44400 [ABSTRACT, MATERIALS AND METHODS]
+- alloy_family: ferritic stainless steels (SS) [ABSTRACT, INTRODUCTION]
+- elemental_weight_percentages: 19.03% Cr, 2.03% Mo, 0.23% Nb, 0.0011% C, 0.26% Si, 0.26% Mn, 0.002% P, 0.003% S, 0.014% N [TABLE 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: sulfur, oxygen, carbon, and nitrogen [INTRODUCTION]
+- derived_theoretical_metrics: Nb/(C+N) = 9.20 [TABLE 1]; PREN = %Cr + 2.5% Mo [DISCUSSION]
+- overall_microstructure: body-centered cubic (bcc) matrix [DISCUSSION]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: chromium and manganese oxides, niobium nitrides and carbides, Al2O3, MnS/SiO2 [RESULTS: Inclusion Distribution and Alloying]
+- inclusion_size: > 8 µm for chromium and manganese oxides [RESULTS: Inclusion Distribution and Alloying]
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Heat F19-2Nb [TABLE 1]
+- fabrication_steps: Manufactured in 30-kg ingots, surface-ground and hot-rolled to 6 mm. Annealed at 1,100°C, cold-rolled to 2-mm thickness, and subsequently annealed at 1,050°C. Specimens were cut using a special punch to give discs 1.6 mm in diameter. [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealing at 1,100°C and 1,050°C [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to 600 grit (silicon carbide [SiC] paper) and dried in a stream of dry air [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- chemical_surface_preparation: Degreased with 95% ethanol [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- final_surface_roughness: 600 grit [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- exposed_surface_area: 1.6 mm diameter disc, exposed central region [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication, Cyclic Polarization Studies]
+
+### Experiment
+- experimental_test_type: Cyclic Polarization Studies [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrochemical_mode: Potentiodynamic polarization [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- solution_chemistry_summary: Neutral 3.5% NaCl solution [MATERIALS AND METHODS: Cyclic Polarization Studies, RESULTS: Macroelement (Chromium, Molybdenum) Pitting Studies]
+- operating_parameters_summary: Polarized initially from -20 mV with respect to the corrosion potential (Ecorr) to a maximum potential of 0.8 VSCE. The reverse polarization sweep was triggered at 0.5 x 10^-3 A/cm^2. The final potential was set to Ecorr with a sweep rate of 20 mV/min. [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- overarching_environmental_conditions: Deaerated systematically for 60 min prior to polarization using a water bath. [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- pitting_potential: 0.437 VSCE [TABLE 2]
+- electrolyte_temperature: 30°C [TABLE 2] / 35°C [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- continuous_sweep_rate: 20 mV/min [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE (Saturated Calomel Electrode) [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: sodium chloride (NaCl) [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- purge_gas_type: High-purity nitrogen [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- corrosion_potential: -0.28 VSCE [TABLE 2]
+- ocp_stabilization_methodology: Deaerated systematically for 60 min prior to polarization [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- ocp_resting_duration: 60 min [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: ~ pH 6.6 [RESULTS: Macroelement (Chromium, Molybdenum) Pitting Studies]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Type 444 Stainless Steel [ABSTRACT, INTRODUCTION]
+- trade_name: Not specified in text.
+- commercial_grade: medium-grade ferritic SS [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- uns_code: UNS S44400 [ABSTRACT, MATERIALS AND METHODS]
+- alloy_family: ferritic stainless steels (SS) [ABSTRACT, INTRODUCTION]
+- elemental_weight_percentages: 19.03% Cr, 2.04% Mo, 0.24% Nb, 0.009% C, 0.26% Si, 0.27% Mn, 0.002% P, 0.003% S, 0.009% N [TABLE 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: sulfur, oxygen, carbon, and nitrogen [INTRODUCTION]
+- derived_theoretical_metrics: Nb/(C+N) = 13.33 [TABLE 1]; PREN = %Cr + 2.5% Mo [DISCUSSION]
+- overall_microstructure: body-centered cubic (bcc) matrix [DISCUSSION]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: chromium and manganese oxides, niobium nitrides and carbides, Al2O3, MnS/SiO2 [RESULTS: Inclusion Distribution and Alloying]
+- inclusion_size: > 8 µm for chromium and manganese oxides [RESULTS: Inclusion Distribution and Alloying]
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Heat F19-2CuNb [TABLE 1]
+- fabrication_steps: Manufactured in 30-kg ingots, surface-ground and hot-rolled to 6 mm. Annealed at 1,100°C, cold-rolled to 2-mm thickness, and subsequently annealed at 1,050°C. Specimens were cut using a special punch to give discs 1.6 mm in diameter. [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealing at 1,100°C and 1,050°C [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to 600 grit (silicon carbide [SiC] paper) and dried in a stream of dry air [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- chemical_surface_preparation: Degreased with 95% ethanol [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- final_surface_roughness: 600 grit [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- exposed_surface_area: 1.6 mm diameter disc, exposed central region [MATERIALS AND METHODS: Metallurgy and Specimen Fabrication, Cyclic Polarization Studies]
+
+### Experiment
+- experimental_test_type: Cyclic Polarization Studies [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrochemical_mode: Potentiodynamic polarization [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- solution_chemistry_summary: Neutral 3.5% NaCl solution [MATERIALS AND METHODS: Cyclic Polarization Studies, RESULTS: Macroelement (Chromium, Molybdenum) Pitting Studies]
+- operating_parameters_summary: Polarized initially from -20 mV with respect to the corrosion potential (Ecorr) to a maximum potential of 0.8 VSCE. The reverse polarization sweep was triggered at 0.5 x 10^-3 A/cm^2. The final potential was set to Ecorr with a sweep rate of 20 mV/min. [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- overarching_environmental_conditions: Deaerated systematically for 60 min prior to polarization using a water bath. [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- pitting_potential: 0.451 VSCE [TABLE 2]
+- electrolyte_temperature: 30°C [TABLE 2] / 35°C [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- continuous_sweep_rate: 20 mV/min [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: SCE (Saturated Calomel Electrode) [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: sodium chloride (NaCl) [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- purge_gas_type: High-purity nitrogen [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- corrosion_potential: -0.171 VSCE [TABLE 2]
+- ocp_stabilization_methodology: Deaerated systematically for 60 min prior to polarization [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- ocp_resting_duration: 60 min [MATERIALS AND METHODS: Cyclic Polarization Studies]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: ~ pH 6.6 [RESULTS: Macroelement (Chromium, Molybdenum) Pitting Studies]
+- passive_current_density: Not specified in text.

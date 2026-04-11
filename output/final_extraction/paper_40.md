@@ -1,0 +1,193 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: UNS S32550 [Abstract]
+- alloy_family: Duplex stainless steels (DSS) [INTRODUCTION]
+- elemental_weight_percentages: Cr 25.92, Ni 5.9, Mo 3.19, Cu 1.62, N 0.2, Mn 0.96, Si 0.47, C 0.03, S 0.007, P 0.024 (wt%) [Materials]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Ferrite grains are enriched in Cr and Mo and depleted in Ni and Cu; austenite grains are enriched in Ni and Cu, whereas Cr and Mo signals are lower. Elements were evenly distributed within the grains and no segregation of alloying elements was noticed. [The effect of phase compositions]
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: PREN = %Cr + 3.3%Mo + 16%N [INTRODUCTION]
+- overall_microstructure: Wrought form composed of two phases (ferrite and austenite) [Materials, INTRODUCTION]; proportion of ferrite increases from 47 to 64% with raising the annealing temperature [EXPERIMENTAL RESULTS AND DISCUSSION]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Ferrite and austenite [Materials]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Sample annealed at 1020°C [Materials, EXPERIMENTAL RESULTS AND DISCUSSION]
+- fabrication_steps: Supplied in wrought form as a bar approximately 10 mm in diameter; outer part removed by machining after annealing to produce rods 8.5 mm in diameter [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution treated for 2 h at 1020°C [Materials]
+- cooling_methods: Water quenched [Materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: End face machined to give a smooth finish and further wet ground to 4000 mesh finish [Materials]
+- chemical_surface_preparation: Degreased [Materials]
+- final_surface_roughness: 4000 mesh finish [Materials]
+- exposed_surface_area: End face of an 8.5 mm diameter rod [Materials, Pitting potential determination]
+
+### Experiment
+- experimental_test_type: Potentiodynamic sweeps (pitting potential determination) [Pitting potential determination]
+- electrochemical_mode: Potentiodynamic [Pitting potential determination]
+- solution_chemistry_summary: 3.5% NaCl solution [Pitting potential determination]
+- operating_parameters_summary: Pitting potential defined as the potential at which current density exceeded 50 µA cm⁻²; sweep carried out at a scan rate of 1 mV s⁻¹ [Pitting potential determination]
+- overarching_environmental_conditions: Glass three-electrode cell held in a water bath at 65°C [Pitting potential determination]
+- pitting_potential: 322 mV (SCE) [EXPERIMENTAL RESULTS AND DISCUSSION]
+- electrolyte_temperature: 65°C [Pitting potential determination]
+- continuous_sweep_rate: 1 mV s⁻¹ [Pitting potential determination]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Pitting potential determination]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Pitting potential determination]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Pitting potential determination]
+- counter_electrode_geometry: Wire [Pitting potential determination]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Less than 5 µA cm⁻² [EXPERIMENTAL RESULTS AND DISCUSSION]
+
+## Conditioned Material
+- material_identification: Sample annealed at 1060°C [Materials, EXPERIMENTAL RESULTS AND DISCUSSION]
+- fabrication_steps: Supplied in wrought form as a bar approximately 10 mm in diameter; outer part removed by machining after annealing to produce rods 8.5 mm in diameter [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution treated for 2 h at 1060°C [Materials]
+- cooling_methods: Water quenched [Materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: End face machined to give a smooth finish and further wet ground to 4000 mesh finish [Materials]
+- chemical_surface_preparation: Degreased [Materials]
+- final_surface_roughness: 4000 mesh finish [Materials]
+- exposed_surface_area: End face of an 8.5 mm diameter rod [Materials, Pitting potential determination]
+
+### Experiment
+- experimental_test_type: Potentiodynamic sweeps (pitting potential determination) [Pitting potential determination]
+- electrochemical_mode: Potentiodynamic [Pitting potential determination]
+- solution_chemistry_summary: 3.5% NaCl solution [Pitting potential determination]
+- operating_parameters_summary: Pitting potential defined as the potential at which current density exceeded 50 µA cm⁻²; sweep carried out at a scan rate of 1 mV s⁻¹ [Pitting potential determination]
+- overarching_environmental_conditions: Glass three-electrode cell held in a water bath at 65°C [Pitting potential determination]
+- pitting_potential: 255 mV (SCE) [EXPERIMENTAL RESULTS AND DISCUSSION]
+- electrolyte_temperature: 65°C [Pitting potential determination]
+- continuous_sweep_rate: 1 mV s⁻¹ [Pitting potential determination]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Pitting potential determination]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Pitting potential determination]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Pitting potential determination]
+- counter_electrode_geometry: Wire [Pitting potential determination]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Less than 5 µA cm⁻² [EXPERIMENTAL RESULTS AND DISCUSSION]
+
+## Conditioned Material
+- material_identification: Sample annealed at 1100°C [Materials, EXPERIMENTAL RESULTS AND DISCUSSION]
+- fabrication_steps: Supplied in wrought form as a bar approximately 10 mm in diameter; outer part removed by machining after annealing to produce rods 8.5 mm in diameter [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution treated for 2 h at 1100°C [Materials]
+- cooling_methods: Water quenched [Materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: End face machined to give a smooth finish and further wet ground to 4000 mesh finish [Materials]
+- chemical_surface_preparation: Degreased [Materials]
+- final_surface_roughness: 4000 mesh finish [Materials]
+- exposed_surface_area: End face of an 8.5 mm diameter rod [Materials, Pitting potential determination]
+
+### Experiment
+- experimental_test_type: Potentiodynamic sweeps (pitting potential determination) [Pitting potential determination]
+- electrochemical_mode: Potentiodynamic [Pitting potential determination]
+- solution_chemistry_summary: 3.5% NaCl solution [Pitting potential determination]
+- operating_parameters_summary: Pitting potential defined as the potential at which current density exceeded 50 µA cm⁻²; sweep carried out at a scan rate of 1 mV s⁻¹ [Pitting potential determination]
+- overarching_environmental_conditions: Glass three-electrode cell held in a water bath at 65°C [Pitting potential determination]
+- pitting_potential: 209 mV (SCE) [EXPERIMENTAL RESULTS AND DISCUSSION]
+- electrolyte_temperature: 65°C [Pitting potential determination]
+- continuous_sweep_rate: 1 mV s⁻¹ [Pitting potential determination]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Pitting potential determination]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Pitting potential determination]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Pitting potential determination]
+- counter_electrode_geometry: Wire [Pitting potential determination]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Less than 5 µA cm⁻² [EXPERIMENTAL RESULTS AND DISCUSSION]
+
+## Conditioned Material
+- material_identification: Sample annealed at 1140°C [Materials, EXPERIMENTAL RESULTS AND DISCUSSION]
+- fabrication_steps: Supplied in wrought form as a bar approximately 10 mm in diameter; outer part removed by machining after annealing to produce rods 8.5 mm in diameter [Materials]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution treated for 2 h at 1140°C [Materials]
+- cooling_methods: Water quenched [Materials]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: End face machined to give a smooth finish and further wet ground to 4000 mesh finish [Materials]
+- chemical_surface_preparation: Degreased [Materials]
+- final_surface_roughness: 4000 mesh finish [Materials]
+- exposed_surface_area: End face of an 8.5 mm diameter rod [Materials, Pitting potential determination]
+
+### Experiment
+- experimental_test_type: Potentiodynamic sweeps (pitting potential determination) [Pitting potential determination]
+- electrochemical_mode: Potentiodynamic [Pitting potential determination]
+- solution_chemistry_summary: 3.5% NaCl solution [Pitting potential determination]
+- operating_parameters_summary: Pitting potential defined as the potential at which current density exceeded 50 µA cm⁻²; sweep carried out at a scan rate of 1 mV s⁻¹ [Pitting potential determination]
+- overarching_environmental_conditions: Glass three-electrode cell held in a water bath at 65°C [Pitting potential determination]
+- pitting_potential: 176 mV (SCE) [EXPERIMENTAL RESULTS AND DISCUSSION]
+- electrolyte_temperature: 65°C [Pitting potential determination]
+- continuous_sweep_rate: 1 mV s⁻¹ [Pitting potential determination]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Pitting potential determination]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Pitting potential determination]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [Pitting potential determination]
+- counter_electrode_geometry: Wire [Pitting potential determination]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Less than 5 µA cm⁻² [EXPERIMENTAL RESULTS AND DISCUSSION]

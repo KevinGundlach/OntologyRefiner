@@ -1,0 +1,572 @@
+# Base Material
+- standard_designation: 18Cr-14Ni Stainless Steel [Experimental Work]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic chromium-nickel steels [Experimental Work]
+- elemental_weight_percentages: Cr 17.93%; Ni 14.38%; C 0.036% [Experimental Work]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic structure [Experimental Work]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenitic [Experimental Work]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18Cr-14Ni (None) Quenched [Table 3]
+- fabrication_steps: Smelted in an electric induction furnace under slag, ingots forged, rolled into bars 2 mm thick [Experimental Work]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Tempered at 1150 C (heating for 15 minutes) and quenched in water [Experimental Work]
+- cooling_methods: Quenched in water [Experimental Work]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished test specimen surface [Pitting Initiation Sites During Polarization]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Limited by an orifice of 1 mm diameter [Pitting Initiation Sites During Polarization]
+
+### Experiment
+- experimental_test_type: Anodic polarization [Passivity Breakdown Potentials]
+- electrochemical_mode: Anodic polarization [Passivity Breakdown Potentials]
+- solution_chemistry_summary: 0.1 N NaCl solution [Passivity Breakdown Potentials]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.644 V [Table 3]
+- electrolyte_temperature: 25 C [Figure 3]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Normal hydrogen electrode [Passivity Breakdown Potentials]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Passivity Breakdown Potentials]
+- electrolyte_molar_concentrations: 0.1 N [Passivity Breakdown Potentials]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [Figure 4]
+- counter_electrode_geometry: Circular wire electrode [Figure 4]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18Cr-14Ni (None) Annealed [Table 3]
+- fabrication_steps: Smelted in an electric induction furnace under slag, ingots forged, rolled into bars 2 mm thick [Experimental Work]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Tempered at 1150 C (heating for 15 minutes) and quenched in water; annealed at 650 C for 2 hours [Experimental Work, Table 3]
+- cooling_methods: Quenched in water [Experimental Work]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Heat treatment in the dangerous temperature zone (650 C for 2 hours) [Abstract, Effects of Heat Treatment]
+- mechanical_surface_preparation: Polished test specimen surface [Pitting Initiation Sites During Polarization]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Limited by an orifice of 1 mm diameter [Pitting Initiation Sites During Polarization]
+
+### Experiment
+- experimental_test_type: Anodic polarization [Passivity Breakdown Potentials]
+- electrochemical_mode: Anodic polarization [Passivity Breakdown Potentials]
+- solution_chemistry_summary: 0.1 N NaCl solution [Passivity Breakdown Potentials]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.659 V [Table 3]
+- electrolyte_temperature: 25 C [Figure 3]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Normal hydrogen electrode [Passivity Breakdown Potentials]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Passivity Breakdown Potentials]
+- electrolyte_molar_concentrations: 0.1 N [Passivity Breakdown Potentials]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [Figure 4]
+- counter_electrode_geometry: Circular wire electrode [Figure 4]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: 18Cr-14Ni Stainless Steel + 5% Mo [Table 3, Experimental Work]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic chromium-nickel steels [Experimental Work]
+- elemental_weight_percentages: Cr 17.93%; Ni 14.38%; C 0.036%; Mo 5.0% [Experimental Work, Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic structure [Experimental Work]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenitic [Experimental Work]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18Cr-14Ni + 5% Mo Quenched [Table 3]
+- fabrication_steps: Smelted in an electric induction furnace under slag, ingots forged, rolled into bars 2 mm thick [Experimental Work]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Tempered at 1150 C (heating for 15 minutes) and quenched in water [Experimental Work]
+- cooling_methods: Quenched in water [Experimental Work]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished test specimen surface [Pitting Initiation Sites During Polarization]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Limited by an orifice of 1 mm diameter [Pitting Initiation Sites During Polarization]
+
+### Experiment
+- experimental_test_type: Anodic polarization [Passivity Breakdown Potentials]
+- electrochemical_mode: Anodic polarization [Passivity Breakdown Potentials]
+- solution_chemistry_summary: 0.1 N NaCl solution [Passivity Breakdown Potentials]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 1.20 V [Table 3, Page 4 text]
+- electrolyte_temperature: 25 C [Figure 3]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Normal hydrogen electrode [Passivity Breakdown Potentials]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Passivity Breakdown Potentials]
+- electrolyte_molar_concentrations: 0.1 N [Passivity Breakdown Potentials]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [Figure 4]
+- counter_electrode_geometry: Circular wire electrode [Figure 4]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Anodic polarization [Effects of Heat Treatment]
+- electrochemical_mode: Potentiostatic [Effects of Heat Treatment]
+- solution_chemistry_summary: 0.1 N HCl solution [Effects of Heat Treatment]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +1.0 V [Effects of Heat Treatment]
+- electrolyte_temperature: 20 C [Figure 7]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Normal hydrogen electrode [Passivity Breakdown Potentials]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: HCl [Effects of Heat Treatment]
+- electrolyte_molar_concentrations: 0.1 N [Effects of Heat Treatment]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: ~1.2 [Effects of Heat Treatment]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18Cr-14Ni + 5% Mo Annealed [Table 3]
+- fabrication_steps: Smelted in an electric induction furnace under slag, ingots forged, rolled into bars 2 mm thick [Experimental Work]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Tempered at 1150 C (heating for 15 minutes) and quenched in water; annealed at 650 C for 2 hours [Experimental Work, Table 3]
+- cooling_methods: Quenched in water [Experimental Work]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Heat treatment in the dangerous temperature zone (650 C for 2 hours) [Abstract, Effects of Heat Treatment]
+- mechanical_surface_preparation: Polished test specimen surface [Pitting Initiation Sites During Polarization]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Limited by an orifice of 1 mm diameter [Pitting Initiation Sites During Polarization]
+
+### Experiment
+- experimental_test_type: Anodic polarization [Passivity Breakdown Potentials]
+- electrochemical_mode: Anodic polarization [Passivity Breakdown Potentials]
+- solution_chemistry_summary: 0.1 N NaCl solution [Passivity Breakdown Potentials]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.810 V [Table 3]
+- electrolyte_temperature: 25 C [Figure 3]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Normal hydrogen electrode [Passivity Breakdown Potentials]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Passivity Breakdown Potentials]
+- electrolyte_molar_concentrations: 0.1 N [Passivity Breakdown Potentials]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [Figure 4]
+- counter_electrode_geometry: Circular wire electrode [Figure 4]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: 18Cr-14Ni Stainless Steel + 5% V [Table 3, Experimental Work]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic chromium-nickel steels [Experimental Work]
+- elemental_weight_percentages: Cr 17.93%; Ni 14.38%; C 0.036%; V 4.75% [Experimental Work, Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic structure [Experimental Work]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenitic [Experimental Work]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18Cr-14Ni + 5% V Quenched [Table 3]
+- fabrication_steps: Smelted in an electric induction furnace under slag, ingots forged, rolled into bars 2 mm thick [Experimental Work]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Tempered at 1150 C (heating for 15 minutes) and quenched in water [Experimental Work]
+- cooling_methods: Quenched in water [Experimental Work]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished test specimen surface [Pitting Initiation Sites During Polarization]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Limited by an orifice of 1 mm diameter [Pitting Initiation Sites During Polarization]
+
+### Experiment
+- experimental_test_type: Anodic polarization [Passivity Breakdown Potentials]
+- electrochemical_mode: Anodic polarization [Passivity Breakdown Potentials]
+- solution_chemistry_summary: 0.1 N NaCl solution [Passivity Breakdown Potentials]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: > 1.50 V [Table 3]
+- electrolyte_temperature: 25 C [Figure 3]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Normal hydrogen electrode [Passivity Breakdown Potentials]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Passivity Breakdown Potentials]
+- electrolyte_molar_concentrations: 0.1 N [Passivity Breakdown Potentials]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [Figure 4]
+- counter_electrode_geometry: Circular wire electrode [Figure 4]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Anodic polarization [Effects of Heat Treatment]
+- electrochemical_mode: Potentiostatic [Effects of Heat Treatment]
+- solution_chemistry_summary: 0.1 N HCl solution [Effects of Heat Treatment]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +0.35 V [Effects of Heat Treatment]
+- electrolyte_temperature: 20 C [Figure 7]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Normal hydrogen electrode [Passivity Breakdown Potentials]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: HCl [Effects of Heat Treatment]
+- electrolyte_molar_concentrations: 0.1 N [Effects of Heat Treatment]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: ~1.2 [Effects of Heat Treatment]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18Cr-14Ni + 5% V Annealed [Table 3]
+- fabrication_steps: Smelted in an electric induction furnace under slag, ingots forged, rolled into bars 2 mm thick [Experimental Work]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Tempered at 1150 C (heating for 15 minutes) and quenched in water; annealed at 650 C for 2 hours [Experimental Work, Table 3]
+- cooling_methods: Quenched in water [Experimental Work]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Heat treatment in the dangerous temperature zone (650 C for 2 hours) [Abstract, Effects of Heat Treatment]
+- mechanical_surface_preparation: Polished test specimen surface [Pitting Initiation Sites During Polarization]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Limited by an orifice of 1 mm diameter [Pitting Initiation Sites During Polarization]
+
+### Experiment
+- experimental_test_type: Anodic polarization [Passivity Breakdown Potentials]
+- electrochemical_mode: Anodic polarization [Passivity Breakdown Potentials]
+- solution_chemistry_summary: 0.1 N NaCl solution [Passivity Breakdown Potentials]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.744 V [Table 3]
+- electrolyte_temperature: 25 C [Figure 3]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Normal hydrogen electrode [Passivity Breakdown Potentials]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Passivity Breakdown Potentials]
+- electrolyte_molar_concentrations: 0.1 N [Passivity Breakdown Potentials]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [Figure 4]
+- counter_electrode_geometry: Circular wire electrode [Figure 4]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: 18Cr-14Ni Stainless Steel + 5% Si [Table 3, Experimental Work]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic chromium-nickel steels [Experimental Work]
+- elemental_weight_percentages: Cr 17.93%; Ni 14.38%; C 0.036%; Si 4.74% [Experimental Work, Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic structure and an alpha phase [Experimental Work]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenitic and an alpha phase [Experimental Work]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18Cr-14Ni + 5% Si Quenched [Table 3]
+- fabrication_steps: Smelted in an electric induction furnace under slag, ingots forged, rolled into bars 2 mm thick [Experimental Work]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Tempered at 1150 C (heating for 15 minutes) and quenched in water [Experimental Work]
+- cooling_methods: Quenched in water [Experimental Work]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished test specimen surface [Pitting Initiation Sites During Polarization]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Limited by an orifice of 1 mm diameter [Pitting Initiation Sites During Polarization]
+
+### Experiment
+- experimental_test_type: Anodic polarization [Passivity Breakdown Potentials]
+- electrochemical_mode: Anodic polarization [Passivity Breakdown Potentials]
+- solution_chemistry_summary: 0.1 N NaCl solution [Passivity Breakdown Potentials]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: > 1.50 V [Table 3]
+- electrolyte_temperature: 25 C [Figure 3]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Normal hydrogen electrode [Passivity Breakdown Potentials]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Passivity Breakdown Potentials]
+- electrolyte_molar_concentrations: 0.1 N [Passivity Breakdown Potentials]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [Figure 4]
+- counter_electrode_geometry: Circular wire electrode [Figure 4]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Anodic polarization [Effects of Heat Treatment]
+- electrochemical_mode: Potentiostatic [Effects of Heat Treatment]
+- solution_chemistry_summary: 0.1 N HCl solution [Effects of Heat Treatment]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: +0.35 V [Effects of Heat Treatment]
+- electrolyte_temperature: 20 C [Figure 7]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Normal hydrogen electrode [Passivity Breakdown Potentials]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: HCl [Effects of Heat Treatment]
+- electrolyte_molar_concentrations: 0.1 N [Effects of Heat Treatment]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: ~1.2 [Effects of Heat Treatment]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18Cr-14Ni + 5% Si Annealed [Table 3]
+- fabrication_steps: Smelted in an electric induction furnace under slag, ingots forged, rolled into bars 2 mm thick [Experimental Work]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Tempered at 1150 C (heating for 15 minutes) and quenched in water; annealed at 650 C for 2 hours [Experimental Work, Table 3]
+- cooling_methods: Quenched in water [Experimental Work]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Heat treatment in the dangerous temperature zone (650 C for 2 hours) [Abstract, Effects of Heat Treatment]
+- mechanical_surface_preparation: Polished test specimen surface [Pitting Initiation Sites During Polarization]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Limited by an orifice of 1 mm diameter [Pitting Initiation Sites During Polarization]
+
+### Experiment
+- experimental_test_type: Anodic polarization [Passivity Breakdown Potentials]
+- electrochemical_mode: Anodic polarization [Passivity Breakdown Potentials]
+- solution_chemistry_summary: 0.1 N NaCl solution [Passivity Breakdown Potentials]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.659 V [Table 3]
+- electrolyte_temperature: 25 C [Figure 3]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Normal hydrogen electrode [Passivity Breakdown Potentials]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Passivity Breakdown Potentials]
+- electrolyte_molar_concentrations: 0.1 N [Passivity Breakdown Potentials]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Pt [Figure 4]
+- counter_electrode_geometry: Circular wire electrode [Figure 4]
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: 18Cr-14Ni Stainless Steel + 2.5% Re [Effects of Heat Treatment]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic chromium-nickel steels [Experimental Work]
+- elemental_weight_percentages: Cr 17.93%; Ni 14.38%; C 0.036%; Re 2.5% [Experimental Work, Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Austenitic structure [Experimental Work]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenitic [Experimental Work]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18Cr-14Ni + 2.5% Re Quenched [Effects of Heat Treatment]
+- fabrication_steps: Smelted in an electric induction furnace under slag, ingots forged, rolled into bars 2 mm thick [Experimental Work]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Tempered at 1150 C (heating for 15 minutes) and quenched in water [Experimental Work]
+- cooling_methods: Quenched in water [Experimental Work]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished test specimen surface [Pitting Initiation Sites During Polarization]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Limited by an orifice of 1 mm diameter [Pitting Initiation Sites During Polarization]
+
+### Experiment
+- experimental_test_type: Anodic polarization [Effects of Heat Treatment]
+- electrochemical_mode: Potentiostatic [Effects of Heat Treatment]
+- solution_chemistry_summary: 0.1 N HCl solution [Effects of Heat Treatment]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.6 V [Effects of Heat Treatment]
+- electrolyte_temperature: 20 C [Figure 7]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Normal hydrogen electrode [Passivity Breakdown Potentials]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: HCl [Effects of Heat Treatment]
+- electrolyte_molar_concentrations: 0.1 N [Effects of Heat Treatment]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: ~1.2 [Effects of Heat Treatment]
+- passive_current_density: Not specified in text.

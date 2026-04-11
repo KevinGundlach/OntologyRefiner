@@ -1,0 +1,405 @@
+# Base Material
+- standard_designation: High purity Al [Experimental]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Aluminum alloys [Introduction]
+- elemental_weight_percentages: 99.999% Al [Experimental]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Polycrystalline [Experimental]
+- average_grain_dimensions: As-drawn grain diameter of 10-100 µm [Experimental]
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Polycrystalline High Purity Al foil (10^-4 cm2) [Experimental]
+- fabrication_steps: As-drawn foil [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Polished to a 0.05 µm finish [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 0.05 µm finish [Experimental]
+- exposed_surface_area: 10^-4 cm2 [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental]
+- electrochemical_mode: Anodic scan [Experimental]
+- solution_chemistry_summary: 0.6 M NaCl solution (pH 5.9) purged with nitrogen [Experimental]
+- operating_parameters_summary: 1 h exposure at open-circuit potential followed by an anodic scan at 0.1 mV/s [Experimental]
+- overarching_environmental_conditions: Nitrogen purged environment at 25°C [Experimental]
+- pitting_potential: -0.376 ± 0.113 V vs. SCE [Table II]
+- electrolyte_temperature: 25°C [Experimental]
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Introduction]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Purged [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Exposure at open-circuit potential [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 5.9 [Experimental]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Polycrystalline High Purity Al foil (10^-1 cm2) [Table II]
+- fabrication_steps: As-drawn foil [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 10^-1 cm2 [Table II]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental]
+- electrochemical_mode: Anodic scan [Experimental]
+- solution_chemistry_summary: 0.6 M NaCl solution (pH 5.9) purged with nitrogen [Experimental]
+- operating_parameters_summary: 1 h exposure at open-circuit potential followed by an anodic scan at 0.1 mV/s [Experimental]
+- overarching_environmental_conditions: Nitrogen purged environment at 25°C [Experimental]
+- pitting_potential: -0.649 ± 0.034 V vs. SCE [Table II]
+- electrolyte_temperature: 25°C [Experimental]
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Introduction]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Purged [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Exposure at open-circuit potential [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 5.9 [Experimental]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Al90Fe5Gd5 [Abstract]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Al-transition metal-rare earth (Al-TM-RE) alloys [Introduction]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: 90 atom % Al, 5 atom % Fe, 5 atom % Gd [Experimental]
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Amorphous Al90Fe5Gd5 [Experimental]
+- fabrication_steps: Rapid solidification by deposition of molten alloys on a cooled wheel to produce amorphous metal ribbons [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Cooled wheel deposition [Experimental]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounting melt-spun ribbon cross sections in Buehler epoxide resin and polishing to a 0.05 µm finish [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 0.05 µm finish [Experimental]
+- exposed_surface_area: 10^-4 cm2 [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental]
+- electrochemical_mode: Anodic scan [Experimental]
+- solution_chemistry_summary: 0.6 M NaCl solution (pH 5.9) purged with nitrogen [Experimental]
+- operating_parameters_summary: 1 h exposure at open-circuit potential followed by an anodic scan at 0.1 mV/s [Experimental]
+- overarching_environmental_conditions: Nitrogen purged environment at 25°C [Experimental]
+- pitting_potential: -0.099 ± 0.093 V vs. SCE [Table II]
+- electrolyte_temperature: 25°C [Experimental]
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Introduction]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Purged [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Exposure at open-circuit potential [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 5.9 [Experimental]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Partially nanocrystalline Al90Fe5Gd5 [Experimental]
+- fabrication_steps: Rapid solidification by deposition of molten alloys on a cooled wheel to produce amorphous metal ribbons [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Isothermal heat-treatment in evacuated quartz tubes at 150°C for 25 h [Experimental]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounting melt-spun ribbon cross sections in Buehler epoxide resin and polishing to a 0.05 µm finish [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 0.05 µm finish [Experimental]
+- exposed_surface_area: 10^-4 cm2 [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental]
+- electrochemical_mode: Anodic scan [Experimental]
+- solution_chemistry_summary: 0.6 M NaCl solution (pH 5.9) purged with nitrogen [Experimental]
+- operating_parameters_summary: 1 h exposure at open-circuit potential followed by an anodic scan at 0.1 mV/s [Experimental]
+- overarching_environmental_conditions: Nitrogen purged environment at 25°C [Experimental]
+- pitting_potential: +0.044 ± 0.130 V vs. SCE [Table II]
+- electrolyte_temperature: 25°C [Experimental]
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Introduction]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Purged [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Exposure at open-circuit potential [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 5.9 [Experimental]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Fully crystalline Al90Fe5Gd5 [Experimental]
+- fabrication_steps: Rapid solidification by deposition of molten alloys on a cooled wheel to produce amorphous metal ribbons [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat-treatment at 550°C for 1 h [Experimental]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounting melt-spun ribbon cross sections in Buehler epoxide resin and polishing to a 0.05 µm finish [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 0.05 µm finish [Experimental]
+- exposed_surface_area: 10^-4 cm2 [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental]
+- electrochemical_mode: Anodic scan [Experimental]
+- solution_chemistry_summary: 0.6 M NaCl solution (pH 5.9) purged with nitrogen [Experimental]
+- operating_parameters_summary: 1 h exposure at open-circuit potential followed by an anodic scan at 0.1 mV/s [Experimental]
+- overarching_environmental_conditions: Nitrogen purged environment at 25°C [Experimental]
+- pitting_potential: -0.499 ± 0.163 V vs. SCE [Table II]
+- electrolyte_temperature: 25°C [Experimental]
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Introduction]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Purged [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Exposure at open-circuit potential [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 5.9 [Experimental]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Al87Ni8.7Y4.3 [Abstract]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Al-transition metal-rare earth (Al-TM-RE) alloys [Introduction]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: 87 atom % Al, 8.7 atom % Ni, 4.3 atom % Y [Experimental]
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Amorphous Al87Ni8.7Y4.3 [Experimental]
+- fabrication_steps: Rapid solidification by deposition of molten alloys on a cooled wheel to produce amorphous metal ribbons [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Cooled wheel deposition [Experimental]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounting melt-spun ribbon cross sections in Buehler epoxide resin and polishing to a 0.05 µm finish [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 0.05 µm finish [Experimental]
+- exposed_surface_area: 10^-4 cm2 [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental]
+- electrochemical_mode: Anodic scan [Experimental]
+- solution_chemistry_summary: 0.6 M NaCl solution (pH 5.9) purged with nitrogen [Experimental]
+- operating_parameters_summary: 1 h exposure at open-circuit potential followed by an anodic scan at 0.1 mV/s [Experimental]
+- overarching_environmental_conditions: Nitrogen purged environment at 25°C [Experimental]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 25°C [Experimental]
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Introduction]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Purged [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Exposure at open-circuit potential [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 5.9 [Experimental]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Partially nanocrystalline Al87Ni8.7Y4.3 [Experimental]
+- fabrication_steps: Rapid solidification by deposition of molten alloys on a cooled wheel to produce amorphous metal ribbons [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Isothermal heat-treatment in evacuated quartz tubes at 150°C for 25 h [Experimental]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounting melt-spun ribbon cross sections in Buehler epoxide resin and polishing to a 0.05 µm finish [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 0.05 µm finish [Experimental]
+- exposed_surface_area: 10^-4 cm2 [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental]
+- electrochemical_mode: Anodic scan [Experimental]
+- solution_chemistry_summary: 0.6 M NaCl solution (pH 5.9) purged with nitrogen [Experimental]
+- operating_parameters_summary: 1 h exposure at open-circuit potential followed by an anodic scan at 0.1 mV/s [Experimental]
+- overarching_environmental_conditions: Nitrogen purged environment at 25°C [Experimental]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 25°C [Experimental]
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Introduction]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Purged [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Exposure at open-circuit potential [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 5.9 [Experimental]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Fully crystalline Al87Ni8.7Y4.3 [Experimental]
+- fabrication_steps: Rapid solidification by deposition of molten alloys on a cooled wheel to produce amorphous metal ribbons [Experimental]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Heat-treatment at 550°C for 1 h [Experimental]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounting melt-spun ribbon cross sections in Buehler epoxide resin and polishing to a 0.05 µm finish [Experimental]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: 0.05 µm finish [Experimental]
+- exposed_surface_area: 10^-4 cm2 [Experimental]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [Experimental]
+- electrochemical_mode: Anodic scan [Experimental]
+- solution_chemistry_summary: 0.6 M NaCl solution (pH 5.9) purged with nitrogen [Experimental]
+- operating_parameters_summary: 1 h exposure at open-circuit potential followed by an anodic scan at 0.1 mV/s [Experimental]
+- overarching_environmental_conditions: Nitrogen purged environment at 25°C [Experimental]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 25°C [Experimental]
+- continuous_sweep_rate: 0.1 mV/s [Experimental]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [Experimental]
+- electrolyte_solvents: Aqueous [Introduction]
+- electrolyte_primary_salts: NaCl [Experimental]
+- electrolyte_molar_concentrations: 0.6 M NaCl [Experimental]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Purged [Experimental]
+- purge_gas_type: Nitrogen [Experimental]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Exposure at open-circuit potential [Experimental]
+- ocp_resting_duration: 1 h [Experimental]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 5.9 [Experimental]
+- passive_current_density: Not specified in text.

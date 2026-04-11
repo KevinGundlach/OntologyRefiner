@@ -1,0 +1,105 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Duplex austenitic/ferritic stainless steels [Introduction]
+- elemental_weight_percentages: ~25% Cr, 5% Ni, 2.4% Mo, 3% Cu [Variations in composition and microstructure > a) Nitrogen]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Duplex (austenite and ferrite phases) [Introduction]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite, ferrite [Introduction]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Nitrogen-free duplex steel casting [Variations in composition and microstructure > a) Nitrogen]
+- fabrication_steps: Cast into thick sections (76 mm) [Variations in composition and microstructure > a) Nitrogen]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution treated and then aged [Variations in composition and microstructure > a) Nitrogen]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Pitting potential measurement [Variations in composition and microstructure > a) Nitrogen]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 3% NaCl solution [Variations in composition and microstructure > a) Nitrogen]
+- operating_parameters_summary: Tested at 30°C [Variations in composition and microstructure > a) Nitrogen]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.45 V [Variations in composition and microstructure > a) Nitrogen]
+- electrolyte_temperature: 30°C [Variations in composition and microstructure > a) Nitrogen]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: S.H.E. [Variations in composition and microstructure > a) Nitrogen]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Variations in composition and microstructure > a) Nitrogen]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Nitrogen-containing duplex steel casting (nitrogen in excess of 0.1%) [Variations in composition and microstructure > a) Nitrogen]
+- fabrication_steps: Cast into thick sections (76 mm) [Variations in composition and microstructure > a) Nitrogen]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution treated and then aged [Variations in composition and microstructure > a) Nitrogen]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Pitting potential measurement [Variations in composition and microstructure > a) Nitrogen]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 3% NaCl solution [Variations in composition and microstructure > a) Nitrogen]
+- operating_parameters_summary: Tested at 30°C [Variations in composition and microstructure > a) Nitrogen]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 1.15 V [Variations in composition and microstructure > a) Nitrogen]
+- electrolyte_temperature: 30°C [Variations in composition and microstructure > a) Nitrogen]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: S.H.E. [Variations in composition and microstructure > a) Nitrogen]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaCl [Variations in composition and microstructure > a) Nitrogen]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

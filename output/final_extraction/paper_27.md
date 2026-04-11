@@ -1,0 +1,454 @@
+# Base Material
+- standard_designation: Pure Ni [2 Experiment]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High Entropy Alloys (HEAs) / multi-principal component alloys [1 Introduction]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: 100 at.% Ni [2 Experiment]
+- spatial_chemical_homogeneity: Uniform element distribution [1 Introduction]
+- trace_impurities: Purity of raw materials used is 99.95 wt.% [2.1 Materials preparation]
+- derived_theoretical_metrics: High mixing configurational entropy [2 Experiment]
+- overall_microstructure: Single solid solution phase in the as-cast state [2 Experiment]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: FCC [1 Introduction]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Pure Ni [2.2 Electrochemical measurements and surface characterization techniques]
+- fabrication_steps: Prepared by using an electric arc furnace with electromagnetic stirring for five times, and then solidifying in a water-cooled copper hearth. The cast ingots were 60 mm in length and 10 mm in diameter. The samples were cut into pieces of 2 mm in thick and 10 mm in diameter. [2.1 Materials preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Solidifying in a water-cooled copper hearth [2.1 Materials preparation]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically grounded using a series of 240#, 800#, 1500# silicon carbide (SiC) grit papers in sequence. Cold mounted with a flat specimen holder kit. [2.1 Materials preparation]
+- chemical_surface_preparation: Cleaned with ultrasound and ultra-pure water. [2.1 Materials preparation]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.5 cm2 [2.1 Materials preparation]
+
+### Experiment
+- experimental_test_type: Electrochemical measurements [2.2 Electrochemical measurements and surface characterization techniques]
+- electrochemical_mode: Cyclic polarization [2.2 Electrochemical measurements and surface characterization techniques]
+- solution_chemistry_summary: 0.1 mol/L (M) NaCl aqueous solution [2.2 Electrochemical measurements and surface characterization techniques]
+- operating_parameters_summary: Scan rate of 1 mV/s from an initial potential -0.8 V versus OCP to a final potential 1.4 VRE [2.2 Electrochemical measurements and surface characterization techniques]
+- overarching_environmental_conditions: Room temperature [2.2 Electrochemical measurements and surface characterization techniques]
+- pitting_potential: 103 mVRE [3 Results and analyses]
+- electrolyte_temperature: Room temperature [2.2 Electrochemical measurements and surface characterization techniques]
+- continuous_sweep_rate: 1 mV/s [2.2 Electrochemical measurements and surface characterization techniques]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel (sat'd KCl) reference electrode (SCE) [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_solvents: Aqueous solution / water [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_primary_salts: NaCl [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_molar_concentrations: 0.1 M [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -236 mVRE [3 Results and analyses]
+- ocp_stabilization_methodology: Immersed in the prepared solutions at first and the OCP was recorded to yield a steady-state potential [2.2 Electrochemical measurements and surface characterization techniques]
+- ocp_resting_duration: > 30 min [2.2 Electrochemical measurements and surface characterization techniques]
+- ocp_stability_threshold: Fluctuation less than 2 mV in 10 min [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_composition: Platinum (Pt) [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_geometry: Plate [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_exposed_area: 2 cm x 2 cm [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Electrochemical measurements [2.2 Electrochemical measurements and surface characterization techniques]
+- electrochemical_mode: Potentiodynamic polarization [2.2 Electrochemical measurements and surface characterization techniques]
+- solution_chemistry_summary: 0.1 mol/L (M) HCl aqueous solution [2.2 Electrochemical measurements and surface characterization techniques]
+- operating_parameters_summary: Scanning rate of 1 mV/s from -0.8 VOCP to 1.4 VRE [2.2 Electrochemical measurements and surface characterization techniques]
+- overarching_environmental_conditions: Room temperature [2.2 Electrochemical measurements and surface characterization techniques]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [2.2 Electrochemical measurements and surface characterization techniques]
+- continuous_sweep_rate: 1 mV/s [2.2 Electrochemical measurements and surface characterization techniques]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Silver/silver chloride (Ag/AgCl) with 3.5 M KCl [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_solvents: Aqueous solution / water [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_primary_salts: HCl [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_molar_concentrations: 0.1 M [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -228 mVRE [3 Results and analyses]
+- ocp_stabilization_methodology: Immersed in the prepared solutions at first and the OCP was recorded to yield a steady-state potential [2.2 Electrochemical measurements and surface characterization techniques]
+- ocp_resting_duration: > 30 min [2.2 Electrochemical measurements and surface characterization techniques]
+- ocp_stability_threshold: Fluctuation less than 2 mV in 10 min [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_composition: Platinum (Pt) [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_geometry: Plate [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_exposed_area: 2 cm x 2 cm [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Equiatomic NiCo [2 Experiment]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High Entropy Alloys (HEAs) / multi-principal component alloys [1 Introduction]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Equiatomic NiCo (50 at.% Ni, 50 at.% Co) [2 Experiment]
+- spatial_chemical_homogeneity: Uniform element distribution [1 Introduction]
+- trace_impurities: Purity of raw materials used is 99.95 wt.% [2.1 Materials preparation]
+- derived_theoretical_metrics: High mixing configurational entropy [2 Experiment]
+- overall_microstructure: Single solid solution phase in the as-cast state [2 Experiment]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: FCC [1 Introduction]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: NiCo [2.2 Electrochemical measurements and surface characterization techniques]
+- fabrication_steps: Prepared by using an electric arc furnace with electromagnetic stirring for five times, and then solidifying in a water-cooled copper hearth. The cast ingots were 60 mm in length and 10 mm in diameter. The samples were cut into pieces of 2 mm in thick and 10 mm in diameter. [2.1 Materials preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Solidifying in a water-cooled copper hearth [2.1 Materials preparation]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically grounded using a series of 240#, 800#, 1500# silicon carbide (SiC) grit papers in sequence. Cold mounted with a flat specimen holder kit. [2.1 Materials preparation]
+- chemical_surface_preparation: Cleaned with ultrasound and ultra-pure water. [2.1 Materials preparation]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.5 cm2 [2.1 Materials preparation]
+
+### Experiment
+- experimental_test_type: Electrochemical measurements [2.2 Electrochemical measurements and surface characterization techniques]
+- electrochemical_mode: Cyclic polarization [2.2 Electrochemical measurements and surface characterization techniques]
+- solution_chemistry_summary: 0.1 mol/L (M) NaCl aqueous solution [2.2 Electrochemical measurements and surface characterization techniques]
+- operating_parameters_summary: Scan rate of 1 mV/s from an initial potential -0.8 V versus OCP to a final potential 1.4 VRE [2.2 Electrochemical measurements and surface characterization techniques]
+- overarching_environmental_conditions: Room temperature [2.2 Electrochemical measurements and surface characterization techniques]
+- pitting_potential: 146 mVRE [3 Results and analyses]
+- electrolyte_temperature: Room temperature [2.2 Electrochemical measurements and surface characterization techniques]
+- continuous_sweep_rate: 1 mV/s [2.2 Electrochemical measurements and surface characterization techniques]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel (sat'd KCl) reference electrode (SCE) [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_solvents: Aqueous solution / water [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_primary_salts: NaCl [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_molar_concentrations: 0.1 M [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -326 mVRE [3 Results and analyses]
+- ocp_stabilization_methodology: Immersed in the prepared solutions at first and the OCP was recorded to yield a steady-state potential [2.2 Electrochemical measurements and surface characterization techniques]
+- ocp_resting_duration: > 30 min [2.2 Electrochemical measurements and surface characterization techniques]
+- ocp_stability_threshold: Fluctuation less than 2 mV in 10 min [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_composition: Platinum (Pt) [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_geometry: Plate [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_exposed_area: 2 cm x 2 cm [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Electrochemical measurements [2.2 Electrochemical measurements and surface characterization techniques]
+- electrochemical_mode: Potentiodynamic polarization [2.2 Electrochemical measurements and surface characterization techniques]
+- solution_chemistry_summary: 0.1 mol/L (M) HCl aqueous solution [2.2 Electrochemical measurements and surface characterization techniques]
+- operating_parameters_summary: Scanning rate of 1 mV/s from -0.8 VOCP to 1.4 VRE [2.2 Electrochemical measurements and surface characterization techniques]
+- overarching_environmental_conditions: Room temperature [2.2 Electrochemical measurements and surface characterization techniques]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [2.2 Electrochemical measurements and surface characterization techniques]
+- continuous_sweep_rate: 1 mV/s [2.2 Electrochemical measurements and surface characterization techniques]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Silver/silver chloride (Ag/AgCl) with 3.5 M KCl [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_solvents: Aqueous solution / water [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_primary_salts: HCl [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_molar_concentrations: 0.1 M [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -233 mVRE [3 Results and analyses]
+- ocp_stabilization_methodology: Immersed in the prepared solutions at first and the OCP was recorded to yield a steady-state potential [2.2 Electrochemical measurements and surface characterization techniques]
+- ocp_resting_duration: > 30 min [2.2 Electrochemical measurements and surface characterization techniques]
+- ocp_stability_threshold: Fluctuation less than 2 mV in 10 min [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_composition: Platinum (Pt) [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_geometry: Plate [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_exposed_area: 2 cm x 2 cm [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Equiatomic NiCoFe [2 Experiment]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High Entropy Alloys (HEAs) / multi-principal component alloys [1 Introduction]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Equiatomic NiCoFe [2 Experiment]
+- spatial_chemical_homogeneity: Uniform element distribution [1 Introduction]
+- trace_impurities: Purity of raw materials used is 99.95 wt.% [2.1 Materials preparation]
+- derived_theoretical_metrics: High mixing configurational entropy [2 Experiment]
+- overall_microstructure: Single solid solution phase in the as-cast state [2 Experiment]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: FCC [1 Introduction]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: NiCoFe [2.2 Electrochemical measurements and surface characterization techniques]
+- fabrication_steps: Prepared by using an electric arc furnace with electromagnetic stirring for five times, and then solidifying in a water-cooled copper hearth. The cast ingots were 60 mm in length and 10 mm in diameter. The samples were cut into pieces of 2 mm in thick and 10 mm in diameter. [2.1 Materials preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Solidifying in a water-cooled copper hearth [2.1 Materials preparation]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically grounded using a series of 240#, 800#, 1500# silicon carbide (SiC) grit papers in sequence. Cold mounted with a flat specimen holder kit. [2.1 Materials preparation]
+- chemical_surface_preparation: Cleaned with ultrasound and ultra-pure water. [2.1 Materials preparation]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.5 cm2 [2.1 Materials preparation]
+
+### Experiment
+- experimental_test_type: Electrochemical measurements [2.2 Electrochemical measurements and surface characterization techniques]
+- electrochemical_mode: Cyclic polarization [2.2 Electrochemical measurements and surface characterization techniques]
+- solution_chemistry_summary: 0.1 mol/L (M) NaCl aqueous solution [2.2 Electrochemical measurements and surface characterization techniques]
+- operating_parameters_summary: Scan rate of 1 mV/s from an initial potential -0.8 V versus OCP to a final potential 1.4 VRE [2.2 Electrochemical measurements and surface characterization techniques]
+- overarching_environmental_conditions: Room temperature [2.2 Electrochemical measurements and surface characterization techniques]
+- pitting_potential: -143 mVRE [3 Results and analyses]
+- electrolyte_temperature: Room temperature [2.2 Electrochemical measurements and surface characterization techniques]
+- continuous_sweep_rate: 1 mV/s [2.2 Electrochemical measurements and surface characterization techniques]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel (sat'd KCl) reference electrode (SCE) [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_solvents: Aqueous solution / water [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_primary_salts: NaCl [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_molar_concentrations: 0.1 M [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -448 mVRE [3 Results and analyses]
+- ocp_stabilization_methodology: Immersed in the prepared solutions at first and the OCP was recorded to yield a steady-state potential [2.2 Electrochemical measurements and surface characterization techniques]
+- ocp_resting_duration: > 30 min [2.2 Electrochemical measurements and surface characterization techniques]
+- ocp_stability_threshold: Fluctuation less than 2 mV in 10 min [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_composition: Platinum (Pt) [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_geometry: Plate [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_exposed_area: 2 cm x 2 cm [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Electrochemical measurements [2.2 Electrochemical measurements and surface characterization techniques]
+- electrochemical_mode: Potentiodynamic polarization [2.2 Electrochemical measurements and surface characterization techniques]
+- solution_chemistry_summary: 0.1 mol/L (M) HCl aqueous solution [2.2 Electrochemical measurements and surface characterization techniques]
+- operating_parameters_summary: Scanning rate of 1 mV/s from -0.8 VOCP to 1.4 VRE [2.2 Electrochemical measurements and surface characterization techniques]
+- overarching_environmental_conditions: Room temperature [2.2 Electrochemical measurements and surface characterization techniques]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Room temperature [2.2 Electrochemical measurements and surface characterization techniques]
+- continuous_sweep_rate: 1 mV/s [2.2 Electrochemical measurements and surface characterization techniques]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Silver/silver chloride (Ag/AgCl) with 3.5 M KCl [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_solvents: Aqueous solution / water [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_primary_salts: HCl [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_molar_concentrations: 0.1 M [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -198 mVRE [3 Results and analyses]
+- ocp_stabilization_methodology: Immersed in the prepared solutions at first and the OCP was recorded to yield a steady-state potential [2.2 Electrochemical measurements and surface characterization techniques]
+- ocp_resting_duration: > 30 min [2.2 Electrochemical measurements and surface characterization techniques]
+- ocp_stability_threshold: Fluctuation less than 2 mV in 10 min [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_composition: Platinum (Pt) [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_geometry: Plate [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_exposed_area: 2 cm x 2 cm [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Equiatomic NiCoCr [2 Experiment]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High Entropy Alloys (HEAs) / multi-principal component alloys [1 Introduction]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Equiatomic NiCoCr (33.3 at.% Cr) [3 Results and analyses]
+- spatial_chemical_homogeneity: Uniform element distribution [1 Introduction]
+- trace_impurities: Purity of raw materials used is 99.95 wt.% [2.1 Materials preparation]
+- derived_theoretical_metrics: High mixing configurational entropy [2 Experiment]
+- overall_microstructure: Single solid solution phase in the as-cast state [2 Experiment]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: FCC [1 Introduction]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: NiCoCr [2.2 Electrochemical measurements and surface characterization techniques]
+- fabrication_steps: Prepared by using an electric arc furnace with electromagnetic stirring for five times, and then solidifying in a water-cooled copper hearth. The cast ingots were 60 mm in length and 10 mm in diameter. The samples were cut into pieces of 2 mm in thick and 10 mm in diameter. [2.1 Materials preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Solidifying in a water-cooled copper hearth [2.1 Materials preparation]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically grounded using a series of 240#, 800#, 1500# silicon carbide (SiC) grit papers in sequence. Cold mounted with a flat specimen holder kit. [2.1 Materials preparation]
+- chemical_surface_preparation: Cleaned with ultrasound and ultra-pure water. [2.1 Materials preparation]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.5 cm2 [2.1 Materials preparation]
+
+### Experiment
+- experimental_test_type: Electrochemical measurements [2.2 Electrochemical measurements and surface characterization techniques]
+- electrochemical_mode: Cyclic polarization [2.2 Electrochemical measurements and surface characterization techniques]
+- solution_chemistry_summary: 0.1 mol/L (M) NaCl aqueous solution [2.2 Electrochemical measurements and surface characterization techniques]
+- operating_parameters_summary: Scan rate of 1 mV/s from an initial potential -0.8 V versus OCP to a final potential 1.4 VRE [2.2 Electrochemical measurements and surface characterization techniques]
+- overarching_environmental_conditions: Room temperature [2.2 Electrochemical measurements and surface characterization techniques]
+- pitting_potential: 655 mVRE [3 Results and analyses]
+- electrolyte_temperature: Room temperature [2.2 Electrochemical measurements and surface characterization techniques]
+- continuous_sweep_rate: 1 mV/s [2.2 Electrochemical measurements and surface characterization techniques]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel (sat'd KCl) reference electrode (SCE) [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_solvents: Aqueous solution / water [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_primary_salts: NaCl [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_molar_concentrations: 0.1 M [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -266 mVRE [3 Results and analyses]
+- ocp_stabilization_methodology: Immersed in the prepared solutions at first and the OCP was recorded to yield a steady-state potential [2.2 Electrochemical measurements and surface characterization techniques]
+- ocp_resting_duration: > 30 min [2.2 Electrochemical measurements and surface characterization techniques]
+- ocp_stability_threshold: Fluctuation less than 2 mV in 10 min [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_composition: Platinum (Pt) [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_geometry: Plate [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_exposed_area: 2 cm x 2 cm [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Electrochemical measurements [2.2 Electrochemical measurements and surface characterization techniques]
+- electrochemical_mode: Potentiodynamic polarization [2.2 Electrochemical measurements and surface characterization techniques]
+- solution_chemistry_summary: 0.1 mol/L (M) HCl aqueous solution [2.2 Electrochemical measurements and surface characterization techniques]
+- operating_parameters_summary: Scanning rate of 1 mV/s from -0.8 VOCP to 1.4 VRE [2.2 Electrochemical measurements and surface characterization techniques]
+- overarching_environmental_conditions: Room temperature [2.2 Electrochemical measurements and surface characterization techniques]
+- pitting_potential: 971 mVRE [3 Results and analyses]
+- electrolyte_temperature: Room temperature [2.2 Electrochemical measurements and surface characterization techniques]
+- continuous_sweep_rate: 1 mV/s [2.2 Electrochemical measurements and surface characterization techniques]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Silver/silver chloride (Ag/AgCl) with 3.5 M KCl [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_solvents: Aqueous solution / water [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_primary_salts: HCl [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_molar_concentrations: 0.1 M [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -163 mVRE [3 Results and analyses]
+- ocp_stabilization_methodology: Immersed in the prepared solutions at first and the OCP was recorded to yield a steady-state potential [2.2 Electrochemical measurements and surface characterization techniques]
+- ocp_resting_duration: > 30 min [2.2 Electrochemical measurements and surface characterization techniques]
+- ocp_stability_threshold: Fluctuation less than 2 mV in 10 min [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_composition: Platinum (Pt) [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_geometry: Plate [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_exposed_area: 2 cm x 2 cm [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Equiatomic NiCoCrFe [2 Experiment]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: High Entropy Alloys (HEAs) / multi-principal component alloys [1 Introduction]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Equiatomic NiCoCrFe (25 at.% Cr) [3 Results and analyses]
+- spatial_chemical_homogeneity: Uniform element distribution [1 Introduction]
+- trace_impurities: Purity of raw materials used is 99.95 wt.% [2.1 Materials preparation]
+- derived_theoretical_metrics: High mixing configurational entropy [2 Experiment]
+- overall_microstructure: Single solid solution phase in the as-cast state [2 Experiment]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: FCC [1 Introduction]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: NiCoCrFe [2.2 Electrochemical measurements and surface characterization techniques]
+- fabrication_steps: Prepared by using an electric arc furnace with electromagnetic stirring for five times, and then solidifying in a water-cooled copper hearth. The cast ingots were 60 mm in length and 10 mm in diameter. The samples were cut into pieces of 2 mm in thick and 10 mm in diameter. [2.1 Materials preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Solidifying in a water-cooled copper hearth [2.1 Materials preparation]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mechanically grounded using a series of 240#, 800#, 1500# silicon carbide (SiC) grit papers in sequence. Cold mounted with a flat specimen holder kit. [2.1 Materials preparation]
+- chemical_surface_preparation: Cleaned with ultrasound and ultra-pure water. [2.1 Materials preparation]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.5 cm2 [2.1 Materials preparation]
+
+### Experiment
+- experimental_test_type: Electrochemical measurements [2.2 Electrochemical measurements and surface characterization techniques]
+- electrochemical_mode: Cyclic polarization [2.2 Electrochemical measurements and surface characterization techniques]
+- solution_chemistry_summary: 0.1 mol/L (M) NaCl aqueous solution [2.2 Electrochemical measurements and surface characterization techniques]
+- operating_parameters_summary: Scan rate of 1 mV/s from an initial potential -0.8 V versus OCP to a final potential 1.4 VRE [2.2 Electrochemical measurements and surface characterization techniques]
+- overarching_environmental_conditions: Room temperature [2.2 Electrochemical measurements and surface characterization techniques]
+- pitting_potential: 805 mVRE [3 Results and analyses]
+- electrolyte_temperature: Room temperature [2.2 Electrochemical measurements and surface characterization techniques]
+- continuous_sweep_rate: 1 mV/s [2.2 Electrochemical measurements and surface characterization techniques]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel (sat'd KCl) reference electrode (SCE) [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_solvents: Aqueous solution / water [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_primary_salts: NaCl [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_molar_concentrations: 0.1 M [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -269 mVRE [3 Results and analyses]
+- ocp_stabilization_methodology: Immersed in the prepared solutions at first and the OCP was recorded to yield a steady-state potential [2.2 Electrochemical measurements and surface characterization techniques]
+- ocp_resting_duration: > 30 min [2.2 Electrochemical measurements and surface characterization techniques]
+- ocp_stability_threshold: Fluctuation less than 2 mV in 10 min [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_composition: Platinum (Pt) [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_geometry: Plate [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_exposed_area: 2 cm x 2 cm [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Electrochemical measurements [2.2 Electrochemical measurements and surface characterization techniques]
+- electrochemical_mode: Potentiodynamic polarization [2.2 Electrochemical measurements and surface characterization techniques]
+- solution_chemistry_summary: 0.1 mol/L (M) HCl aqueous solution [2.2 Electrochemical measurements and surface characterization techniques]
+- operating_parameters_summary: Scanning rate of 1 mV/s from -0.8 VOCP to 1.4 VRE [2.2 Electrochemical measurements and surface characterization techniques]
+- overarching_environmental_conditions: Room temperature [2.2 Electrochemical measurements and surface characterization techniques]
+- pitting_potential: 246 mVRE [3 Results and analyses]
+- electrolyte_temperature: Room temperature [2.2 Electrochemical measurements and surface characterization techniques]
+- continuous_sweep_rate: 1 mV/s [2.2 Electrochemical measurements and surface characterization techniques]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Silver/silver chloride (Ag/AgCl) with 3.5 M KCl [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_solvents: Aqueous solution / water [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_primary_salts: HCl [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_molar_concentrations: 0.1 M [2.2 Electrochemical measurements and surface characterization techniques]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: -222 mVRE [3 Results and analyses]
+- ocp_stabilization_methodology: Immersed in the prepared solutions at first and the OCP was recorded to yield a steady-state potential [2.2 Electrochemical measurements and surface characterization techniques]
+- ocp_resting_duration: > 30 min [2.2 Electrochemical measurements and surface characterization techniques]
+- ocp_stability_threshold: Fluctuation less than 2 mV in 10 min [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_composition: Platinum (Pt) [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_geometry: Plate [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_exposed_area: 2 cm x 2 cm [2.2 Electrochemical measurements and surface characterization techniques]
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

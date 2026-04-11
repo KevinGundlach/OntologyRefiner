@@ -1,0 +1,371 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Experimental Alloy [Citation: Materials and Experimental Work]
+- uns_code: Not specified in text.
+- alloy_family: 18Cr-8Ni Stainless Steel [Citation: Abstract; Introduction]
+- elemental_weight_percentages: C 0.055, Mn 1.53, P 0.006, S 0.014, Si 1.01, Cu 0.09, Ni 8.83, Cr 17.3, Mo 0.019, N 0.039, Al 0.007 [Citation: Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Delta-ferrite content predicted by the Schaeffler diagram [Citation: Materials and Experimental Work]
+- overall_microstructure: Duplex microstructure (austenite and ferrite) [Citation: Introduction]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite; Delta-Ferrite < 1.0% [Citation: Table 1]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 1 [Citation: Table 1]
+- fabrication_steps: Ingots made in a 500 lb (227 kg) vacuum furnace, hot rolled down to a 0.5-in. thick (1.27-cm) plate, and then cold rolled to a 0.25-in.-thick (0.64-cm) plate [Citation: Materials and Experimental Work]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealed at 2000 F (1092 C) for 60 min [Citation: Materials and Experimental Work]
+- cooling_methods: Quenched in flowing water [Citation: Materials and Experimental Work]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Machined into cylinders, 0.25-in. diameter by 0.75-in. long (0.625 by 1.9 cm). Polished to a 600 grit SiC finish and mounted on a Teflon compression gasket [Citation: Materials and Experimental Work]
+- chemical_surface_preparation: Degreased in an ultrasonic cleaner, pickled in 25 vol% HNO3 / 4 vol% HF at 140 F (60 C) for 5 min, washed in distilled water (7.6 megohm-cm at 25 C), and hot air dried. Painted at the Teflon/steel interface with an alkyd varnish to avoid crevice corrosion [Citation: Materials and Experimental Work]
+- final_surface_roughness: 600 grit SiC finish [Citation: Materials and Experimental Work]
+- exposed_surface_area: 5 cm2 [Citation: Figure 2]
+
+### Experiment
+- experimental_test_type: Potentiodynamic Anodic Polarization [Citation: Abstract; Results and Discussion]
+- electrochemical_mode: Potentiodynamic [Citation: Results and Discussion]
+- solution_chemistry_summary: Aerated 3.5 wt% NaCl solution made from reagent grade chemicals and distilled water [Citation: Materials and Experimental Work]
+- operating_parameters_summary: Aerated at 25 C with a continuous potential sweep speed of 0.6 V/h [Citation: Figure 2; Table 2]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.220 V_SCE [Citation: Table 2]
+- electrolyte_temperature: 25 C [Citation: Abstract; Table 2]
+- continuous_sweep_rate: 0.6 V/h [Citation: Figure 2]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Citation: Table 2]
+- electrolyte_solvents: Distilled water (7.6 megohm-cm at 25 C) [Citation: Materials and Experimental Work]
+- electrolyte_primary_salts: Sodium Chloride (NaCl) [Citation: Materials and Experimental Work]
+- electrolyte_molar_concentrations: 3.5 wt% NaCl [Citation: Materials and Experimental Work]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Citation: Materials and Experimental Work; Table 2]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Experimental Alloy [Citation: Materials and Experimental Work]
+- uns_code: Not specified in text.
+- alloy_family: 18Cr-8Ni Stainless Steel [Citation: Abstract; Introduction]
+- elemental_weight_percentages: C 0.054, Mn 1.49, P 0.006, S 0.015, Si 1.95, Cu 0.09, Ni 8.87, Cr 17.1, Mo 0.020, N 0.038, Al 0.012 [Citation: Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Delta-ferrite content predicted by the Schaeffler diagram [Citation: Materials and Experimental Work]
+- overall_microstructure: Duplex microstructure (austenite and ferrite) [Citation: Introduction]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite; Delta-Ferrite < 1.0% [Citation: Table 1]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 2 [Citation: Table 1]
+- fabrication_steps: Ingots made in a 500 lb (227 kg) vacuum furnace, hot rolled down to a 0.5-in. thick (1.27-cm) plate, and then cold rolled to a 0.25-in.-thick (0.64-cm) plate [Citation: Materials and Experimental Work]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealed at 2000 F (1092 C) for 60 min [Citation: Materials and Experimental Work]
+- cooling_methods: Quenched in flowing water [Citation: Materials and Experimental Work]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Machined into cylinders, 0.25-in. diameter by 0.75-in. long (0.625 by 1.9 cm). Polished to a 600 grit SiC finish and mounted on a Teflon compression gasket [Citation: Materials and Experimental Work]
+- chemical_surface_preparation: Degreased in an ultrasonic cleaner, pickled in 25 vol% HNO3 / 4 vol% HF at 140 F (60 C) for 5 min, washed in distilled water (7.6 megohm-cm at 25 C), and hot air dried. Painted at the Teflon/steel interface with an alkyd varnish to avoid crevice corrosion [Citation: Materials and Experimental Work]
+- final_surface_roughness: 600 grit SiC finish [Citation: Materials and Experimental Work]
+- exposed_surface_area: 5 cm2 [Citation: Figure 2]
+
+### Experiment
+- experimental_test_type: Potentiodynamic Anodic Polarization [Citation: Abstract; Results and Discussion]
+- electrochemical_mode: Potentiodynamic [Citation: Results and Discussion]
+- solution_chemistry_summary: Aerated 3.5 wt% NaCl solution made from reagent grade chemicals and distilled water [Citation: Materials and Experimental Work]
+- operating_parameters_summary: Aerated at 25 C with a continuous potential sweep speed of 0.6 V/h [Citation: Figure 2; Table 2]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.275 V_SCE [Citation: Table 2]
+- electrolyte_temperature: 25 C [Citation: Abstract; Table 2]
+- continuous_sweep_rate: 0.6 V/h [Citation: Figure 2]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Citation: Table 2]
+- electrolyte_solvents: Distilled water (7.6 megohm-cm at 25 C) [Citation: Materials and Experimental Work]
+- electrolyte_primary_salts: Sodium Chloride (NaCl) [Citation: Materials and Experimental Work]
+- electrolyte_molar_concentrations: 3.5 wt% NaCl [Citation: Materials and Experimental Work]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Citation: Materials and Experimental Work; Table 2]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Experimental Alloy [Citation: Materials and Experimental Work]
+- uns_code: Not specified in text.
+- alloy_family: 18Cr-8Ni Stainless Steel [Citation: Abstract; Introduction]
+- elemental_weight_percentages: C 0.059, Mn 1.49, P 0.005, S 0.014, Si 2.85, Cu 0.09, Ni 8.94, Cr 17.2, Mo 0.020, N 0.036, Al 0.015 [Citation: Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Delta-ferrite content predicted by the Schaeffler diagram [Citation: Materials and Experimental Work]
+- overall_microstructure: Duplex microstructure (austenite and ferrite) [Citation: Introduction]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite; Delta-Ferrite 1.7% [Citation: Table 1]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 3 [Citation: Table 1]
+- fabrication_steps: Ingots made in a 500 lb (227 kg) vacuum furnace, hot rolled down to a 0.5-in. thick (1.27-cm) plate, and then cold rolled to a 0.25-in.-thick (0.64-cm) plate [Citation: Materials and Experimental Work]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealed at 2000 F (1092 C) for 60 min [Citation: Materials and Experimental Work]
+- cooling_methods: Quenched in flowing water [Citation: Materials and Experimental Work]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Machined into cylinders, 0.25-in. diameter by 0.75-in. long (0.625 by 1.9 cm). Polished to a 600 grit SiC finish and mounted on a Teflon compression gasket [Citation: Materials and Experimental Work]
+- chemical_surface_preparation: Degreased in an ultrasonic cleaner, pickled in 25 vol% HNO3 / 4 vol% HF at 140 F (60 C) for 5 min, washed in distilled water (7.6 megohm-cm at 25 C), and hot air dried. Painted at the Teflon/steel interface with an alkyd varnish to avoid crevice corrosion [Citation: Materials and Experimental Work]
+- final_surface_roughness: 600 grit SiC finish [Citation: Materials and Experimental Work]
+- exposed_surface_area: 5 cm2 [Citation: Figure 2]
+
+### Experiment
+- experimental_test_type: Potentiodynamic Anodic Polarization [Citation: Abstract; Results and Discussion]
+- electrochemical_mode: Potentiodynamic [Citation: Results and Discussion]
+- solution_chemistry_summary: Aerated 3.5 wt% NaCl solution made from reagent grade chemicals and distilled water [Citation: Materials and Experimental Work]
+- operating_parameters_summary: Aerated at 25 C with a continuous potential sweep speed of 0.6 V/h [Citation: Figure 2; Table 2]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.310 V_SCE [Citation: Table 2]
+- electrolyte_temperature: 25 C [Citation: Abstract; Table 2]
+- continuous_sweep_rate: 0.6 V/h [Citation: Figure 2]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Citation: Table 2]
+- electrolyte_solvents: Distilled water (7.6 megohm-cm at 25 C) [Citation: Materials and Experimental Work]
+- electrolyte_primary_salts: Sodium Chloride (NaCl) [Citation: Materials and Experimental Work]
+- electrolyte_molar_concentrations: 3.5 wt% NaCl [Citation: Materials and Experimental Work]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Citation: Materials and Experimental Work; Table 2]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Experimental Alloy [Citation: Materials and Experimental Work]
+- uns_code: Not specified in text.
+- alloy_family: 18Cr-8Ni Stainless Steel [Citation: Abstract; Introduction]
+- elemental_weight_percentages: C 0.059, Mn 1.49, P 0.005, S 0.013, Si 3.73, Cu 0.09, Ni 9.06, Cr 17.0, Mo 0.021, N 0.033, Al 0.018 [Citation: Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Delta-ferrite content predicted by the Schaeffler diagram [Citation: Materials and Experimental Work]
+- overall_microstructure: Duplex microstructure (austenite and ferrite) [Citation: Introduction]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite; Delta-Ferrite 7.5% [Citation: Table 1]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 4 [Citation: Table 1]
+- fabrication_steps: Ingots made in a 500 lb (227 kg) vacuum furnace, hot rolled down to a 0.5-in. thick (1.27-cm) plate, and then cold rolled to a 0.25-in.-thick (0.64-cm) plate [Citation: Materials and Experimental Work]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealed at 2000 F (1092 C) for 60 min [Citation: Materials and Experimental Work]
+- cooling_methods: Quenched in flowing water [Citation: Materials and Experimental Work]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Machined into cylinders, 0.25-in. diameter by 0.75-in. long (0.625 by 1.9 cm). Polished to a 600 grit SiC finish and mounted on a Teflon compression gasket [Citation: Materials and Experimental Work]
+- chemical_surface_preparation: Degreased in an ultrasonic cleaner, pickled in 25 vol% HNO3 / 4 vol% HF at 140 F (60 C) for 5 min, washed in distilled water (7.6 megohm-cm at 25 C), and hot air dried. Painted at the Teflon/steel interface with an alkyd varnish to avoid crevice corrosion [Citation: Materials and Experimental Work]
+- final_surface_roughness: 600 grit SiC finish [Citation: Materials and Experimental Work]
+- exposed_surface_area: 5 cm2 [Citation: Figure 2]
+
+### Experiment
+- experimental_test_type: Potentiodynamic Anodic Polarization [Citation: Abstract; Results and Discussion]
+- electrochemical_mode: Potentiodynamic [Citation: Results and Discussion]
+- solution_chemistry_summary: Aerated 3.5 wt% NaCl solution made from reagent grade chemicals and distilled water [Citation: Materials and Experimental Work]
+- operating_parameters_summary: Aerated at 25 C with a continuous potential sweep speed of 0.6 V/h [Citation: Figure 2; Table 2]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.370 V_SCE [Citation: Table 2]
+- electrolyte_temperature: 25 C [Citation: Abstract; Table 2]
+- continuous_sweep_rate: 0.6 V/h [Citation: Figure 2]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Citation: Table 2]
+- electrolyte_solvents: Distilled water (7.6 megohm-cm at 25 C) [Citation: Materials and Experimental Work]
+- electrolyte_primary_salts: Sodium Chloride (NaCl) [Citation: Materials and Experimental Work]
+- electrolyte_molar_concentrations: 3.5 wt% NaCl [Citation: Materials and Experimental Work]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Citation: Materials and Experimental Work; Table 2]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Experimental Alloy [Citation: Materials and Experimental Work]
+- uns_code: Not specified in text.
+- alloy_family: 18Cr-8Ni Stainless Steel [Citation: Abstract; Introduction]
+- elemental_weight_percentages: C 0.060, Mn 1.49, P 0.005, S 0.014, Si 4.45, Cu 0.09, Ni 9.07, Cr 17.0, Mo 0.020, N 0.032, Al 0.020 [Citation: Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Delta-ferrite content predicted by the Schaeffler diagram [Citation: Materials and Experimental Work]
+- overall_microstructure: Duplex microstructure (austenite and ferrite) [Citation: Introduction]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite; Delta-Ferrite 17.0% [Citation: Table 1]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 5 [Citation: Table 1]
+- fabrication_steps: Ingots made in a 500 lb (227 kg) vacuum furnace, hot rolled down to a 0.5-in. thick (1.27-cm) plate, and then cold rolled to a 0.25-in.-thick (0.64-cm) plate [Citation: Materials and Experimental Work]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealed at 2000 F (1092 C) for 60 min [Citation: Materials and Experimental Work]
+- cooling_methods: Quenched in flowing water [Citation: Materials and Experimental Work]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Machined into cylinders, 0.25-in. diameter by 0.75-in. long (0.625 by 1.9 cm). Polished to a 600 grit SiC finish and mounted on a Teflon compression gasket [Citation: Materials and Experimental Work]
+- chemical_surface_preparation: Degreased in an ultrasonic cleaner, pickled in 25 vol% HNO3 / 4 vol% HF at 140 F (60 C) for 5 min, washed in distilled water (7.6 megohm-cm at 25 C), and hot air dried. Painted at the Teflon/steel interface with an alkyd varnish to avoid crevice corrosion [Citation: Materials and Experimental Work]
+- final_surface_roughness: 600 grit SiC finish [Citation: Materials and Experimental Work]
+- exposed_surface_area: 5 cm2 [Citation: Figure 2]
+
+### Experiment
+- experimental_test_type: Potentiodynamic Anodic Polarization [Citation: Abstract; Results and Discussion]
+- electrochemical_mode: Potentiodynamic [Citation: Results and Discussion]
+- solution_chemistry_summary: Aerated 3.5 wt% NaCl solution made from reagent grade chemicals and distilled water [Citation: Materials and Experimental Work]
+- operating_parameters_summary: Aerated at 25 C with a continuous potential sweep speed of 0.6 V/h [Citation: Figure 2; Table 2]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.990 V_SCE [Citation: Table 2]
+- electrolyte_temperature: 25 C [Citation: Abstract; Table 2]
+- continuous_sweep_rate: 0.6 V/h [Citation: Figure 2]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Citation: Table 2]
+- electrolyte_solvents: Distilled water (7.6 megohm-cm at 25 C) [Citation: Materials and Experimental Work]
+- electrolyte_primary_salts: Sodium Chloride (NaCl) [Citation: Materials and Experimental Work]
+- electrolyte_molar_concentrations: 3.5 wt% NaCl [Citation: Materials and Experimental Work]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Citation: Materials and Experimental Work; Table 2]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: AISI 304 Stainless Steel [Citation: Introduction; Table 1]
+- trade_name: Not specified in text.
+- commercial_grade: Commercial AISI 304 SS [Citation: Results and Discussion]
+- uns_code: Not specified in text.
+- alloy_family: Austenitic Stainless Steel [Citation: Introduction]
+- elemental_weight_percentages: C 0.078, Mn 0.47, P 0.030, S 0.008, Si 0.41, Cu ND (Not Determined), Ni 9.81, Cr 18.45, Mo ND (Not Determined), N ND (Not Determined), Al 0.080 [Citation: Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Delta-ferrite content predicted by the Schaeffler diagram [Citation: Materials and Experimental Work]
+- overall_microstructure: Austenitic [Citation: Introduction]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Austenite; Delta-Ferrite 0.0% [Citation: Table 1]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: AISI 304 [Citation: Table 1]
+- fabrication_steps: Not specified in text. (Typically produced commercial stock) [Citation: Results and Discussion]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Solution annealed at 2000 F (1092 C) for 60 min [Citation: Materials and Experimental Work]
+- cooling_methods: Quenched in flowing water [Citation: Materials and Experimental Work]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Machined into cylinders, 0.25-in. diameter by 0.75-in. long (0.625 by 1.9 cm). Polished to a 600 grit SiC finish and mounted on a Teflon compression gasket [Citation: Materials and Experimental Work]
+- chemical_surface_preparation: Degreased in an ultrasonic cleaner, pickled in 25 vol% HNO3 / 4 vol% HF at 140 F (60 C) for 5 min, washed in distilled water (7.6 megohm-cm at 25 C), and hot air dried. Painted at the Teflon/steel interface with an alkyd varnish to avoid crevice corrosion [Citation: Materials and Experimental Work]
+- final_surface_roughness: 600 grit SiC finish [Citation: Materials and Experimental Work]
+- exposed_surface_area: 5 cm2 [Citation: Figure 2]
+
+### Experiment
+- experimental_test_type: Potentiodynamic Anodic Polarization [Citation: Abstract; Results and Discussion]
+- electrochemical_mode: Potentiodynamic [Citation: Results and Discussion]
+- solution_chemistry_summary: Aerated 3.5 wt% NaCl solution made from reagent grade chemicals and distilled water [Citation: Materials and Experimental Work]
+- operating_parameters_summary: Aerated at 25 C with a continuous potential sweep speed of 0.6 V/h [Citation: Figure 2; Table 2]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.065 V_SCE [Citation: Table 2]
+- electrolyte_temperature: 25 C [Citation: Abstract; Table 2]
+- continuous_sweep_rate: 0.6 V/h [Citation: Figure 2]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Citation: Table 2]
+- electrolyte_solvents: Distilled water (7.6 megohm-cm at 25 C) [Citation: Materials and Experimental Work]
+- electrolyte_primary_salts: Sodium Chloride (NaCl) [Citation: Materials and Experimental Work]
+- electrolyte_molar_concentrations: 3.5 wt% NaCl [Citation: Materials and Experimental Work]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Aerated [Citation: Materials and Experimental Work; Table 2]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

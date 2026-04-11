@@ -1,0 +1,516 @@
+# Base Material
+- standard_designation: AISI Type 304 [Table 1]
+- trade_name: Not specified in text.
+- commercial_grade: 304 [Table 1]
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steel [Abstract]
+- elemental_weight_percentages: 18.08 Cr, 8.60 Ni, <2 Mn, 0.06 C, NA N, <1 Si, <0.045 P, <0.030 S, NA Cu, 0.05 Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Wholly austenitic [Alloys]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Single phase austenite [Alloys]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 1 (AISI Type 304) [Table 1]
+- fabrication_steps: Commercially available alloy [Table 1]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Single phase quench annealed condition [Alloys]
+- cooling_methods: Quenched [Alloys]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abrading with 120 grit silicon carbide paper [Alloys]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text. (A minimum of 10 ml of test solution was used for each square centimeter of coupon surface) [Testing]
+
+### Experiment
+- experimental_test_type: Isothermal exposure test for Critical Pitting Temperature (CPT) determination [Testing]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 10% FeCl3 solution [Testing]
+- operating_parameters_summary: 24 hour isothermal exposure tests. The metal coupon is placed on a layer of glass beads at the bottom of an open flask. Temperature increased in 2.5 °C steps every 24 hours until pitting is observed on the flat surface parallel to the rolling plane. [Testing]
+- overarching_environmental_conditions: Laboratory testing. Open flask equipped with a reflux condenser for high temperature exposure tests. [Testing]
+- pitting_potential: Not specified in text. (Study measures Critical Pitting Temperature)
+- electrolyte_temperature: Temperature increased in 2.5 °C steps every 24 hours [Testing]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Testing]
+- electrolyte_molar_concentrations: 10 wt% FeCl3 [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Isothermal exposure test [Effect of Chloride Concentration on CPT]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: FeCl3 solutions with concentrations ranging from 4% to 10% [Effect of Chloride Concentration on CPT]
+- operating_parameters_summary: 24 and 66 hour isothermal exposure tests to determine the dependence of CPT on chloride concentration [Effect of Chloride Concentration on CPT]
+- overarching_environmental_conditions: Laboratory testing [Testing]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Varied to determine Critical Pitting Temperature [Figure 2]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Effect of Chloride Concentration on CPT]
+- electrolyte_molar_concentrations: 4 to 10 wt% FeCl3 [Effect of Chloride Concentration on CPT]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: AISI Type 317L [Table 1]
+- trade_name: Not specified in text.
+- commercial_grade: 317L [Table 1]
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steel [Abstract]
+- elemental_weight_percentages: 18-20 Cr, 14.03 Ni, <2 Mn, <0.03 C, NA N, <1 Si, <0.045 P, <0.030 S, NA Cu, 3.11 Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Wholly austenitic [Alloys]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Single phase austenite [Alloys]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 8 (AISI Type 317L) [Table 1]
+- fabrication_steps: Commercially available alloy [Table 1]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Single phase quench annealed condition [Alloys]
+- cooling_methods: Quenched [Alloys]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abrading with 120 grit silicon carbide paper [Alloys]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Isothermal exposure test [Effect of Potential on CPT]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 10% FeCl3 solution [Figure 1]
+- operating_parameters_summary: 24 and 66 hour isothermal exposure tests to observe go-no-go pitting behavior [Effect of Potential on CPT]
+- overarching_environmental_conditions: Laboratory testing [Testing]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 27.5 °C (no pitting) and 30 °C (pitting observed) [Effect of Potential on CPT]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Effect of Potential on CPT]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Figure 1]
+- electrolyte_molar_concentrations: 10 wt% FeCl3 [Figure 1]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: +660 mV vs SCE (steady state potential immersed in solution) [Effect of Potential on CPT]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Isothermal exposure test [Effect of Potential on CPT]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 5% K3Fe(CN)6 + 3.5% NaCl solution [Figure 1]
+- operating_parameters_summary: 24 and 66 hour isothermal exposure tests [Effect of Potential on CPT]
+- overarching_environmental_conditions: Laboratory testing [Testing]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 27.5 °C (no pitting) and 30 °C (pitting observed) [Effect of Potential on CPT]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Effect of Potential on CPT]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: K3Fe(CN)6, NaCl [Figure 1]
+- electrolyte_molar_concentrations: 5 wt% K3Fe(CN)6, 3.5 wt% NaCl [Figure 1]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: +440 mV vs SCE (steady state potential immersed in solution) [Effect of Potential on CPT]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Isothermal exposure test [Effect of Potential on CPT]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 6.1% NaOCl + 3.5% NaCl solution [Figure 1]
+- operating_parameters_summary: 24 and 66 hour isothermal exposure tests [Effect of Potential on CPT]
+- overarching_environmental_conditions: Laboratory testing [Testing]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 27.5 °C (no pitting) and 30 °C (pitting observed) [Effect of Potential on CPT]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [Effect of Potential on CPT]
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: NaOCl, NaCl [Figure 1]
+- electrolyte_molar_concentrations: 6.1 wt% NaOCl, 3.5 wt% NaCl [Figure 1]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: ~ +900 mV vs SCE (oxidizing power assumed to be limited by transpassive reactions to the value shown) [Effect of Potential on CPT]
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Isothermal exposure test [Effect of Chloride Concentration on CPT]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: FeCl3 solutions with concentrations ranging from 4% to 10% [Effect of Chloride Concentration on CPT]
+- operating_parameters_summary: 24 and 66 hour isothermal exposure tests to determine the dependence of CPT on chloride concentration [Effect of Chloride Concentration on CPT]
+- overarching_environmental_conditions: Laboratory testing [Testing]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Varied to determine Critical Pitting Temperature [Figure 2]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Effect of Chloride Concentration on CPT]
+- electrolyte_molar_concentrations: 4 to 10 wt% FeCl3 [Effect of Chloride Concentration on CPT]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: AISI Type 316L [Table 1]
+- trade_name: Not specified in text.
+- commercial_grade: 316L [Table 1]
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steel [Abstract]
+- elemental_weight_percentages: 16-18 Cr, 12.33 Ni, NA Mn, <0.03 C, NA N, NA Si, <0.045 P, <0.030 S, NA Cu, 2.47 Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Wholly austenitic [Alloys]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Single phase austenite [Alloys]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 4 (AISI Type 316L) [Table 1]
+- fabrication_steps: Commercially available alloy [Table 1]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Single phase quench annealed condition [Alloys]
+- cooling_methods: Quenched [Alloys]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abrading with 120 grit silicon carbide paper [Alloys]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Isothermal exposure test for Critical Pitting Temperature (CPT) determination [Testing]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 10% FeCl3 solution [Testing]
+- operating_parameters_summary: 24 hour isothermal exposure tests. Temperature increased in 2.5 °C steps every 24 hours until pitting is observed on the flat surface. [Testing]
+- overarching_environmental_conditions: Laboratory testing [Testing]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Temperature increased in 2.5 °C steps every 24 hours [Testing]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Testing]
+- electrolyte_molar_concentrations: 10 wt% FeCl3 [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: AISI Type 321 [Table 1]
+- trade_name: Not specified in text.
+- commercial_grade: 321 [Table 1]
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steel [Abstract]
+- elemental_weight_percentages: 17-19 Cr, 9-12 Ni, <2 Mn, <0.08 C, NA N, <1 Si, <0.045 P, <0.030 S, NA Cu, 0.50 Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Wholly austenitic [Alloys]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Single phase austenite [Alloys]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 3 (AISI Type 321) [Table 1]
+- fabrication_steps: Commercially available alloy [Table 1]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Single phase quench annealed condition [Alloys]
+- cooling_methods: Quenched [Alloys]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abrading with 120 grit silicon carbide paper [Alloys]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Isothermal exposure test for Critical Pitting Temperature (CPT) determination [Testing]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 10% FeCl3 solution [Testing]
+- operating_parameters_summary: 24 hour isothermal exposure tests. Temperature increased in 2.5 °C steps every 24 hours until pitting is observed on the flat surface. [Testing]
+- overarching_environmental_conditions: Laboratory testing [Testing]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Temperature increased in 2.5 °C steps every 24 hours [Testing]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Testing]
+- electrolyte_molar_concentrations: 10 wt% FeCl3 [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steel (Experimental high nitrogen) [Abstract, Table 1]
+- elemental_weight_percentages: 19.0 Cr, 20.0 Ni, 0.96 Mn, 0.03 C, 0.20 N, 0.44 Si, 0.012 P, 0.012 S, 0.01 Cu, 4.48 Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Wholly austenitic [Alloys]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Single phase austenite [Alloys]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 20 (Experimental) [Table 1]
+- fabrication_steps: Melted from virgin materials as splits from 50 pound heats. Deoxidized with Al up to 2 pounds/ton. Ingots cropped, conditioned by grinding, and hot rolled to sheet. [Alloys, Table 1 Notes]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Single phase quench annealed condition [Alloys]
+- cooling_methods: Quenched [Alloys]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abrading with 120 grit silicon carbide paper [Alloys]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Isothermal exposure test for Critical Pitting Temperature (CPT) determination [Testing]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 10% FeCl3 solution [Testing]
+- operating_parameters_summary: 24 hour isothermal exposure tests. Temperature increased in 2.5 °C steps every 24 hours until pitting is observed on the flat surface. [Testing]
+- overarching_environmental_conditions: Laboratory testing [Testing]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Temperature increased in 2.5 °C steps every 24 hours [Testing]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Testing]
+- electrolyte_molar_concentrations: 10 wt% FeCl3 [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Long-term isothermal exposure test [Conclusions]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 10% FeCl3 solution [Conclusions]
+- operating_parameters_summary: One year exposure test to evaluate pit initiation [Conclusions]
+- overarching_environmental_conditions: Laboratory testing [Conclusions]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: 35 °C (95 °F) [Conclusions]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Conclusions]
+- electrolyte_molar_concentrations: 10 wt% FeCl3 [Conclusions]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Alloy B [Table 1]
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Austenitic stainless steel [Abstract]
+- elemental_weight_percentages: 15-17 Cr, 24-27 Ni, <2.0 Mn, <0.08 C, 0.10-0.20 N, <1.0 Si, NA P, NA S, NA Cu, 6.0 Mo [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Wholly austenitic [Alloys]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Single phase austenite [Alloys]
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Alloy 22 (Alloy B) [Table 1]
+- fabrication_steps: Commercially available alloy [Table 1]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Single phase quench annealed condition [Alloys]
+- cooling_methods: Quenched [Alloys]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abrading with 120 grit silicon carbide paper [Alloys]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Isothermal exposure test for Critical Pitting Temperature (CPT) determination [Testing]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 10% FeCl3 solution [Testing]
+- operating_parameters_summary: 24 hour isothermal exposure tests. Temperature increased in 2.5 °C steps every 24 hours until pitting is observed on the flat surface. [Testing]
+- overarching_environmental_conditions: Laboratory testing [Testing]
+- pitting_potential: Not specified in text.
+- electrolyte_temperature: Temperature increased in 2.5 °C steps every 24 hours [Testing]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Not specified in text.
+- electrolyte_primary_salts: FeCl3 [Testing]
+- electrolyte_molar_concentrations: 10 wt% FeCl3 [Testing]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.

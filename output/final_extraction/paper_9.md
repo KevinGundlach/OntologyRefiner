@@ -1,0 +1,459 @@
+# Base Material
+- standard_designation: 316 [EXPERIMENTAL RESULTS]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Stainless steel [INTRODUCTION]
+- elemental_weight_percentages: Mo: > 2.0% [DISCUSSION]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 316 wire (25 mm loop) [EXPERIMENTAL METHOD]
+- fabrication_steps: Made from 0.25 mm wire looped to a diameter of 25 mm [EXPERIMENTAL METHOD]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Used in the as-received state [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Washed in distilled water and methanol [EXPERIMENTAL METHOD]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.32 cm² [EXPERIMENTAL METHOD]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [EXPERIMENTAL METHOD]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 1.0 M NaCl solution prepared from reagent grade chemicals and distilled water, pH adjusted to 3 [EXPERIMENTAL METHOD, EXPERIMENTAL RESULTS]
+- operating_parameters_summary: Scanned at 60 mV min-1 after cathodic stabilization, in a nitrogen-purged cell [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: Nitrogen-purged environment [EXPERIMENTAL METHOD]
+- pitting_potential: 530 mV [EXPERIMENTAL RESULTS]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 60 mV min-1 [EXPERIMENTAL METHOD]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Distilled water [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: NaCl [EXPERIMENTAL RESULTS]
+- electrolyte_molar_concentrations: 1.0 M [EXPERIMENTAL RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (oxygen content reduced to a negligible value) [EXPERIMENTAL METHOD]
+- purge_gas_type: Nitrogen [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Cathodic potential of -800 mV(SCE) applied to ensure a reproducible surface [EXPERIMENTAL METHOD]
+- ocp_resting_duration: 5 min [EXPERIMENTAL METHOD]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 3 [EXPERIMENTAL RESULTS]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [EXPERIMENTAL METHOD]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 1.0 M NaBr solution prepared from reagent grade chemicals and distilled water, pH adjusted to 3 [EXPERIMENTAL METHOD, EXPERIMENTAL RESULTS]
+- operating_parameters_summary: Scanned at 60 mV min-1 after cathodic stabilization, in a nitrogen-purged cell [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: Nitrogen-purged environment [EXPERIMENTAL METHOD]
+- pitting_potential: 330 mV [EXPERIMENTAL RESULTS]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 60 mV min-1 [EXPERIMENTAL METHOD]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Distilled water [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: NaBr [EXPERIMENTAL RESULTS]
+- electrolyte_molar_concentrations: 1.0 M [EXPERIMENTAL RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (oxygen content reduced to a negligible value) [EXPERIMENTAL METHOD]
+- purge_gas_type: Nitrogen [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Cathodic potential of -800 mV(SCE) applied to ensure a reproducible surface [EXPERIMENTAL METHOD]
+- ocp_resting_duration: 5 min [EXPERIMENTAL METHOD]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 3 [EXPERIMENTAL RESULTS]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 316 wire (70 mm loop) [EXPERIMENTAL RESULTS]
+- fabrication_steps: Made from 0.25 mm wire looped to a diameter of 70 mm [EXPERIMENTAL RESULTS]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Used in the as-received state [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Washed in distilled water and methanol [EXPERIMENTAL METHOD]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [EXPERIMENTAL METHOD]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 1.0 M NaCl (Cl-) solution prepared from reagent grade chemicals and distilled water, pH adjusted to 3 [EXPERIMENTAL METHOD, EXPERIMENTAL RESULTS]
+- operating_parameters_summary: Scanned at 60 mV min-1 after cathodic stabilization, in a nitrogen-purged cell [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: Nitrogen-purged environment [EXPERIMENTAL METHOD]
+- pitting_potential: 530 mV [EXPERIMENTAL RESULTS]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 60 mV min-1 [EXPERIMENTAL METHOD]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Distilled water [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: NaCl [EXPERIMENTAL RESULTS]
+- electrolyte_molar_concentrations: 1.0 M [EXPERIMENTAL RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (oxygen content reduced to a negligible value) [EXPERIMENTAL METHOD]
+- purge_gas_type: Nitrogen [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Cathodic potential of -800 mV(SCE) applied to ensure a reproducible surface [EXPERIMENTAL METHOD]
+- ocp_resting_duration: 5 min [EXPERIMENTAL METHOD]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 3 [EXPERIMENTAL RESULTS]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 316 wire (22 mm loop) [EXPERIMENTAL RESULTS]
+- fabrication_steps: Made from 0.25 mm wire looped to a diameter of 22 mm [EXPERIMENTAL RESULTS]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Used in the as-received state [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Washed in distilled water and methanol [EXPERIMENTAL METHOD]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [EXPERIMENTAL METHOD]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 1.0 M NaCl (Cl-) solution prepared from reagent grade chemicals and distilled water, pH adjusted to 3 [EXPERIMENTAL METHOD, EXPERIMENTAL RESULTS]
+- operating_parameters_summary: Scanned at 60 mV min-1 after cathodic stabilization, in a nitrogen-purged cell [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: Nitrogen-purged environment [EXPERIMENTAL METHOD]
+- pitting_potential: 517 mV [EXPERIMENTAL RESULTS]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 60 mV min-1 [EXPERIMENTAL METHOD]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Distilled water [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: NaCl [EXPERIMENTAL RESULTS]
+- electrolyte_molar_concentrations: 1.0 M [EXPERIMENTAL RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (oxygen content reduced to a negligible value) [EXPERIMENTAL METHOD]
+- purge_gas_type: Nitrogen [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Cathodic potential of -800 mV(SCE) applied to ensure a reproducible surface [EXPERIMENTAL METHOD]
+- ocp_resting_duration: 5 min [EXPERIMENTAL METHOD]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 3 [EXPERIMENTAL RESULTS]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 316 wire (17 mm loop) [EXPERIMENTAL RESULTS]
+- fabrication_steps: Made from 0.25 mm wire looped to a diameter of 17 mm [EXPERIMENTAL RESULTS]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Used in the as-received state [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Washed in distilled water and methanol [EXPERIMENTAL METHOD]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [EXPERIMENTAL METHOD]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 1.0 M NaCl (Cl-) solution prepared from reagent grade chemicals and distilled water, pH adjusted to 3 [EXPERIMENTAL METHOD, EXPERIMENTAL RESULTS]
+- operating_parameters_summary: Scanned at 60 mV min-1 after cathodic stabilization, in a nitrogen-purged cell [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: Nitrogen-purged environment [EXPERIMENTAL METHOD]
+- pitting_potential: 485 mV [EXPERIMENTAL RESULTS]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 60 mV min-1 [EXPERIMENTAL METHOD]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Distilled water [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: NaCl [EXPERIMENTAL RESULTS]
+- electrolyte_molar_concentrations: 1.0 M [EXPERIMENTAL RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (oxygen content reduced to a negligible value) [EXPERIMENTAL METHOD]
+- purge_gas_type: Nitrogen [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Cathodic potential of -800 mV(SCE) applied to ensure a reproducible surface [EXPERIMENTAL METHOD]
+- ocp_resting_duration: 5 min [EXPERIMENTAL METHOD]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 3 [EXPERIMENTAL RESULTS]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 316 wire (25 mm loop, HNO3/HF treated) [EXPERIMENTAL RESULTS]
+- fabrication_steps: Made from 0.25 mm wire looped to a diameter of 25 mm [EXPERIMENTAL METHOD]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Used in the as-received state [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Washed in distilled water and methanol, then immersed in 20% HNO3 + 4% HF solution maintained at 65°C for 10 min [EXPERIMENTAL METHOD]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.32 cm² [EXPERIMENTAL METHOD]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [EXPERIMENTAL METHOD]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 1.0 M NaCl solution prepared from reagent grade chemicals and distilled water, pH adjusted to 3 [EXPERIMENTAL METHOD, EXPERIMENTAL RESULTS]
+- operating_parameters_summary: Scanned at 60 mV min-1 after cathodic stabilization, in a nitrogen-purged cell [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: Nitrogen-purged environment [EXPERIMENTAL METHOD]
+- pitting_potential: 540 mV [EXPERIMENTAL RESULTS]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 60 mV min-1 [EXPERIMENTAL METHOD]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Distilled water [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: NaCl [EXPERIMENTAL RESULTS]
+- electrolyte_molar_concentrations: 1.0 M [EXPERIMENTAL RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (oxygen content reduced to a negligible value) [EXPERIMENTAL METHOD]
+- purge_gas_type: Nitrogen [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Cathodic potential of -800 mV(SCE) applied to ensure a reproducible surface [EXPERIMENTAL METHOD]
+- ocp_resting_duration: 5 min [EXPERIMENTAL METHOD]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 3 [EXPERIMENTAL RESULTS]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [EXPERIMENTAL METHOD]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 1.0 M NaBr solution prepared from reagent grade chemicals and distilled water, pH adjusted to 3 [EXPERIMENTAL METHOD, EXPERIMENTAL RESULTS]
+- operating_parameters_summary: Scanned at 60 mV min-1 after cathodic stabilization, in a nitrogen-purged cell [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: Nitrogen-purged environment [EXPERIMENTAL METHOD]
+- pitting_potential: 350 mV [EXPERIMENTAL RESULTS]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 60 mV min-1 [EXPERIMENTAL METHOD]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Distilled water [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: NaBr [EXPERIMENTAL RESULTS]
+- electrolyte_molar_concentrations: 1.0 M [EXPERIMENTAL RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (oxygen content reduced to a negligible value) [EXPERIMENTAL METHOD]
+- purge_gas_type: Nitrogen [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Cathodic potential of -800 mV(SCE) applied to ensure a reproducible surface [EXPERIMENTAL METHOD]
+- ocp_resting_duration: 5 min [EXPERIMENTAL METHOD]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 3 [EXPERIMENTAL RESULTS]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 316 wire (25 mm loop, 50% HNO3 treated) [EXPERIMENTAL RESULTS]
+- fabrication_steps: Made from 0.25 mm wire looped to a diameter of 25 mm [EXPERIMENTAL METHOD]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Used in the as-received state [EXPERIMENTAL METHOD]
+- chemical_surface_preparation: Washed in distilled water and methanol, then immersed in 50% HNO3 solution maintained at 50°C for 30 min [EXPERIMENTAL METHOD]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: 0.32 cm² [EXPERIMENTAL METHOD]
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [EXPERIMENTAL METHOD]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 1.0 M NaCl solution prepared from reagent grade chemicals and distilled water, pH adjusted to 3 [EXPERIMENTAL METHOD, EXPERIMENTAL RESULTS]
+- operating_parameters_summary: Scanned at 60 mV min-1 after cathodic stabilization, in a nitrogen-purged cell [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: Nitrogen-purged environment [EXPERIMENTAL METHOD]
+- pitting_potential: 670 mV [EXPERIMENTAL RESULTS]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 60 mV min-1 [EXPERIMENTAL METHOD]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Distilled water [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: NaCl [EXPERIMENTAL RESULTS]
+- electrolyte_molar_concentrations: 1.0 M [EXPERIMENTAL RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (oxygen content reduced to a negligible value) [EXPERIMENTAL METHOD]
+- purge_gas_type: Nitrogen [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Cathodic potential of -800 mV(SCE) applied to ensure a reproducible surface [EXPERIMENTAL METHOD]
+- ocp_resting_duration: 5 min [EXPERIMENTAL METHOD]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 3 [EXPERIMENTAL RESULTS]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [EXPERIMENTAL METHOD]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 1.0 M NaBr solution prepared from reagent grade chemicals and distilled water, pH adjusted to 3 [EXPERIMENTAL METHOD, EXPERIMENTAL RESULTS]
+- operating_parameters_summary: Scanned at 60 mV min-1 after cathodic stabilization, in a nitrogen-purged cell [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: Nitrogen-purged environment [EXPERIMENTAL METHOD]
+- pitting_potential: 385 mV [EXPERIMENTAL RESULTS]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 60 mV min-1 [EXPERIMENTAL METHOD]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Distilled water [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: NaBr [EXPERIMENTAL RESULTS]
+- electrolyte_molar_concentrations: 1.0 M [EXPERIMENTAL RESULTS]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (oxygen content reduced to a negligible value) [EXPERIMENTAL METHOD]
+- purge_gas_type: Nitrogen [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Cathodic potential of -800 mV(SCE) applied to ensure a reproducible surface [EXPERIMENTAL METHOD]
+- ocp_resting_duration: 5 min [EXPERIMENTAL METHOD]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 3 [EXPERIMENTAL RESULTS]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Chromium (Cr) metal [DISCUSSION]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Pure metal [DISCUSSION]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Flat sample of Cr metal [DISCUSSION]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [EXPERIMENTAL METHOD]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 1.0 M NaCl solution, pH 2.5 [DISCUSSION]
+- operating_parameters_summary: Scanned at 60 mV min-1 in a nitrogen-purged cell [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: Nitrogen-purged environment [EXPERIMENTAL METHOD]
+- pitting_potential: 856 mV [DISCUSSION]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 60 mV min-1 [EXPERIMENTAL METHOD]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Distilled water [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: NaCl [DISCUSSION]
+- electrolyte_molar_concentrations: 1.0 M [DISCUSSION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (oxygen content reduced to a negligible value) [EXPERIMENTAL METHOD]
+- purge_gas_type: Nitrogen [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Cathodic potential of -800 mV(SCE) applied to ensure a reproducible surface [EXPERIMENTAL METHOD]
+- ocp_resting_duration: 5 min [EXPERIMENTAL METHOD]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 2.5 [DISCUSSION]
+- passive_current_density: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic polarization [EXPERIMENTAL METHOD]
+- electrochemical_mode: Anodic polarization [EXPERIMENTAL METHOD]
+- solution_chemistry_summary: 1.0 M NaBr solution, pH 2.5 [DISCUSSION]
+- operating_parameters_summary: Scanned at 60 mV min-1 in a nitrogen-purged cell [EXPERIMENTAL METHOD]
+- overarching_environmental_conditions: Nitrogen-purged environment [EXPERIMENTAL METHOD]
+- pitting_potential: 866 mV [DISCUSSION]
+- electrolyte_temperature: Not specified in text.
+- continuous_sweep_rate: 60 mV min-1 [EXPERIMENTAL METHOD]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel electrode (SCE) [EXPERIMENTAL METHOD]
+- electrolyte_solvents: Distilled water [EXPERIMENTAL METHOD]
+- electrolyte_primary_salts: NaBr [DISCUSSION]
+- electrolyte_molar_concentrations: 1.0 M [DISCUSSION]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated (oxygen content reduced to a negligible value) [EXPERIMENTAL METHOD]
+- purge_gas_type: Nitrogen [EXPERIMENTAL METHOD]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Cathodic potential of -800 mV(SCE) applied to ensure a reproducible surface [EXPERIMENTAL METHOD]
+- ocp_resting_duration: 5 min [EXPERIMENTAL METHOD]
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 2.5 [DISCUSSION]
+- passive_current_density: Not specified in text.

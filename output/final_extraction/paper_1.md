@@ -1,0 +1,431 @@
+```markdown
+# Base Material
+- standard_designation: Ni [Table I]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Pure Metals [Table I]
+- elemental_weight_percentages: 100% Ni [Table I]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Carbonyl nickel [Experimental Procedure]
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Pure Nickel [Experimental Procedure]
+- fabrication_steps: Cold rolled to 0.25 cm [Experimental Procedure]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 1000 °C [Experimental Procedure]
+- cooling_methods: Water quenched [Experimental Procedure]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded to a final 3/0 emery paper [Experimental Procedure]
+- chemical_surface_preparation: Pickled in 15% HNO3, 5% HF at 80 °C for 5 min [Experimental Procedure]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Approximately 2 cm long, either 0.4 cm diam or 0.5 cm wide by 0.2 cm thick [Experimental Procedure]
+
+### Experiment
+- experimental_test_type: Potentiostatic polarization [Experimental Procedure]
+- electrochemical_mode: Potentiostatic sweep [Experimental Procedure]
+- solution_chemistry_summary: 0.1N NaCl deaerated with purified nitrogen [Experimental Procedure]
+- operating_parameters_summary: Polarized potentiostatically at the least noble potential within the passive region for at least 15 min, advanced in stages of 50 mv with 5 min holds. Steady-state held for 10-hr or longer [Experimental Procedure]
+- overarching_environmental_conditions: Pyrex cell located in an air thermostat maintained at 25 ± 0.2 °C [Experimental Procedure]
+- pitting_potential: 0.28 v [Table I]
+- electrolyte_temperature: 25 °C [Experimental Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mv [Experimental Procedure]
+- holding_duration: 5 min between each change, 10-hr or longer for steady-state [Experimental Procedure]
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Aqueous [Experimental Procedure]
+- electrolyte_primary_salts: NaCl [Experimental Procedure]
+- electrolyte_molar_concentrations: 0.1N [Experimental Procedure]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [Experimental Procedure]
+- purge_gas_type: Purified nitrogen [Experimental Procedure]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Mo-Ni [Abstract]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Binary Alloys [Abstract]
+- elemental_weight_percentages: 3.2% Mo, Balance Ni [Results]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Molybdenum was 99.9%, carbonyl nickel [Experimental Procedure]
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 3.2% Mo-Ni Alloy [Results]
+- fabrication_steps: Vacuum melting in dense alumina crucibles, drawn into 7 mm diam Vycor tubes, quenched in water, homogenized, cold rolled to 0.25 cm [Experimental Procedure]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Homogenized at 1050-1100 °C for several hours, annealed at 1000 °C [Experimental Procedure]
+- cooling_methods: Water quenched [Experimental Procedure]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded to a final 3/0 emery paper [Experimental Procedure]
+- chemical_surface_preparation: Pickled in 15% HNO3, 5% HF at 80 °C for 5 min [Experimental Procedure]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Approximately 2 cm long, either 0.4 cm diam or 0.5 cm wide by 0.2 cm thick [Experimental Procedure]
+
+### Experiment
+- experimental_test_type: Potentiostatic anodic polarization [Results]
+- electrochemical_mode: Potentiostatic sweep [Experimental Procedure]
+- solution_chemistry_summary: 0.1N NaCl deaerated with purified nitrogen [Experimental Procedure]
+- operating_parameters_summary: Polarized potentiostatically at the least noble potential within the passive region for at least 15 min, advanced in stages of 50 mv with 5 min holds [Experimental Procedure]
+- overarching_environmental_conditions: Pyrex cell located in an air thermostat maintained at 25 ± 0.2 °C [Experimental Procedure]
+- pitting_potential: ~0.2 v [Results]
+- electrolyte_temperature: 25 °C [Experimental Procedure]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mv [Experimental Procedure]
+- holding_duration: 5 min between each change [Experimental Procedure]
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Aqueous [Experimental Procedure]
+- electrolyte_primary_salts: NaCl [Experimental Procedure]
+- electrolyte_molar_concentrations: 0.1N [Experimental Procedure]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [Experimental Procedure]
+- purge_gas_type: Purified nitrogen [Experimental Procedure]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Cr-Fe-Ni [Abstract]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Stainless Steels [Abstract]
+- elemental_weight_percentages: 15% Cr, 13% Ni, Balance Fe [Abstract]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Iron used was electrolytic grade, deoxidized then decarburized in H2 to approximately 0.001-0.002% C. Chromium was special high purity [Experimental Procedure]
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Single-phase structure [Results]
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 15% Cr, 13% Ni Stainless Steel [Abstract]
+- fabrication_steps: Swaged to about 0.45 cm diam rods [Experimental Procedure]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Annealed at 1050 °C [Experimental Procedure]
+- cooling_methods: Water quenched [Experimental Procedure]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Abraded to a final 3/0 emery paper [Experimental Procedure]
+- chemical_surface_preparation: Pickled in 15% HNO3, 5% HF at 80 °C for 5 min [Experimental Procedure]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Approximately 2 cm long, either 0.4 cm diam or 0.5 cm wide by 0.2 cm thick [Experimental Procedure]
+
+### Experiment 1
+- experimental_test_type: Potentiostatic polarization [Experimental Procedure]
+- electrochemical_mode: Potentiostatic sweep [Experimental Procedure]
+- solution_chemistry_summary: 0.1N NaCl deaerated with purified nitrogen [Experimental Procedure]
+- operating_parameters_summary: Advanced in stages of 50 mv, allowing 5 min between each change. Steady-state held for 10-hr or longer [Experimental Procedure]
+- overarching_environmental_conditions: Pyrex cell located in an air thermostat maintained at 25 ± 0.2 °C [Experimental Procedure]
+- pitting_potential: ~0.28 v [Results]
+- electrolyte_temperature: 25 °C [Results]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mv [Experimental Procedure]
+- holding_duration: 5 min between each change, 10-hr or longer for steady-state [Experimental Procedure]
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Aqueous [Experimental Procedure]
+- electrolyte_primary_salts: NaCl [Experimental Procedure]
+- electrolyte_molar_concentrations: 0.1N [Experimental Procedure]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [Experimental Procedure]
+- purge_gas_type: Purified nitrogen [Experimental Procedure]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment 2
+- experimental_test_type: Potentiostatic polarization [Experimental Procedure]
+- electrochemical_mode: Potentiostatic sweep [Experimental Procedure]
+- solution_chemistry_summary: 0.1N NaCl [Results]
+- operating_parameters_summary: Advanced in stages of 50 mv, allowing 5 min between each change [Experimental Procedure]
+- overarching_environmental_conditions: Pyrex cell located in an air thermostat adjusted to 0 °C [Experimental Procedure]
+- pitting_potential: 0.78 v [Results]
+- electrolyte_temperature: 0 °C [Results]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mv [Experimental Procedure]
+- holding_duration: 5 min between each change, 10-hr or longer for steady-state [Experimental Procedure]
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Aqueous [Experimental Procedure]
+- electrolyte_primary_salts: NaCl [Results]
+- electrolyte_molar_concentrations: 0.1N [Results]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [Experimental Procedure]
+- purge_gas_type: Purified nitrogen [Experimental Procedure]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+### Experiment 3
+- experimental_test_type: Potentiostatic polarization [Experimental Procedure]
+- electrochemical_mode: Potentiostatic sweep [Experimental Procedure]
+- solution_chemistry_summary: 0.1N NaBr [Results]
+- operating_parameters_summary: Advanced in stages of 50 mv, allowing 5 min between each change [Experimental Procedure]
+- overarching_environmental_conditions: Pyrex cell located in an air thermostat maintained at 25 ± 0.2 °C [Experimental Procedure]
+- pitting_potential: 0.54 v [Results]
+- electrolyte_temperature: 25 °C [Results]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: 50 mv [Experimental Procedure]
+- holding_duration: 5 min between each change, 10-hr or longer for steady-state [Experimental Procedure]
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Aqueous [Experimental Procedure]
+- electrolyte_primary_salts: NaBr [Results]
+- electrolyte_molar_concentrations: 0.1N [Results]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Deaerated [Experimental Procedure]
+- purge_gas_type: Purified nitrogen [Experimental Procedure]
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Al [Table I]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Pure Metals [Table I]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Al [Table I]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Critical pitting potential measurement [Table I]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 0.1N NaCl [Table I]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: -0.45 v [Table I]
+- electrolyte_temperature: 25 °C [Table I]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Aqueous [Table I]
+- electrolyte_primary_salts: NaCl [Table I]
+- electrolyte_molar_concentrations: 0.1N [Table I]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Zr [Table I]
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Pure Metals [Table I]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Zr [Table I]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Critical pitting potential measurement [Table I]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 0.1N NaCl [Table I]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.46 v [Table I]
+- electrolyte_temperature: 25 °C [Table I]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Aqueous [Table I]
+- electrolyte_primary_salts: NaCl [Table I]
+- electrolyte_molar_concentrations: 0.1N [Table I]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: 18-8 [Table I]
+- trade_name: Not specified in text.
+- commercial_grade: Type 301 [Results]
+- uns_code: Not specified in text.
+- alloy_family: Stainless Steels [Table I]
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: 18-8 Commercial Composition [Table I]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Critical pitting potential measurement [Table I]
+- electrochemical_mode: Not specified in text.
+- solution_chemistry_summary: 0.1N NaCl [Table I]
+- operating_parameters_summary: Not specified in text.
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: 0.26 v [Table I]
+- electrolyte_temperature: 25 °C [Table I]
+- continuous_sweep_rate: Not specified in text.
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Not specified in text.
+- electrolyte_solvents: Aqueous [Table I]
+- electrolyte_primary_salts: NaCl [Table I]
+- electrolyte_molar_concentrations: 0.1N [Table I]
+- electrolyte_soluble_additives: Not specified in text.
+- dissolved_gas_condition: Not specified in text.
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: Not specified in text.
+- passive_current_density: Not specified in text.
+```

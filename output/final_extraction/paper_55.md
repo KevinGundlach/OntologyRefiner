@@ -1,0 +1,255 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Al-TM-RE alloy compositions [INTRODUCTION].
+- elemental_weight_percentages: Not specified in text.
+- elemental_atomic_percentages: 0-10 atomic % cobalt and 3-11 atomic % cerium with aluminum composing the remainder [EXPERIMENTAL].
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Amorphous or largely amorphous + isolated crystalline microstructures [EXPERIMENTAL].
+- average_grain_dimensions: Less than 10 nm in diameter (for nanocrystalline variants) [EXPERIMENTAL].
+- crystallographic_phases: Amorphous matrix, potentially with aluminum nanocrystals depending on thermal history [EXPERIMENTAL].
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Al90Co7Ce3 (amorphous) [Table 2].
+- fabrication_steps: Prepared by using a single-wheel melt-spinning technique under a helium atmosphere. A circumferential wheel speed of 52 m/s was used to produce lengths of ribbon approximately 20 µm thick and 2 mm wide [EXPERIMENTAL].
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: None (As-quenched) [EXPERIMENTAL].
+- cooling_methods: Single-wheel melt-spinning [EXPERIMENTAL].
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted on end in Buehler® low-viscosity epoxy resin, wet-polished on SiC paper to a grit of 1200, followed by a final polish with 1 µm alumina suspension, and rinsed with deionized water [EXPERIMENTAL].
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Polished to 1 µm [EXPERIMENTAL].
+- exposed_surface_area: ~10^-4 cm^2 [Table 2].
+
+### Experiment
+- experimental_test_type: Potentiodynamic scan [EXPERIMENTAL].
+- electrochemical_mode: Anodic polarization starting at –0.1 Vocp, then polarizing at a rate of 0.1 mV/sec until reversing scan direction when current density reached a threshold of 1,000 µA/cm^2 [EXPERIMENTAL].
+- solution_chemistry_summary: Deaerated 0.6 M NaCl solution (pH 6) [Table 2].
+- operating_parameters_summary: 1 hour open-circuit exposure to 25°C nitrogen-purged solution, immediately followed by a potentiodynamic scan at 0.1 mV/sec [EXPERIMENTAL].
+- overarching_environmental_conditions: Nitrogen-purged, 25°C [EXPERIMENTAL].
+- pitting_potential: -0.214 ± 0.020 VSCE [Table 2].
+- electrolyte_temperature: 25°C [EXPERIMENTAL].
+- continuous_sweep_rate: 0.1 mV/sec [EXPERIMENTAL].
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [EXPERIMENTAL].
+- electrolyte_solvents: Deionized water [EXPERIMENTAL].
+- electrolyte_primary_salts: NaCl [EXPERIMENTAL].
+- electrolyte_molar_concentrations: 0.6 M [EXPERIMENTAL].
+- electrolyte_soluble_additives: ACS certified reagents [EXPERIMENTAL].
+- dissolved_gas_condition: Deaerated / nitrogen-purged [Table 2, EXPERIMENTAL].
+- purge_gas_type: Nitrogen [EXPERIMENTAL].
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open-circuit exposure to nitrogen-purged solution [EXPERIMENTAL].
+- ocp_resting_duration: 1 hour [EXPERIMENTAL].
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL].
+- counter_electrode_geometry: Mesh [EXPERIMENTAL].
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 6 [Table 2].
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Al87Co8.7Ce4.3 (amorphous) [Table 2].
+- fabrication_steps: Prepared by using a single-wheel melt-spinning technique under a helium atmosphere. A circumferential wheel speed of 52 m/s was used to produce lengths of ribbon approximately 20 µm thick and 2 mm wide [EXPERIMENTAL].
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: None (As-quenched) [EXPERIMENTAL].
+- cooling_methods: Single-wheel melt-spinning [EXPERIMENTAL].
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted on end in Buehler® low-viscosity epoxy resin, wet-polished on SiC paper to a grit of 1200, followed by a final polish with 1 µm alumina suspension, and rinsed with deionized water [EXPERIMENTAL].
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Polished to 1 µm [EXPERIMENTAL].
+- exposed_surface_area: ~10^-4 cm^2 [Table 2].
+
+### Experiment
+- experimental_test_type: Potentiodynamic scan [EXPERIMENTAL].
+- electrochemical_mode: Anodic polarization starting at –0.1 Vocp, then polarizing at a rate of 0.1 mV/sec until reversing scan direction when current density reached a threshold of 1,000 µA/cm^2 [EXPERIMENTAL].
+- solution_chemistry_summary: Deaerated 0.6 M NaCl solution (pH 6) [Table 2].
+- operating_parameters_summary: 1 hour open-circuit exposure to 25°C nitrogen-purged solution, immediately followed by a potentiodynamic scan at 0.1 mV/sec [EXPERIMENTAL].
+- overarching_environmental_conditions: Nitrogen-purged, 25°C [EXPERIMENTAL].
+- pitting_potential: -0.218 ± 0.028 VSCE [Table 2].
+- electrolyte_temperature: 25°C [EXPERIMENTAL].
+- continuous_sweep_rate: 0.1 mV/sec [EXPERIMENTAL].
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [EXPERIMENTAL].
+- electrolyte_solvents: Deionized water [EXPERIMENTAL].
+- electrolyte_primary_salts: NaCl [EXPERIMENTAL].
+- electrolyte_molar_concentrations: 0.6 M [EXPERIMENTAL].
+- electrolyte_soluble_additives: ACS certified reagents [EXPERIMENTAL].
+- dissolved_gas_condition: Deaerated / nitrogen-purged [Table 2, EXPERIMENTAL].
+- purge_gas_type: Nitrogen [EXPERIMENTAL].
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open-circuit exposure to nitrogen-purged solution [EXPERIMENTAL].
+- ocp_resting_duration: 1 hour [EXPERIMENTAL].
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL].
+- counter_electrode_geometry: Mesh [EXPERIMENTAL].
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 6 [Table 2].
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Al87Co7Ce6 (amorphous) [Table 2].
+- fabrication_steps: Prepared by using a single-wheel melt-spinning technique under a helium atmosphere. A circumferential wheel speed of 52 m/s was used to produce lengths of ribbon approximately 20 µm thick and 2 mm wide [EXPERIMENTAL].
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: None (As-quenched) [EXPERIMENTAL].
+- cooling_methods: Single-wheel melt-spinning [EXPERIMENTAL].
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted on end in Buehler® low-viscosity epoxy resin, wet-polished on SiC paper to a grit of 1200, followed by a final polish with 1 µm alumina suspension, and rinsed with deionized water [EXPERIMENTAL].
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Polished to 1 µm [EXPERIMENTAL].
+- exposed_surface_area: ~10^-4 cm^2 [Table 2].
+
+### Experiment
+- experimental_test_type: Potentiodynamic scan [EXPERIMENTAL].
+- electrochemical_mode: Anodic polarization starting at –0.1 Vocp, then polarizing at a rate of 0.1 mV/sec until reversing scan direction when current density reached a threshold of 1,000 µA/cm^2 [EXPERIMENTAL].
+- solution_chemistry_summary: Deaerated 0.6 M NaCl solution (pH 6) [Table 2].
+- operating_parameters_summary: 1 hour open-circuit exposure to 25°C nitrogen-purged solution, immediately followed by a potentiodynamic scan at 0.1 mV/sec [EXPERIMENTAL].
+- overarching_environmental_conditions: Nitrogen-purged, 25°C [EXPERIMENTAL].
+- pitting_potential: -0.252 ± 0.026 VSCE [Table 2].
+- electrolyte_temperature: 25°C [EXPERIMENTAL].
+- continuous_sweep_rate: 0.1 mV/sec [EXPERIMENTAL].
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [EXPERIMENTAL].
+- electrolyte_solvents: Deionized water [EXPERIMENTAL].
+- electrolyte_primary_salts: NaCl [EXPERIMENTAL].
+- electrolyte_molar_concentrations: 0.6 M [EXPERIMENTAL].
+- electrolyte_soluble_additives: ACS certified reagents [EXPERIMENTAL].
+- dissolved_gas_condition: Deaerated / nitrogen-purged [Table 2, EXPERIMENTAL].
+- purge_gas_type: Nitrogen [EXPERIMENTAL].
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open-circuit exposure to nitrogen-purged solution [EXPERIMENTAL].
+- ocp_resting_duration: 1 hour [EXPERIMENTAL].
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL].
+- counter_electrode_geometry: Mesh [EXPERIMENTAL].
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 6 [Table 2].
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Al87Co7Ce6 (fully crystalline) [Table 2].
+- fabrication_steps: Prepared by using a single-wheel melt-spinning technique under a helium atmosphere. A circumferential wheel speed of 52 m/s was used to produce lengths of ribbon approximately 20 µm thick and 2 mm wide [EXPERIMENTAL].
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: High-temperature 24-hour exposure at 550°C to induce complete recrystallization [EXPERIMENTAL].
+- cooling_methods: Single-wheel melt-spinning (for initial fabrication prior to heat treatment) [EXPERIMENTAL].
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted on end in Buehler® low-viscosity epoxy resin, wet-polished on SiC paper to a grit of 1200, followed by a final polish with 1 µm alumina suspension, and rinsed with deionized water [EXPERIMENTAL].
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Polished to 1 µm [EXPERIMENTAL].
+- exposed_surface_area: ~10^-4 cm^2 [Table 2].
+
+### Experiment
+- experimental_test_type: Potentiodynamic scan [EXPERIMENTAL].
+- electrochemical_mode: Anodic polarization starting at –0.1 Vocp, then polarizing at a rate of 0.1 mV/sec until reversing scan direction when current density reached a threshold of 1,000 µA/cm^2 [EXPERIMENTAL].
+- solution_chemistry_summary: Deaerated 0.6 M NaCl solution (pH 6) [Table 2].
+- operating_parameters_summary: 1 hour open-circuit exposure to 25°C nitrogen-purged solution, immediately followed by a potentiodynamic scan at 0.1 mV/sec [EXPERIMENTAL].
+- overarching_environmental_conditions: Nitrogen-purged, 25°C [EXPERIMENTAL].
+- pitting_potential: -0.674 ± 0.055 VSCE [Table 2].
+- electrolyte_temperature: 25°C [EXPERIMENTAL].
+- continuous_sweep_rate: 0.1 mV/sec [EXPERIMENTAL].
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [EXPERIMENTAL].
+- electrolyte_solvents: Deionized water [EXPERIMENTAL].
+- electrolyte_primary_salts: NaCl [EXPERIMENTAL].
+- electrolyte_molar_concentrations: 0.6 M [EXPERIMENTAL].
+- electrolyte_soluble_additives: ACS certified reagents [EXPERIMENTAL].
+- dissolved_gas_condition: Deaerated / nitrogen-purged [Table 2, EXPERIMENTAL].
+- purge_gas_type: Nitrogen [EXPERIMENTAL].
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open-circuit exposure to nitrogen-purged solution [EXPERIMENTAL].
+- ocp_resting_duration: 1 hour [EXPERIMENTAL].
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL].
+- counter_electrode_geometry: Mesh [EXPERIMENTAL].
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 6 [Table 2].
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: High purity aluminum [EXPERIMENTAL].
+- uns_code: Not specified in text.
+- alloy_family: Aluminum [EXPERIMENTAL].
+- elemental_weight_percentages: 99.999% Al [Table 2].
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Polycrystalline [Table 2].
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: Pure Aluminum (polycrystalline) [Table 2].
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Mounted on end in Buehler® low-viscosity epoxy resin, wet-polished on SiC paper to a grit of 1200, followed by a final polish with 1 µm alumina suspension, and rinsed with deionized water [EXPERIMENTAL].
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Polished to 1 µm [EXPERIMENTAL].
+- exposed_surface_area: ~10^-4 cm^2 [Table 2].
+
+### Experiment
+- experimental_test_type: Potentiodynamic scan [EXPERIMENTAL].
+- electrochemical_mode: Anodic polarization starting at –0.1 Vocp, then polarizing at a rate of 0.1 mV/sec until reversing scan direction when current density reached a threshold of 1,000 µA/cm^2 [EXPERIMENTAL].
+- solution_chemistry_summary: Deaerated 0.6 M NaCl solution (pH 6) [Table 2].
+- operating_parameters_summary: 1 hour open-circuit exposure to 25°C nitrogen-purged solution, immediately followed by a potentiodynamic scan at 0.1 mV/sec [EXPERIMENTAL].
+- overarching_environmental_conditions: Nitrogen-purged, 25°C [EXPERIMENTAL].
+- pitting_potential: -0.701 ± 0.016 VSCE [Table 2].
+- electrolyte_temperature: 25°C [EXPERIMENTAL].
+- continuous_sweep_rate: 0.1 mV/sec [EXPERIMENTAL].
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated calomel reference electrode (SCE) [EXPERIMENTAL].
+- electrolyte_solvents: Deionized water [EXPERIMENTAL].
+- electrolyte_primary_salts: NaCl [EXPERIMENTAL].
+- electrolyte_molar_concentrations: 0.6 M [EXPERIMENTAL].
+- electrolyte_soluble_additives: ACS certified reagents [EXPERIMENTAL].
+- dissolved_gas_condition: Deaerated / nitrogen-purged [Table 2, EXPERIMENTAL].
+- purge_gas_type: Nitrogen [EXPERIMENTAL].
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Open-circuit exposure to nitrogen-purged solution [EXPERIMENTAL].
+- ocp_resting_duration: 1 hour [EXPERIMENTAL].
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Platinum [EXPERIMENTAL].
+- counter_electrode_geometry: Mesh [EXPERIMENTAL].
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 6 [Table 2].
+- passive_current_density: Not specified in text.

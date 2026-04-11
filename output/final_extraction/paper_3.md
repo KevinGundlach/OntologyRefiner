@@ -1,0 +1,2269 @@
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steel [Abstract]
+- elemental_weight_percentages: 72.73% Fe, 21.48% Cr, 3.00% Mo, 1.36% Si, 1.43% Ni, <50 ppm C, <300 ppm O, <100 ppm S, <100 ppm N, <50 ppm P [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: <50 ppm C, <300 ppm O, <100 ppm S, <100 ppm N, <50 ppm P [Table 1]
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: W502 [Table 4]
+- fabrication_steps: 50 lb ingots cast directly into a heated graphite split mold (2 x 6 x 16.5 inches), hot rolled to 0.100 inch sheet at 816-982 C (1500-1800 F) and water quenched, electropolished, sheared, and cold rolled to 0.0625 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: As rolled [Table 4]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled 5 minutes in 10% HNO3 + 0.5% HF at 85 C [Table 4]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 662 mV vs SCE; E_c^scr: 310 mV vs SCE [Table 4]
+- electrolyte_temperature: 90 C [Table 4]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 4]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 4]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: W582 [Table 4]
+- fabrication_steps: 50 lb ingots cast directly into a heated graphite split mold (2 x 6 x 16.5 inches), hot rolled to 0.100 inch sheet at 816-982 C (1500-1800 F) and water quenched, electropolished, sheared, and cold rolled to 0.0625 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 800 F x 1 hr [Table 4]
+- cooling_methods: Chamber cool [Table 4]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled 5 minutes in 10% HNO3 + 0.5% HF at 85 C [Table 4]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 160-642 mV vs SCE; E_c^scr: 300 mV vs SCE [Table 4]
+- electrolyte_temperature: 90 C [Table 4]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 4]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 4]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: W549 [Table 4]
+- fabrication_steps: 50 lb ingots cast directly into a heated graphite split mold (2 x 6 x 16.5 inches), hot rolled to 0.100 inch sheet at 816-982 C (1500-1800 F) and water quenched, electropolished, sheared, and cold rolled to 0.0625 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 2000 F x 1 hr [Table 4]
+- cooling_methods: Water quench [Table 4]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled 5 minutes in 10% HNO3 + 0.5% HF at 85 C [Table 4]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 420 mV vs SCE; E_c^scr: 350 mV vs SCE [Table 4]
+- electrolyte_temperature: 90 C [Table 4]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 4]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 4]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steel [Abstract]
+- elemental_weight_percentages: 73.66% Fe, 21.51% Cr, 2.03% Mo, 1.36% Si, 1.44% Ni, <50 ppm C, <300 ppm O, <100 ppm S, <100 ppm N, <50 ppm P [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: <50 ppm C, <300 ppm O, <100 ppm S, <100 ppm N, <50 ppm P [Table 1]
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: W602 [Table 4]
+- fabrication_steps: 50 lb ingots cast directly into a heated graphite split mold (2 x 6 x 16.5 inches), hot rolled to 0.100 inch sheet at 816-982 C (1500-1800 F) and water quenched, electropolished, sheared, and cold rolled to 0.0625 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: As rolled [Table 4]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled 5 minutes in 10% HNO3 + 0.5% HF at 85 C [Table 4]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 90-388 mV vs SCE; E_c^scr: 215 mV vs SCE [Table 4]
+- electrolyte_temperature: 90 C [Table 4]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 4]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 4]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: W682 [Table 4]
+- fabrication_steps: 50 lb ingots cast directly into a heated graphite split mold (2 x 6 x 16.5 inches), hot rolled to 0.100 inch sheet at 816-982 C (1500-1800 F) and water quenched, electropolished, sheared, and cold rolled to 0.0625 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 800 F x 1 hr [Table 4]
+- cooling_methods: Chamber cool [Table 4]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled 5 minutes in 10% HNO3 + 0.5% HF at 85 C [Table 4]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 472 mV vs SCE; E_c^scr: 205 mV vs SCE [Table 4]
+- electrolyte_temperature: 90 C [Table 4]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 4]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 4]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: W649 [Table 4]
+- fabrication_steps: 50 lb ingots cast directly into a heated graphite split mold (2 x 6 x 16.5 inches), hot rolled to 0.100 inch sheet at 816-982 C (1500-1800 F) and water quenched, electropolished, sheared, and cold rolled to 0.0625 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 2000 F x 1 hr [Table 4]
+- cooling_methods: Water quench [Table 4]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled 5 minutes in 10% HNO3 + 0.5% HF at 85 C [Table 4]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 288 mV vs SCE; E_c^scr: 220 mV vs SCE [Table 4]
+- electrolyte_temperature: 90 C [Table 4]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 4]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 4]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steel [Abstract]
+- elemental_weight_percentages: 71.70% Fe, 21.50% Cr, 4.00% Mo, 1.36% Si, 1.44% Ni, <50 ppm C, <300 ppm O, <100 ppm S, <100 ppm N, <50 ppm P [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: <50 ppm C, <300 ppm O, <100 ppm S, <100 ppm N, <50 ppm P [Table 1]
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: W702 [Table 4]
+- fabrication_steps: 50 lb ingots cast directly into a heated graphite split mold (2 x 6 x 16.5 inches), hot rolled to 0.100 inch sheet at 816-982 C (1500-1800 F) and water quenched, electropolished, sheared, and cold rolled to 0.0625 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: As rolled [Table 4]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled 5 minutes in 10% HNO3 + 0.5% HF at 85 C [Table 4]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 830 mV vs SCE; E_c^scr: 425 mV vs SCE [Table 4]
+- electrolyte_temperature: 90 C [Table 4]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 4]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 4]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: W782 [Table 4]
+- fabrication_steps: 50 lb ingots cast directly into a heated graphite split mold (2 x 6 x 16.5 inches), hot rolled to 0.100 inch sheet at 816-982 C (1500-1800 F) and water quenched, electropolished, sheared, and cold rolled to 0.0625 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 800 F x 1 hr [Table 4]
+- cooling_methods: Chamber cool [Table 4]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled 5 minutes in 10% HNO3 + 0.5% HF at 85 C [Table 4]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 285-460 mV vs SCE; E_c^scr: 345 mV vs SCE [Table 4]
+- electrolyte_temperature: 90 C [Table 4]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 4]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 4]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: W749 [Table 4]
+- fabrication_steps: 50 lb ingots cast directly into a heated graphite split mold (2 x 6 x 16.5 inches), hot rolled to 0.100 inch sheet at 816-982 C (1500-1800 F) and water quenched, electropolished, sheared, and cold rolled to 0.0625 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 2000 F x 1 hr [Table 4]
+- cooling_methods: Water quench [Table 4]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled 5 minutes in 10% HNO3 + 0.5% HF at 85 C [Table 4]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 410 mV vs SCE; E_c^scr: 405 mV vs SCE [Table 4]
+- electrolyte_temperature: 90 C [Table 4]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 4]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 4]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steel [Abstract]
+- elemental_weight_percentages: 69.20% Fe, 23.00% Cr, 5.00% Mo, 1.36% Si, 1.44% Ni, <50 ppm C, <300 ppm O, <100 ppm S, <100 ppm N, <50 ppm P [Table 1]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: <50 ppm C, <300 ppm O, <100 ppm S, <100 ppm N, <50 ppm P [Table 1]
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: W802 [Table 4]
+- fabrication_steps: 50 lb ingots cast directly into a heated graphite split mold (2 x 6 x 16.5 inches), hot rolled to 0.100 inch sheet at 816-982 C (1500-1800 F) and water quenched, electropolished, sheared, and cold rolled to 0.0625 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: As rolled [Table 4]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled 5 minutes in 10% HNO3 + 0.5% HF at 85 C [Table 4]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 706 mV vs SCE; E_c^scr: 565 mV vs SCE [Table 4]
+- electrolyte_temperature: 90 C [Table 4]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 4]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 4]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: W882 [Table 4]
+- fabrication_steps: 50 lb ingots cast directly into a heated graphite split mold (2 x 6 x 16.5 inches), hot rolled to 0.100 inch sheet at 816-982 C (1500-1800 F) and water quenched, electropolished, sheared, and cold rolled to 0.0625 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 800 F x 1 hr [Table 4]
+- cooling_methods: Chamber cool [Table 4]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled 5 minutes in 10% HNO3 + 0.5% HF at 85 C [Table 4]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 550 mV vs SCE; E_c^scr: 530 mV vs SCE [Table 4]
+- electrolyte_temperature: 90 C [Table 4]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 4]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 4]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: W849 [Table 4]
+- fabrication_steps: 50 lb ingots cast directly into a heated graphite split mold (2 x 6 x 16.5 inches), hot rolled to 0.100 inch sheet at 816-982 C (1500-1800 F) and water quenched, electropolished, sheared, and cold rolled to 0.0625 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 2000 F x 1 hr [Table 4]
+- cooling_methods: Water quench [Table 4]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled 5 minutes in 10% HNO3 + 0.5% HF at 85 C [Table 4]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 580 mV vs SCE; E_c^scr: 595 mV vs SCE [Table 4]
+- electrolyte_temperature: 90 C [Table 4]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 4]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 4]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: E-Brite 26-1
+- trade_name: E-Brite 26-1
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Commercial ferritic stainless steel
+- elemental_weight_percentages: 26% Cr, 1% Mo, balance Fe [Table 3]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: WE02 [Table 4]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: As rolled [Table 4]
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled 5 minutes in 10% HNO3 + 0.5% HF at 85 C [Table 4]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 242 mV vs SCE; E_c^scr: 155 mV vs SCE [Table 4]
+- electrolyte_temperature: 90 C [Table 4]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 4]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 4]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: WE62 [Table 4]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 1450 F x 1 hr [Table 4]
+- cooling_methods: Chamber cool [Table 4]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Pickled 5 minutes in 10% HNO3 + 0.5% HF at 85 C [Table 4]
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 288 mV vs SCE; E_c^scr: 140 mV vs SCE [Table 4]
+- electrolyte_temperature: 90 C [Table 4]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 4]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 4]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: E-Brite (Run No. 1131) [Table 5]
+- fabrication_steps: Not specified in text.
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Not specified in text.
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 136 mV vs SCE; E_c^scr: 128 mV vs SCE; E_c^(1-t): <135 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steel [Abstract]
+- elemental_weight_percentages: 73.26% Fe, 24.32% Cr, 1.02% Mo, 0.68% Si, 0.72% Ni [Table 3]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F460B [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 1 hour at 1049 C (1920 F) [Pitting Resistance - Experimental Results]
+- cooling_methods: Water quench [Pitting Resistance - Experimental Results]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 174 mV vs SCE; E_c^scr: 145 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steel [Abstract]
+- elemental_weight_percentages: 73.63% Fe, 22.53% Cr, 1.02% Mo, 1.37% Si, 1.45% Ni [Table 3]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F461B [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 1 hour at 1049 C (1920 F) [Pitting Resistance - Experimental Results]
+- cooling_methods: Water quench [Pitting Resistance - Experimental Results]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 136 mV vs SCE; E_c^scr: 108 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F461A [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 152 mV vs SCE; E_c^scr: 142 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steel [Abstract]
+- elemental_weight_percentages: 74.00% Fe, 20.73% Cr, 1.03% Mo, 2.07% Si, 2.17% Ni [Table 3]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F462B [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 1 hour at 1049 C (1920 F) [Pitting Resistance - Experimental Results]
+- cooling_methods: Water quench [Pitting Resistance - Experimental Results]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 184 mV vs SCE; E_c^scr: 178 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F462A [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 190 mV vs SCE; E_c^scr: 165 mV vs SCE; E_c^(1-t): <170 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steel [Abstract]
+- elemental_weight_percentages: 73.49% Fe, 22.56% Cr, 0.71% Mo, 1.37% Si, 1.44% Ni, 0.34% Nb, 0.09% Mn [Table 3]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F463B [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 1 hour at 1049 C (1920 F) [Pitting Resistance - Experimental Results]
+- cooling_methods: Water quench [Pitting Resistance - Experimental Results]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 194 mV vs SCE; E_c^scr: 186 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F463A [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 286 mV vs SCE; E_c^scr: 174 mV vs SCE; E_c^(1-t): <190 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steel [Abstract]
+- elemental_weight_percentages: 73.37% Fe, 22.52% Cr, 0.70% Mo, 1.85% Ni, 1.13% Al, 0.34% Nb, 0.09% Mn [Table 3]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F464B (Run No. 1134) [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 1 hour at 1049 C (1920 F) [Pitting Resistance - Experimental Results]
+- cooling_methods: Water quench [Pitting Resistance - Experimental Results]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 142 mV vs SCE; E_c^scr: 98 mV vs SCE; E_c^(1-t): <105 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F464B (Run No. 1123) [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 1 hour at 1049 C (1920 F) [Pitting Resistance - Experimental Results]
+- cooling_methods: Water quench [Pitting Resistance - Experimental Results]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 125 mV vs SCE; E_c^scr: 98 mV vs SCE; E_c^(1-t): <100 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F464A [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 140 mV vs SCE; E_c^scr: 95 mV vs SCE; E_c^(1-t): <130 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steel [Abstract]
+- elemental_weight_percentages: 73.30% Fe, 23.29% Cr, 2.02% Mo, 0.68% Si, 0.71% Ni [Table 3]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F465B [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 1 hour at 1049 C (1920 F) [Pitting Resistance - Experimental Results]
+- cooling_methods: Water quench [Pitting Resistance - Experimental Results]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 192 mV vs SCE; E_c^scr: 170 mV vs SCE; E_c^(1-t): <175 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steel [Abstract]
+- elemental_weight_percentages: 73.66% Fe, 21.51% Cr, 2.03% Mo, 1.36% Si, 1.44% Ni [Table 3]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F466B [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 1 hour at 1049 C (1920 F) [Pitting Resistance - Experimental Results]
+- cooling_methods: Water quench [Pitting Resistance - Experimental Results]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 262 mV vs SCE; E_c^scr: 232 mV vs SCE; E_c^(1-t): <240 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F466A [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 238 mV vs SCE; E_c^scr: 230 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steel [Abstract]
+- elemental_weight_percentages: 74.03% Fe, 19.71% Cr, 2.04% Mo, 2.06% Si, 2.16% Ni [Table 3]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F467B [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 1 hour at 1049 C (1920 F) [Pitting Resistance - Experimental Results]
+- cooling_methods: Water quench [Pitting Resistance - Experimental Results]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 226 mV vs SCE; E_c^scr: 215 mV vs SCE; E_c^(1-t): <220 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F467A [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 218 mV vs SCE; E_c^scr: 185 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steel [Abstract]
+- elemental_weight_percentages: 73.48% Fe, 21.53% Cr, 1.75% Mo, 1.37% Si, 1.44% Ni, 0.34% Nb, 0.09% Mn [Table 3]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F468B [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 1 hour at 1049 C (1920 F) [Pitting Resistance - Experimental Results]
+- cooling_methods: Water quench [Pitting Resistance - Experimental Results]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 194 mV vs SCE; E_c^scr: 192 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steel [Abstract]
+- elemental_weight_percentages: 73.37% Fe, 21.49% Cr, 1.75% Mo, 1.84% Ni, 1.12% Al, 0.34% Nb, 0.09% Mn [Table 3]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F469B [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 1 hour at 1049 C (1920 F) [Pitting Resistance - Experimental Results]
+- cooling_methods: Water quench [Pitting Resistance - Experimental Results]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 284 mV vs SCE; E_c^scr: 165 mV vs SCE; E_c^(1-t): <280 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F469A [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 276 mV vs SCE; E_c^scr: 270 mV vs SCE; E_c^(1-t): <275 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steel [Abstract]
+- elemental_weight_percentages: 72.73% Fe, 21.48% Cr, 3.00% Mo, 1.36% Si, 1.43% Ni [Table 3]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F470B [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 1 hour at 1049 C (1920 F) [Pitting Resistance - Experimental Results]
+- cooling_methods: Water quench [Pitting Resistance - Experimental Results]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 306 mV vs SCE; E_c^scr: 272 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F470A [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 256 mV vs SCE; E_c^scr: 248 mV vs SCE; E_c^(1-t): <250 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steel [Abstract]
+- elemental_weight_percentages: 73.10% Fe, 19.69% Cr, 3.02% Mo, 2.05% Si, 2.14% Ni [Table 3]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F471B [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 1 hour at 1049 C (1920 F) [Pitting Resistance - Experimental Results]
+- cooling_methods: Water quench [Pitting Resistance - Experimental Results]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 230 mV vs SCE; E_c^scr: 222 mV vs SCE; E_c^(1-t): <225 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steel [Abstract]
+- elemental_weight_percentages: 72.65% Fe, 21.51% Cr, 2.62% Mo, 1.36% Si, 1.43% Ni, 0.34% Nb, 0.09% Mn [Table 3]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F472B [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 1 hour at 1049 C (1920 F) [Pitting Resistance - Experimental Results]
+- cooling_methods: Water quench [Pitting Resistance - Experimental Results]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 225 mV vs SCE; E_c^scr: 174 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steel [Abstract]
+- elemental_weight_percentages: 73.02% Fe, 19.70% Cr, 2.64% Mo, 2.06% Si, 2.15% Ni, 0.34% Nb, 0.09% Mn [Table 3]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F473B [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 1 hour at 1049 C (1920 F) [Pitting Resistance - Experimental Results]
+- cooling_methods: Water quench [Pitting Resistance - Experimental Results]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 240 mV vs SCE; E_c^scr: 235 mV vs SCE; E_c^(1-t): <238 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F473A [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 182 mV vs SCE; E_c^scr: 165 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steel [Abstract]
+- elemental_weight_percentages: 71.93% Fe, 19.74% Cr, 3.50% Mo, 2.05% Si, 2.14% Ni, 0.51% Nb, 0.13% Mn [Table 3]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F474B [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 1 hour at 1049 C (1920 F) [Pitting Resistance - Experimental Results]
+- cooling_methods: Water quench [Pitting Resistance - Experimental Results]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 342 mV vs SCE; E_c^scr: 268 mV vs SCE; E_c^(1-t): <330 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F474A [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 220 mV vs SCE; E_c^scr: 205 mV vs SCE; E_c^(1-t): <205 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+# Base Material
+- standard_designation: Not specified in text.
+- trade_name: Not specified in text.
+- commercial_grade: Not specified in text.
+- uns_code: Not specified in text.
+- alloy_family: Ferritic stainless steel [Abstract]
+- elemental_weight_percentages: 70.97% Fe, 19.73% Cr, 4.70% Mo, 2.04% Si, 2.13% Ni, 0.34% Nb, 0.09% Mn [Table 3]
+- elemental_atomic_percentages: Not specified in text.
+- spatial_chemical_homogeneity: Not specified in text.
+- trace_impurities: Not specified in text.
+- derived_theoretical_metrics: Not specified in text.
+- overall_microstructure: Not specified in text.
+- average_grain_dimensions: Not specified in text.
+- crystallographic_phases: Not specified in text.
+- inclusion_composition: Not specified in text.
+- inclusion_size: Not specified in text.
+- inclusion_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F475B [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: 1 hour at 1049 C (1920 F) [Pitting Resistance - Experimental Results]
+- cooling_methods: Water quench [Pitting Resistance - Experimental Results]
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 310 mV vs SCE; E_c^scr: 298 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
+
+## Conditioned Material
+- material_identification: F475A [Table 5]
+- fabrication_steps: 50 gm heats prepared by levitation melting to produce ingots in form of flat slabs (1/4 x 1 x 1.5 inches), surfaces ground, annealed 16 hours at 1200 C in argon atmosphere, hot rolled at 1090 C to 1/16 inch thickness [Melting Procedures and Sample Preparation]
+- welding_operations: Not specified in text.
+- welding_techniques: Not specified in text.
+- filler_wire_composition: Not specified in text.
+- heat_treatments: Not specified in text.
+- cooling_methods: Not specified in text.
+- simulated_transient_thermal_cycles: Not specified in text.
+- purposeful_sensitization_indicators: Not specified in text.
+- mechanical_surface_preparation: Sand blasted to remove oxide scale, then discs were spark cut [Melting Procedures and Sample Preparation]
+- chemical_surface_preparation: Not specified in text.
+- final_surface_roughness: Not specified in text.
+- exposed_surface_area: Not specified in text.
+
+### Experiment
+- experimental_test_type: Potentiodynamic anodic polarization and scratch method [Pitting Resistance - Experimental Procedures]
+- electrochemical_mode: Potentiodynamic and scratch potential measurements [Pitting Resistance - Experimental Procedures]
+- solution_chemistry_summary: Synthetic seawater treated with sulfuric acid to neutralize bicarbonate alkalinity, boiled to remove free carbon dioxide and dissolved oxygen, and adjusted to pH 7.2 ± 0.2 [Pitting Resistance - Experimental Procedures]
+- operating_parameters_summary: Conducted in deaerated synthetic seawater at 90 C, with potentiodynamic polarization at 10 mV/min to find E_c^scan, or via scratch potential method to find E_c^scr [Pitting Resistance - Experimental Procedures]
+- overarching_environmental_conditions: Not specified in text.
+- pitting_potential: E_c^scan: 238 mV vs SCE; E_c^scr: 152 mV vs SCE; E_c^(1-t): <160 mV vs SCE [Table 5]
+- electrolyte_temperature: 90 C [Table 5]
+- continuous_sweep_rate: 10 mV/min [Pitting Resistance - Experimental Procedures]
+- discrete_step_size: Not specified in text.
+- holding_duration: Not specified in text.
+- reference_electrode: Saturated Calomel Electrode (SCE) [Alloy Selection]
+- electrolyte_solvents: Water [Pitting Resistance - Experimental Procedures]
+- electrolyte_primary_salts: Synthetic seawater salts [Alloy Selection]
+- electrolyte_molar_concentrations: Not specified in text.
+- electrolyte_soluble_additives: Sulfuric acid [Pitting Resistance - Experimental Procedures]
+- dissolved_gas_condition: Deaerated [Table 5]
+- purge_gas_type: Not specified in text.
+- corrosion_potential: Not specified in text.
+- ocp_stabilization_methodology: Not specified in text.
+- ocp_resting_duration: Not specified in text.
+- ocp_stability_threshold: Not specified in text.
+- counter_electrode_composition: Not specified in text.
+- counter_electrode_geometry: Not specified in text.
+- counter_electrode_exposed_area: Not specified in text.
+- counter_electrode_isolation_method: Not specified in text.
+- electrolyte_ph: 7.2 ± 0.2 [Table 5]
+- passive_current_density: Not specified in text.
